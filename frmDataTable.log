@@ -1,0 +1,9 @@
+Line 18: Class MSComDlg.CommonDialog of control CDG1 was not a loaded control class.
+Line 25: Class MSFlexGridLib.MSFlexGrid of control MSFlexGrid1 was not a loaded control class.
+Line 21: The property name _ExtentX in CDG1 is invalid.
+Line 22: The property name _ExtentY in CDG1 is invalid.
+Line 23: The property name _Version in CDG1 is invalid.
+Line 31: The property name _ExtentX in MSFlexGrid1 is invalid.
+Line 32: The property name _ExtentY in MSFlexGrid1 is invalid.
+Line 33: The property name _Version in MSFlexGrid1 is invalid.
+Line 34: The property name AllowUserResizing in MSFlexGrid1 is invalid.

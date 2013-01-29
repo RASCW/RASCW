@@ -1,0 +1,1520 @@
+                14cen.llc.out                                       2006/11/28
+
+
+
+
+
+CORRELATION OF WELL SEQUENCE DATA TO RANKED OPTIMUM SEQUENCE
+____________________________________________________________
+
+
+
+
+  Saga (N) 6407/2-3                       
+
+        I                                                                                          54                            
+        I     316                                         182     198                              50                     310    
+        I     228   4                                  41  97     324          92  68     175     279                 105 134    
+        I   1  31 171 270  23 269  15  91 362 219   3   7  25  24 289  12  29  72 321  32 229  99 260 108  22  28  76  57 129 114
+ -------I------------------------------------------------------------------------------------------------------------------------
+     77 I                                                                                                                         
+    228 I      OO                                                                                                                 
+      1 I  OO                                                                                                                     
+     31 I      OO                                                                                                                 
+    316 I      OO                                                                                                                 
+    171 I          OO                                                                                                             
+    270 I              OO                                                                                                         
+      4 I          XX                                                                                                             
+     23 I                  OO                                                                                                     
+    269 I                      OO                                                                                                 
+     91 I                              XX                                                                                         
+     15 I                          OO                                                                                             
+    363 I                                                                                                                         
+    362 I                                  OO                                                                                     
+    219 I                                      OO                                                                                 
+    236 I                                                                                                                         
+     17 I                                                                                                                         
+     24 I                                                     AAAA                                                                
+      3 I                                          OO                                                                             
+      7 I                                              OO                                                                         
+     41 I                                              OO                                                                         
+     25 I                                                  OO                                                                     
+     97 I                                                  OO                                                                     
+    182 I                                                  OO                                                                     
+    289 I                                                          OO                                                             
+    198 I                                                          OO                                                             
+    324 I                                                          OO                                                             
+    261 I                                                                                                                         
+    321 I                                                                          XX                                             
+     29 I                                                                  OO                                                     
+     32 I                                                                              XX                                         
+     12 I                                                              XX                                                         
+    229 I                                                                                  XX                                     
+    263 I                                                                                                                         
+     72 I                                                                      XX                                                 
+     68 I                                                                          XX                                             
+     92 I                                                                     AAAA                                                
+    260 I                                                                                          XX                             
+    175 I                                                                                  OO                                     
+     99 I                                                                                      OO                                 
+     54 I                                                                                          OO                             
+    279 I                                                                                          OO                             
+     50 I                                                                                          OO                             
+    108 I                                                                                              OO                         
+     22 I                                                                                                  OO                     
+     28 I                                                                                                      OO                 
+    105 I                                                                                                              XX         
+     76 I                                                                                                          OO             
+    283 I                                                                                                                         
+     57 I                                                                                                              OO         
+    114 I                                                                                                                      XX 
+    310 I                                                                                                                  OO     
+    129 I                                                                                                                  OO     
+    134 I                                                                                                                  OO     
+    118 I                                                                                                                         
+
+
+           OO - EVENTS CLOSEST TO LINE OF CORRELATION
+           XX - EVENTS WHICH ARE RELATIVELY CLOSE
+         AAAA - EVENTS WHICH MAY BE OUT OF PLACE (95% PROBABILITY)
+
+
+
+          FOSSIL NAME                    NUMBER
+
+ Neogloboquadrina pachyderma                  1
+ Cibicidoides scaldisensis                   31
+ Cassidulina teretis                       -228
+ Trifarina fluens                          -316
+ Buccella frigida                           171
+ Globorotalia inflata                        -4
+ Cibicidoides grossa                        270
+ Sigmoilopsis schlumbergeri                  23
+ Neogloboquadrina atlantica                 269
+ Globigerina praebulloides                   15
+ Diatoms/radiolarians LCO                    91
+ Cannosphaeropsis utinensis                 362
+ Martinotiella cylindrica                   219
+ Deflandrea phosphoritica                     3
+ Areoligera semicirculata                     7
+ Wetzelliella symmetrica                    -41
+ Coarse agglutinated spp.                    25
+ Cyclammina placenta                        -97
+ Spirosigmoilinella compressa              -182
+ Turrilina alsatica                          24
+ Adercotryma agterbergi                     289
+ Aschemonella grandis                      -324
+ Glomospirella biedae                      -198
+ Areosphaeridium diktyoplokus                12
+ Reticulophragmium amplectens                29
+ Rottnestia borussica                        72
+ Diphyes ficusoides                         -92
+ Dorothia seigliei                          321
+ Spiroplectammina spectabilis LO            -68
+ Ammosphaeroidina pseudopauciloculata        32
+ Recurvoides ex.gr. walteri                 229
+ Reticulophragmium intermedia              -175
+ Eatonicysta ursulae                         99
+ Haplophragmoides kirki                     260
+ Recurvoidella lamella                     -279
+ Subbotina patagonica                       -50
+ Spiroplectammina navarroana                -54
+ Deflandrea oebisfeldensis                  108
+ Coscinodiscus spp.                          22
+ Apectodinium augustum                       28
+ Reticulophragmium paupera                   76
+ Spiroplectammina spectabilis LCO            57
+ Rzehakina minima                          -105
+ Trochammina ruthven murrayi                129
+ Hormosina excelsa                         -134
+ Saccammina placenta                       -310
+ Alisocysta margarita                       114
+
+
+
+  Statoil (N) 6407/4-1                    
+
+ ** SCATTERGRAM LIMITS EXCEEDED      AT WELL NUMBER   2
+      MORE THAN  30 DISTINCT LEVELS
+
+
+
+        I                                                                          12                                            
+        I                                                                         261                                            
+        I 228                                                                  32  68                                      57    
+        I   1                         363                      97             229 263      54                     108     105    
+        I  31 270   4  23 269  91  15 219 362 236   3   7  41  25 289 324 182  29 321  72 260 279  92 175  50  99  22  28  76 310
+ -------I------------------------------------------------------------------------------------------------------------------------
+     77 I                                                                                                                         
+    228 I  OO                                                                                                                     
+      1 I  OO                                                                                                                     
+     31 I  OO                                                                                                                     
+    316 I                                                                                                                         
+    171 I                                                                                                                         
+    270 I      XX                                                                                                                 
+      4 I          OO                                                                                                             
+     23 I              OO                                                                                                         
+    269 I                  OO                                                                                                     
+     91 I                      OO                                                                                                 
+     15 I                          OO                                                                                             
+    363 I                              OO                                                                                         
+    362 I                                  OO                                                                                     
+    219 I                              OO                                                                                         
+    236 I                                      OO                                                                                 
+     17 I                                                                                                                         
+     24 I                                                                                                                         
+      3 I                                          OO                                                                             
+      7 I                                              OO                                                                         
+     41 I                                                  OO                                                                     
+     25 I                                                      OO                                                                 
+     97 I                                                      OO                                                                 
+    182 I                                                                 AAAA                                                    
+    289 I                                                          OO                                                             
+    198 I                                                                                                                         
+    324 I                                                              OO                                                         
+    261 I                                                                          XX                                             
+    321 I                                                                          XX                                             
+     29 I                                                                      OO                                                 
+     32 I                                                                      OO                                                 
+     12 I                                                                          OO                                             
+    229 I                                                                      XX                                                 
+    263 I                                                                          XX                                             
+     72 I                                                                              OO                                         
+     68 I                                                                          XX                                             
+     92 I                                                                                          OO                             
+    260 I                                                                                  XX                                     
+    175 I                                                                                              OO                         
+     99 I                                                                                                      XX                 
+     54 I                                                                                 AAAA                                    
+    279 I                                                                                     AAAA                                
+     50 I                                                                                                  OO                     
+    108 I                                                                                                          OO             
+     22 I                                                                                                          OO             
+     28 I                                                                                                              OO         
+    105 I                                                                                                                  OO     
+     76 I                                                                                                                  OO     
+    283 I                                                                                                                         
+     57 I                                                                                                                  OO     
+    114 I                                                                                                                         
+    310 I                                                                                                                      OO 
+    129 I                                                                                                                         
+    134 I                                                                                                                         
+    118 I                                                                                                                         
+
+
+           OO - EVENTS CLOSEST TO LINE OF CORRELATION
+           XX - EVENTS WHICH ARE RELATIVELY CLOSE
+         AAAA - EVENTS WHICH MAY BE OUT OF PLACE (95% PROBABILITY)
+
+
+
+          FOSSIL NAME                    NUMBER
+
+ Cibicidoides scaldisensis                   31
+ Neogloboquadrina pachyderma                 -1
+ Cassidulina teretis                       -228
+ Cibicidoides grossa                        270
+ Globorotalia inflata                         4
+ Sigmoilopsis schlumbergeri                  23
+ Neogloboquadrina atlantica                 269
+ Diatoms/radiolarians LCO                    91
+ Globigerina praebulloides                   15
+ Martinotiella cylindrica                   219
+ Hystrichosphaeropsis obscura              -363
+ Cannosphaeropsis utinensis                 362
+ G. ex.gr. praescitula zealandica           236
+ Deflandrea phosphoritica                     3
+ Areoligera semicirculata                     7
+ Wetzelliella symmetrica                     41
+ Coarse agglutinated spp.                    25
+ Cyclammina placenta                        -97
+ Adercotryma agterbergi                     289
+ Aschemonella grandis                       324
+ Spirosigmoilinella compressa               182
+ Reticulophragmium amplectens                29
+ Recurvoides ex.gr. walteri                -229
+ Ammosphaeroidina pseudopauciloculata       -32
+ Dorothia seigliei                          321
+ Ammomarginulina aubertae                  -263
+ Spiroplectammina spectabilis LO            -68
+ Haplophragmoides walteri                  -261
+ Areosphaeridium diktyoplokus               -12
+ Rottnestia borussica                        72
+ Haplophragmoides kirki                     260
+ Spiroplectammina navarroana                -54
+ Recurvoidella lamella                      279
+ Diphyes ficusoides                          92
+ Reticulophragmium intermedia               175
+ Subbotina patagonica                        50
+ Eatonicysta ursulae                         99
+ Coscinodiscus spp.                          22
+ Deflandrea oebisfeldensis                 -108
+ Apectodinium augustum                       28
+ Reticulophragmium paupera                   76
+ Rzehakina minima                          -105
+ Spiroplectammina spectabilis LCO           -57
+ Saccammina placenta                        310
+ Palaeoperidinium pyrophorum                118
+ Trochammina ruthven murrayi                129
+ Reticulophragmium garcilassoi             -283
+
+
+
+  Elf Aquitaine (N) 6406/8-1              
+
+        I  23                                                                                                    
+        I 270                                     198             263                                         118
+        I 228          91     363           3 289 324              68                      54 108             310
+        I   1 316   4 269  15 362 219   7  41  25 182  97 261  29  32 229  92 321 260  99  50  22  28  76 114 129
+ -------I--------------------------------------------------------------------------------------------------------
+     77 I                                                                                                         
+    228 I  XX                                                                                                     
+      1 I  OO                                                                                                     
+     31 I                                                                                                         
+    316 I      OO                                                                                                 
+    171 I                                                                                                         
+    270 I  XX                                                                                                     
+      4 I          OO                                                                                             
+     23 I AAAA                                                                                                    
+    269 I              OO                                                                                         
+     91 I              OO                                                                                         
+     15 I                  OO                                                                                     
+    363 I                      OO                                                                                 
+    362 I                      OO                                                                                 
+    219 I                          OO                                                                             
+    236 I                                                                                                         
+     17 I                                                                                                         
+     24 I                                                                                                         
+      3 I                                  OO                                                                     
+      7 I                              OO                                                                         
+     41 I                                  OO                                                                     
+     25 I                                      OO                                                                 
+     97 I                                              XX                                                         
+    182 I                                          OO                                                             
+    289 I                                      XX                                                                 
+    198 I                                          OO                                                             
+    324 I                                          XX                                                             
+    261 I                                                  OO                                                     
+    321 I                                                                     AAAA                                
+     29 I                                                      OO                                                 
+     32 I                                                          OO                                             
+     12 I                                                                                                         
+    229 I                                                              OO                                         
+    263 I                                                          XX                                             
+     72 I                                                                                                         
+     68 I                                                          XX                                             
+     92 I                                                                  OO                                     
+    260 I                                                                          OO                             
+    175 I                                                                                                         
+     99 I                                                                              OO                         
+     54 I                                                                                  XX                     
+    279 I                                                                                                         
+     50 I                                                                                  OO                     
+    108 I                                                                                      OO                 
+     22 I                                                                                      OO                 
+     28 I                                                                                          OO             
+    105 I                                                                                                         
+     76 I                                                                                              OO         
+    283 I                                                                                                         
+     57 I                                                                                                         
+    114 I                                                                                                  OO     
+    310 I                                                                                                      OO 
+    129 I                                                                                                      OO 
+    134 I                                                                                                         
+    118 I                                                                                                      XX 
+
+
+           OO - EVENTS CLOSEST TO LINE OF CORRELATION
+           XX - EVENTS WHICH ARE RELATIVELY CLOSE
+         AAAA - EVENTS WHICH MAY BE OUT OF PLACE (95% PROBABILITY)
+
+
+
+          FOSSIL NAME                    NUMBER
+
+ Neogloboquadrina pachyderma                  1
+ Cassidulina teretis                       -228
+ Cibicidoides grossa                       -270
+ Sigmoilopsis schlumbergeri                 -23
+ Trifarina fluens                           316
+ Globorotalia inflata                         4
+ Neogloboquadrina atlantica                 269
+ Diatoms/radiolarians LCO                   -91
+ Globigerina praebulloides                   15
+ Cannosphaeropsis utinensis                 362
+ Hystrichosphaeropsis obscura              -363
+ Martinotiella cylindrica                   219
+ Areoligera semicirculata                     7
+ Wetzelliella symmetrica                     41
+ Deflandrea phosphoritica                    -3
+ Coarse agglutinated spp.                    25
+ Adercotryma agterbergi                    -289
+ Spirosigmoilinella compressa               182
+ Aschemonella grandis                      -324
+ Glomospirella biedae                      -198
+ Cyclammina placenta                         97
+ Haplophragmoides walteri                   261
+ Reticulophragmium amplectens                29
+ Ammosphaeroidina pseudopauciloculata        32
+ Spiroplectammina spectabilis LO            -68
+ Ammomarginulina aubertae                  -263
+ Recurvoides ex.gr. walteri                 229
+ Diphyes ficusoides                          92
+ Dorothia seigliei                          321
+ Haplophragmoides kirki                     260
+ Eatonicysta ursulae                         99
+ Subbotina patagonica                        50
+ Spiroplectammina navarroana                -54
+ Coscinodiscus spp.                          22
+ Deflandrea oebisfeldensis                 -108
+ Apectodinium augustum                       28
+ Reticulophragmium paupera                   76
+ Alisocysta margarita                       114
+ Trochammina ruthven murrayi                129
+ Saccammina placenta                       -310
+ Palaeoperidinium pyrophorum               -118
+
+
+
+  Hydro (N) 34/8-1                        
+
+ ** SCATTERGRAM LIMITS EXCEEDED      AT WELL NUMBER   4
+      MORE THAN  30 DISTINCT LEVELS
+
+
+
+        I 228                                     321                                                                            
+        I   1                                      97                                                                     105 114
+        I  77     270                             182     289      32                                                     283 310
+        I  31 171   4  23 316 269  17  15   3  24  25 261  41   7  29  12 198 260  72  92 279  68  99 175  50 108  22  28  54  76
+ -------I------------------------------------------------------------------------------------------------------------------------
+     77 I  OO                                                                                                                     
+    228 I  OO                                                                                                                     
+      1 I  OO                                                                                                                     
+     31 I  OO                                                                                                                     
+    316 I                  XX                                                                                                     
+    171 I      OO                                                                                                                 
+    270 I          OO                                                                                                             
+      4 I          OO                                                                                                             
+     23 I              OO                                                                                                         
+    269 I                      OO                                                                                                 
+     91 I                                                                                                                         
+     15 I                              XX                                                                                         
+    363 I                                                                                                                         
+    362 I                                                                                                                         
+    219 I                                                                                                                         
+    236 I                                                                                                                         
+     17 I                          OO                                                                                             
+     24 I                                      OO                                                                                 
+      3 I                                  OO                                                                                     
+      7 I                                                     AAAA                                                                
+     41 I                                                  XX                                                                     
+     25 I                                          OO                                                                             
+     97 I                                          OO                                                                             
+    182 I                                          OO                                                                             
+    289 I                                                  OO                                                                     
+    198 I                                                                  XX                                                     
+    324 I                                                                                                                         
+    261 I                                              XX                                                                         
+    321 I                                         AAAA                                                                            
+     29 I                                                          OO                                                             
+     32 I                                                          OO                                                             
+     12 I                                                              OO                                                         
+    229 I                                                                                                                         
+    263 I                                                                                                                         
+     72 I                                                                          OO                                             
+     68 I                                                                                      XX                                 
+     92 I                                                                              OO                                         
+    260 I                                                                      XX                                                 
+    175 I                                                                                              XX                         
+     99 I                                                                                          OO                             
+     54 I                                                                                                                 AAAA    
+    279 I                                                                                  XX                                     
+     50 I                                                                                                  OO                     
+    108 I                                                                                                      OO                 
+     22 I                                                                                                          OO             
+     28 I                                                                                                              OO         
+    105 I                                                                                                                  OO     
+     76 I                                                                                                                      OO 
+    283 I                                                                                                                  OO     
+     57 I                                                                                                                         
+    114 I                                                                                                                      OO 
+    310 I                                                                                                                      OO 
+    129 I                                                                                                                         
+    134 I                                                                                                                         
+    118 I                                                                                                                         
+
+
+           OO - EVENTS CLOSEST TO LINE OF CORRELATION
+           XX - EVENTS WHICH ARE RELATIVELY CLOSE
+         AAAA - EVENTS WHICH MAY BE OUT OF PLACE (95% PROBABILITY)
+
+
+
+          FOSSIL NAME                    NUMBER
+
+ Cibicidoides scaldisensis                   31
+ Elphidium spp.                             -77
+ Neogloboquadrina pachyderma                 -1
+ Cassidulina teretis                       -228
+ Buccella frigida                           171
+ Globorotalia inflata                         4
+ Cibicidoides grossa                       -270
+ Sigmoilopsis schlumbergeri                  23
+ Trifarina fluens                           316
+ Neogloboquadrina atlantica                 269
+ Asterigerina gurichi                        17
+ Globigerina praebulloides                   15
+ Deflandrea phosphoritica                     3
+ Turrilina alsatica                          24
+ Coarse agglutinated spp.                    25
+ Spirosigmoilinella compressa              -182
+ Cyclammina placenta                        -97
+ Dorothia seigliei                         -321
+ Haplophragmoides walteri                   261
+ Wetzelliella symmetrica                     41
+ Adercotryma agterbergi                    -289
+ Areoligera semicirculata                     7
+ Reticulophragmium amplectens                29
+ Ammosphaeroidina pseudopauciloculata       -32
+ Areosphaeridium diktyoplokus                12
+ Glomospirella biedae                       198
+ Haplophragmoides kirki                     260
+ Rottnestia borussica                        72
+ Diphyes ficusoides                          92
+ Recurvoidella lamella                      279
+ Spiroplectammina spectabilis LO             68
+ Eatonicysta ursulae                         99
+ Reticulophragmium intermedia               175
+ Subbotina patagonica                        50
+ Deflandrea oebisfeldensis                  108
+ Coscinodiscus spp.                          22
+ Apectodinium augustum                       28
+ Spiroplectammina navarroana                 54
+ Reticulophragmium garcilassoi             -283
+ Rzehakina minima                          -105
+ Reticulophragmium paupera                   76
+ Saccammina placenta                       -310
+ Alisocysta margarita                      -114
+ Spiroplectammina spectabilis LCO            57
+ Hormosina excelsa                          134
+ Trochammina ruthven murrayi                129
+ Palaeoperidinium pyrophorum                118
+
+
+
+  Esso (N) 16/1-1                         
+
+        I 270   4                              97 289                                                    
+        I 228   1              15             182 261                          54      28                
+        I  77  23 219 269  91 236  17  25  41  24 321 260  12 263  68  29  99 279  50 108  22  76 283  57
+ -------I------------------------------------------------------------------------------------------------
+     77 I  OO                                                                                             
+    228 I  OO                                                                                             
+      1 I      OO                                                                                         
+     31 I                                                                                                 
+    316 I                                                                                                 
+    171 I                                                                                                 
+    270 I  XX                                                                                             
+      4 I      OO                                                                                         
+     23 I      XX                                                                                         
+    269 I              OO                                                                                 
+     91 I                  OO                                                                             
+     15 I                      XX                                                                         
+    363 I                                                                                                 
+    362 I                                                                                                 
+    219 I         AAAA                                                                                    
+    236 I                      OO                                                                         
+     17 I                          OO                                                                     
+     24 I                                     AAAA                                                        
+      3 I                                                                                                 
+      7 I                                                                                                 
+     41 I                                  OO                                                             
+     25 I                              OO                                                                 
+     97 I                                      OO                                                         
+    182 I                                      OO                                                         
+    289 I                                          OO                                                     
+    198 I                                                                                                 
+    324 I                                                                                                 
+    261 I                                          OO                                                     
+    321 I                                          OO                                                     
+     29 I                                                             AAAA                                
+     32 I                                                                                                 
+     12 I                                                  OO                                             
+    229 I                                                                                                 
+    263 I                                                      OO                                         
+     72 I                                                                                                 
+     68 I                                                          OO                                     
+     92 I                                                                                                 
+    260 I                                             AAAA                                                
+    175 I                                                                                                 
+     99 I                                                                  OO                             
+     54 I                                                                      OO                         
+    279 I                                                                      OO                         
+     50 I                                                                          OO                     
+    108 I                                                                              OO                 
+     22 I                                                                                  OO             
+     28 I                                                                              OO                 
+    105 I                                                                                                 
+     76 I                                                                                      OO         
+    283 I                                                                                          OO     
+     57 I                                                                                              OO 
+    114 I                                                                                                 
+    310 I                                                                                                 
+    129 I                                                                                                 
+    134 I                                                                                                 
+    118 I                                                                                                 
+
+
+           OO - EVENTS CLOSEST TO LINE OF CORRELATION
+           XX - EVENTS WHICH ARE RELATIVELY CLOSE
+         AAAA - EVENTS WHICH MAY BE OUT OF PLACE (95% PROBABILITY)
+
+
+
+          FOSSIL NAME                    NUMBER
+
+ Elphidium spp.                              77
+ Cassidulina teretis                       -228
+ Cibicidoides grossa                       -270
+ Sigmoilopsis schlumbergeri                  23
+ Neogloboquadrina pachyderma                 -1
+ Globorotalia inflata                        -4
+ Martinotiella cylindrica                   219
+ Neogloboquadrina atlantica                 269
+ Diatoms/radiolarians LCO                    91
+ G. ex.gr. praescitula zealandica           236
+ Globigerina praebulloides                  -15
+ Asterigerina gurichi                        17
+ Coarse agglutinated spp.                    25
+ Wetzelliella symmetrica                     41
+ Turrilina alsatica                          24
+ Spirosigmoilinella compressa              -182
+ Cyclammina placenta                        -97
+ Dorothia seigliei                          321
+ Haplophragmoides walteri                  -261
+ Adercotryma agterbergi                    -289
+ Haplophragmoides kirki                     260
+ Areosphaeridium diktyoplokus                12
+ Ammomarginulina aubertae                   263
+ Spiroplectammina spectabilis LO             68
+ Reticulophragmium amplectens                29
+ Eatonicysta ursulae                         99
+ Recurvoidella lamella                      279
+ Spiroplectammina navarroana                -54
+ Subbotina patagonica                        50
+ Deflandrea oebisfeldensis                  108
+ Apectodinium augustum                      -28
+ Coscinodiscus spp.                          22
+ Reticulophragmium paupera                   76
+ Reticulophragmium garcilassoi              283
+ Spiroplectammina spectabilis LCO            57
+
+
+
+  Saga (N) 34/4-5                         
+
+        I  31                                                                                                        
+        I   1                                                             198                 260                    
+        I 228     270                                                      72                  50 108     134        
+        I  77 316  23 171   4 269  15 362  97  91 363  24   7   3  25  12 261 229  92  29  99  54  28 129  57  76 118
+ -------I------------------------------------------------------------------------------------------------------------
+     77 I  OO                                                                                                         
+    228 I  OO                                                                                                         
+      1 I  OO                                                                                                         
+     31 I  OO                                                                                                         
+    316 I      OO                                                                                                     
+    171 I              OO                                                                                             
+    270 I          OO                                                                                                 
+      4 I                  OO                                                                                         
+     23 I          XX                                                                                                 
+    269 I                      OO                                                                                     
+     91 I                                      XX                                                                     
+     15 I                          OO                                                                                 
+    363 I                                          XX                                                                 
+    362 I                              OO                                                                             
+    219 I                                                                                                             
+    236 I                                                                                                             
+     17 I                                                                                                             
+     24 I                                              OO                                                             
+      3 I                                                      XX                                                     
+      7 I                                                  OO                                                         
+     41 I                                                                                                             
+     25 I                                                          OO                                                 
+     97 I                                 AAAA                                                                        
+    182 I                                                                                                             
+    289 I                                                                                                             
+    198 I                                                                  OO                                         
+    324 I                                                                                                             
+    261 I                                                                  OO                                         
+    321 I                                                                                                             
+     29 I                                                                              XX                             
+     32 I                                                                                                             
+     12 I                                                              XX                                             
+    229 I                                                                      OO                                     
+    263 I                                                                                                             
+     72 I                                                                  XX                                         
+     68 I                                                                                                             
+     92 I                                                                          OO                                 
+    260 I                                                                                      OO                     
+    175 I                                                                                                             
+     99 I                                                                                  OO                         
+     54 I                                                                                      OO                     
+    279 I                                                                                                             
+     50 I                                                                                      OO                     
+    108 I                                                                                          OO                 
+     22 I                                                                                                             
+     28 I                                                                                          OO                 
+    105 I                                                                                                             
+     76 I                                                                                                      XX     
+    283 I                                                                                                             
+     57 I                                                                                                  OO         
+    114 I                                                                                                             
+    310 I                                                                                                             
+    129 I                                                                                              OO             
+    134 I                                                                                                  OO         
+    118 I                                                                                                          OO 
+
+
+           OO - EVENTS CLOSEST TO LINE OF CORRELATION
+           XX - EVENTS WHICH ARE RELATIVELY CLOSE
+         AAAA - EVENTS WHICH MAY BE OUT OF PLACE (95% PROBABILITY)
+
+
+
+          FOSSIL NAME                    NUMBER
+
+ Elphidium spp.                              77
+ Cassidulina teretis                       -228
+ Neogloboquadrina pachyderma                 -1
+ Cibicidoides scaldisensis                  -31
+ Trifarina fluens                           316
+ Sigmoilopsis schlumbergeri                  23
+ Cibicidoides grossa                       -270
+ Buccella frigida                           171
+ Globorotalia inflata                         4
+ Neogloboquadrina atlantica                 269
+ Globigerina praebulloides                   15
+ Cannosphaeropsis utinensis                 362
+ Cyclammina placenta                         97
+ Diatoms/radiolarians LCO                    91
+ Hystrichosphaeropsis obscura               363
+ Turrilina alsatica                          24
+ Areoligera semicirculata                     7
+ Deflandrea phosphoritica                     3
+ Coarse agglutinated spp.                    25
+ Areosphaeridium diktyoplokus                12
+ Haplophragmoides walteri                   261
+ Rottnestia borussica                       -72
+ Glomospirella biedae                      -198
+ Recurvoides ex.gr. walteri                 229
+ Diphyes ficusoides                          92
+ Reticulophragmium amplectens                29
+ Eatonicysta ursulae                         99
+ Spiroplectammina navarroana                 54
+ Subbotina patagonica                       -50
+ Haplophragmoides kirki                    -260
+ Apectodinium augustum                       28
+ Deflandrea oebisfeldensis                 -108
+ Trochammina ruthven murrayi                129
+ Spiroplectammina spectabilis LCO            57
+ Hormosina excelsa                         -134
+ Reticulophragmium paupera                   76
+ Palaeoperidinium pyrophorum                118
+
+
+
+  Hydro (N) 6407/7-1                      
+
+        I                                             261                                            
+        I   7         324      72  97                 260                             310            
+        I  24   3  41  25  29  12  68  32  92 175  99  54 279  50 108 263  28 283 114 129  57 118 105
+ -------I--------------------------------------------------------------------------------------------
+     77 I                                                                                             
+    228 I                                                                                             
+      1 I                                                                                             
+     31 I                                                                                             
+    316 I                                                                                             
+    171 I                                                                                             
+    270 I                                                                                             
+      4 I                                                                                             
+     23 I                                                                                             
+    269 I                                                                                             
+     91 I                                                                                             
+     15 I                                                                                             
+    363 I                                                                                             
+    362 I                                                                                             
+    219 I                                                                                             
+    236 I                                                                                             
+     17 I                                                                                             
+     24 I  OO                                                                                         
+      3 I      OO                                                                                     
+      7 I  OO                                                                                         
+     41 I          OO                                                                                 
+     25 I              OO                                                                             
+     97 I                          XX                                                                 
+    182 I                                                                                             
+    289 I                                                                                             
+    198 I                                                                                             
+    324 I              OO                                                                             
+    261 I                                             AAAA                                            
+    321 I                                                                                             
+     29 I                  OO                                                                         
+     32 I                              OO                                                             
+     12 I                      OO                                                                     
+    229 I                                                                                             
+    263 I                                                             AAAA                            
+     72 I                      XX                                                                     
+     68 I                          XX                                                                 
+     92 I                                  OO                                                         
+    260 I                                              OO                                             
+    175 I                                      OO                                                     
+     99 I                                          OO                                                 
+     54 I                                              OO                                             
+    279 I                                                  OO                                         
+     50 I                                                      OO                                     
+    108 I                                                          OO                                 
+     22 I                                                                                             
+     28 I                                                                  OO                         
+    105 I                                                                                         AAAA
+     76 I                                                                                             
+    283 I                                                                      OO                     
+     57 I                                                                                  OO         
+    114 I                                                                          OO                 
+    310 I                                                                              OO             
+    129 I                                                                              OO             
+    134 I                                                                                             
+    118 I                                                                                      OO     
+
+
+           OO - EVENTS CLOSEST TO LINE OF CORRELATION
+           XX - EVENTS WHICH ARE RELATIVELY CLOSE
+         AAAA - EVENTS WHICH MAY BE OUT OF PLACE (95% PROBABILITY)
+
+
+
+          FOSSIL NAME                    NUMBER
+
+ Turrilina alsatica                          24
+ Areoligera semicirculata                    -7
+ Deflandrea phosphoritica                     3
+ Wetzelliella symmetrica                     41
+ Coarse agglutinated spp.                    25
+ Aschemonella grandis                      -324
+ Reticulophragmium amplectens                29
+ Areosphaeridium diktyoplokus                12
+ Rottnestia borussica                       -72
+ Spiroplectammina spectabilis LO             68
+ Cyclammina placenta                        -97
+ Ammosphaeroidina pseudopauciloculata        32
+ Diphyes ficusoides                          92
+ Reticulophragmium intermedia               175
+ Eatonicysta ursulae                         99
+ Spiroplectammina navarroana                 54
+ Haplophragmoides kirki                    -260
+ Haplophragmoides walteri                  -261
+ Recurvoidella lamella                      279
+ Subbotina patagonica                        50
+ Deflandrea oebisfeldensis                  108
+ Ammomarginulina aubertae                   263
+ Apectodinium augustum                       28
+ Reticulophragmium garcilassoi              283
+ Alisocysta margarita                       114
+ Trochammina ruthven murrayi                129
+ Saccammina placenta                       -310
+ Spiroplectammina spectabilis LCO            57
+ Palaeoperidinium pyrophorum                118
+ Rzehakina minima                           105
+
+
+
+  6407/7A-1                               
+
+        I          77            
+        I 228     316 171        
+        I  31   1 270   4 269  23
+ -------I------------------------
+     77 I          XX             
+    228 I  XX                     
+      1 I      OO                 
+     31 I  XX                     
+    316 I          OO             
+    171 I              XX         
+    270 I          OO             
+      4 I              OO         
+     23 I                      XX 
+    269 I                  XX     
+     91 I                         
+     15 I                         
+    363 I                         
+    362 I                         
+    219 I                         
+    236 I                         
+     17 I                         
+     24 I                         
+      3 I                         
+      7 I                         
+     41 I                         
+     25 I                         
+     97 I                         
+    182 I                         
+    289 I                         
+    198 I                         
+    324 I                         
+    261 I                         
+    321 I                         
+     29 I                         
+     32 I                         
+     12 I                         
+    229 I                         
+    263 I                         
+     72 I                         
+     68 I                         
+     92 I                         
+    260 I                         
+    175 I                         
+     99 I                         
+     54 I                         
+    279 I                         
+     50 I                         
+    108 I                         
+     22 I                         
+     28 I                         
+    105 I                         
+     76 I                         
+    283 I                         
+     57 I                         
+    114 I                         
+    310 I                         
+    129 I                         
+    134 I                         
+    118 I                         
+
+
+           OO - EVENTS CLOSEST TO LINE OF CORRELATION
+           XX - EVENTS WHICH ARE RELATIVELY CLOSE
+         AAAA - EVENTS WHICH MAY BE OUT OF PLACE (95% PROBABILITY)
+
+
+
+          FOSSIL NAME                    NUMBER
+
+ Cibicidoides scaldisensis                   31
+ Cassidulina teretis                       -228
+ Neogloboquadrina pachyderma                  1
+ Cibicidoides grossa                        270
+ Trifarina fluens                          -316
+ Elphidium spp.                             -77
+ Globorotalia inflata                         4
+ Buccella frigida                          -171
+ Neogloboquadrina atlantica                 269
+ Sigmoilopsis schlumbergeri                  23
+
+
+
+  BP (UK) 15/20-2                         
+
+        I                  15                                                    
+        I     269         236      97                         279      76        
+        I  77 228  23 219  17  25 182  29 260  68  32 261  54  50  22 105  57 283
+ -------I------------------------------------------------------------------------
+     77 I  OO                                                                     
+    228 I      OO                                                                 
+      1 I                                                                         
+     31 I                                                                         
+    316 I                                                                         
+    171 I                                                                         
+    270 I                                                                         
+      4 I                                                                         
+     23 I          OO                                                             
+    269 I      XX                                                                 
+     91 I                                                                         
+     15 I                  XX                                                     
+    363 I                                                                         
+    362 I                                                                         
+    219 I              OO                                                         
+    236 I                  OO                                                     
+     17 I                  OO                                                     
+     24 I                                                                         
+      3 I                                                                         
+      7 I                                                                         
+     41 I                                                                         
+     25 I                      OO                                                 
+     97 I                          OO                                             
+    182 I                          OO                                             
+    289 I                                                                         
+    198 I                                                                         
+    324 I                                                                         
+    261 I                                             AAAA                        
+    321 I                                                                         
+     29 I                              OO                                         
+     32 I                                          XX                             
+     12 I                                                                         
+    229 I                                                                         
+    263 I                                                                         
+     72 I                                                                         
+     68 I                                      XX                                 
+     92 I                                                                         
+    260 I                                 AAAA                                    
+    175 I                                                                         
+     99 I                                                                         
+     54 I                                                  OO                     
+    279 I                                                      OO                 
+     50 I                                                      OO                 
+    108 I                                                                         
+     22 I                                                          OO             
+     28 I                                                                         
+    105 I                                                              OO         
+     76 I                                                              OO         
+    283 I                                                                      XX 
+     57 I                                                                  OO     
+    114 I                                                                         
+    310 I                                                                         
+    129 I                                                                         
+    134 I                                                                         
+    118 I                                                                         
+
+
+           OO - EVENTS CLOSEST TO LINE OF CORRELATION
+           XX - EVENTS WHICH ARE RELATIVELY CLOSE
+         AAAA - EVENTS WHICH MAY BE OUT OF PLACE (95% PROBABILITY)
+
+
+
+          FOSSIL NAME                    NUMBER
+
+ Elphidium spp.                              77
+ Cassidulina teretis                        228
+ Neogloboquadrina atlantica                -269
+ Sigmoilopsis schlumbergeri                  23
+ Martinotiella cylindrica                   219
+ Asterigerina gurichi                        17
+ G. ex.gr. praescitula zealandica          -236
+ Globigerina praebulloides                  -15
+ Coarse agglutinated spp.                    25
+ Spirosigmoilinella compressa               182
+ Cyclammina placenta                        -97
+ Reticulophragmium amplectens                29
+ Haplophragmoides kirki                     260
+ Spiroplectammina spectabilis LO             68
+ Ammosphaeroidina pseudopauciloculata        32
+ Haplophragmoides walteri                   261
+ Spiroplectammina navarroana                 54
+ Subbotina patagonica                        50
+ Recurvoidella lamella                     -279
+ Coscinodiscus spp.                          22
+ Rzehakina minima                           105
+ Reticulophragmium paupera                  -76
+ Spiroplectammina spectabilis LCO            57
+ Reticulophragmium garcilassoi              283
+
+
+
+  Saga (N) 2/2-4                          
+
+ ** SCATTERGRAM LIMITS EXCEEDED      AT WELL NUMBER  10
+      MORE THAN  30 DISTINCT LEVELS
+
+
+
+        I                                                     261                                                                
+        I               1             362                  15 324                                                     175        
+        I 171  77 228  31  23 269 363 219  97  25  91 236  17 198 182 289 321   7  41  32  29 263  12  72 260  54  68 279  99  50
+ -------I------------------------------------------------------------------------------------------------------------------------
+     77 I      OO                                                                                                                 
+    228 I          OO                                                                                                             
+      1 I              OO                                                                                                         
+     31 I              OO                                                                                                         
+    316 I                                                                                                                         
+    171 I  XX                                                                                                                     
+    270 I                                                                                                                         
+      4 I                                                                                                                         
+     23 I                  OO                                                                                                     
+    269 I                      OO                                                                                                 
+     91 I                                          XX                                                                             
+     15 I                                                  XX                                                                     
+    363 I                          OO                                                                                             
+    362 I                              OO                                                                                         
+    219 I                              OO                                                                                         
+    236 I                                              OO                                                                         
+     17 I                                                  OO                                                                     
+     24 I                                                                                                                         
+      3 I                                                                                                                         
+      7 I                                                                      XX                                                 
+     41 I                                                                          XX                                             
+     25 I                                      XX                                                                                 
+     97 I                                 AAAA                                                                                    
+    182 I                                                          OO                                                             
+    289 I                                                              OO                                                         
+    198 I                                                      XX                                                                 
+    324 I                                                      XX                                                                 
+    261 I                                                      XX                                                                 
+    321 I                                                                  OO                                                     
+     29 I                                                                                  OO                                     
+     32 I                                                                              OO                                         
+     12 I                                                                                          OO                             
+    229 I                                                                                                                         
+    263 I                                                                                      OO                                 
+     72 I                                                                                              OO                         
+     68 I                                                                                                          XX             
+     92 I                                                                                                                         
+    260 I                                                                                                  OO                     
+    175 I                                                                                                              OO         
+     99 I                                                                                                                  XX     
+     54 I                                                                                                      OO                 
+    279 I                                                                                                              OO         
+     50 I                                                                                                                      OO 
+    108 I                                                                                                                         
+     22 I                                                                                                                         
+     28 I                                                                                                                         
+    105 I                                                                                                                         
+     76 I                                                                                                                         
+    283 I                                                                                                                         
+     57 I                                                                                                                         
+    114 I                                                                                                                         
+    310 I                                                                                                                         
+    129 I                                                                                                                         
+    134 I                                                                                                                         
+    118 I                                                                                                                         
+
+
+           OO - EVENTS CLOSEST TO LINE OF CORRELATION
+           XX - EVENTS WHICH ARE RELATIVELY CLOSE
+         AAAA - EVENTS WHICH MAY BE OUT OF PLACE (95% PROBABILITY)
+
+
+
+          FOSSIL NAME                    NUMBER
+
+ Buccella frigida                           171
+ Elphidium spp.                              77
+ Cassidulina teretis                        228
+ Cibicidoides scaldisensis                   31
+ Neogloboquadrina pachyderma                 -1
+ Sigmoilopsis schlumbergeri                  23
+ Neogloboquadrina atlantica                 269
+ Hystrichosphaeropsis obscura               363
+ Martinotiella cylindrica                   219
+ Cannosphaeropsis utinensis                -362
+ Cyclammina placenta                         97
+ Coarse agglutinated spp.                    25
+ Diatoms/radiolarians LCO                    91
+ G. ex.gr. praescitula zealandica           236
+ Asterigerina gurichi                        17
+ Globigerina praebulloides                  -15
+ Glomospirella biedae                       198
+ Aschemonella grandis                      -324
+ Haplophragmoides walteri                  -261
+ Spirosigmoilinella compressa               182
+ Adercotryma agterbergi                     289
+ Dorothia seigliei                          321
+ Areoligera semicirculata                     7
+ Wetzelliella symmetrica                     41
+ Ammosphaeroidina pseudopauciloculata        32
+ Reticulophragmium amplectens                29
+ Ammomarginulina aubertae                   263
+ Areosphaeridium diktyoplokus                12
+ Rottnestia borussica                        72
+ Haplophragmoides kirki                     260
+ Spiroplectammina navarroana                 54
+ Spiroplectammina spectabilis LO             68
+ Recurvoidella lamella                      279
+ Reticulophragmium intermedia              -175
+ Eatonicysta ursulae                         99
+ Subbotina patagonica                        50
+ Spiroplectammina spectabilis LCO            57
+ Apectodinium augustum                       28
+ Hormosina excelsa                          134
+ Reticulophragmium paupera                  -76
+
+
+
+  Shell (UK) 22/6-1                       
+
+        I                                 236                                                                 134    
+        I  77 316 228 270   1  23  91  17  15  97 182 198 289 229  32  24 324 321 261 263  68  54  50  22 310  76  57
+ -------I------------------------------------------------------------------------------------------------------------
+     77 I  OO                                                                                                         
+    228 I          OO                                                                                                 
+      1 I                  XX                                                                                         
+     31 I                                                                                                             
+    316 I      OO                                                                                                     
+    171 I                                                                                                             
+    270 I              OO                                                                                             
+      4 I                                                                                                             
+     23 I                      OO                                                                                     
+    269 I                                                                                                             
+     91 I                          OO                                                                                 
+     15 I                                  OO                                                                         
+    363 I                                                                                                             
+    362 I                                                                                                             
+    219 I                                                                                                             
+    236 I                                  OO                                                                         
+     17 I                              XX                                                                             
+     24 I                                                             AAAA                                            
+      3 I                                                                                                             
+      7 I                                                                                                             
+     41 I                                                                                                             
+     25 I                                                                                                             
+     97 I                                      XX                                                                     
+    182 I                                          XX                                                                 
+    289 I                                                  OO                                                         
+    198 I                                              XX                                                             
+    324 I                                                                  OO                                         
+    261 I                                                                          XX                                 
+    321 I                                                                      OO                                     
+     29 I                                                                                                             
+     32 I                                                          OO                                                 
+     12 I                                                                                                             
+    229 I                                                      XX                                                     
+    263 I                                                                              OO                             
+     72 I                                                                                                             
+     68 I                                                                                  OO                         
+     92 I                                                                                                             
+    260 I                                                                                                             
+    175 I                                                                                                             
+     99 I                                                                                                             
+     54 I                                                                                      OO                     
+    279 I                                                                                                             
+     50 I                                                                                          OO                 
+    108 I                                                                                                             
+     22 I                                                                                              OO             
+     28 I                                                                                                             
+    105 I                                                                                                             
+     76 I                                                                                                      OO     
+    283 I                                                                                                             
+     57 I                                                                                                          OO 
+    114 I                                                                                                             
+    310 I                                                                                                  OO         
+    129 I                                                                                                             
+    134 I                                                                                                      OO     
+    118 I                                                                                                             
+
+
+           OO - EVENTS CLOSEST TO LINE OF CORRELATION
+           XX - EVENTS WHICH ARE RELATIVELY CLOSE
+         AAAA - EVENTS WHICH MAY BE OUT OF PLACE (95% PROBABILITY)
+
+
+
+          FOSSIL NAME                    NUMBER
+
+ Elphidium spp.                              77
+ Trifarina fluens                           316
+ Cassidulina teretis                        228
+ Cibicidoides grossa                        270
+ Neogloboquadrina pachyderma                  1
+ Sigmoilopsis schlumbergeri                  23
+ Diatoms/radiolarians LCO                    91
+ Asterigerina gurichi                        17
+ Globigerina praebulloides                   15
+ G. ex.gr. praescitula zealandica          -236
+ Cyclammina placenta                         97
+ Spirosigmoilinella compressa               182
+ Glomospirella biedae                       198
+ Adercotryma agterbergi                     289
+ Recurvoides ex.gr. walteri                 229
+ Ammosphaeroidina pseudopauciloculata        32
+ Turrilina alsatica                          24
+ Aschemonella grandis                       324
+ Dorothia seigliei                          321
+ Haplophragmoides walteri                   261
+ Ammomarginulina aubertae                   263
+ Spiroplectammina spectabilis LO             68
+ Spiroplectammina navarroana                 54
+ Subbotina patagonica                        50
+ Coscinodiscus spp.                          22
+ Saccammina placenta                        310
+ Reticulophragmium paupera                   76
+ Hormosina excelsa                         -134
+ Spiroplectammina spectabilis LCO            57
+
+
+
+  Amoco (N) 2/8-1                         
+
+        I          15                                            
+        I  77 269 236                                         310
+        I 228  23 219  17  25 261 182 321 229  68 263  29  54 105
+ -------I--------------------------------------------------------
+     77 I  OO                                                     
+    228 I  OO                                                     
+      1 I                                                         
+     31 I                                                         
+    316 I                                                         
+    171 I                                                         
+    270 I                                                         
+      4 I                                                         
+     23 I      OO                                                 
+    269 I      OO                                                 
+     91 I                                                         
+     15 I          OO                                             
+    363 I                                                         
+    362 I                                                         
+    219 I          OO                                             
+    236 I          OO                                             
+     17 I              OO                                         
+     24 I                                                         
+      3 I                                                         
+      7 I                                                         
+     41 I                                                         
+     25 I                  OO                                     
+     97 I                                                         
+    182 I                          OO                             
+    289 I                                                         
+    198 I                                                         
+    324 I                                                         
+    261 I                      XX                                 
+    321 I                              OO                         
+     29 I                                             AAAA        
+     32 I                                                         
+     12 I                                                         
+    229 I                                  OO                     
+    263 I                                          XX             
+     72 I                                                         
+     68 I                                      OO                 
+     92 I                                                         
+    260 I                                                         
+    175 I                                                         
+     99 I                                                         
+     54 I                                                  OO     
+    279 I                                                         
+     50 I                                                         
+    108 I                                                         
+     22 I                                                         
+     28 I                                                         
+    105 I                                                      OO 
+     76 I                                                         
+    283 I                                                         
+     57 I                                                         
+    114 I                                                         
+    310 I                                                      XX 
+    129 I                                                         
+    134 I                                                         
+    118 I                                                         
+
+
+           OO - EVENTS CLOSEST TO LINE OF CORRELATION
+           XX - EVENTS WHICH ARE RELATIVELY CLOSE
+         AAAA - EVENTS WHICH MAY BE OUT OF PLACE (95% PROBABILITY)
+
+
+
+          FOSSIL NAME                    NUMBER
+
+ Cassidulina teretis                        228
+ Elphidium spp.                             -77
+ Sigmoilopsis schlumbergeri                  23
+ Neogloboquadrina atlantica                -269
+ Martinotiella cylindrica                   219
+ G. ex.gr. praescitula zealandica          -236
+ Globigerina praebulloides                  -15
+ Asterigerina gurichi                        17
+ Coarse agglutinated spp.                    25
+ Haplophragmoides walteri                   261
+ Spirosigmoilinella compressa               182
+ Dorothia seigliei                          321
+ Recurvoides ex.gr. walteri                 229
+ Spiroplectammina spectabilis LO             68
+ Ammomarginulina aubertae                   263
+ Reticulophragmium amplectens                29
+ Spiroplectammina navarroana                 54
+ Rzehakina minima                           105
+ Saccammina placenta                       -310
+
+
+
+  Saga (N) 35/3-1                         
+
+        I       1                                                          76        
+        I 228 171  31 270 363 362  91  24   3   7  17  25 108  22  57 114 129 118 134
+ -------I----------------------------------------------------------------------------
+     77 I                                                                             
+    228 I  OO                                                                         
+      1 I      OO                                                                     
+     31 I          OO                                                                 
+    316 I                                                                             
+    171 I      XX                                                                     
+    270 I              OO                                                             
+      4 I                                                                             
+     23 I                                                                             
+    269 I                                                                             
+     91 I                          OO                                                 
+     15 I                                                                             
+    363 I                  XX                                                         
+    362 I                      OO                                                     
+    219 I                                                                             
+    236 I                                                                             
+     17 I                                         AAAA                                
+     24 I                              OO                                             
+      3 I                                  OO                                         
+      7 I                                      OO                                     
+     41 I                                                                             
+     25 I                                              XX                             
+     97 I                                                                             
+    182 I                                                                             
+    289 I                                                                             
+    198 I                                                                             
+    324 I                                                                             
+    261 I                                                                             
+    321 I                                                                             
+     29 I                                                                             
+     32 I                                                                             
+     12 I                                                                             
+    229 I                                                                             
+    263 I                                                                             
+     72 I                                                                             
+     68 I                                                                             
+     92 I                                                                             
+    260 I                                                                             
+    175 I                                                                             
+     99 I                                                                             
+     54 I                                                                             
+    279 I                                                                             
+     50 I                                                                             
+    108 I                                                  XX                         
+     22 I                                                      XX                     
+     28 I                                                                             
+    105 I                                                                             
+     76 I                                                                  OO         
+    283 I                                                                             
+     57 I                                                          XX                 
+    114 I                                                              OO             
+    310 I                                                                             
+    129 I                                                                  OO         
+    134 I                                                                          XX 
+    118 I                                                                      OO     
+
+
+           OO - EVENTS CLOSEST TO LINE OF CORRELATION
+           XX - EVENTS WHICH ARE RELATIVELY CLOSE
+         AAAA - EVENTS WHICH MAY BE OUT OF PLACE (95% PROBABILITY)
+
+
+
+          FOSSIL NAME                    NUMBER
+
+ Cassidulina teretis                        228
+ Buccella frigida                           171
+ Neogloboquadrina pachyderma                 -1
+ Cibicidoides scaldisensis                   31
+ Cibicidoides grossa                        270
+ Hystrichosphaeropsis obscura               363
+ Cannosphaeropsis utinensis                 362
+ Diatoms/radiolarians LCO                    91
+ Turrilina alsatica                          24
+ Deflandrea phosphoritica                     3
+ Areoligera semicirculata                     7
+ Asterigerina gurichi                        17
+ Coarse agglutinated spp.                    25
+ Deflandrea oebisfeldensis                  108
+ Coscinodiscus spp.                          22
+ Spiroplectammina spectabilis LCO            57
+ Alisocysta margarita                       114
+ Trochammina ruthven murrayi                129
+ Reticulophragmium paupera                  -76
+ Palaeoperidinium pyrophorum                118
+ Hormosina excelsa                          134
+
+
+
+  Saga 6406/2-1                           
+
+        I                                                                                          76        
+        I                         236          24                                                  57        
+        I  77  23 316   4 269 363  15 219 362   7 321 289 261  12  29  68  99 175  50 108  22  28 283 114 310
+ -------I----------------------------------------------------------------------------------------------------
+     77 I  OO                                                                                                 
+    228 I                                                                                                     
+      1 I                                                                                                     
+     31 I                                                                                                     
+    316 I          OO                                                                                         
+    171 I                                                                                                     
+    270 I                                                                                                     
+      4 I              OO                                                                                     
+     23 I     AAAA                                                                                            
+    269 I                  OO                                                                                 
+     91 I                                                                                                     
+     15 I                          XX                                                                         
+    363 I                      OO                                                                             
+    362 I                                 AAAA                                                                
+    219 I                              OO                                                                     
+    236 I                          OO                                                                         
+     17 I                                                                                                     
+     24 I                                      XX                                                             
+      3 I                                                                                                     
+      7 I                                      OO                                                             
+     41 I                                                                                                     
+     25 I                                                                                                     
+     97 I                                                                                                     
+    182 I                                                                                                     
+    289 I                                              OO                                                     
+    198 I                                                                                                     
+    324 I                                                                                                     
+    261 I                                                  OO                                                 
+    321 I                                         AAAA                                                        
+     29 I                                                          XX                                         
+     32 I                                                                                                     
+     12 I                                                      OO                                             
+    229 I                                                                                                     
+    263 I                                                                                                     
+     72 I                                                                                                     
+     68 I                                                              OO                                     
+     92 I                                                                                                     
+    260 I                                                                                                     
+    175 I                                                                      OO                             
+     99 I                                                                  XX                                 
+     54 I                                                                                                     
+    279 I                                                                                                     
+     50 I                                                                          OO                         
+    108 I                                                                              OO                     
+     22 I                                                                                  OO                 
+     28 I                                                                                      OO             
+    105 I                                                                                                     
+     76 I                                                                                          OO         
+    283 I                                                                                          OO         
+     57 I                                                                                          OO         
+    114 I                                                                                              OO     
+    310 I                                                                                                  OO 
+    129 I                                                                                                     
+    134 I                                                                                                     
+    118 I                                                                                                     
+
+
+           OO - EVENTS CLOSEST TO LINE OF CORRELATION
+           XX - EVENTS WHICH ARE RELATIVELY CLOSE
+         AAAA - EVENTS WHICH MAY BE OUT OF PLACE (95% PROBABILITY)
+
+
+
+          FOSSIL NAME                    NUMBER
+
+ Elphidium spp.                              77
+ Sigmoilopsis schlumbergeri                  23
+ Trifarina fluens                           316
+ Globorotalia inflata                         4
+ Neogloboquadrina atlantica                 269
+ Hystrichosphaeropsis obscura               363
+ Globigerina praebulloides                   15
+ G. ex.gr. praescitula zealandica          -236
+ Martinotiella cylindrica                   219
+ Cannosphaeropsis utinensis                 362
+ Areoligera semicirculata                     7
+ Turrilina alsatica                         -24
+ Dorothia seigliei                          321
+ Adercotryma agterbergi                     289
+ Haplophragmoides walteri                   261
+ Areosphaeridium diktyoplokus                12
+ Reticulophragmium amplectens                29
+ Spiroplectammina spectabilis LO             68
+ Eatonicysta ursulae                         99
+ Reticulophragmium intermedia               175
+ Subbotina patagonica                        50
+ Deflandrea oebisfeldensis                  108
+ Coscinodiscus spp.                          22
+ Apectodinium augustum                       28
+ Reticulophragmium garcilassoi              283
+ Spiroplectammina spectabilis LCO           -57
+ Reticulophragmium paupera                  -76
+ Alisocysta margarita                       114
+ Saccammina placenta                        310

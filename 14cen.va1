@@ -1,0 +1,2004 @@
+
+
+ TOTAL NUMBER OF EVENTS =  55
+
+ TOTAL NUMBER OF WELLS =  14
+
+ AVERAGE STANDARD DEVIATION FROM LINE OF CORRELATION =  1.6720
+
+ EVENT  77 OCCURS IN  9 WELLS: Elphidium spp.                          
+ EVENT 228 OCCURS IN 12 WELLS: Cassidulina teretis                     
+ EVENT   1 OCCURS IN 10 WELLS: Neogloboquadrina pachyderma             
+ EVENT  31 OCCURS IN  7 WELLS: Cibicidoides scaldisensis               
+ EVENT 316 OCCURS IN  7 WELLS: Trifarina fluens                        
+ EVENT 171 OCCURS IN  6 WELLS: Buccella frigida                        
+ EVENT 270 OCCURS IN  9 WELLS: Cibicidoides grossa                     
+ EVENT   4 OCCURS IN  8 WELLS: Globorotalia inflata                    
+ EVENT  23 OCCURS IN 12 WELLS: Sigmoilopsis schlumbergeri              
+ EVENT 269 OCCURS IN 11 WELLS: Neogloboquadrina atlantica              
+ EVENT  91 OCCURS IN  8 WELLS: Diatoms/radiolarians LCO                
+ EVENT  15 OCCURS IN 11 WELLS: Globigerina praebulloides               
+ EVENT 363 OCCURS IN  6 WELLS: Hystrichosphaeropsis obscura            
+ EVENT 362 OCCURS IN  7 WELLS: Cannosphaeropsis utinensis              
+ EVENT 219 OCCURS IN  8 WELLS: Martinotiella cylindrica                
+ EVENT 236 OCCURS IN  7 WELLS: G. ex.gr. praescitula zealandica        
+ EVENT  17 OCCURS IN  7 WELLS: Asterigerina gurichi                    
+ EVENT   3 OCCURS IN  7 WELLS: Deflandrea phosphoritica                
+ EVENT   7 OCCURS IN  9 WELLS: Areoligera semicirculata                
+ EVENT  41 OCCURS IN  7 WELLS: Wetzelliella symmetrica                 
+ EVENT  25 OCCURS IN 11 WELLS: Coarse agglutinated spp.                
+ EVENT  97 OCCURS IN 10 WELLS: Cyclammina placenta                     
+ EVENT 182 OCCURS IN  9 WELLS: Spirosigmoilinella compressa            
+ EVENT  24 OCCURS IN  8 WELLS: Turrilina alsatica                      
+ EVENT 289 OCCURS IN  8 WELLS: Adercotryma agterbergi                  
+ EVENT 198 OCCURS IN  6 WELLS: Glomospirella biedae                    
+ EVENT 324 OCCURS IN  6 WELLS: Aschemonella grandis                    
+ EVENT 261 OCCURS IN 11 WELLS: Haplophragmoides walteri                
+ EVENT 321 OCCURS IN  9 WELLS: Dorothia seigliei                       
+ EVENT  29 OCCURS IN 11 WELLS: Reticulophragmium amplectens            
+ EVENT  32 OCCURS IN  8 WELLS: Ammosphaeroidina pseudopauciloculata    
+ EVENT  12 OCCURS IN  8 WELLS: Areosphaeridium diktyoplokus            
+ EVENT 229 OCCURS IN  6 WELLS: Recurvoides ex.gr. walteri              
+ EVENT  72 OCCURS IN  6 WELLS: Rottnestia borussica                    
+ EVENT 263 OCCURS IN  7 WELLS: Ammomarginulina aubertae                
+ EVENT  68 OCCURS IN 11 WELLS: Spiroplectammina spectabilis LO         
+ EVENT  92 OCCURS IN  6 WELLS: Diphyes ficusoides                      
+ EVENT 260 OCCURS IN  9 WELLS: Haplophragmoides kirki                  
+ EVENT 175 OCCURS IN  6 WELLS: Reticulophragmium intermedia            
+ EVENT  99 OCCURS IN  9 WELLS: Eatonicysta ursulae                     
+ EVENT  54 OCCURS IN 11 WELLS: Spiroplectammina navarroana             
+ EVENT 279 OCCURS IN  7 WELLS: Recurvoidella lamella                   
+ EVENT  50 OCCURS IN 11 WELLS: Subbotina patagonica                    
+ EVENT 108 OCCURS IN  9 WELLS: Deflandrea oebisfeldensis               
+ EVENT  22 OCCURS IN  9 WELLS: Coscinodiscus spp.                      
+ EVENT  28 OCCURS IN  9 WELLS: Apectodinium augustum                   
+ EVENT 105 OCCURS IN  6 WELLS: Rzehakina minima                        
+ EVENT  76 OCCURS IN 11 WELLS: Reticulophragmium paupera               
+ EVENT 283 OCCURS IN  6 WELLS: Reticulophragmium garcilassoi           
+ EVENT  57 OCCURS IN 11 WELLS: Spiroplectammina spectabilis LCO        
+ EVENT 114 OCCURS IN  6 WELLS: Alisocysta margarita                    
+ EVENT 310 OCCURS IN  8 WELLS: Saccammina placenta                     
+ EVENT 129 OCCURS IN  7 WELLS: Trochammina ruthven murrayi             
+ EVENT 134 OCCURS IN  6 WELLS: Hormosina excelsa                       
+ EVENT 118 OCCURS IN  6 WELLS: Palaeoperidinium pyrophorum             
+
+
+
+
+ EVENT NO.   77  Elphidium spp.                          
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  4      0.109        I          I*         I
+  5      0.516        I          I**        I
+  6      1.070        I          I****      I
+  8      1.687        I          I******    I
+  9     -0.428        I        **I          I
+ 10      0.329        I          I*         I
+ 11     -0.667        I        **I          I
+ 12      1.259        I          I****      I
+ 14     -0.540        I        **I          I
+
+ SAMPLE SIZE =    9         UNCORRECTED MEAN =     0.371
+ ADJUSTED SD =   0.840      ADJUSTED SKEWNESS =    0.252
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  0.371 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        3  I***       I
+    5  -0.67 TO  0.00        1  I**        I
+    6   0.00 TO  0.67        2  I*         I
+    7   0.67 TO  1.34        3  I***       I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        0  I          I
+
+
+
+
+ EVENT NO.  228  Cassidulina teretis                     
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1      1.032        I          I****      I
+  2      0.966        I          I***       I
+  3      1.251        I          I****      I
+  4     -0.345        I        **I          I
+  5      0.128        I          I*         I
+  6      0.268        I          I*         I
+  8     -1.128        I      ****I          I
+  9      0.560        I          I**        I
+ 10      0.774        I          I***       I
+ 11      0.978        I          I***       I
+ 12      0.875        I          I***       I
+ 13     -0.806        I       ***I          I
+
+ SAMPLE SIZE =   12         UNCORRECTED MEAN =     0.379
+ ADJUSTED SD =   0.774      ADJUSTED SKEWNESS =   -0.925
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  0.379 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        0  I*         I
+    4  -1.34 TO -0.67        1  I**        I
+    5  -0.67 TO  0.00        6  I**        I
+    6   0.00 TO  0.67        2  I******    I
+    7   0.67 TO  1.34        2  I*         I
+    8   1.34 TO  2.01        1  I          I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        0  I          I
+
+
+
+
+ EVENT NO.    1  Neogloboquadrina pachyderma             
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -0.725        I       ***I          I
+  2      0.196        I          I*         I
+  3      0.668        I          I**        I
+  4     -0.797        I       ***I          I
+  5      0.849        I          I***       I
+  6     -0.503        I        **I          I
+  8     -0.020        I         *I          I
+ 10      1.204        I          I****      I
+ 11      2.570        I          I********  I
+ 13     -0.187        I         *I          I
+
+ SAMPLE SIZE =   10         UNCORRECTED MEAN =     0.326
+ ADJUSTED SD =   1.035      ADJUSTED SKEWNESS =    1.107
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  0.326 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        1  I          I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        1  I***       I
+    5  -0.67 TO  0.00        2  I***       I
+    6   0.00 TO  0.67        3  I**        I
+    7   0.67 TO  1.34        3  I*         I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        0  I*         I
+   10   2.68 TO  9.99        0  I          I
+
+
+
+
+ EVENT NO.   31  Cibicidoides scaldisensis               
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -0.304        I         *I          I
+  2     -0.546        I        **I          I
+  4     -1.248        I      ****I          I
+  6     -1.249        I      ****I          I
+  8     -1.338        I     *****I          I
+ 10      0.553        I          I**        I
+ 13      0.407        I          I**        I
+
+ SAMPLE SIZE =    7         UNCORRECTED MEAN =    -0.532
+ ADJUSTED SD =   0.795      ADJUSTED SKEWNESS =    0.400
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.532 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        2  I***       I
+    5  -0.67 TO  0.00        1  I*         I
+    6   0.00 TO  0.67        1  I*         I
+    7   0.67 TO  1.34        3  I**        I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        0  I          I
+
+
+
+
+ EVENT NO.  316  Trifarina fluens                        
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -0.945        I       ***I          I
+  3      0.629        I          I**        I
+  4      2.497        I          I********  I
+  6     -0.927        I       ***I          I
+  8      0.564        I          I**        I
+ 11     -1.842        I    ******I          I
+ 14      0.023        I          I*         I
+
+ SAMPLE SIZE =    7         UNCORRECTED MEAN =     0.000
+ ADJUSTED SD =   1.420      ADJUSTED SKEWNESS =    0.661
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  0.000 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        1  I          I
+    3  -2.01 TO -1.34        0  I*         I
+    4  -1.34 TO -0.67        0  I**        I
+    5  -0.67 TO  0.00        3  I          I
+    6   0.00 TO  0.67        0  I***       I
+    7   0.67 TO  1.34        2  I          I
+    8   1.34 TO  2.01        1  I          I
+    9   2.01 TO  2.68        0  I*         I
+   10   2.68 TO  9.99        0  I          I
+
+
+
+
+ EVENT NO.  171  Buccella frigida                        
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -0.527        I        **I          I
+  4     -1.116        I      ****I          I
+  6      0.439        I          I**        I
+  8      1.218        I          I****      I
+ 10     -3.861        I**********I          I
+ 13     -1.654        I     *****I          I
+
+ SAMPLE SIZE =    6         UNCORRECTED MEAN =    -0.917
+ ADJUSTED SD =   1.778      ADJUSTED SKEWNESS =   -0.729
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.917 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I*         I
+    2  -2.68 TO -2.01        1  I          I
+    3  -2.01 TO -1.34        1  I          I
+    4  -1.34 TO -0.67        0  I*         I
+    5  -0.67 TO  0.00        1  I*         I
+    6   0.00 TO  0.67        1  I*         I
+    7   0.67 TO  1.34        1  I          I
+    8   1.34 TO  2.01        0  I*         I
+    9   2.01 TO  2.68        0  I*         I
+   10   2.68 TO  9.99        1  I          I
+
+
+
+
+ EVENT NO.  270  Cibicidoides grossa                     
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -0.112        I         *I          I
+  2     -1.615        I     *****I          I
+  3     -1.505        I     *****I          I
+  4     -0.546        I        **I          I
+  5     -1.726        I    ******I          I
+  6     -1.305        I      ****I          I
+  8     -0.527        I        **I          I
+ 11     -0.818        I       ***I          I
+ 13      0.013        I          I*         I
+
+ SAMPLE SIZE =    9         UNCORRECTED MEAN =    -0.905
+ ADJUSTED SD =   0.657      ADJUSTED SKEWNESS =    0.100
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.905 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        2  I**        I
+    5  -0.67 TO  0.00        3  I**        I
+    6   0.00 TO  0.67        2  I***       I
+    7   0.67 TO  1.34        2  I**        I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        0  I          I
+
+
+
+
+ EVENT NO.    4  Globorotalia inflata                    
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -1.771        I    ******I          I
+  2     -1.262        I      ****I          I
+  3      0.059        I          I*         I
+  4     -1.022        I      ****I          I
+  5     -1.055        I      ****I          I
+  6      0.068        I          I*         I
+  8     -0.154        I         *I          I
+ 14     -0.177        I         *I          I
+
+ SAMPLE SIZE =    8         UNCORRECTED MEAN =    -0.664
+ ADJUSTED SD =   0.699      ADJUSTED SKEWNESS =   -0.365
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.664 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        2  I*         I
+    5  -0.67 TO  0.00        2  I***       I
+    6   0.00 TO  0.67        3  I**        I
+    7   0.67 TO  1.34        1  I**        I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        0  I          I
+
+
+
+
+ EVENT NO.   23  Sigmoilopsis schlumbergeri              
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -0.320        I         *I          I
+  2     -0.911        I       ***I          I
+  3     -2.545        I  ********I          I
+  4     -0.474        I        **I          I
+  5     -1.436        I     *****I          I
+  6     -2.670        I  ********I          I
+  8      1.263        I          I****      I
+  9     -0.093        I         *I          I
+ 10     -1.536        I     *****I          I
+ 11      0.181        I          I*         I
+ 12     -0.255        I         *I          I
+ 14     -2.707        I *********I          I
+
+ SAMPLE SIZE =   12         UNCORRECTED MEAN =    -0.959
+ ADJUSTED SD =   1.250      ADJUSTED SKEWNESS =   -0.047
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.959 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        1  I          I
+    3  -2.01 TO -1.34        0  I***       I
+    4  -1.34 TO -0.67        3  I          I
+    5  -0.67 TO  0.00        3  I**        I
+    6   0.00 TO  0.67        2  I***       I
+    7   0.67 TO  1.34        0  I***       I
+    8   1.34 TO  2.01        3  I          I
+    9   2.01 TO  2.68        0  I*         I
+   10   2.68 TO  9.99        0  I          I
+
+
+
+
+ EVENT NO.  269  Neogloboquadrina atlantica              
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1      0.094        I          I*         I
+  2     -0.562        I        **I          I
+  3      0.036        I          I*         I
+  4      1.090        I          I****      I
+  5      0.247        I          I*         I
+  6     -0.258        I         *I          I
+  8     -1.354        I     *****I          I
+  9     -1.403        I     *****I          I
+ 10     -1.127        I      ****I          I
+ 12     -0.554        I        **I          I
+ 14      0.030        I          I*         I
+
+ SAMPLE SIZE =   11         UNCORRECTED MEAN =    -0.342
+ ADJUSTED SD =   0.757      ADJUSTED SKEWNESS =    0.167
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.342 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        1  I          I
+    4  -1.34 TO -0.67        0  I***       I
+    5  -0.67 TO  0.00        5  I**        I
+    6   0.00 TO  0.67        2  I*****     I
+    7   0.67 TO  1.34        3  I          I
+    8   1.34 TO  2.01        0  I*         I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        0  I          I
+
+
+
+
+ EVENT NO.   91  Diatoms/radiolarians LCO                
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1      1.534        I          I*****     I
+  2     -0.212        I         *I          I
+  3     -0.490        I        **I          I
+  5      0.883        I          I***       I
+  6      3.180        I          I**********I
+ 10      3.381        I          I**********I
+ 11      0.137        I          I*         I
+ 13      1.360        I          I*****     I
+
+ SAMPLE SIZE =    8         UNCORRECTED MEAN =     1.222
+ ADJUSTED SD =   1.459      ADJUSTED SKEWNESS =    0.512
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  1.222 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        1  I          I
+    3  -2.01 TO -1.34        1  I**        I
+    4  -1.34 TO -0.67        0  I*         I
+    5  -0.67 TO  0.00        2  I*         I
+    6   0.00 TO  0.67        1  I**        I
+    7   0.67 TO  1.34        1  I          I
+    8   1.34 TO  2.01        2  I*         I
+    9   2.01 TO  2.68        0  I*         I
+   10   2.68 TO  9.99        0  I          I
+
+
+
+
+ EVENT NO.   15  Globigerina praebulloides               
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -0.097        I         *I          I
+  2      0.139        I          I*         I
+  3      0.013        I          I*         I
+  4      2.132        I          I*******   I
+  5      1.512        I          I*****     I
+  6     -0.544        I        **I          I
+  9      1.229        I          I****      I
+ 10      4.797        I          I**********I
+ 11      1.667        I          I*****     I
+ 12     -0.101        I         *I          I
+ 14      1.259        I          I****      I
+
+ SAMPLE SIZE =   11         UNCORRECTED MEAN =     1.091
+ ADJUSTED SD =   1.515      ADJUSTED SKEWNESS =    1.491
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  1.091 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        1  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        0  I*         I
+    4  -1.34 TO -0.67        1  I****      I
+    5  -0.67 TO  0.00        4  I          I
+    6   0.00 TO  0.67        0  I****      I
+    7   0.67 TO  1.34        4  I*         I
+    8   1.34 TO  2.01        1  I          I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        0  I*         I
+
+
+
+
+ EVENT NO.  363  Hystrichosphaeropsis obscura            
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  2      0.492        I          I**        I
+  3      0.513        I          I**        I
+  6      2.911        I          I********* I
+ 10     -1.975        I    ******I          I
+ 13     -1.575        I     *****I          I
+ 14     -0.207        I         *I          I
+
+ SAMPLE SIZE =    6         UNCORRECTED MEAN =     0.027
+ ADJUSTED SD =   1.755      ADJUSTED SKEWNESS =    0.670
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  0.027 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        1  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        0  I**        I
+    4  -1.34 TO -0.67        0  I          I
+    5  -0.67 TO  0.00        2  I*         I
+    6   0.00 TO  0.67        1  I**        I
+    7   0.67 TO  1.34        0  I          I
+    8   1.34 TO  2.01        2  I          I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        0  I*         I
+
+
+
+
+ EVENT NO.  362  Cannosphaeropsis utinensis              
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1      0.743        I          I***       I
+  2      0.848        I          I***       I
+  3     -0.011        I         *I          I
+  6     -0.791        I       ***I          I
+ 10     -1.581        I     *****I          I
+ 13     -0.946        I       ***I          I
+ 14      2.469        I          I********  I
+
+ SAMPLE SIZE =    7         UNCORRECTED MEAN =     0.105
+ ADJUSTED SD =   1.373      ADJUSTED SKEWNESS =    0.651
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  0.105 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        1  I          I
+    3  -2.01 TO -1.34        0  I*         I
+    4  -1.34 TO -0.67        1  I**        I
+    5  -0.67 TO  0.00        1  I*         I
+    6   0.00 TO  0.67        1  I*         I
+    7   0.67 TO  1.34        2  I*         I
+    8   1.34 TO  2.01        1  I          I
+    9   2.01 TO  2.68        0  I*         I
+   10   2.68 TO  9.99        0  I          I
+
+
+
+
+ EVENT NO.  219  Martinotiella cylindrica                
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1      1.167        I          I****      I
+  2     -0.835        I       ***I          I
+  3      0.488        I          I**        I
+  5     -2.797        I *********I          I
+  9     -0.636        I        **I          I
+ 10     -2.212        I   *******I          I
+ 12     -1.005        I      ****I          I
+ 14      1.001        I          I***       I
+
+ SAMPLE SIZE =    8         UNCORRECTED MEAN =    -0.604
+ ADJUSTED SD =   1.440      ADJUSTED SKEWNESS =   -0.242
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.604 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I*         I
+    3  -2.01 TO -1.34        2  I*         I
+    4  -1.34 TO -0.67        1  I          I
+    5  -0.67 TO  0.00        0  I***       I
+    6   0.00 TO  0.67        3  I          I
+    7   0.67 TO  1.34        0  I*         I
+    8   1.34 TO  2.01        1  I**        I
+    9   2.01 TO  2.68        1  I          I
+   10   2.68 TO  9.99        0  I          I
+
+
+
+
+ EVENT NO.  236  G. ex.gr. praescitula zealandica        
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  2      0.548        I          I**        I
+  5     -0.133        I         *I          I
+  9      0.124        I          I*         I
+ 10      1.242        I          I****      I
+ 11     -0.453        I        **I          I
+ 12     -1.309        I      ****I          I
+ 14     -0.468        I        **I          I
+
+ SAMPLE SIZE =    7         UNCORRECTED MEAN =    -0.064
+ ADJUSTED SD =   0.815      ADJUSTED SKEWNESS =    0.176
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.064 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        1  I*         I
+    5  -0.67 TO  0.00        2  I***       I
+    6   0.00 TO  0.67        3  I**        I
+    7   0.67 TO  1.34        1  I*         I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        0  I          I
+
+
+
+
+ EVENT NO.   17  Asterigerina gurichi                    
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  4     -1.525        I     *****I          I
+  5      0.471        I          I**        I
+  9     -0.164        I         *I          I
+ 10      1.628        I          I*****     I
+ 11     -2.010        I   *******I          I
+ 12     -0.570        I        **I          I
+ 13      3.132        I          I**********I
+
+ SAMPLE SIZE =    7         UNCORRECTED MEAN =     0.138
+ ADJUSTED SD =   1.792      ADJUSTED SKEWNESS =    0.622
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  0.138 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        1  I          I
+    2  -2.68 TO -2.01        0  I*         I
+    3  -2.01 TO -1.34        1  I*         I
+    4  -1.34 TO -0.67        0  I*         I
+    5  -0.67 TO  0.00        1  I*         I
+    6   0.00 TO  0.67        1  I*         I
+    7   0.67 TO  1.34        1  I          I
+    8   1.34 TO  2.01        1  I*         I
+    9   2.01 TO  2.68        1  I          I
+   10   2.68 TO  9.99        0  I*         I
+
+
+
+
+ EVENT NO.    3  Deflandrea phosphoritica                
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1      0.414        I          I**        I
+  2      0.263        I          I*         I
+  3      0.961        I          I***       I
+  4     -0.030        I         *I          I
+  6      2.938        I          I********* I
+  7     -0.227        I         *I          I
+ 13      0.626        I          I**        I
+
+ SAMPLE SIZE =    7         UNCORRECTED MEAN =     0.707
+ ADJUSTED SD =   1.061      ADJUSTED SKEWNESS =    1.918
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  0.707 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        1  I          I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        0  I**        I
+    5  -0.67 TO  0.00        1  I***       I
+    6   0.00 TO  0.67        3  I*         I
+    7   0.67 TO  1.34        2  I          I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        0  I*         I
+   10   2.68 TO  9.99        0  I          I
+
+
+
+
+ EVENT NO.    7  Areoligera semicirculata                
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1      0.850        I          I***       I
+  2      0.637        I          I**        I
+  3     -0.585        I        **I          I
+  4      4.526        I          I**********I
+  6      1.329        I          I****      I
+  7     -1.699        I    ******I          I
+ 10      5.464        I          I**********I
+ 13      1.316        I          I****      I
+ 14      1.319        I          I****      I
+
+ SAMPLE SIZE =    9         UNCORRECTED MEAN =     1.462
+ ADJUSTED SD =   2.256      ADJUSTED SKEWNESS =    0.727
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  1.462 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        2  I*         I
+    2  -2.68 TO -2.01        0  I*         I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        0  I*         I
+    5  -0.67 TO  0.00        0  I****      I
+    6   0.00 TO  0.67        4  I          I
+    7   0.67 TO  1.34        1  I          I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        1  I          I
+   10   2.68 TO  9.99        1  I**        I
+
+
+
+
+ EVENT NO.   41  Wetzelliella symmetrica                 
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1      0.266        I          I*         I
+  2      1.014        I          I****      I
+  3     -0.087        I         *I          I
+  4      2.940        I          I********* I
+  5      1.229        I          I****      I
+  7      0.160        I          I*         I
+ 10      5.847        I          I**********I
+
+ SAMPLE SIZE =    7         UNCORRECTED MEAN =     1.624
+ ADJUSTED SD =   2.122      ADJUSTED SKEWNESS =    1.628
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  1.624 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        1  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        0  I***       I
+    4  -1.34 TO -0.67        1  I          I
+    5  -0.67 TO  0.00        0  I**        I
+    6   0.00 TO  0.67        2  I          I
+    7   0.67 TO  1.34        0  I*         I
+    8   1.34 TO  2.01        3  I          I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        0  I*         I
+
+
+
+
+ EVENT NO.   25  Coarse agglutinated spp.                
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1      0.707        I          I***       I
+  2      1.395        I          I*****     I
+  3      0.412        I          I**        I
+  4      0.322        I          I*         I
+  5     -0.249        I         *I          I
+  6      2.253        I          I*******   I
+  7      0.858        I          I***       I
+  9     -0.328        I         *I          I
+ 10     -4.013        I**********I          I
+ 12     -0.759        I       ***I          I
+ 13      2.740        I          I********* I
+
+ SAMPLE SIZE =   11         UNCORRECTED MEAN =     0.303
+ ADJUSTED SD =   1.785      ADJUSTED SKEWNESS =   -1.259
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  0.303 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I*         I
+    2  -2.68 TO -2.01        1  I          I
+    3  -2.01 TO -1.34        1  I          I
+    4  -1.34 TO -0.67        1  I*         I
+    5  -0.67 TO  0.00        4  I**        I
+    6   0.00 TO  0.67        2  I****      I
+    7   0.67 TO  1.34        1  I*         I
+    8   1.34 TO  2.01        0  I*         I
+    9   2.01 TO  2.68        0  I*         I
+   10   2.68 TO  9.99        1  I          I
+
+
+
+
+ EVENT NO.   97  Cyclammina placenta                     
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1      0.128        I          I*         I
+  2      0.757        I          I***       I
+  3      1.935        I          I******    I
+  4     -0.259        I         *I          I
+  5      1.365        I          I*****     I
+  6     -4.495        I**********I          I
+  7      3.646        I          I**********I
+  9      0.407        I          I**        I
+ 10     -5.688        I**********I          I
+ 11     -2.553        I  ********I          I
+
+ SAMPLE SIZE =   10         UNCORRECTED MEAN =    -0.476
+ ADJUSTED SD =   2.916      ADJUSTED SKEWNESS =   -0.686
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.476 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        1  I**        I
+    2  -2.68 TO -2.01        1  I*         I
+    3  -2.01 TO -1.34        1  I          I
+    4  -1.34 TO -0.67        2  I          I
+    5  -0.67 TO  0.00        2  I          I
+    6   0.00 TO  0.67        0  I**        I
+    7   0.67 TO  1.34        0  I**        I
+    8   1.34 TO  2.01        0  I*         I
+    9   2.01 TO  2.68        1  I*         I
+   10   2.68 TO  9.99        2  I*         I
+
+
+
+
+ EVENT NO.  182  Spirosigmoilinella compressa            
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -0.449        I        **I          I
+  2      3.191        I          I**********I
+  3      0.385        I          I**        I
+  4     -0.847        I       ***I          I
+  5      0.909        I          I***       I
+  9      0.085        I          I*         I
+ 10     -0.192        I         *I          I
+ 11     -2.035        I   *******I          I
+ 12      0.719        I          I***       I
+
+ SAMPLE SIZE =    9         UNCORRECTED MEAN =     0.196
+ ADJUSTED SD =   1.433      ADJUSTED SKEWNESS =    0.808
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  0.196 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        1  I          I
+    2  -2.68 TO -2.01        0  I*         I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        1  I*         I
+    5  -0.67 TO  0.00        2  I***       I
+    6   0.00 TO  0.67        3  I**        I
+    7   0.67 TO  1.34        1  I*         I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        1  I          I
+   10   2.68 TO  9.99        0  I*         I
+
+
+
+
+ EVENT NO.   24  Turrilina alsatica                      
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1      0.000        I         *I          I
+  4     -2.469        I  ********I          I
+  5      0.446        I          I**        I
+  6     -2.487        I  ********I          I
+  7     -3.470        I**********I          I
+ 11      2.632        I          I********  I
+ 13     -2.705        I *********I          I
+ 14     -0.954        I       ***I          I
+
+ SAMPLE SIZE =    8         UNCORRECTED MEAN =    -1.126
+ ADJUSTED SD =   2.054      ADJUSTED SKEWNESS =    0.805
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -1.126 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        1  I          I
+    2  -2.68 TO -2.01        0  I*         I
+    3  -2.01 TO -1.34        1  I***       I
+    4  -1.34 TO -0.67        1  I          I
+    5  -0.67 TO  0.00        1  I          I
+    6   0.00 TO  0.67        0  I*         I
+    7   0.67 TO  1.34        0  I*         I
+    8   1.34 TO  2.01        3  I*         I
+    9   2.01 TO  2.68        1  I          I
+   10   2.68 TO  9.99        0  I*         I
+
+
+
+
+ EVENT NO.  289  Adercotryma agterbergi                  
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1      0.452        I          I**        I
+  2     -0.116        I         *I          I
+  3     -1.695        I    ******I          I
+  4      0.003        I          I*         I
+  5      1.012        I          I****      I
+ 10     -0.476        I        **I          I
+ 11     -0.990        I       ***I          I
+ 14      0.674        I          I***       I
+
+ SAMPLE SIZE =    8         UNCORRECTED MEAN =    -0.142
+ ADJUSTED SD =   0.896      ADJUSTED SKEWNESS =   -0.557
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.142 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        0  I*         I
+    4  -1.34 TO -0.67        2  I*         I
+    5  -0.67 TO  0.00        3  I*         I
+    6   0.00 TO  0.67        1  I***       I
+    7   0.67 TO  1.34        1  I**        I
+    8   1.34 TO  2.01        1  I          I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        0  I          I
+
+
+
+
+ EVENT NO.  198  Glomospirella biedae                    
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -0.117        I         *I          I
+  3     -1.197        I      ****I          I
+  4      3.495        I          I**********I
+  6      1.639        I          I*****     I
+ 10     -3.186        I**********I          I
+ 11     -2.539        I  ********I          I
+
+ SAMPLE SIZE =    6         UNCORRECTED MEAN =    -0.317
+ ADJUSTED SD =   2.543      ADJUSTED SKEWNESS =    0.504
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.317 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        1  I*         I
+    2  -2.68 TO -2.01        0  I*         I
+    3  -2.01 TO -1.34        1  I          I
+    4  -1.34 TO -0.67        0  I*         I
+    5  -0.67 TO  0.00        1  I          I
+    6   0.00 TO  0.67        0  I*         I
+    7   0.67 TO  1.34        1  I          I
+    8   1.34 TO  2.01        0  I*         I
+    9   2.01 TO  2.68        1  I          I
+   10   2.68 TO  9.99        1  I*         I
+
+
+
+
+ EVENT NO.  324  Aschemonella grandis                    
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -0.685        I       ***I          I
+  2     -0.340        I        **I          I
+  3     -1.725        I    ******I          I
+  7     -1.623        I     *****I          I
+ 10     -3.847        I**********I          I
+ 11      2.138        I          I*******   I
+
+ SAMPLE SIZE =    6         UNCORRECTED MEAN =    -1.014
+ ADJUSTED SD =   1.970      ADJUSTED SKEWNESS =    0.327
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -1.014 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        1  I*         I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        1  I*         I
+    5  -0.67 TO  0.00        1  I*         I
+    6   0.00 TO  0.67        1  I*         I
+    7   0.67 TO  1.34        1  I*         I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        1  I*         I
+
+
+
+
+ EVENT NO.  261  Haplophragmoides walteri                
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  2      2.115        I          I*******   I
+  3     -0.199        I         *I          I
+  4     -2.881        I *********I          I
+  5     -0.425        I        **I          I
+  6      0.632        I          I**        I
+  7      6.185        I          I**********I
+  9      3.663        I          I**********I
+ 10     -4.509        I**********I          I
+ 11      3.706        I          I**********I
+ 12     -1.923        I    ******I          I
+ 14      0.307        I          I*         I
+
+ SAMPLE SIZE =   11         UNCORRECTED MEAN =     0.606
+ ADJUSTED SD =   3.144      ADJUSTED SKEWNESS =    0.162
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  0.606 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        3  I**        I
+    2  -2.68 TO -2.01        0  I*         I
+    3  -2.01 TO -1.34        1  I          I
+    4  -1.34 TO -0.67        0  I**        I
+    5  -0.67 TO  0.00        1  I*         I
+    6   0.00 TO  0.67        1  I*         I
+    7   0.67 TO  1.34        2  I          I
+    8   1.34 TO  2.01        0  I*         I
+    9   2.01 TO  2.68        1  I          I
+   10   2.68 TO  9.99        2  I***       I
+
+
+
+
+ EVENT NO.  321  Dorothia seigliei                       
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1      2.289        I          I*******   I
+  2      1.499        I          I*****     I
+  3      4.409        I          I**********I
+  4     -4.541        I**********I          I
+  5     -0.914        I       ***I          I
+ 10     -2.096        I   *******I          I
+ 11      2.163        I          I*******   I
+ 12     -0.134        I         *I          I
+ 14     -2.269        I   *******I          I
+
+ SAMPLE SIZE =    9         UNCORRECTED MEAN =     0.045
+ ADJUSTED SD =   2.797      ADJUSTED SKEWNESS =   -0.092
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  0.045 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        1  I*         I
+    2  -2.68 TO -2.01        2  I**        I
+    3  -2.01 TO -1.34        1  I          I
+    4  -1.34 TO -0.67        0  I*         I
+    5  -0.67 TO  0.00        0  I*         I
+    6   0.00 TO  0.67        1  I          I
+    7   0.67 TO  1.34        1  I          I
+    8   1.34 TO  2.01        0  I*         I
+    9   2.01 TO  2.68        2  I**        I
+   10   2.68 TO  9.99        1  I*         I
+
+
+
+
+ EVENT NO.   29  Reticulophragmium amplectens            
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -0.320        I         *I          I
+  2     -0.138        I         *I          I
+  3     -0.229        I         *I          I
+  4     -1.079        I      ****I          I
+  5      3.760        I          I**********I
+  6      2.769        I          I********* I
+  7     -2.001        I    ******I          I
+  9     -1.265        I      ****I          I
+ 10      1.339        I          I*****     I
+ 12      3.760        I          I**********I
+ 14      1.445        I          I*****     I
+
+ SAMPLE SIZE =   11         UNCORRECTED MEAN =     0.731
+ ADJUSTED SD =   2.022      ADJUSTED SKEWNESS =    0.409
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  0.731 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        2  I*         I
+    2  -2.68 TO -2.01        1  I          I
+    3  -2.01 TO -1.34        0  I**        I
+    4  -1.34 TO -0.67        1  I***       I
+    5  -0.67 TO  0.00        1  I          I
+    6   0.00 TO  0.67        0  I*         I
+    7   0.67 TO  1.34        3  I*         I
+    8   1.34 TO  2.01        2  I          I
+    9   2.01 TO  2.68        0  I*         I
+   10   2.68 TO  9.99        1  I**        I
+
+
+
+
+ EVENT NO.   32  Ammosphaeroidina pseudopauciloculata    
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1      2.196        I          I*******   I
+  2     -0.746        I       ***I          I
+  3      0.269        I          I*         I
+  4     -1.728        I    ******I          I
+  7      0.603        I          I**        I
+  9      1.525        I          I*****     I
+ 10     -0.355        I        **I          I
+ 11     -1.952        I    ******I          I
+
+ SAMPLE SIZE =    8         UNCORRECTED MEAN =    -0.023
+ ADJUSTED SD =   1.467      ADJUSTED SKEWNESS =    0.144
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.023 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        1  I          I
+    3  -2.01 TO -1.34        1  I**        I
+    4  -1.34 TO -0.67        0  I*         I
+    5  -0.67 TO  0.00        2  I*         I
+    6   0.00 TO  0.67        1  I**        I
+    7   0.67 TO  1.34        1  I          I
+    8   1.34 TO  2.01        2  I*         I
+    9   2.01 TO  2.68        0  I*         I
+   10   2.68 TO  9.99        0  I          I
+
+
+
+
+ EVENT NO.   12  Areosphaeridium diktyoplokus            
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -2.453        I  ********I          I
+  2     -0.327        I         *I          I
+  4     -1.359        I     *****I          I
+  5     -0.343        I        **I          I
+  6     -2.298        I   *******I          I
+  7     -1.980        I    ******I          I
+ 10      2.048        I          I*******   I
+ 14     -0.571        I        **I          I
+
+ SAMPLE SIZE =    8         UNCORRECTED MEAN =    -0.911
+ ADJUSTED SD =   1.473      ADJUSTED SKEWNESS =    1.112
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.911 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        1  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        0  I**        I
+    4  -1.34 TO -0.67        0  I*         I
+    5  -0.67 TO  0.00        3  I*         I
+    6   0.00 TO  0.67        1  I***       I
+    7   0.67 TO  1.34        1  I          I
+    8   1.34 TO  2.01        2  I          I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        0  I*         I
+
+
+
+
+ EVENT NO.  229  Recurvoides ex.gr. walteri              
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1      2.114        I          I*******   I
+  2     -1.950        I    ******I          I
+  3      0.238        I          I*         I
+  6     -0.679        I       ***I          I
+ 11     -3.980        I**********I          I
+ 12     -0.374        I        **I          I
+
+ SAMPLE SIZE =    6         UNCORRECTED MEAN =    -0.772
+ ADJUSTED SD =   2.059      ADJUSTED SKEWNESS =   -0.328
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.772 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        1  I*         I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        1  I*         I
+    5  -0.67 TO  0.00        2  I          I
+    6   0.00 TO  0.67        0  I**        I
+    7   0.67 TO  1.34        1  I*         I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        1  I*         I
+
+
+
+
+ EVENT NO.   72  Rottnestia borussica                    
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -1.502        I     *****I          I
+  2     -0.502        I        **I          I
+  4      0.378        I          I**        I
+  6     -2.149        I   *******I          I
+  7     -3.051        I**********I          I
+ 10      1.723        I          I******    I
+
+ SAMPLE SIZE =    6         UNCORRECTED MEAN =    -0.851
+ ADJUSTED SD =   1.744      ADJUSTED SKEWNESS =    0.329
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.851 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        1  I*         I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        1  I*         I
+    5  -0.67 TO  0.00        1  I*         I
+    6   0.00 TO  0.67        1  I*         I
+    7   0.67 TO  1.34        1  I*         I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        1  I*         I
+   10   2.68 TO  9.99        0  I          I
+
+
+
+
+ EVENT NO.  263  Ammomarginulina aubertae                
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  2     -2.116        I   *******I          I
+  3     -1.844        I    ******I          I
+  5     -0.850        I       ***I          I
+  7      6.768        I          I**********I
+ 10     -1.000        I       ***I          I
+ 11      1.242        I          I****      I
+ 12      1.079        I          I****      I
+
+ SAMPLE SIZE =    7         UNCORRECTED MEAN =     0.468
+ ADJUSTED SD =   3.071      ADJUSTED SKEWNESS =    1.737
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  0.468 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        1  I          I
+    2  -2.68 TO -2.01        0  I**        I
+    3  -2.01 TO -1.34        0  I*         I
+    4  -1.34 TO -0.67        1  I*         I
+    5  -0.67 TO  0.00        1  I          I
+    6   0.00 TO  0.67        0  I*         I
+    7   0.67 TO  1.34        1  I*         I
+    8   1.34 TO  2.01        1  I          I
+    9   2.01 TO  2.68        2  I          I
+   10   2.68 TO  9.99        0  I*         I
+
+
+
+
+ EVENT NO.   68  Spiroplectammina spectabilis LO         
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -1.564        I     *****I          I
+  2     -2.704        I *********I          I
+  3     -2.372        I  ********I          I
+  4      2.080        I          I*******   I
+  5     -0.344        I        **I          I
+  7     -3.139        I**********I          I
+  9     -1.410        I     *****I          I
+ 10      3.438        I          I**********I
+ 11      1.784        I          I******    I
+ 12     -0.302        I         *I          I
+ 14     -0.445        I        **I          I
+
+ SAMPLE SIZE =   11         UNCORRECTED MEAN =    -0.453
+ ADJUSTED SD =   2.115      ADJUSTED SKEWNESS =    0.597
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.453 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        1  I*         I
+    2  -2.68 TO -2.01        2  I*         I
+    3  -2.01 TO -1.34        0  I*         I
+    4  -1.34 TO -0.67        0  I**        I
+    5  -0.67 TO  0.00        3  I          I
+    6   0.00 TO  0.67        0  I***       I
+    7   0.67 TO  1.34        2  I          I
+    8   1.34 TO  2.01        1  I          I
+    9   2.01 TO  2.68        1  I**        I
+   10   2.68 TO  9.99        1  I*         I
+
+
+
+
+ EVENT NO.   92  Diphyes ficusoides                      
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -3.122        I**********I          I
+  2      0.792        I          I***       I
+  3     -0.851        I       ***I          I
+  4     -0.654        I        **I          I
+  6     -1.337        I      ****I          I
+  7     -1.646        I     *****I          I
+
+ SAMPLE SIZE =    6         UNCORRECTED MEAN =    -1.136
+ ADJUSTED SD =   1.287      ADJUSTED SKEWNESS =   -0.094
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -1.136 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        1  I*         I
+    4  -1.34 TO -0.67        0  I          I
+    5  -0.67 TO  0.00        2  I**        I
+    6   0.00 TO  0.67        2  I**        I
+    7   0.67 TO  1.34        0  I          I
+    8   1.34 TO  2.01        1  I*         I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        0  I          I
+
+
+
+
+ EVENT NO.  260  Haplophragmoides kirki                  
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1      1.443        I          I*****     I
+  2     -1.829        I    ******I          I
+  3      0.668        I          I**        I
+  4     -3.391        I**********I          I
+  5     -4.482        I**********I          I
+  6      1.354        I          I*****     I
+  7      0.868        I          I***       I
+  9     -3.231        I**********I          I
+ 10      0.027        I          I*         I
+
+ SAMPLE SIZE =    9         UNCORRECTED MEAN =    -0.952
+ ADJUSTED SD =   2.300      ADJUSTED SKEWNESS =   -0.445
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.952 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I*         I
+    2  -2.68 TO -2.01        2  I**        I
+    3  -2.01 TO -1.34        2  I          I
+    4  -1.34 TO -0.67        1  I*         I
+    5  -0.67 TO  0.00        0  I          I
+    6   0.00 TO  0.67        0  I          I
+    7   0.67 TO  1.34        1  I*         I
+    8   1.34 TO  2.01        0  I**        I
+    9   2.01 TO  2.68        2  I**        I
+   10   2.68 TO  9.99        1  I          I
+
+
+
+
+ EVENT NO.  175  Reticulophragmium intermedia            
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -1.129        I      ****I          I
+  2      0.651        I          I**        I
+  4      2.020        I          I*******   I
+  7     -1.813        I    ******I          I
+ 10      2.417        I          I********  I
+ 14      0.136        I          I*         I
+
+ SAMPLE SIZE =    6         UNCORRECTED MEAN =     0.380
+ ADJUSTED SD =   1.677      ADJUSTED SKEWNESS =   -0.072
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  0.380 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        1  I*         I
+    3  -2.01 TO -1.34        1  I*         I
+    4  -1.34 TO -0.67        0  I          I
+    5  -0.67 TO  0.00        1  I*         I
+    6   0.00 TO  0.67        1  I*         I
+    7   0.67 TO  1.34        0  I          I
+    8   1.34 TO  2.01        1  I*         I
+    9   2.01 TO  2.68        1  I*         I
+   10   2.68 TO  9.99        0  I          I
+
+
+
+
+ EVENT NO.   99  Eatonicysta ursulae                     
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -0.639        I        **I          I
+  2      2.114        I          I*******   I
+  3      0.635        I          I**        I
+  4      0.288        I          I*         I
+  5     -0.429        I        **I          I
+  6     -0.441        I        **I          I
+  7     -1.399        I     *****I          I
+ 10      2.757        I          I********* I
+ 14     -1.399        I     *****I          I
+
+ SAMPLE SIZE =    9         UNCORRECTED MEAN =     0.165
+ ADJUSTED SD =   1.458      ADJUSTED SKEWNESS =    0.846
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  0.165 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        1  I          I
+    3  -2.01 TO -1.34        1  I**        I
+    4  -1.34 TO -0.67        0  I*         I
+    5  -0.67 TO  0.00        2  I**        I
+    6   0.00 TO  0.67        2  I**        I
+    7   0.67 TO  1.34        1  I          I
+    8   1.34 TO  2.01        2  I*         I
+    9   2.01 TO  2.68        0  I*         I
+   10   2.68 TO  9.99        0  I          I
+
+
+
+
+ EVENT NO.   54  Spiroplectammina navarroana             
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -0.147        I         *I          I
+  2     -3.553        I**********I          I
+  3      1.130        I          I****      I
+  4      5.679        I          I**********I
+  5      0.050        I          I*         I
+  6      0.220        I          I*         I
+  7     -0.999        I       ***I          I
+  9     -0.295        I         *I          I
+ 10     -1.017        I      ****I          I
+ 11      0.395        I          I**        I
+ 12      1.221        I          I****      I
+
+ SAMPLE SIZE =   11         UNCORRECTED MEAN =     0.244
+ ADJUSTED SD =   2.221      ADJUSTED SKEWNESS =    1.152
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  0.244 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        1  I*         I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        2  I**        I
+    5  -0.67 TO  0.00        1  I****      I
+    6   0.00 TO  0.67        4  I*         I
+    7   0.67 TO  1.34        2  I**        I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        1  I*         I
+
+
+
+
+ EVENT NO.  279  Recurvoidella lamella                   
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -0.672        I       ***I          I
+  2     -3.103        I**********I          I
+  4     -3.197        I**********I          I
+  5     -0.505        I        **I          I
+  7     -0.615        I        **I          I
+  9      0.327        I          I*         I
+ 10      0.346        I          I**        I
+
+ SAMPLE SIZE =    7         UNCORRECTED MEAN =    -1.060
+ ADJUSTED SD =   1.489      ADJUSTED SKEWNESS =   -0.886
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -1.060 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I**        I
+    3  -2.01 TO -1.34        2  I          I
+    4  -1.34 TO -0.67        0  I          I
+    5  -0.67 TO  0.00        3  I          I
+    6   0.00 TO  0.67        0  I***       I
+    7   0.67 TO  1.34        0  I          I
+    8   1.34 TO  2.01        0  I**        I
+    9   2.01 TO  2.68        2  I          I
+   10   2.68 TO  9.99        0  I          I
+
+
+
+
+ EVENT NO.   50  Subbotina patagonica                    
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -1.195        I      ****I          I
+  2     -0.610        I        **I          I
+  3      0.071        I          I*         I
+  4      0.142        I          I*         I
+  5     -0.034        I         *I          I
+  6     -0.487        I        **I          I
+  7     -0.245        I         *I          I
+  9     -0.095        I         *I          I
+ 10      1.717        I          I******    I
+ 11      0.475        I          I**        I
+ 14     -0.855        I       ***I          I
+
+ SAMPLE SIZE =   11         UNCORRECTED MEAN =    -0.102
+ ADJUSTED SD =   0.770      ADJUSTED SKEWNESS =    1.152
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.102 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        1  I          I
+    4  -1.34 TO -0.67        0  I**        I
+    5  -0.67 TO  0.00        5  I***       I
+    6   0.00 TO  0.67        3  I*****     I
+    7   0.67 TO  1.34        2  I          I
+    8   1.34 TO  2.01        0  I*         I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        0  I          I
+
+
+
+
+ EVENT NO.  108  Deflandrea oebisfeldensis               
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -0.695        I       ***I          I
+  2      0.871        I          I***       I
+  3      0.567        I          I**        I
+  4      0.418        I          I**        I
+  5      0.435        I          I**        I
+  6      0.204        I          I*         I
+  7      0.110        I          I*         I
+ 13     -2.602        I  ********I          I
+ 14     -0.335        I        **I          I
+
+ SAMPLE SIZE =    9         UNCORRECTED MEAN =    -0.114
+ ADJUSTED SD =   1.046      ADJUSTED SKEWNESS =   -1.964
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.114 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I*         I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        2  I          I
+    5  -0.67 TO  0.00        4  I**        I
+    6   0.00 TO  0.67        2  I****      I
+    7   0.67 TO  1.34        0  I**        I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        1  I          I
+   10   2.68 TO  9.99        0  I          I
+
+
+
+
+ EVENT NO.   22  Coscinodiscus spp.                      
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -0.191        I         *I          I
+  2      0.313        I          I*         I
+  3      0.036        I          I*         I
+  4      0.687        I          I***       I
+  5      0.905        I          I***       I
+  9      0.086        I          I*         I
+ 11      0.564        I          I**        I
+ 13     -1.721        I    ******I          I
+ 14      0.184        I          I*         I
+
+ SAMPLE SIZE =    9         UNCORRECTED MEAN =     0.096
+ ADJUSTED SD =   0.764      ADJUSTED SKEWNESS =   -1.865
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  0.096 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        0  I*         I
+    4  -1.34 TO -0.67        1  I          I
+    5  -0.67 TO  0.00        4  I***       I
+    6   0.00 TO  0.67        3  I****      I
+    7   0.67 TO  1.34        0  I*         I
+    8   1.34 TO  2.01        1  I          I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        0  I          I
+
+
+
+
+ EVENT NO.   28  Apectodinium augustum                   
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1      0.317        I          I*         I
+  2      0.782        I          I***       I
+  3      0.535        I          I**        I
+  4      0.950        I          I***       I
+  5     -0.732        I       ***I          I
+  6     -0.447        I        **I          I
+  7      0.779        I          I***       I
+ 10      1.698        I          I******    I
+ 14      0.704        I          I***       I
+
+ SAMPLE SIZE =    9         UNCORRECTED MEAN =     0.510
+ ADJUSTED SD =   0.732      ADJUSTED SKEWNESS =   -0.405
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  0.510 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        1  I**        I
+    5  -0.67 TO  0.00        5  I*         I
+    6   0.00 TO  0.67        1  I*****     I
+    7   0.67 TO  1.34        2  I*         I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        0  I          I
+
+
+
+
+ EVENT NO.  105  Rzehakina minima                        
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1      1.864        I          I******    I
+  2      1.259        I          I****      I
+  4      1.208        I          I****      I
+  7      6.260        I          I**********I
+  9      0.252        I          I*         I
+ 12      0.253        I          I*         I
+
+ SAMPLE SIZE =    6         UNCORRECTED MEAN =     1.849
+ ADJUSTED SD =   2.250      ADJUSTED SKEWNESS =    2.033
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  1.849 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        1  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        0  I**        I
+    4  -1.34 TO -0.67        0  I          I
+    5  -0.67 TO  0.00        1  I**        I
+    6   0.00 TO  0.67        2  I*         I
+    7   0.67 TO  1.34        0  I          I
+    8   1.34 TO  2.01        2  I          I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        0  I*         I
+
+
+
+
+ EVENT NO.   76  Reticulophragmium paupera               
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1      0.319        I          I*         I
+  2      0.708        I          I***       I
+  3      0.502        I          I**        I
+  4      1.460        I          I*****     I
+  5      0.187        I          I*         I
+  6      2.070        I          I*******   I
+  9     -0.214        I         *I          I
+ 10      1.328        I          I****      I
+ 11      1.258        I          I****      I
+ 13      0.947        I          I***       I
+ 14      0.701        I          I***       I
+
+ SAMPLE SIZE =   11         UNCORRECTED MEAN =     0.842
+ ADJUSTED SD =   0.654      ADJUSTED SKEWNESS =    0.272
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  0.842 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        1  I*         I
+    5  -0.67 TO  0.00        4  I*****     I
+    6   0.00 TO  0.67        5  I****      I
+    7   0.67 TO  1.34        1  I*         I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        0  I          I
+
+
+
+
+ EVENT NO.  283  Reticulophragmium garcilassoi           
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  2      3.283        I          I**********I
+  4     -0.359        I        **I          I
+  5      0.657        I          I**        I
+  7     -0.385        I        **I          I
+  9      1.514        I          I*****     I
+ 14      0.164        I          I*         I
+
+ SAMPLE SIZE =    6         UNCORRECTED MEAN =     0.812
+ ADJUSTED SD =   1.403      ADJUSTED SKEWNESS =    1.284
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  0.812 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        1  I          I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        1  I**        I
+    5  -0.67 TO  0.00        0  I**        I
+    6   0.00 TO  0.67        2  I          I
+    7   0.67 TO  1.34        2  I*         I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        0  I*         I
+   10   2.68 TO  9.99        0  I          I
+
+
+
+
+ EVENT NO.   57  Spiroplectammina spectabilis LCO        
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1      0.334        I          I*         I
+  2     -0.399        I        **I          I
+  4      0.913        I          I***       I
+  5      1.139        I          I****      I
+  6      0.451        I          I**        I
+  7      1.994        I          I******    I
+  9     -0.083        I         *I          I
+ 10     -2.378        I  ********I          I
+ 11      1.398        I          I*****     I
+ 13     -1.481        I     *****I          I
+ 14     -0.388        I        **I          I
+
+ SAMPLE SIZE =   11         UNCORRECTED MEAN =     0.136
+ ADJUSTED SD =   1.278      ADJUSTED SKEWNESS =   -0.614
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  0.136 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I*         I
+    3  -2.01 TO -1.34        1  I*         I
+    4  -1.34 TO -0.67        3  I          I
+    5  -0.67 TO  0.00        2  I***       I
+    6   0.00 TO  0.67        3  I**        I
+    7   0.67 TO  1.34        0  I***       I
+    8   1.34 TO  2.01        1  I*         I
+    9   2.01 TO  2.68        1  I          I
+   10   2.68 TO  9.99        0  I          I
+
+
+
+
+ EVENT NO.  114  Alisocysta margarita                    
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1      1.934        I          I******    I
+  3     -0.079        I         *I          I
+  4     -0.943        I       ***I          I
+  7     -0.909        I       ***I          I
+ 13     -0.560        I        **I          I
+ 14      0.137        I          I*         I
+
+ SAMPLE SIZE =    6         UNCORRECTED MEAN =    -0.070
+ ADJUSTED SD =   1.074      ADJUSTED SKEWNESS =    1.620
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.070 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        1  I          I
+    4  -1.34 TO -0.67        0  I**        I
+    5  -0.67 TO  0.00        1  I**        I
+    6   0.00 TO  0.67        2  I*         I
+    7   0.67 TO  1.34        2  I          I
+    8   1.34 TO  2.01        0  I*         I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        0  I          I
+
+
+
+
+ EVENT NO.  310  Saccammina placenta                     
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1      0.361        I          I**        I
+  2     -0.461        I        **I          I
+  3      0.441        I          I**        I
+  4     -1.780        I    ******I          I
+  7     -0.666        I        **I          I
+ 11     -1.832        I    ******I          I
+ 12     -2.115        I   *******I          I
+ 14      0.678        I          I***       I
+
+ SAMPLE SIZE =    8         UNCORRECTED MEAN =    -0.672
+ ADJUSTED SD =   1.123      ADJUSTED SKEWNESS =   -0.132
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.672 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        1  I*         I
+    4  -1.34 TO -0.67        2  I**        I
+    5  -0.67 TO  0.00        2  I          I
+    6   0.00 TO  0.67        0  I**        I
+    7   0.67 TO  1.34        2  I**        I
+    8   1.34 TO  2.01        1  I*         I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        0  I          I
+
+
+
+
+ EVENT NO.  129  Trochammina ruthven murrayi             
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -0.161        I         *I          I
+  2      1.137        I          I****      I
+  3     -0.123        I         *I          I
+  4      0.547        I          I**        I
+  6     -1.467        I     *****I          I
+  7     -1.536        I     *****I          I
+ 13      0.258        I          I*         I
+
+ SAMPLE SIZE =    7         UNCORRECTED MEAN =    -0.192
+ ADJUSTED SD =   0.996      ADJUSTED SKEWNESS =   -0.391
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.192 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        0  I*         I
+    4  -1.34 TO -0.67        2  I*         I
+    5  -0.67 TO  0.00        3  I          I
+    6   0.00 TO  0.67        0  I***       I
+    7   0.67 TO  1.34        1  I**        I
+    8   1.34 TO  2.01        1  I          I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        0  I          I
+
+
+
+
+ EVENT NO.  134  Hormosina excelsa                       
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -0.694        I       ***I          I
+  4     -1.385        I     *****I          I
+  6     -0.634        I        **I          I
+ 10     -3.588        I**********I          I
+ 11     -1.785        I    ******I          I
+ 13      2.365        I          I********  I
+
+ SAMPLE SIZE =    6         UNCORRECTED MEAN =    -0.953
+ ADJUSTED SD =   1.949      ADJUSTED SKEWNESS =    0.715
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.953 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        1  I          I
+    2  -2.68 TO -2.01        0  I*         I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        0  I*         I
+    5  -0.67 TO  0.00        2  I*         I
+    6   0.00 TO  0.67        1  I**        I
+    7   0.67 TO  1.34        1  I          I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        1  I          I
+   10   2.68 TO  9.99        0  I*         I
+
+
+
+
+ EVENT NO.  118  Palaeoperidinium pyrophorum             
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  2     -1.100        I      ****I          I
+  3     -1.311        I      ****I          I
+  4     -0.108        I         *I          I
+  6      1.379        I          I*****     I
+  7     -1.154        I      ****I          I
+ 13      1.160        I          I****      I
+
+ SAMPLE SIZE =    6         UNCORRECTED MEAN =    -0.189
+ ADJUSTED SD =   1.209      ADJUSTED SKEWNESS =    0.551
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.189 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        2  I          I
+    4  -1.34 TO -0.67        0  I***       I
+    5  -0.67 TO  0.00        1  I          I
+    6   0.00 TO  0.67        0  I*         I
+    7   0.67 TO  1.34        3  I          I
+    8   1.34 TO  2.01        0  I**        I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        0  I          I

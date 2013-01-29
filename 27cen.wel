@@ -1,0 +1,87 @@
+ NUMBER OF WELLS =  27
+ DEPTHS IN METERS
+
+    1   Saga (N) 6407/2-3                        ## of Events and UEs = 102  9
+    2   Statoil (N) 6407/4-1                     ## of Events and UEs = 109  7
+    3   Elf Aquitaine (N) 6406/8-1               ## of Events and UEs =  93  7
+    4   Hydro (N) 34/8-1                         ## of Events and UEs = 115  6
+    5   Esso (N) 16/1-1                          ## of Events and UEs =  71  1
+    6   Saga (N) 34/4-5                          ## of Events and UEs =  95  5
+    7   Hydro (N) 6407/7-1                       ## of Events and UEs =  74  3
+    8   6407/7A-1                                ## of Events and UEs =  14  1
+    9   Shell (UK) 9/23-1                        ## of Events and UEs =  61  1
+   10   Mobil (UK) 9/13-1                        ## of Events and UEs =  30  2
+   11   Mobil (UK) 9/13-3A                       ## of Events and UEs =  44  2
+   12   BP (UK) 15/20-2                          ## of Events and UEs =  51  2
+   13   BP (UK) 21/10-1                          ## of Events and UEs =  30  0
+   14   BP (UK) 21/10-4                          ## of Events and UEs =  36  0
+   15   Saga (N) 2/2-4                           ## of Events and UEs =  97  4
+   16   Shell (UK) 30/19-1                       ## of Events and UEs =  64  1
+   17   Shell (UK) 29/3-1                        ## of Events and UEs =  73  3
+   18   Shell (UK) 22/6-1                        ## of Events and UEs =  58  3
+   19   Phillips (UK) 16/17-1                    ## of Events and UEs =  37  0
+   20   Phillips (UK) 23/22-1                    ## of Events and UEs =  35  1
+   21   Amoco (N) 2/8-1                          ## of Events and UEs =  28  1
+   22   Saga (N) 35/3-1                          ## of Events and UEs =  51  5
+   23   Saga 34/7-1                              ## of Events and UEs =  45  0
+   24   Saga 34/7-2                              ## of Events and UEs =  44  2
+   25   Saga 34/7-4                              ## of Events and UEs =  38  1
+   26   Saga 34/7-15s                            ## of Events and UEs =  41  0
+   27   Total (UK) 3/25-1                        ## of Events and UEs =  43  0
+ 
+
+    1   The 9 UEs are   368  369   46  371  407   47   21  114  106
+    2   The 7 UEs are   301  368  369   46  371  407  343
+    3   The 7 UEs are   301  348  368  371  369  407  114
+    4   The 6 UEs are    46   14   47   21  114  158
+    5   The 1 UEs are    37
+    6   The 5 UEs are   368  371  369   14  343
+    7   The 3 UEs are    46   21  114
+    8   The 1 UEs are   318
+    9   The 1 UEs are   106
+   10   The 2 UEs are   148   37
+   11   The 2 UEs are   148  106
+   12   The 2 UEs are   130   37
+   13   The 0 UEs are 
+   14   The 0 UEs are 
+   15   The 4 UEs are   318  130   21  343
+   16   The 1 UEs are   106
+   17   The 3 UEs are   318  130  301
+   18   The 3 UEs are   323  130  301
+   19   The 0 UEs are 
+   20   The 1 UEs are   148
+   21   The 1 UEs are   130
+   22   The 5 UEs are   348  368  371  114  343
+   23   The 0 UEs are 
+   24   The 2 UEs are   318  348
+   25   The 1 UEs are   318
+   26   The 0 UEs are 
+   27   The 0 UEs are 
+
+
+
+
+
+ RECORDS FOR THE FOLLOWING UNIQUE (RARE) EVENTS HAVE BEEN SELECTED:
+
+ NUMBER   FREQUENCY       NAME
+
+    14        2          Eatonicysta ursulae LCO                 
+    21        4          Deflandrea oebisfeldensis LCO           
+    46        4          Svalbardella cooksoniae                 
+    37        3          Acarinina pentacamerata                 
+    47        2          Planorotalites planoconicus             
+   106        4          Trochammina cf. subvesicularis          
+   114        5          Alisocysta margarita                    
+   130        5          Siphonina advena                        
+   148        3          Globigerapsis index                     
+   158        1          Spongodinium delitiense                 
+   301        4          Bolboforma metzmacheri                  
+   318        5          Monspeliensis pseudotepida              
+   323        1          Bolboforma spiralis                     
+   343        4          Cenosphaera sp. (disc or flat)          
+   348        3          Sphaeroidinella disjuncta               
+   371        5          Areosphaeridium arcuatum                
+   368        5          Chiropteridium mespilanum               
+   369        4          Rhombodinium draco                      
+   407        3          Spiniferites sp. 1 Manum                

@@ -1,0 +1,614 @@
+
+
+ 1  TOTAL NO. OF WELLS =  14
+
+ WELL #  1 WITH  47 EVENTS
+ WELL #  2 WITH  47 EVENTS
+ WELL #  3 WITH  41 EVENTS
+ WELL #  4 WITH  47 EVENTS
+ WELL #  5 WITH  35 EVENTS
+ WELL #  6 WITH  37 EVENTS
+ WELL #  7 WITH  30 EVENTS
+ WELL #  8 WITH  10 EVENTS
+ WELL #  9 WITH  24 EVENTS
+ WELL # 10 WITH  40 EVENTS
+ WELL # 11 WITH  29 EVENTS
+ WELL # 12 WITH  19 EVENTS
+ WELL # 13 WITH  21 EVENTS
+ WELL # 14 WITH  29 EVENTS
+
+
+
+  Saga (N) 6407/2-3                       
+
+  i    X(i)    YMAX-Y(i) EXPECTED  DEVIATION  NO.  NAME
+
+  1   2.00000  29.00000  28.26667   0.79086     1  Neogloboquadrina pachyderma             
+  2   3.00000  28.00000  27.66025   0.36225    31  Cibicidoides scaldisensis               
+  3   1.00000  28.00000  28.87547  -0.95703   228  Cassidulina teretis                     
+  4   4.00000  28.00000  27.05620   0.99671   316  Trifarina fluens                        
+  5   5.00000  27.00000  26.45453   0.57149   171  Buccella frigida                        
+  6   7.00000  27.00000  25.25830   1.80321     4  Globorotalia inflata                    
+  7   6.00000  26.00000  25.85522   0.15069   270  Cibicidoides grossa                     
+  8   8.00000  25.00000  24.66374   0.34665    23  Sigmoilopsis schlumbergeri              
+  9   9.00000  24.00000  24.07157  -0.07353   269  Neogloboquadrina atlantica              
+ 10  11.00000  23.00000  22.89433   0.10810    15  Globigerina praebulloides               
+ 11  10.00000  22.00000  23.48176  -1.51857    91  Diatoms/radiolarians LCO                
+ 12  13.00000  21.00000  21.72659  -0.74171   362  Cannosphaeropsis utinensis              
+ 13  14.00000  20.00000  21.14627  -1.16969   219  Martinotiella cylindrica                
+ 14  18.00000  19.00000  18.84877   0.15448     3  Deflandrea phosphoritica                
+ 15  19.00000  18.00000  18.28033  -0.28653     7  Areoligera semicirculata                
+ 16  20.00000  18.00000  17.71426   0.29224    41  Wetzelliella symmetrica                 
+ 17  21.00000  17.00000  17.15057  -0.15410    25  Coarse agglutinated spp.                
+ 18  22.00000  17.00000  16.58925   0.42061    97  Cyclammina placenta                     
+ 19  23.00000  17.00000  16.03031   0.99346   182  Spirosigmoilinella compressa            
+ 20  17.00000  16.00000  19.41959  -3.49131    24  Turrilina alsatica                      
+ 21  24.00000  15.00000  15.47373  -0.48554   289  Adercotryma agterbergi                  
+ 22  26.00000  15.00000  14.36771   0.64830   324  Aschemonella grandis                    
+ 23  25.00000  15.00000  14.91954   0.08249   198  Glomospirella biedae                    
+ 24  31.00000  14.00000  11.64420   2.41205    12  Areosphaeridium diktyoplokus            
+ 25  29.00000  13.00000  12.72648   0.28032    29  Reticulophragmium amplectens            
+ 26  34.00000  12.00000  10.03858   2.00416    72  Rottnestia borussica                    
+ 27  36.00000  12.00000   8.98004   3.08155    92  Diphyes ficusoides                      
+ 28  28.00000  11.00000  13.27119  -2.32834   321  Dorothia seigliei                       
+ 29  35.00000  11.00000   9.50812   1.52330    68  Spiroplectammina spectabilis LO         
+ 30  30.00000  10.00000  12.18416  -2.23751    32  Ammosphaeroidina pseudopauciloculata    
+ 31  32.00000   9.00000  11.10662  -2.15557   229  Recurvoides ex.gr. walteri              
+ 32  38.00000   9.00000   7.93099   1.08979   175  Reticulophragmium intermedia            
+ 33  39.00000   8.00000   7.41002   0.60134    99  Eatonicysta ursulae                     
+ 34  37.00000   7.00000   8.45432  -1.48316   260  Haplophragmoides kirki                  
+ 35  41.00000   7.00000   6.37522   0.63721   279  Recurvoidella lamella                   
+ 36  42.00000   7.00000   5.86137   1.16235    50  Subbotina patagonica                    
+ 37  40.00000   7.00000   6.89143   0.11067    54  Spiroplectammina navarroana             
+ 38  43.00000   6.00000   5.34991   0.66461   108  Deflandrea oebisfeldensis               
+ 39  44.00000   5.00000   4.84081   0.16309    22  Coscinodiscus spp.                      
+ 40  45.00000   4.00000   4.33409  -0.34324    28  Apectodinium augustum                   
+ 41  47.00000   3.00000   3.32777  -0.33958    76  Reticulophragmium paupera               
+ 42  49.00000   2.00000   2.33095  -0.34733    57  Spiroplectammina spectabilis LCO        
+ 43  46.00000   2.00000   3.82975  -1.88681   105  Rzehakina minima                        
+ 44  52.00000   1.00000   0.85352   0.15861   129  Trochammina ruthven murrayi             
+ 45  53.00000   1.00000   0.36579   0.69677   134  Hormosina excelsa                       
+ 46  51.00000   1.00000   1.34362  -0.36751   310  Saccammina placenta                     
+ 47  50.00000   0.00000   1.83610  -1.94362   114  Alisocysta margarita                    
+
+ 47 CALCULATED VALUES DERIVED FROM:      0.51335955     0.61235744    -0.00118693
+
+
+
+
+  Statoil (N) 6407/4-1                    
+
+  i    X(i)    YMAX-Y(i) EXPECTED  DEVIATION  NO.  NAME
+
+  1   3.00000  31.00000  30.55440   0.48137    31  Cibicidoides scaldisensis               
+  2   2.00000  31.00000  31.22830  -0.25006     1  Neogloboquadrina pachyderma             
+  3   1.00000  31.00000  31.90498  -1.00759   228  Cassidulina teretis                     
+  4   6.00000  30.00000  28.54936   1.52154   270  Cibicidoides grossa                     
+  5   7.00000  29.00000  27.88656   1.16007     4  Globorotalia inflata                    
+  6   8.00000  28.00000  27.22654   0.80148    23  Sigmoilopsis schlumbergeri              
+  7   9.00000  27.00000  26.56929   0.44436   269  Neogloboquadrina atlantica              
+  8  10.00000  26.00000  25.91482   0.08757    91  Diatoms/radiolarians LCO                
+  9  11.00000  25.00000  25.26313  -0.26982    15  Globigerina praebulloides               
+ 10  14.00000  24.00000  23.32471   0.68957   219  Martinotiella cylindrica                
+ 11  12.00000  24.00000  24.61421  -0.62861   363  Hystrichosphaeropsis obscura            
+ 12  13.00000  23.00000  23.96807  -0.98940   362  Cannosphaeropsis utinensis              
+ 13  15.00000  22.00000  22.68411  -0.69824   236  G. ex.gr. praescitula zealandica        
+ 14  18.00000  21.00000  20.77900   0.22562     3  Deflandrea phosphoritica                
+ 15  19.00000  20.00000  20.14951  -0.15270     7  Areoligera semicirculata                
+ 16  20.00000  19.00000  19.52280  -0.53420    41  Wetzelliella symmetrica                 
+ 17  21.00000  18.00000  18.89887  -0.91894    25  Coarse agglutinated spp.                
+ 18  22.00000  18.00000  18.27771  -0.28405    97  Cyclammina placenta                     
+ 19  24.00000  17.00000  17.04372  -0.04475   289  Adercotryma agterbergi                  
+ 20  26.00000  16.00000  15.82083   0.18349   324  Aschemonella grandis                    
+ 21  23.00000  15.00000  17.65932  -2.72128   182  Spirosigmoilinella compressa            
+ 22  29.00000  14.00000  14.00732  -0.00749    29  Reticulophragmium amplectens            
+ 23  32.00000  14.00000  12.21879   1.82096   229  Recurvoides ex.gr. walteri              
+ 24  30.00000  14.00000  13.40837   0.60547    32  Ammosphaeroidina pseudopauciloculata    
+ 25  28.00000  13.00000  14.60905  -1.64768   321  Dorothia seigliei                       
+ 26  33.00000  13.00000  11.62816   1.40157   263  Ammomarginulina aubertae                
+ 27  35.00000  13.00000  10.45524   2.59650    68  Spiroplectammina spectabilis LO         
+ 28  27.00000  13.00000  15.21355  -2.26696   261  Haplophragmoides walteri                
+ 29  31.00000  13.00000  12.81219   0.19211    12  Areosphaeridium diktyoplokus            
+ 30  34.00000  12.00000  11.04032   0.97984    72  Rottnestia borussica                    
+ 31  37.00000  11.00000   9.29342   1.73938   260  Haplophragmoides kirki                  
+ 32  40.00000  11.00000   7.57152   3.49343    54  Spiroplectammina navarroana             
+ 33  41.00000  10.00000   7.00310   3.05533   279  Recurvoidella lamella                   
+ 34  36.00000   9.00000   9.87294  -0.89016    92  Diphyes ficusoides                      
+ 35  38.00000   8.00000   8.71668  -0.73021   175  Reticulophragmium intermedia            
+ 36  42.00000   7.00000   6.43746   0.57408    50  Subbotina patagonica                    
+ 37  39.00000   6.00000   8.14271  -2.18291    99  Eatonicysta ursulae                     
+ 38  44.00000   5.00000   5.31450  -0.32214    22  Coscinodiscus spp.                      
+ 39  43.00000   5.00000   5.87459  -0.89389   108  Deflandrea oebisfeldensis               
+ 40  45.00000   4.00000   4.75718  -0.77783    28  Apectodinium augustum                   
+ 41  47.00000   3.00000   3.65088  -0.67438    76  Reticulophragmium paupera               
+ 42  46.00000   3.00000   4.20265  -1.24012   105  Rzehakina minima                        
+ 43  49.00000   3.00000   2.55569   0.46647    57  Spiroplectammina spectabilis LCO        
+ 44  51.00000   2.00000   1.47159   0.56558   310  Saccammina placenta                     
+ 45  54.00000   1.00000  -0.13373   1.26950   118  Palaeoperidinium pyrophorum             
+ 46  52.00000   0.00000   0.93371  -1.01203   129  Trochammina ruthven murrayi             
+ 47  48.00000   0.00000   3.10190  -3.23302   283  Reticulophragmium garcilassoi           
+
+ 47 CALCULATED VALUES DERIVED FROM:     -0.58443111     0.68084002    -0.00138793
+
+
+
+
+  Elf Aquitaine (N) 6406/8-1              
+
+  i    X(i)    YMAX-Y(i) EXPECTED  DEVIATION  NO.  NAME
+
+  1   2.00000  25.00000  25.64740  -0.71242     1  Neogloboquadrina pachyderma             
+  2   1.00000  25.00000  26.14814  -1.28569   228  Cassidulina teretis                     
+  3   6.00000  25.00000  23.63800   1.43149   270  Cibicidoides grossa                     
+  4   8.00000  25.00000  22.62944   2.45990    23  Sigmoilopsis schlumbergeri              
+  5   4.00000  24.00000  24.64399  -0.68975   316  Trifarina fluens                        
+  6   7.00000  23.00000  23.13404  -0.13989     4  Globorotalia inflata                    
+  7   9.00000  22.00000  22.12419  -0.12828   269  Neogloboquadrina atlantica              
+  8  10.00000  22.00000  21.61830   0.39286    91  Diatoms/radiolarians LCO                
+  9  11.00000  21.00000  21.11177  -0.11472    15  Globigerina praebulloides               
+ 10  13.00000  20.00000  20.09677  -0.09899   362  Cannosphaeropsis utinensis              
+ 11  12.00000  20.00000  20.60459  -0.61934   363  Hystrichosphaeropsis obscura            
+ 12  14.00000  19.00000  19.58830  -0.60131   219  Martinotiella cylindrica                
+ 13  19.00000  18.00000  17.03631   0.98563     7  Areoligera semicirculata                
+ 14  20.00000  17.00000  16.52398   0.48716    41  Wetzelliella symmetrica                 
+ 15  18.00000  17.00000  17.54799  -0.56016     3  Deflandrea phosphoritica                
+ 16  21.00000  16.00000  16.01100  -0.01127    25  Coarse agglutinated spp.                
+ 17  24.00000  16.00000  14.46822   1.57141   289  Adercotryma agterbergi                  
+ 18  23.00000  15.00000  14.98312   0.01730   182  Spirosigmoilinella compressa            
+ 19  26.00000  15.00000  13.43647   1.60511   324  Aschemonella grandis                    
+ 20  25.00000  15.00000  13.95267   1.07487   198  Glomospirella biedae                    
+ 21  22.00000  14.00000  15.49739  -1.53441    97  Cyclammina placenta                     
+ 22  27.00000  13.00000  12.91964   0.08251   261  Haplophragmoides walteri                
+ 23  29.00000  12.00000  11.88403   0.11906    29  Reticulophragmium amplectens            
+ 24  30.00000  11.00000  11.36526  -0.37492    32  Ammosphaeroidina pseudopauciloculata    
+ 25  35.00000  11.00000   8.76176   2.29221    68  Spiroplectammina spectabilis LO         
+ 26  33.00000  11.00000   9.80509   1.22496   263  Ammomarginulina aubertae                
+ 27  32.00000  10.00000  10.32579  -0.33415   229  Recurvoides ex.gr. walteri              
+ 28  36.00000   9.00000   8.23913   0.77888    92  Diphyes ficusoides                      
+ 29  28.00000   8.00000  12.40216  -4.52011   321  Dorothia seigliei                       
+ 30  37.00000   7.00000   7.71585  -0.73256   260  Haplophragmoides kirki                  
+ 31  39.00000   6.00000   6.66737  -0.68292    99  Eatonicysta ursulae                     
+ 32  42.00000   5.00000   5.08981  -0.09214    50  Subbotina patagonica                    
+ 33  40.00000   5.00000   6.14216  -1.16928    54  Spiroplectammina navarroana             
+ 34  44.00000   4.00000   4.03489  -0.03596    22  Coscinodiscus spp.                      
+ 35  43.00000   4.00000   4.56267  -0.57837   108  Deflandrea oebisfeldensis               
+ 36  45.00000   3.00000   3.50646  -0.52372    28  Apectodinium augustum                   
+ 37  47.00000   2.00000   2.44768  -0.46750    76  Reticulophragmium paupera               
+ 38  50.00000   1.00000   0.85467   0.15556   114  Alisocysta margarita                    
+ 39  52.00000   0.00000  -0.21055   0.23128   129  Trochammina ruthven murrayi             
+ 40  51.00000   0.00000   0.32238  -0.34918   310  Saccammina placenta                     
+ 41  54.00000   0.00000  -1.27835   1.45630   118  Palaeoperidinium pyrophorum             
+
+ 41 CALCULATED VALUES DERIVED FROM:     -0.64823788     0.49977422     0.00032194
+
+
+
+
+  Hydro (N) 34/8-1                        
+
+  i    X(i)    YMAX-Y(i) EXPECTED  DEVIATION  NO.  NAME
+
+  1   3.00000  33.00000  31.84223   1.22485    31  Cibicidoides scaldisensis               
+  2   0.00000  33.00000  33.12150  -0.13285    77  Elphidium spp.                          
+  3   2.00000  33.00000  32.27606   0.77298     1  Neogloboquadrina pachyderma             
+  4   1.00000  33.00000  32.70248   0.32116   228  Cassidulina teretis                     
+  5   5.00000  32.00000  30.95236   1.09274   171  Buccella frigida                        
+  6   7.00000  31.00000  30.03288   0.99913     4  Globorotalia inflata                    
+  7   6.00000  31.00000  30.49632   0.52259   270  Cibicidoides grossa                     
+  8   8.00000  30.00000  29.56203   0.45092    23  Sigmoilopsis schlumbergeri              
+  9   4.00000  29.00000  31.40100  -2.52053   316  Trifarina fluens                        
+ 10   9.00000  28.00000  29.08377  -1.11283   269  Neogloboquadrina atlantica              
+ 11  16.00000  27.00000  25.52867   1.50339    17  Asterigerina gurichi                    
+ 12  11.00000  26.00000  28.10505  -2.15405    15  Globigerina praebulloides               
+ 13  18.00000  25.00000  24.44629   0.56629     3  Deflandrea phosphoritica                
+ 14  17.00000  24.00000  24.99118  -1.01319    24  Turrilina alsatica                      
+ 15  21.00000  23.00000  22.76718   0.23851    25  Coarse agglutinated spp.                
+ 16  23.00000  23.00000  21.61075   1.42454   182  Spirosigmoilinella compressa            
+ 17  22.00000  23.00000  22.19267   0.82749    97  Cyclammina placenta                     
+ 18  28.00000  23.00000  18.59011   4.52359   321  Dorothia seigliei                       
+ 19  27.00000  22.00000  19.20904   2.86346   261  Haplophragmoides walteri                
+ 20  20.00000  21.00000  23.33429  -2.39003    41  Wetzelliella symmetrica                 
+ 21  24.00000  21.00000  21.02143  -0.02198   289  Adercotryma agterbergi                  
+ 22  19.00000  20.00000  23.89399  -3.98469     7  Areoligera semicirculata                
+ 23  29.00000  19.00000  17.96376   1.06260    29  Reticulophragmium amplectens            
+ 24  30.00000  19.00000  17.33002   1.71169    32  Ammosphaeroidina pseudopauciloculata    
+ 25  31.00000  18.00000  16.68887   1.34312    12  Areosphaeridium diktyoplokus            
+ 26  25.00000  17.00000  20.42471  -3.51359   198  Glomospirella biedae                    
+ 27  37.00000  16.00000  12.68647   3.37917   260  Haplophragmoides kirki                  
+ 28  34.00000  15.00000  14.72099   0.28519    72  Rottnestia borussica                    
+ 29  36.00000  14.00000  13.37204   0.64085    92  Diphyes ficusoides                      
+ 30  41.00000  13.00000   9.87011   3.18795   279  Recurvoidella lamella                   
+ 31  35.00000  12.00000  14.05022  -2.09395    68  Spiroplectammina spectabilis LO         
+ 32  39.00000  11.00000  11.29310  -0.29859    99  Eatonicysta ursulae                     
+ 33  38.00000  10.00000  11.99348  -2.03174   175  Reticulophragmium intermedia            
+ 34  42.00000   9.00000   9.14751  -0.15031    50  Subbotina patagonica                    
+ 35  43.00000   8.00000   8.41751  -0.42576   108  Deflandrea oebisfeldensis               
+ 36  44.00000   7.00000   7.68010  -0.69443    22  Coscinodiscus spp.                      
+ 37  45.00000   6.00000   6.93529  -0.95677    28  Apectodinium augustum                   
+ 38  40.00000   5.00000  10.58531  -5.68865    54  Spiroplectammina navarroana             
+ 39  48.00000   5.00000   4.65642   0.35500   283  Reticulophragmium garcilassoi           
+ 40  46.00000   5.00000   6.18307  -1.21331   105  Rzehakina minima                        
+ 41  47.00000   4.00000   5.42345  -1.46465    76  Reticulophragmium paupera               
+ 42  51.00000   4.00000   2.31092   1.77893   310  Saccammina placenta                     
+ 43  50.00000   4.00000   3.10016   0.94051   114  Alisocysta margarita                    
+ 44  49.00000   3.00000   3.88199  -0.91604    57  Spiroplectammina spectabilis LCO        
+ 45  53.00000   2.00000   0.71022   1.38571   134  Hormosina excelsa                       
+ 46  52.00000   1.00000   1.51427  -0.54658   129  Trochammina ruthven murrayi             
+ 47  54.00000   0.00000  -0.10123   0.11015   118  Palaeoperidinium pyrophorum             
+
+ 47 CALCULATED VALUES DERIVED FROM:      0.87849879     0.41531670     0.00370220
+
+
+
+
+  Esso (N) 16/1-1                         
+
+  i    X(i)    YMAX-Y(i) EXPECTED  DEVIATION  NO.  NAME
+
+  1   0.00000  23.00000  23.41533  -0.47567    77  Elphidium spp.                          
+  2   1.00000  23.00000  23.07567  -0.08472   228  Cassidulina teretis                     
+  3   6.00000  23.00000  21.30426   1.77882   270  Cibicidoides grossa                     
+  4   8.00000  22.00000  20.56159   1.49175    23  Sigmoilopsis schlumbergeri              
+  5   2.00000  22.00000  22.73113  -0.80338     1  Neogloboquadrina pachyderma             
+  6   7.00000  22.00000  20.93536   1.10962     4  Globorotalia inflata                    
+  7  14.00000  21.00000  18.21665   2.85984   219  Martinotiella cylindrica                
+  8   9.00000  20.00000  20.18295  -0.18903   269  Neogloboquadrina atlantica              
+  9  10.00000  19.00000  19.79943  -0.82384    91  Diatoms/radiolarians LCO                
+ 10  15.00000  18.00000  17.80877   0.19658   236  G. ex.gr. praescitula zealandica        
+ 11  11.00000  18.00000  19.41105  -1.45161    15  Globigerina praebulloides               
+ 12  16.00000  17.00000  17.39602  -0.40741    17  Asterigerina gurichi                    
+ 13  21.00000  16.00000  15.25918   0.76583    25  Coarse agglutinated spp.                
+ 14  20.00000  15.00000  15.69629  -0.71917    41  Wetzelliella symmetrica                 
+ 15  17.00000  14.00000  16.97840  -3.06689    24  Turrilina alsatica                      
+ 16  23.00000  14.00000  14.37034  -0.38333   182  Spirosigmoilinella compressa            
+ 17  22.00000  14.00000  14.81720  -0.84541    97  Cyclammina placenta                     
+ 18  28.00000  13.00000  12.06297   0.96928   321  Dorothia seigliei                       
+ 19  27.00000  13.00000  12.53419   0.48212   261  Haplophragmoides walteri                
+ 20  24.00000  13.00000  13.91861  -0.95115   289  Adercotryma agterbergi                  
+ 21  37.00000  12.00000   7.60274   4.51451   260  Haplophragmoides kirki                  
+ 22  31.00000  11.00000  10.62008   0.39193    12  Areosphaeridium diktyoplokus            
+ 23  33.00000  10.00000   9.63379   0.37696   263  Ammomarginulina aubertae                
+ 24  35.00000   9.00000   8.62801   0.38221    68  Spiroplectammina spectabilis LO         
+ 25  29.00000   8.00000  11.58688  -3.70745    29  Reticulophragmium amplectens            
+ 26  39.00000   7.00000   6.55798   0.45432    99  Eatonicysta ursulae                     
+ 27  41.00000   6.00000   5.49373   0.52247   279  Recurvoidella lamella                   
+ 28  40.00000   6.00000   6.02829  -0.02912    54  Spiroplectammina navarroana             
+ 29  42.00000   5.00000   4.95430   0.04733    50  Subbotina patagonica                    
+ 30  43.00000   4.00000   4.40999  -0.42664   108  Deflandrea oebisfeldensis               
+ 31  45.00000   4.00000   3.30676   0.73166    28  Apectodinium augustum                   
+ 32  44.00000   3.00000   3.86081  -0.90135    22  Coscinodiscus spp.                      
+ 33  47.00000   2.00000   2.18405  -0.19860    76  Reticulophragmium paupera               
+ 34  48.00000   1.00000   1.61538  -0.67408   283  Reticulophragmium garcilassoi           
+ 35  49.00000   0.00000   1.04184  -1.16223    57  Spiroplectammina spectabilis LCO        
+
+ 35 CALCULATED VALUES DERIVED FROM:      0.58466703     0.33722785     0.00243621
+
+
+
+
+  Saga (N) 34/4-5                         
+
+  i    X(i)    YMAX-Y(i) EXPECTED  DEVIATION  NO.  NAME
+
+  1   0.00000  26.00000  27.00956  -1.10320    77  Elphidium spp.                          
+  2   1.00000  26.00000  26.27195  -0.29308   228  Cassidulina teretis                     
+  3   2.00000  26.00000  25.54420   0.48555     1  Neogloboquadrina pachyderma             
+  4   3.00000  26.00000  24.82630   1.23837    31  Cibicidoides scaldisensis               
+  5   4.00000  25.00000  24.11825   0.92305   316  Trifarina fluens                        
+  6   8.00000  24.00000  21.38454   2.68852    23  Sigmoilopsis schlumbergeri              
+  7   6.00000  24.00000  22.73169   1.31266   270  Cibicidoides grossa                     
+  8   5.00000  23.00000  23.42004  -0.43693   171  Buccella frigida                        
+  9   7.00000  22.00000  22.05319  -0.05484     4  Globorotalia inflata                    
+ 10   9.00000  21.00000  20.72574   0.28134   269  Neogloboquadrina atlantica              
+ 11  11.00000  20.00000  19.43769   0.57566    15  Globigerina praebulloides               
+ 12  13.00000  19.00000  18.18903   0.83026   362  Cannosphaeropsis utinensis              
+ 13  22.00000  18.00000  13.05768   5.10813    97  Cyclammina placenta                     
+ 14  10.00000  17.00000  20.07679  -3.15203    91  Diatoms/radiolarians LCO                
+ 15  12.00000  16.00000  18.80843  -2.87455   363  Hystrichosphaeropsis obscura            
+ 16  17.00000  15.00000  15.80993  -0.83224    24  Turrilina alsatica                      
+ 17  19.00000  14.00000  14.67948  -0.69993     7  Areoligera semicirculata                
+ 18  18.00000  13.00000  15.23978  -2.30431     3  Deflandrea phosphoritica                
+ 19  21.00000  12.00000  13.58843  -1.64006    25  Coarse agglutinated spp.                
+ 20  31.00000  11.00000   8.72420   2.35442    12  Areosphaeridium diktyoplokus            
+ 21  27.00000  10.00000  10.55169  -0.57161   261  Haplophragmoides walteri                
+ 22  34.00000  10.00000   7.45701   2.62427    72  Rottnestia borussica                    
+ 23  25.00000  10.00000  11.52454  -1.57894   198  Glomospirella biedae                    
+ 24  32.00000   9.00000   8.29195   0.73195   229  Recurvoides ex.gr. walteri              
+ 25  36.00000   8.00000   6.66147   1.37890    92  Diphyes ficusoides                      
+ 26  29.00000   7.00000   9.61825  -2.71168    29  Reticulophragmium amplectens            
+ 27  39.00000   6.00000   5.54203   0.47101    99  Eatonicysta ursulae                     
+ 28  40.00000   5.00000   5.18858  -0.19396    54  Spiroplectammina navarroana             
+ 29  42.00000   5.00000   4.51124   0.50335    50  Subbotina patagonica                    
+ 30  37.00000   5.00000   6.27847  -1.31605   260  Haplophragmoides kirki                  
+ 31  45.00000   4.00000   3.56911   0.44681    28  Apectodinium augustum                   
+ 32  43.00000   4.00000   4.18735  -0.19324   108  Deflandrea oebisfeldensis               
+ 33  52.00000   3.00000   1.71555   1.41267   129  Trochammina ruthven murrayi             
+ 34  49.00000   2.00000   2.45083  -0.47866    57  Spiroplectammina spectabilis LCO        
+ 35  53.00000   2.00000   1.49016   0.57013   134  Hormosina excelsa                       
+ 36  47.00000   1.00000   2.99027  -2.08288    76  Reticulophragmium paupera               
+ 37  54.00000   0.00000   1.27461  -1.45376   118  Palaeoperidinium pyrophorum             
+
+ 37 CALCULATED VALUES DERIVED FROM:     -0.00955651     0.74252808    -0.00492509
+
+
+
+
+  Hydro (N) 6407/7-1                      
+
+  i    X(i)    YMAX-Y(i) EXPECTED  DEVIATION  NO.  NAME
+
+  1  17.00000  22.00000  20.99416   1.15507    24  Turrilina alsatica                      
+  2  19.00000  22.00000  20.27001   1.88846     7  Areoligera semicirculata                
+  3  18.00000  21.00000  20.63776   0.40424     3  Deflandrea phosphoritica                
+  4  20.00000  20.00000  19.89091   0.11709    41  Wetzelliella symmetrica                 
+  5  21.00000  19.00000  19.50045  -0.53033    25  Coarse agglutinated spp.                
+  6  26.00000  19.00000  17.37780   1.67658   324  Aschemonella grandis                    
+  7  29.00000  18.00000  15.96794   2.10095    29  Reticulophragmium amplectens            
+  8  31.00000  17.00000  14.97126   2.10145    12  Areosphaeridium diktyoplokus            
+  9  34.00000  17.00000  13.39106   3.74517    72  Rottnestia borussica                    
+ 10  35.00000  16.00000  12.84161   3.27755    68  Spiroplectammina spectabilis LO         
+ 11  22.00000  16.00000  19.09863  -3.25291    97  Cyclammina placenta                     
+ 12  30.00000  15.00000  15.47528  -0.49184    32  Ammosphaeroidina pseudopauciloculata    
+ 13  36.00000  14.00000  12.28081   1.78334    92  Diphyes ficusoides                      
+ 14  38.00000  13.00000  11.12514   1.94129   175  Reticulophragmium intermedia            
+ 15  39.00000  12.00000  10.53027   1.51985    99  Eatonicysta ursulae                     
+ 16  40.00000  11.00000   9.92405   1.11110    54  Spiroplectammina navarroana             
+ 17  37.00000  11.00000  11.70865  -0.73454   260  Haplophragmoides kirki                  
+ 18  27.00000  11.00000  16.91920  -6.11455   261  Haplophragmoides walteri                
+ 19  41.00000  10.00000   9.30647   0.71522   279  Recurvoidella lamella                   
+ 20  42.00000   9.00000   8.67753   0.33218    50  Subbotina patagonica                    
+ 21  43.00000   8.00000   8.03724  -0.03833   108  Deflandrea oebisfeldensis               
+ 22  33.00000   7.00000  13.92915  -7.18828   263  Ammomarginulina aubertae                
+ 23  45.00000   6.00000   6.72258  -0.74458    28  Apectodinium augustum                   
+ 24  48.00000   5.00000   4.66543   0.34901   283  Reticulophragmium garcilassoi           
+ 25  50.00000   4.00000   3.23722   0.81224   114  Alisocysta margarita                    
+ 26  52.00000   3.00000   1.76358   1.36585   129  Trochammina ruthven murrayi             
+ 27  51.00000   3.00000   2.50608   0.53437   310  Saccammina placenta                     
+ 28  49.00000   2.00000   3.95700  -2.05925    57  Spiroplectammina spectabilis LCO        
+ 29  54.00000   1.00000   0.24452   0.88821   118  Palaeoperidinium pyrophorum             
+ 30  46.00000   0.00000   6.04822  -6.24660   105  Rzehakina minima                        
+
+ 30 CALCULATED VALUES DERIVED FROM:     -2.31537008     0.15766314     0.00567800
+
+
+
+
+  6407/7A-1                               
+
+  i    X(i)    YMAX-Y(i) EXPECTED  DEVIATION  NO.  NAME
+
+  1   3.00000   5.00000   3.80000   1.33785    31  Cibicidoides scaldisensis               
+  2   1.00000   5.00000   4.04242   1.12757   228  Cassidulina teretis                     
+  3   2.00000   4.00000   3.98182   0.02012     1  Neogloboquadrina pachyderma             
+  4   6.00000   3.00000   2.52727   0.52703   270  Cibicidoides grossa                     
+  5   4.00000   3.00000   3.49697  -0.56424   316  Trifarina fluens                        
+  6   0.00000   3.00000   4.04242  -1.68700    77  Elphidium spp.                          
+  7   7.00000   2.00000   1.86061   0.15425     4  Globorotalia inflata                    
+  8   5.00000   2.00000   3.07273  -1.21794   171  Buccella frigida                        
+  9   9.00000   1.00000   0.16364   1.35353   269  Neogloboquadrina atlantica              
+ 10   8.00000   0.00000   1.07273  -1.26316    23  Sigmoilopsis schlumbergeri              
+
+ 10 CALCULATED VALUES DERIVED FROM:      2.01818180    -0.12121212     0.06060606
+
+
+
+
+  BP (UK) 15/20-2                         
+
+  i    X(i)    YMAX-Y(i) EXPECTED  DEVIATION  NO.  NAME
+
+  1   0.00000  17.00000  16.63328   0.46387    77  Elphidium spp.                          
+  2   1.00000  16.00000  16.44177  -0.53637   228  Cassidulina teretis                     
+  3   9.00000  16.00000  14.71481   1.35795   269  Neogloboquadrina atlantica              
+  4   8.00000  15.00000  14.94963   0.05358    23  Sigmoilopsis schlumbergeri              
+  5  14.00000  14.00000  13.45953   0.56413   219  Martinotiella cylindrica                
+  6  16.00000  13.00000  12.91953   0.08407    17  Asterigerina gurichi                    
+  7  15.00000  13.00000  13.19223  -0.20069   236  G. ex.gr. praescitula zealandica        
+  8  11.00000  13.00000  14.22894  -1.28773    15  Globigerina praebulloides               
+  9  21.00000  12.00000  11.47478   0.55209    25  Coarse agglutinated spp.                
+ 10  23.00000  11.00000  10.85899   0.14850   182  Spirosigmoilinella compressa            
+ 11  22.00000  11.00000  11.16959  -0.17846    97  Cyclammina placenta                     
+ 12  29.00000  10.00000   8.88171   1.17573    29  Reticulophragmium amplectens            
+ 13  37.00000   9.00000   5.94219   3.17385   260  Haplophragmoides kirki                  
+ 14  35.00000   8.00000   6.70955   1.34299    68  Spiroplectammina spectabilis LO         
+ 15  30.00000   7.00000   8.53322  -1.60974    32  Ammosphaeroidina pseudopauciloculata    
+ 16  27.00000   6.00000   9.56246  -3.75256   261  Haplophragmoides walteri                
+ 17  40.00000   5.00000   4.75055   0.25894    54  Spiroplectammina navarroana             
+ 18  42.00000   4.00000   3.92906   0.07399    50  Subbotina patagonica                    
+ 19  41.00000   4.00000   4.34252  -0.35619   279  Recurvoidella lamella                   
+ 20  44.00000   3.00000   3.08592  -0.09058    22  Coscinodiscus spp.                      
+ 21  46.00000   2.00000   2.22112  -0.23753   105  Rzehakina minima                        
+ 22  47.00000   2.00000   1.78061   0.23885    76  Reticulophragmium paupera               
+ 23  49.00000   1.00000   0.88333   0.13189    57  Spiroplectammina spectabilis LCO        
+ 24  48.00000   0.00000   1.33468  -1.47768   283  Reticulophragmium garcilassoi           
+
+ 24 CALCULATED VALUES DERIVED FROM:      1.36671603     0.18880442     0.00270660
+
+
+
+
+  Saga (N) 2/2-4                          
+
+  i    X(i)    YMAX-Y(i) EXPECTED  DEVIATION  NO.  NAME
+
+  1   5.00000  32.00000  28.37113   3.81015   171  Buccella frigida                        
+  2   0.00000  31.00000  31.27846  -0.31119    77  Elphidium spp.                          
+  3   1.00000  30.00000  30.70260  -0.77174   228  Cassidulina teretis                     
+  4   3.00000  29.00000  29.54248  -0.58018    31  Cibicidoides scaldisensis               
+  5   2.00000  29.00000  30.12395  -1.21674     1  Neogloboquadrina pachyderma             
+  6   8.00000  28.00000  26.59305   1.45274    23  Sigmoilopsis schlumbergeri              
+  7   9.00000  27.00000  25.99475   1.03445   269  Neogloboquadrina atlantica              
+  8  12.00000  26.00000  24.18299   1.85915   363  Hystrichosphaeropsis obscura            
+  9  14.00000  25.00000  22.96111   2.08376   219  Martinotiella cylindrica                
+ 10  13.00000  25.00000  23.57345   1.45850   362  Cannosphaeropsis utinensis              
+ 11  22.00000  24.00000  17.96134   6.18908    97  Cyclammina placenta                     
+ 12  21.00000  23.00000  18.59614   4.51167    25  Coarse agglutinated spp.                
+ 13  10.00000  22.00000  25.39363  -3.48322    91  Diatoms/radiolarians LCO                
+ 14  15.00000  21.00000  22.34596  -1.37550   236  G. ex.gr. praescitula zealandica        
+ 15  16.00000  20.00000  21.72801  -1.76624    17  Asterigerina gurichi                    
+ 16  11.00000  20.00000  24.78971  -4.90700    15  Globigerina praebulloides               
+ 17  25.00000  19.00000  16.04012   3.03560   198  Glomospirella biedae                    
+ 18  26.00000  19.00000  15.39409   3.69809   324  Aschemonella grandis                    
+ 19  27.00000  19.00000  14.74526   4.36293   261  Haplophragmoides walteri                
+ 20  23.00000  18.00000  17.32374   0.69333   182  Spirosigmoilinella compressa            
+ 21  24.00000  17.00000  16.68333   0.32474   289  Adercotryma agterbergi                  
+ 22  28.00000  16.00000  14.09363   1.95439   321  Dorothia seigliei                       
+ 23  19.00000  15.00000  19.85731  -4.97125     7  Areoligera semicirculata                
+ 24  20.00000  14.00000  19.22812  -5.35353    41  Wetzelliella symmetrica                 
+ 25  30.00000  13.00000  12.78193   0.22340    32  Ammosphaeroidina pseudopauciloculata    
+ 26  29.00000  12.00000  13.43918  -1.47496    29  Reticulophragmium amplectens            
+ 27  33.00000  11.00000  10.79334   0.21148   263  Ammomarginulina aubertae                
+ 28  31.00000  10.00000  12.12188  -2.17294    12  Areosphaeridium diktyoplokus            
+ 29  34.00000   9.00000  10.12487  -1.15091    72  Rottnestia borussica                    
+ 30  37.00000   8.00000   8.10259  -0.10506   260  Haplophragmoides kirki                  
+ 31  40.00000   7.00000   6.05506   0.97215    54  Spiroplectammina navarroana             
+ 32  35.00000   6.00000   9.45358  -3.53351    68  Spiroplectammina spectabilis LO         
+ 33  41.00000   5.00000   5.36693  -0.37859   279  Recurvoidella lamella                   
+ 34  38.00000   5.00000   7.42289  -2.48353   175  Reticulophragmium intermedia            
+ 35  39.00000   4.00000   6.74038  -2.81325    99  Eatonicysta ursulae                     
+ 36  42.00000   3.00000   4.67600  -1.73577    50  Subbotina patagonica                    
+ 37  49.00000   2.00000  -0.23911   2.47724    57  Spiroplectammina spectabilis LCO        
+ 38  45.00000   1.00000   2.58636  -1.67290    28  Apectodinium augustum                   
+ 39  53.00000   0.00000  -3.10950   3.79096   134  Hormosina excelsa                       
+ 40  47.00000   0.00000   1.17924  -1.26828    76  Reticulophragmium paupera               
+
+ 40 CALCULATED VALUES DERIVED FROM:      1.72154415     0.57444811     0.00140342
+
+
+
+
+  Shell (UK) 22/6-1                       
+
+  i    X(i)    YMAX-Y(i) EXPECTED  DEVIATION  NO.  NAME
+
+  1   0.00000  26.00000  25.23908   0.86476    77  Elphidium spp.                          
+  2   4.00000  25.00000  23.10593   2.02645   316  Trifarina fluens                        
+  3   1.00000  24.00000  24.70274  -0.78328   228  Cassidulina teretis                     
+  4   6.00000  23.00000  22.05156   0.99793   270  Cibicidoides grossa                     
+  5   2.00000  22.00000  24.16844  -2.37805     1  Neogloboquadrina pachyderma             
+  6   8.00000  21.00000  21.00532  -0.00554    23  Sigmoilopsis schlumbergeri              
+  7  10.00000  20.00000  19.96722   0.03391    91  Diatoms/radiolarians LCO                
+  8  16.00000  19.00000  16.90174   2.16342    17  Asterigerina gurichi                    
+  9  11.00000  18.00000  19.45122  -1.49831    15  Globigerina praebulloides               
+ 10  15.00000  18.00000  17.40757   0.61054   236  G. ex.gr. praescitula zealandica        
+ 11  22.00000  17.00000  13.90949   3.20184    97  Cyclammina placenta                     
+ 12  23.00000  16.00000  13.41790   2.67684   182  Spirosigmoilinella compressa            
+ 13  25.00000  15.00000  12.44083   2.65536   198  Glomospirella biedae                    
+ 14  24.00000  14.00000  12.92835   1.11154   289  Adercotryma agterbergi                  
+ 15  32.00000  13.00000   9.08514   4.05475   229  Recurvoides ex.gr. walteri              
+ 16  30.00000  12.00000  10.03374   2.03879    32  Ammosphaeroidina pseudopauciloculata    
+ 17  17.00000  11.00000  16.39795  -5.56930    24  Turrilina alsatica                      
+ 18  26.00000  10.00000  11.95534  -2.02921   324  Aschemonella grandis                    
+ 19  28.00000   9.00000  10.99047  -2.06539   321  Dorothia seigliei                       
+ 20  27.00000   8.00000  11.47189  -3.60310   261  Haplophragmoides walteri                
+ 21  33.00000   7.00000   8.61389  -1.67055   263  Ammomarginulina aubertae                
+ 22  35.00000   6.00000   7.67750  -1.73456    68  Spiroplectammina spectabilis LO         
+ 23  40.00000   5.00000   5.37211  -0.38540    54  Spiroplectammina navarroana             
+ 24  42.00000   4.00000   4.46420  -0.48284    50  Subbotina patagonica                    
+ 25  44.00000   3.00000   3.56442  -0.59169    22  Coscinodiscus spp.                      
+ 26  51.00000   2.00000   0.47927   1.72316   310  Saccammina placenta                     
+ 27  47.00000   1.00000   2.23001  -1.31712    76  Reticulophragmium paupera               
+ 28  53.00000   1.00000  -0.38389   1.64481   134  Hormosina excelsa                       
+ 29  49.00000   0.00000   1.35057  -1.48008    57  Spiroplectammina spectabilis LCO        
+
+ 29 CALCULATED VALUES DERIVED FROM:      1.76091909     0.53735667    -0.00101706
+
+
+
+
+  Amoco (N) 2/8-1                         
+
+  i    X(i)    YMAX-Y(i) EXPECTED  DEVIATION  NO.  NAME
+
+  1   1.00000  13.00000  13.72889  -0.88258   228  Cassidulina teretis                     
+  2   0.00000  13.00000  14.00236  -1.26300    77  Elphidium spp.                          
+  3   8.00000  12.00000  11.78138   0.23280    23  Sigmoilopsis schlumbergeri              
+  4   9.00000  12.00000  11.49843   0.53068   269  Neogloboquadrina atlantica              
+  5  14.00000  11.00000  10.06588   0.97629   219  Martinotiella cylindrica                
+  6  15.00000  11.00000   9.77581   1.27951   236  G. ex.gr. praescitula zealandica        
+  7  11.00000  11.00000  10.92896   0.07455    15  Globigerina praebulloides               
+  8  16.00000  10.00000   9.48456   0.53900    17  Asterigerina gurichi                    
+  9  21.00000   9.00000   8.01054   1.03996    25  Coarse agglutinated spp.                
+ 10  27.00000   8.00000   6.20260   1.89405   261  Haplophragmoides walteri                
+ 11  23.00000   7.00000   7.41263  -0.43441   182  Spirosigmoilinella compressa            
+ 12  28.00000   6.00000   5.89713   0.10838   321  Dorothia seigliei                       
+ 13  32.00000   5.00000   4.66340   0.35415   229  Recurvoides ex.gr. walteri              
+ 14  35.00000   4.00000   3.72565   0.28899    68  Spiroplectammina spectabilis LO         
+ 15  33.00000   3.00000   4.35200  -1.42246   263  Ammomarginulina aubertae                
+ 16  29.00000   2.00000   5.59047  -3.78138    29  Reticulophragmium amplectens            
+ 17  40.00000   1.00000   2.13905  -1.22146    54  Spiroplectammina navarroana             
+ 18  46.00000   0.00000   0.19602  -0.22997   105  Rzehakina minima                        
+ 19  51.00000   0.00000  -1.45576   2.18287   310  Saccammina placenta                     
+
+ 19 CALCULATED VALUES DERIVED FROM:     -0.00236103     0.27288228     0.00059251
+
+
+
+
+  Saga (N) 35/3-1                         
+
+  i    X(i)    YMAX-Y(i) EXPECTED  DEVIATION  NO.  NAME
+
+  1   1.00000  18.00000  17.48728   0.59797   228  Cassidulina teretis                     
+  2   5.00000  17.00000  15.52183   1.58452   171  Buccella frigida                        
+  3   2.00000  17.00000  16.98362   0.01855     1  Neogloboquadrina pachyderma             
+  4   3.00000  16.00000  16.48816  -0.54040    31  Cibicidoides scaldisensis               
+  5   6.00000  15.00000  15.05096  -0.05405   270  Cibicidoides grossa                     
+  6  12.00000  14.00000  12.39790   1.67351   363  Hystrichosphaeropsis obscura            
+  7  13.00000  13.00000  11.98441   1.06378   362  Cannosphaeropsis utinensis              
+  8  10.00000  12.00000  13.24946  -1.30260    91  Diatoms/radiolarians LCO                
+  9  17.00000  11.00000  10.41245   0.62683    24  Turrilina alsatica                      
+ 10  18.00000  10.00000  10.03995  -0.04286     3  Deflandrea phosphoritica                
+ 11  19.00000   9.00000   9.67565  -0.72894     7  Areoligera semicirculata                
+ 12  16.00000   8.00000  10.79314  -2.96398    17  Asterigerina gurichi                    
+ 13  21.00000   7.00000   8.97164  -2.15065    25  Coarse agglutinated spp.                
+ 14  43.00000   6.00000   3.39171   2.77541   108  Deflandrea oebisfeldensis               
+ 15  44.00000   5.00000   3.23235   1.87558    22  Coscinodiscus spp.                      
+ 16  49.00000   4.00000   2.55851   1.53630    57  Spiroplectammina spectabilis LCO        
+ 17  50.00000   3.00000   2.44833   0.59175   114  Alisocysta margarita                    
+ 18  52.00000   2.00000   2.25258  -0.27676   129  Trochammina ruthven murrayi             
+ 19  47.00000   2.00000   2.80345  -0.85079    76  Reticulophragmium paupera               
+ 20  54.00000   1.00000   2.08961  -1.23792   118  Palaeoperidinium pyrophorum             
+ 21  53.00000   0.00000   2.16699  -2.41245   134  Hormosina excelsa                       
+
+ 21 CALCULATED VALUES DERIVED FROM:      1.00085974     0.51595563    -0.00409879
+
+
+
+
+  Saga 6406/2-1                           
+
+  i    X(i)    YMAX-Y(i) EXPECTED  DEVIATION  NO.  NAME
+
+  1   0.00000  24.00000  23.61046   0.48524    77  Elphidium spp.                          
+  2   8.00000  23.00000  20.35537   2.78557    23  Sigmoilopsis schlumbergeri              
+  3   4.00000  22.00000  21.99864   0.00151   316  Trifarina fluens                        
+  4   7.00000  21.00000  20.76913   0.24525     4  Globorotalia inflata                    
+  5   9.00000  20.00000  19.93963   0.06317   269  Neogloboquadrina atlantica              
+  6  12.00000  19.00000  18.68064   0.33077   363  Hystrichosphaeropsis obscura            
+  7  11.00000  18.00000  19.10227  -1.14406    15  Globigerina praebulloides               
+  8  15.00000  18.00000  17.40395   0.61672   236  G. ex.gr. praescitula zealandica        
+  9  14.00000  17.00000  17.83147  -0.85996   219  Martinotiella cylindrica                
+ 10  13.00000  16.00000  18.25704  -2.33499   362  Cannosphaeropsis utinensis              
+ 11  19.00000  15.00000  15.67417  -0.70147     7  Areoligera semicirculata                
+ 12  17.00000  15.00000  16.54299  -1.60010    24  Turrilina alsatica                      
+ 13  28.00000  14.00000  11.66718   2.45028   321  Dorothia seigliei                       
+ 14  24.00000  13.00000  13.46772  -0.49051   289  Adercotryma agterbergi                  
+ 15  27.00000  12.00000  12.12026  -0.12634   261  Haplophragmoides walteri                
+ 16  31.00000  11.00000  10.29613   0.73745    12  Areosphaeridium diktyoplokus            
+ 17  29.00000  10.00000  11.21213  -1.27252    29  Reticulophragmium amplectens            
+ 18  35.00000   9.00000   8.44054   0.58218    68  Spiroplectammina spectabilis LO         
+ 19  39.00000   8.00000   6.55350   1.49560    99  Eatonicysta ursulae                     
+ 20  38.00000   7.00000   7.02821  -0.02920   175  Reticulophragmium intermedia            
+ 21  42.00000   6.00000   5.11757   0.91210    50  Subbotina patagonica                    
+ 22  43.00000   5.00000   4.63500   0.37785   108  Deflandrea oebisfeldensis               
+ 23  44.00000   4.00000   4.15046  -0.15618    22  Coscinodiscus spp.                      
+ 24  45.00000   3.00000   3.66396  -0.69194    28  Apectodinium augustum                   
+ 25  48.00000   2.00000   2.19265  -0.20536   283  Reticulophragmium garcilassoi           
+ 26  49.00000   2.00000   1.69828   0.32556    57  Spiroplectammina spectabilis LCO        
+ 27  47.00000   2.00000   2.68505  -0.72326    76  Reticulophragmium paupera               
+ 28  50.00000   1.00000   1.20195  -0.22124   114  Alisocysta margarita                    
+ 29  51.00000   0.00000   0.70365  -0.78550   310  Saccammina placenta                     
+
+ 29 CALCULATED VALUES DERIVED FROM:      1.38953662     0.39902389     0.00098293
+

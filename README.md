@@ -161,4 +161,6 @@ Notes for RASCW V20 Software Development Environment and Source Code
 
 6. Current default project file directory is "D:\RASCWV20". If you have install the package in different directory, please change the project directory in Visual Basic project parameters.
 
+The whole code package is zipped into a file named "RASCWV20.zip".
+
 Thank you and good luck.

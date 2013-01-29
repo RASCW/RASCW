@@ -1,0 +1,124 @@
+ TOTAL # OF ENTRIES = 117;  AVE SD =  2.2381
+
+
+
+
+ FINAL OPTIMUM SEQUENCE WITH UNIQUE EVENTS
+
+    1   0 0  240   Elphidium clavatum                         6  1.337
+    2   0 0   77   Elphidium spp.                            16  1.131
+    3   0 0  228   Cassidulina teretis                       20  0.727
+    4   0 0  338   Bulimina marginata                         7  0.966
+    5   0 0    1   Neogloboquadrina pachyderma               15  1.212
+    6   0 0   31   Cibicidoides scaldisensis                 11  0.930
+    7   0 0  171   Buccella frigida                           9  1.557
+    8   0 0  270   Cibicidoides grossa                       17  0.938
+    9   0 0  328   Ammonia beccarii                           6  1.801
+   10   0 0  181   Cibicidoides dutemplei                     8  1.414
+   11   0 0  316   Trifarina fluens                           9  2.345
+   12   0 1    4   Globorotalia inflata                      12  1.374
+   13  9999  318 **Monspeliensis pseudotepida                99  9.999
+   14  -2 0  159   Cibicidoides grossa LCO                    7  1.347
+   15   0 0   23   Sigmoilopsis schlumbergeri                18  1.508
+   16   0 0  266   Globorotalia puncticulata                  9  1.081
+   17   0 0  269   Neogloboquadrina atlantica                16  1.093
+   18   0 0    6   Neogloboquadrina acostaensis               6  0.473
+   19   0 1  330   Cibicidoides pachyderma                    6  2.830
+   20  -1 0  207   NS Log G                                  11  1.883
+   21  9999  301 **Bolboforma metzmacheri                    99  9.999
+   22  9999  323 **Bolboforma spiralis                       99  9.999
+   23   0 0   81   Globoquadrina venezuelana                  7  0.922
+   24   0 0   91   Radiolarians/diatoms flood                13  1.545
+   25   0 0  361   Sumatradinium spp.                         6  2.640
+   26   0 0   15   Globigerina praebulloides                 18  3.087
+   27  9999  130 **Siphonina advena                          99  9.999
+   28   0 0  334   Ehrenbergina variabilis                    6  1.850
+   29   0 0  219   Martinotiella cylindrica                  13  2.282
+   30   0 1  285   Caucasina elongata                         7  1.659
+   31  -5 1  123   Globigerinoides trilobus                   6  0.943
+   32  -1 1  282   Uvigerina ex.gr. semiornata                7  1.780
+   33  -1 2  236   G. ex.gr. praescitula zealandica           9  1.342
+   34  9999  348 **Sphaeroidinella disjuncta                 99  9.999
+   35  -1 0  125   Neogloboquadrina continuosa                7  2.025
+   36   0 0  362   Cannosphaeropsis utinensis                 7  1.838
+   37   0 0   17   Asterigerina gurichi                      15  1.892
+   38   0 1  233   Catapsydrax unicavus                       6  1.296
+   39  -1 1  138   Tenuitella angustiumbilicata               8  3.888
+   40  -1 0  412   Flat rads + sponge spicules                6  0.192
+   41  9999  368 **Chiropteridium mespilanum                 99  9.999
+   42   0 0    3   Deflandrea phosphoritica                   7  1.550
+   43   0 0    7   Areoligera semicirculata                   8  3.141
+   44   0 0   41   Wetzelliella symmetrica                    7  2.980
+   45  9999  369 **Rhombodinium draco                        99  9.999
+   46  9999  371 **Areosphaeridium arcuatum                  99  9.999
+   47   0 0   20   Gyroidina girardana                        8  1.971
+   48   0 0   25   Coarse agglutinated spp.                  25  2.449
+   49   0 0   97   Cyclammina placenta                       23  3.045
+   50  9999   46 **Svalbardella cooksoniae                   99  9.999
+   51   0 0  182   Spirosigmoilinella compressa              19  1.245
+   52  9999  407 **Spiniferites sp. 1 Manum                  99  9.999
+   53   0 1   24   Turrilina alsatica                        13  2.756
+   54  -1 0  183   Cyclammina rotundidorsata                 10  2.861
+   55   0 0  140   Rotaliatina bulimoides                    11  1.737
+   56   0 0  302   Cenosphaera spp. (spheres)                 8  0.979
+   57   0 0  262   Karreriella horrida                       13  3.586
+   58   0 0  259   Ammodiscus latus                           9  3.062
+   59   0 0  289   Adercotryma agterbergi                    14  1.665
+   60   0 0  198   Glomospirella biedae                       9  2.698
+   61   0 0  324   Aschemonella grandis                       8  2.558
+   62   0 0  197   Reophax elongatus                          6  1.923
+   63   0 0  261   Haplophragmoides walteri                  19  3.541
+   64   0 0  321   Dorothia seigliei                         14  2.971
+   65   0 0  206   NS Log F                                  10  2.381
+   66   0 0   29   Reticulophragmium amplectens              23  2.175
+   67  9999  148 **Globigerapsis index                       99  9.999
+   68   0 0   32   Ammosphaeroidina pseudopauciloculata      16  2.129
+   69   0 0   12   Areosphaeridium diktyoplokus              10  2.102
+   70   0 0   13   Heteraulacacysta porosa                    8  2.484
+   71   0 1  229   Recurvoides ex.gr. walteri                10  3.318
+   72  -1 1   72   Rottnestia borussica                       8  2.517
+   73  -1 0  263   Ammomarginulina aubertae                  14  3.422
+   74   0 0   92   Diphyes ficusoides                         6  2.015
+   75   0 0  260   Haplophragmoides kirki                    15  2.848
+   76   0 0   68   Spiroplectammina spectabilis LO           21  2.483
+   77   0 0  264   Karreriella conversa                      19  4.043
+   78   0 0  117   Cenosphaera spp. LCO                      10  2.516
+   79  9999   37 **Acarinina pentacamerata                   99  9.999
+   80   0 0  175   Reticulophragmium intermedia               6  2.394
+   81   0 0   99   Eatonicysta ursulae                        8  2.147
+   82   0 0  291   Reticulophragmoides jarvisi               10  6.723
+   83   0 0  205   NS Log E                                  11  1.739
+   84   0 0   54   Spiroplectammina navarroana               18  2.671
+   85   0 0  279   Recurvoidella lamella                      8  1.743
+   86   0 0   50   Subbotina patagonica                      13  1.161
+   87   0 1  277   Tuff                                       6  1.418
+   88  9999   21 **Deflandrea oebisfeldensis LCO             99  9.999
+   89  9999   14 **Eatonicysta ursulae LCO                   99  9.999
+   90  -1 0  108   Deflandrea oebisfeldensis                  8  1.743
+   91   0 0   22   Coscinodiscus spp.                        15  1.414
+   92   0 0  136   Cystammina pauciloculata                  15  4.366
+   93  9999   47 **Planorotalites planoconicus               99  9.999
+   94   0 0   28   Apectodinium augustum                      8  1.789
+   95   0 0   78   Trochamminoides coronatus                 12  4.135
+   96   0 0  204   NS Log D                                  12  1.001
+   97   0 0  203   NS Log C                                  11  1.030
+   98  9999  343 **Cenosphaera sp. (disc or flat)            99  9.999
+   99   0 0  110   Cystammina aff.globigerinaeformis         13  4.792
+  100   0 1  105   Rzehakina minima                           8  2.269
+  101  -2 0   76   Reticulophragmium paupera                 18  0.839
+  102   0 0   57   Spiroplectammina spectabilis LCO          17  1.404
+  103  9999  114 **Alisocysta margarita                      99  9.999
+  104   0 1  310   Saccammina placenta                       14  1.746
+  105  -1 0  283   Reticulophragmium garcilassoi              8  1.871
+  106   0 1  134   Hormosina excelsa                         11  2.782
+  107  9999  106 **Trochammina cf. subvesicularis            99  9.999
+  108  -2 0  129   Trochammina ruthven murrayi               12  1.737
+  109   0 0  118   Palaeoperidinium pyrophorum                6  1.166
+  110   0 0  251   Ammodiscus planus                          6  5.378
+  111   0 0   61   Subbotina pseudobulloides                 12  1.419
+  112   0 0  107   Matanzia varians                           7  1.716
+  113   0 0  202   NS Log B                                   9  0.930
+  114  9999  158 **Spongodinium delitiense                   99  9.999
+  115   0 0   55   Gavelinella beccariiformis                11  1.480
+  116   0 0   60   Planorotalites compressus                 10  1.382
+  117   0 0  253   Subbotina triloculinoides                  7  0.831

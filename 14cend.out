@@ -1,0 +1,3659 @@
+                14cend.out                                          2007/06/24
+EVENT DEVIATIONS PER WELL FOR RANKING SOLUTION
+______________________________________________
+
+
+
+  Saga (N) 6407/2-3                       
+
+ WELL #  1 WITH  47 EVENTS
+
+  i    X(i)    YMAX-Y(i) EXPECTED  DEVIATION  NO.  NAME
+
+  1   2.00000  29.00000  28.32816   0.72455     1  Neogloboquadrina pachyderma             
+  2   3.00000  28.00000  27.71522   0.30364    31  Cibicidoides scaldisensis               
+  3   1.00000  28.00000  28.94368  -1.03159   228  Cassidulina teretis                     
+  4   4.00000  28.00000  27.10487   0.94532   316  Trifarina fluens                        
+  5   5.00000  27.00000  26.49711   0.52688   171  Buccella frigida                        
+  6   7.00000  27.00000  25.28935   1.77107     4  Globorotalia inflata                    
+  7   6.00000  26.00000  25.89193   0.11248   270  Cibicidoides grossa                     
+  8   8.00000  25.00000  24.68935   0.32025    23  Sigmoilopsis schlumbergeri              
+  9   9.00000  24.00000  24.09194  -0.09447   269  Neogloboquadrina atlantica              
+ 10  11.00000  23.00000  22.90489   0.09729    15  Globigerina praebulloides               
+ 11  10.00000  22.00000  23.49712  -1.53430    91  Diatoms/radiolarians LCO                
+ 12  13.00000  21.00000  21.72819  -0.74333   362  Cannosphaeropsis utinensis              
+ 13  14.00000  20.00000  21.14372  -1.16704   219  Martinotiella cylindrica                
+ 14  17.00000  19.00000  19.40584  -0.41433     3  Deflandrea phosphoritica                
+ 15  18.00000  18.00000  18.83173  -0.84956     7  Areoligera semicirculata                
+ 16  19.00000  18.00000  18.26020  -0.26594    41  Wetzelliella symmetrica                 
+ 17  20.00000  17.00000  17.69126  -0.70695    25  Coarse agglutinated spp.                
+ 18  21.00000  17.00000  17.12491  -0.12782    97  Cyclammina placenta                     
+ 19  22.00000  17.00000  16.56115   0.44935   182  Spirosigmoilinella compressa            
+ 20  23.00000  16.00000  15.99997   0.00003    24  Turrilina alsatica                      
+ 21  24.00000  15.00000  15.44139  -0.45235   289  Adercotryma agterbergi                  
+ 22  26.00000  15.00000  14.33198   0.68489   324  Aschemonella grandis                    
+ 23  25.00000  15.00000  14.88539   0.11749   198  Glomospirella biedae                    
+ 24  31.00000  14.00000  11.60375   2.45335    12  Areosphaeridium diktyoplokus            
+ 25  29.00000  13.00000  12.68727   0.32048    29  Reticulophragmium amplectens            
+ 26  33.00000  12.00000  10.53057   1.50248    72  Rottnestia borussica                    
+ 27  36.00000  12.00000   8.94022   3.12215    92  Diphyes ficusoides                      
+ 28  28.00000  11.00000  13.23292  -2.28896   321  Dorothia seigliei                       
+ 29  35.00000  11.00000   9.46775   1.56450    68  Spiroplectammina spectabilis LO         
+ 30  30.00000  10.00000  12.14422  -2.19648    32  Ammosphaeroidina pseudopauciloculata    
+ 31  32.00000   9.00000  11.06587  -2.11378   229  Recurvoides ex.gr. walteri              
+ 32  38.00000   9.00000   7.89293   1.12859   175  Reticulophragmium intermedia            
+ 33  39.00000   8.00000   7.37317   0.63892    99  Eatonicysta ursulae                     
+ 34  37.00000   7.00000   8.41528  -1.44335   260  Haplophragmoides kirki                  
+ 35  41.00000   7.00000   6.34140   0.67171   279  Recurvoidella lamella                   
+ 36  42.00000   7.00000   5.82940   1.19503    50  Subbotina patagonica                    
+ 37  40.00000   7.00000   6.85599   0.14681    54  Spiroplectammina navarroana             
+ 38  43.00000   6.00000   5.31999   0.69523   108  Deflandrea oebisfeldensis               
+ 39  44.00000   5.00000   4.81317   0.19142    22  Coscinodiscus spp.                      
+ 40  45.00000   4.00000   4.30893  -0.31741    28  Apectodinium augustum                   
+ 41  47.00000   3.00000   3.30823  -0.31935    76  Reticulophragmium paupera               
+ 42  49.00000   2.00000   2.31787  -0.33362    57  Spiroplectammina spectabilis LCO        
+ 43  46.00000   2.00000   3.80729  -1.86375   105  Rzehakina minima                        
+ 44  52.00000   1.00000   0.85176   0.16051   129  Trochammina ruthven murrayi             
+ 45  53.00000   1.00000   0.36823   0.69407   134  Hormosina excelsa                       
+ 46  51.00000   1.00000   1.33787  -0.36137   310  Saccammina placenta                     
+ 47  50.00000   0.00000   1.82658  -1.93360   114  Alisocysta margarita                    
+
+
+
+  Statoil (N) 6407/4-1                    
+
+ WELL #  2 WITH  47 EVENTS
+
+  i    X(i)    YMAX-Y(i) EXPECTED  DEVIATION  NO.  NAME
+
+  1   3.00000  31.00000  30.49430   0.54610    31  Cibicidoides scaldisensis               
+  2   2.00000  31.00000  31.17922  -0.19625     1  Neogloboquadrina pachyderma             
+  3   1.00000  31.00000  31.86750  -0.96573   228  Cassidulina teretis                     
+  4   6.00000  30.00000  28.45969   1.61485   270  Cibicidoides grossa                     
+  5   7.00000  29.00000  27.78821   1.26196     4  Globorotalia inflata                    
+  6   8.00000  28.00000  27.12008   0.91137    23  Sigmoilopsis schlumbergeri              
+  7   9.00000  27.00000  26.45532   0.56170   269  Neogloboquadrina atlantica              
+  8  10.00000  26.00000  25.79391   0.21180    91  Diatoms/radiolarians LCO                
+  9  11.00000  25.00000  25.13587  -0.13927    15  Globigerina praebulloides               
+ 10  14.00000  24.00000  23.18189   0.83523   219  Martinotiella cylindrica                
+ 11  12.00000  24.00000  24.48118  -0.49231   363  Hystrichosphaeropsis obscura            
+ 12  13.00000  23.00000  23.82985  -0.84792   362  Cannosphaeropsis utinensis              
+ 13  15.00000  22.00000  22.53728  -0.54829   236  G. ex.gr. praescitula zealandica        
+ 14  17.00000  21.00000  21.25814  -0.26345     3  Deflandrea phosphoritica                
+ 15  18.00000  20.00000  20.62362  -0.63666     7  Areoligera semicirculata                
+ 16  19.00000  19.00000  19.99245  -1.01368    41  Wetzelliella symmetrica                 
+ 17  20.00000  18.00000  19.36464  -1.39458    25  Coarse agglutinated spp.                
+ 18  21.00000  18.00000  18.74019  -0.75686    97  Cyclammina placenta                     
+ 19  24.00000  17.00000  16.88700   0.11572   289  Adercotryma agterbergi                  
+ 20  26.00000  16.00000  15.66833   0.33979   324  Aschemonella grandis                    
+ 21  22.00000  15.00000  18.11910  -3.19107   182  Spirosigmoilinella compressa            
+ 22  29.00000  14.00000  13.86553   0.13772    29  Reticulophragmium amplectens            
+ 23  32.00000  14.00000  12.09297   1.95038   229  Recurvoides ex.gr. walteri              
+ 24  30.00000  14.00000  13.27132   0.74603    32  Ammosphaeroidina pseudopauciloculata    
+ 25  28.00000  13.00000  14.46311  -1.49885   321  Dorothia seigliei                       
+ 26  34.00000  13.00000  10.92806   2.11623   263  Ammomarginulina aubertae                
+ 27  35.00000  13.00000  10.35064   2.70416    68  Spiroplectammina spectabilis LO         
+ 28  27.00000  13.00000  15.06404  -2.11467   261  Haplophragmoides walteri                
+ 29  31.00000  13.00000  12.68046   0.32699    12  Areosphaeridium diktyoplokus            
+ 30  33.00000  12.00000  11.50884   0.50201    72  Rottnestia borussica                    
+ 31  37.00000  11.00000   9.20589   1.82911   260  Haplophragmoides kirki                  
+ 32  40.00000  11.00000   7.51396   3.55270    54  Spiroplectammina navarroana             
+ 33  41.00000  10.00000   6.95670   3.10306   279  Recurvoidella lamella                   
+ 34  36.00000   9.00000   9.77659  -0.79216    92  Diphyes ficusoides                      
+ 35  38.00000   8.00000   8.63855  -0.65077   175  Reticulophragmium intermedia            
+ 36  42.00000   7.00000   6.40280   0.60951    50  Subbotina patagonica                    
+ 37  39.00000   6.00000   8.07458  -2.11395    99  Eatonicysta ursulae                     
+ 38  44.00000   5.00000   5.30508  -0.31250    22  Coscinodiscus spp.                      
+ 39  43.00000   5.00000   5.85226  -0.87113   108  Deflandrea oebisfeldensis               
+ 40  45.00000   4.00000   4.76126  -0.78203    28  Apectodinium augustum                   
+ 41  47.00000   3.00000   3.68370  -0.70837    76  Reticulophragmium paupera               
+ 42  46.00000   3.00000   4.22080  -1.25883   105  Rzehakina minima                        
+ 43  49.00000   3.00000   2.61958   0.39939    57  Spiroplectammina spectabilis LCO        
+ 44  51.00000   2.00000   1.56889   0.46146   310  Saccammina placenta                     
+ 45  54.00000   1.00000   0.01806   1.09986   118  Palaeoperidinium pyrophorum             
+ 46  52.00000   0.00000   1.04859  -1.13666   129  Trochammina ruthven murrayi             
+ 47  48.00000   0.00000   3.14996  -3.28302   283  Reticulophragmium garcilassoi           
+
+
+
+  Elf Aquitaine (N) 6406/8-1              
+
+ WELL #  3 WITH  41 EVENTS
+
+  i    X(i)    YMAX-Y(i) EXPECTED  DEVIATION  NO.  NAME
+
+  1   2.00000  25.00000  25.60762  -0.66849     1  Neogloboquadrina pachyderma             
+  2   1.00000  25.00000  26.11726  -1.25103   228  Cassidulina teretis                     
+  3   6.00000  25.00000  23.56719   1.50517   270  Cibicidoides grossa                     
+  4   8.00000  25.00000  22.54585   2.54539    23  Sigmoilopsis schlumbergeri              
+  5   4.00000  24.00000  24.58778  -0.62928   316  Trifarina fluens                        
+  6   7.00000  23.00000  23.05661  -0.05906     4  Globorotalia inflata                    
+  7   9.00000  22.00000  22.03491  -0.03604   269  Neogloboquadrina atlantica              
+  8  10.00000  22.00000  21.52378   0.48994    91  Diatoms/radiolarians LCO                
+  9  11.00000  21.00000  21.01246  -0.01279    15  Globigerina praebulloides               
+ 10  13.00000  20.00000  19.98927   0.01098   362  Cannosphaeropsis utinensis              
+ 11  12.00000  20.00000  20.50096  -0.51302   363  Hystrichosphaeropsis obscura            
+ 12  14.00000  19.00000  19.47739  -0.48786   219  Martinotiella cylindrica                
+ 13  18.00000  18.00000  17.42803   0.58474     7  Areoligera semicirculata                
+ 14  19.00000  17.00000  16.91522   0.08672    41  Wetzelliella symmetrica                 
+ 15  17.00000  17.00000  17.94065  -0.96120     3  Deflandrea phosphoritica                
+ 16  20.00000  16.00000  16.40223  -0.41175    25  Coarse agglutinated spp.                
+ 17  24.00000  16.00000  14.34840   1.69513   289  Adercotryma agterbergi                  
+ 18  22.00000  15.00000  15.37569  -0.38512   182  Spirosigmoilinella compressa            
+ 19  26.00000  15.00000  13.32037   1.72525   324  Aschemonella grandis                    
+ 20  25.00000  15.00000  13.83448   1.19679   198  Glomospirella biedae                    
+ 21  21.00000  14.00000  15.88905  -1.93513    97  Cyclammina placenta                     
+ 22  27.00000  13.00000  12.80608   0.19923   261  Haplophragmoides walteri                
+ 23  29.00000  12.00000  11.77693   0.22916    29  Reticulophragmium amplectens            
+ 24  30.00000  11.00000  11.26208  -0.26917    32  Ammosphaeroidina pseudopauciloculata    
+ 25  35.00000  11.00000   8.68502   2.37191    68  Spiroplectammina spectabilis LO         
+ 26  34.00000  11.00000   9.20080   1.84444   263  Ammomarginulina aubertae                
+ 27  32.00000  10.00000  10.23181  -0.23789   229  Recurvoides ex.gr. walteri              
+ 28  36.00000   9.00000   8.16905   0.85098    92  Diphyes ficusoides                      
+ 29  28.00000   8.00000  12.29159  -4.40918   321  Dorothia seigliei                       
+ 30  37.00000   7.00000   7.65290  -0.66839   260  Haplophragmoides kirki                  
+ 31  39.00000   6.00000   6.62003  -0.63465    99  Eatonicysta ursulae                     
+ 32  42.00000   5.00000   5.06933  -0.07113    50  Subbotina patagonica                    
+ 33  40.00000   5.00000   6.10331  -1.12975    54  Spiroplectammina navarroana             
+ 34  44.00000   4.00000   4.03460  -0.03566    22  Coscinodiscus spp.                      
+ 35  43.00000   4.00000   4.55206  -0.56748   108  Deflandrea oebisfeldensis               
+ 36  45.00000   3.00000   3.51696  -0.53455    28  Apectodinium augustum                   
+ 37  47.00000   2.00000   2.48111  -0.50235    76  Reticulophragmium paupera               
+ 38  50.00000   1.00000   0.92595   0.07926   114  Alisocysta margarita                    
+ 39  52.00000   0.00000  -0.11176   0.12276   129  Trochammina ruthven murrayi             
+ 40  51.00000   0.00000   0.40719  -0.44100   310  Saccammina placenta                     
+ 41  54.00000   0.00000  -1.15021   1.31065   118  Palaeoperidinium pyrophorum             
+
+
+
+  Hydro (N) 34/8-1                        
+
+ WELL #  4 WITH  47 EVENTS
+
+  i    X(i)    YMAX-Y(i) EXPECTED  DEVIATION  NO.  NAME
+
+  1   3.00000  33.00000  31.82005   1.24833    31  Cibicidoides scaldisensis               
+  2   0.00000  33.00000  33.09955  -0.10885    77  Elphidium spp.                          
+  3   2.00000  33.00000  32.25393   0.79661     1  Neogloboquadrina pachyderma             
+  4   1.00000  33.00000  32.68043   0.34496   228  Cassidulina teretis                     
+  5   5.00000  32.00000  30.93013   1.11594   171  Buccella frigida                        
+  6   7.00000  31.00000  30.01067   1.02207     4  Globorotalia inflata                    
+  7   6.00000  31.00000  30.47409   0.54566   270  Cibicidoides grossa                     
+  8   8.00000  30.00000  29.53986   0.47373    23  Sigmoilopsis schlumbergeri              
+  9   4.00000  29.00000  31.37878  -2.49723   316  Trifarina fluens                        
+ 10   9.00000  28.00000  29.06167  -1.09013   269  Neogloboquadrina atlantica              
+ 11  16.00000  27.00000  25.50760   1.52484    17  Asterigerina gurichi                    
+ 12  11.00000  26.00000  28.08314  -2.13158    15  Globigerina praebulloides               
+ 13  17.00000  25.00000  24.97034   0.03032     3  Deflandrea phosphoritica                
+ 14  23.00000  24.00000  21.59170   2.46929    24  Turrilina alsatica                      
+ 15  20.00000  23.00000  23.31425  -0.32173    25  Coarse agglutinated spp.                
+ 16  22.00000  23.00000  22.17327   0.84731   182  Spirosigmoilinella compressa            
+ 17  21.00000  23.00000  22.74745   0.25871    97  Cyclammina placenta                     
+ 18  28.00000  23.00000  18.57311   4.54071   321  Dorothia seigliei                       
+ 19  27.00000  22.00000  19.19160   2.88116   261  Haplophragmoides walteri                
+ 20  19.00000  21.00000  23.87366  -2.94040    41  Wetzelliella symmetrica                 
+ 21  24.00000  21.00000  21.00275  -0.00282   289  Adercotryma agterbergi                  
+ 22  18.00000  20.00000  24.42569  -4.52595     7  Areoligera semicirculata                
+ 23  29.00000  19.00000  17.94724   1.07947    29  Reticulophragmium amplectens            
+ 24  30.00000  19.00000  17.31399   1.72802    32  Ammosphaeroidina pseudopauciloculata    
+ 25  31.00000  18.00000  16.67335   1.35894    12  Areosphaeridium diktyoplokus            
+ 26  25.00000  17.00000  20.40642  -3.49457   198  Glomospirella biedae                    
+ 27  37.00000  16.00000  12.67446   3.39139   260  Haplophragmoides kirki                  
+ 28  33.00000  15.00000  15.36992  -0.37840    72  Rottnestia borussica                    
+ 29  36.00000  14.00000  13.35940   0.65374    92  Diphyes ficusoides                      
+ 30  41.00000  13.00000   9.86085   3.19745   279  Recurvoidella lamella                   
+ 31  35.00000  12.00000  14.03696  -2.08037    68  Spiroplectammina spectabilis LO         
+ 32  39.00000  11.00000  11.28242  -0.28772    99  Eatonicysta ursulae                     
+ 33  38.00000  10.00000  11.98213  -2.02017   175  Reticulophragmium intermedia            
+ 34  42.00000   9.00000   9.13899  -0.14162    50  Subbotina patagonica                    
+ 35  43.00000   8.00000   8.40974  -0.41785   108  Deflandrea oebisfeldensis               
+ 36  44.00000   7.00000   7.67311  -0.68732    22  Coscinodiscus spp.                      
+ 37  45.00000   6.00000   6.92910  -0.95048    28  Apectodinium augustum                   
+ 38  40.00000   5.00000  10.57533  -5.67858    54  Spiroplectammina navarroana             
+ 39  48.00000   5.00000   4.65275   0.35881   283  Reticulophragmium garcilassoi           
+ 40  46.00000   5.00000   6.17770  -1.20785   105  Rzehakina minima                        
+ 41  47.00000   4.00000   5.41892  -1.46004    76  Reticulophragmium paupera               
+ 42  51.00000   4.00000   2.30994   1.77998   310  Saccammina placenta                     
+ 43  50.00000   4.00000   3.09826   0.94251   114  Alisocysta margarita                    
+ 44  49.00000   3.00000   3.87920  -0.91317    57  Spiroplectammina spectabilis LCO        
+ 45  53.00000   2.00000   0.71115   1.38468   134  Hormosina excelsa                       
+ 46  52.00000   1.00000   1.51424  -0.54655   129  Trochammina ruthven murrayi             
+ 47  54.00000   0.00000  -0.09932   0.10807   118  Palaeoperidinium pyrophorum             
+
+
+
+  Esso (N) 16/1-1                         
+
+ WELL #  5 WITH  35 EVENTS
+
+  i    X(i)    YMAX-Y(i) EXPECTED  DEVIATION  NO.  NAME
+
+  1   0.00000  23.00000  23.45056  -0.51606    77  Elphidium spp.                          
+  2   1.00000  23.00000  23.11387  -0.12751   228  Cassidulina teretis                     
+  3   6.00000  23.00000  21.35478   1.72624   270  Cibicidoides grossa                     
+  4   8.00000  22.00000  20.61584   1.43582    23  Sigmoilopsis schlumbergeri              
+  5   2.00000  22.00000  22.77214  -0.84860     1  Neogloboquadrina pachyderma             
+  6   7.00000  22.00000  20.98783   1.05518     4  Globorotalia inflata                    
+  7  14.00000  21.00000  18.27794   2.79720   219  Martinotiella cylindrica                
+  8   9.00000  20.00000  20.23880  -0.24679   269  Neogloboquadrina atlantica              
+  9  10.00000  19.00000  19.85671  -0.88305    91  Diatoms/radiolarians LCO                
+ 10  15.00000  18.00000  17.87064   0.13300   236  G. ex.gr. praescitula zealandica        
+ 11  11.00000  18.00000  19.46959  -1.51212    15  Globigerina praebulloides               
+ 12  16.00000  17.00000  17.45829  -0.47150    17  Asterigerina gurichi                    
+ 13  20.00000  16.00000  15.75845   0.24948    25  Coarse agglutinated spp.                
+ 14  19.00000  15.00000  16.19098  -1.22888    41  Wetzelliella symmetrica                 
+ 15  23.00000  14.00000  14.43061  -0.44568    24  Turrilina alsatica                      
+ 16  22.00000  14.00000  14.87827  -0.90852   182  Spirosigmoilinella compressa            
+ 17  21.00000  14.00000  15.32088  -1.36541    97  Cyclammina placenta                     
+ 18  28.00000  13.00000  12.11666   0.91359   321  Dorothia seigliei                       
+ 19  27.00000  13.00000  12.58954   0.42477   261  Haplophragmoides walteri                
+ 20  24.00000  13.00000  13.97791  -1.01244   289  Adercotryma agterbergi                  
+ 21  37.00000  12.00000   7.63376   4.48191   260  Haplophragmoides kirki                  
+ 22  31.00000  11.00000  10.66776   0.34268    12  Areosphaeridium diktyoplokus            
+ 23  34.00000  10.00000   9.17346   0.84980   263  Ammomarginulina aubertae                
+ 24  35.00000   9.00000   8.66527   0.34387    68  Spiroplectammina spectabilis LO         
+ 25  29.00000   8.00000  11.63874  -3.76039    29  Reticulophragmium amplectens            
+ 26  39.00000   7.00000   6.58207   0.42948    99  Eatonicysta ursulae                     
+ 27  41.00000   6.00000   5.51021   0.50539   279  Recurvoidella lamella                   
+ 28  40.00000   6.00000   6.04867  -0.05009    54  Spiroplectammina navarroana             
+ 29  42.00000   5.00000   4.96671   0.03447    50  Subbotina patagonica                    
+ 30  43.00000   4.00000   4.41817  -0.43509   108  Deflandrea oebisfeldensis               
+ 31  45.00000   4.00000   3.30596   0.73241    28  Apectodinium augustum                   
+ 32  44.00000   3.00000   3.86459  -0.90518    22  Coscinodiscus spp.                      
+ 33  47.00000   2.00000   2.17356  -0.18726    76  Reticulophragmium paupera               
+ 34  48.00000   1.00000   1.59980  -0.65690   283  Reticulophragmium garcilassoi           
+ 35  49.00000   0.00000   1.02099  -1.13875    57  Spiroplectammina spectabilis LCO        
+
+
+
+  Saga (N) 34/4-5                         
+
+ WELL #  6 WITH  37 EVENTS
+
+  i    X(i)    YMAX-Y(i) EXPECTED  DEVIATION  NO.  NAME
+
+  1   0.00000  26.00000  26.97894  -1.06955    77  Elphidium spp.                          
+  2   1.00000  26.00000  26.24842  -0.26769   228  Cassidulina teretis                     
+  3   2.00000  26.00000  25.52745   0.50337     1  Neogloboquadrina pachyderma             
+  4   3.00000  26.00000  24.81605   1.24921    31  Cibicidoides scaldisensis               
+  5   4.00000  25.00000  24.11420   0.92734   316  Trifarina fluens                        
+  6   8.00000  24.00000  21.40240   2.67040    23  Sigmoilopsis schlumbergeri              
+  7   6.00000  24.00000  22.73919   1.30503   270  Cibicidoides grossa                     
+  8   5.00000  23.00000  23.42192  -0.43891   171  Buccella frigida                        
+  9   7.00000  22.00000  22.06602  -0.06806     4  Globorotalia inflata                    
+ 10   9.00000  21.00000  20.74835   0.25817   269  Neogloboquadrina atlantica              
+ 11  11.00000  20.00000  19.46892   0.54371    15  Globigerina praebulloides               
+ 12  13.00000  19.00000  18.22773   0.79064   362  Cannosphaeropsis utinensis              
+ 13  21.00000  18.00000  13.64530   4.49508    97  Cyclammina placenta                     
+ 14  10.00000  17.00000  20.10386  -3.17996    91  Diatoms/radiolarians LCO                
+ 15  12.00000  16.00000  18.84354  -2.91053   363  Hystrichosphaeropsis obscura            
+ 16  23.00000  15.00000  12.59528   2.48679    24  Turrilina alsatica                      
+ 17  18.00000  14.00000  15.29202  -1.32901     7  Areoligera semicirculata                
+ 18  17.00000  13.00000  15.86004  -2.93839     3  Deflandrea phosphoritica                
+ 19  20.00000  12.00000  14.18465  -2.25259    25  Coarse agglutinated spp.                
+ 20  31.00000  11.00000   8.77756   2.29846    12  Areosphaeridium diktyoplokus            
+ 21  27.00000  10.00000  10.60995  -0.63175   261  Haplophragmoides walteri                
+ 22  33.00000  10.00000   7.91871   2.14910    72  Rottnestia borussica                    
+ 23  25.00000  10.00000  11.58350  -1.63945   198  Glomospirella biedae                    
+ 24  32.00000   9.00000   8.34336   0.67860   229  Recurvoides ex.gr. walteri              
+ 25  36.00000   8.00000   6.70214   1.33670    92  Diphyes ficusoides                      
+ 26  29.00000   7.00000   9.67463  -2.76912    29  Reticulophragmium amplectens            
+ 27  39.00000   6.00000   5.57159   0.44055    99  Eatonicysta ursulae                     
+ 28  40.00000   5.00000   5.21386  -0.21993    54  Spiroplectammina navarroana             
+ 29  42.00000   5.00000   4.52708   0.48703    50  Subbotina patagonica                    
+ 30  37.00000   5.00000   6.31573  -1.35414   260  Haplophragmoides kirki                  
+ 31  45.00000   4.00000   3.56859   0.44737    28  Apectodinium augustum                   
+ 32  43.00000   4.00000   4.19802  -0.20425   108  Deflandrea oebisfeldensis               
+ 33  52.00000   3.00000   1.66668   1.46656   129  Trochammina ruthven murrayi             
+ 34  49.00000   2.00000   2.42443  -0.45069    57  Spiroplectammina spectabilis LCO        
+ 35  53.00000   2.00000   1.43321   0.63385   134  Hormosina excelsa                       
+ 36  47.00000   1.00000   2.97739  -2.06962    76  Reticulophragmium paupera               
+ 37  54.00000   0.00000   1.20930  -1.37928   118  Palaeoperidinium pyrophorum             
+
+
+
+  Hydro (N) 6407/7-1                      
+
+ WELL #  7 WITH  30 EVENTS
+
+  i    X(i)    YMAX-Y(i) EXPECTED  DEVIATION  NO.  NAME
+
+  1  23.00000  22.00000  18.67392   3.46995    24  Turrilina alsatica                      
+  2  18.00000  22.00000  20.48129   1.69884     7  Areoligera semicirculata                
+  3  17.00000  21.00000  20.80272   0.22725     3  Deflandrea phosphoritica                
+  4  19.00000  20.00000  20.14652  -0.16023    41  Wetzelliella symmetrica                 
+  5  20.00000  19.00000  19.79840  -0.85810    25  Coarse agglutinated spp.                
+  6  26.00000  19.00000  17.42929   1.62339   324  Aschemonella grandis                    
+  7  29.00000  18.00000  16.06450   2.00074    29  Reticulophragmium amplectens            
+  8  31.00000  17.00000  15.08788   1.98017    12  Areosphaeridium diktyoplokus            
+  9  33.00000  17.00000  14.05786   3.05145    72  Rottnestia borussica                    
+ 10  35.00000  16.00000  12.97444   3.13908    68  Spiroplectammina spectabilis LO         
+ 11  21.00000  16.00000  19.43693  -3.64582    97  Cyclammina placenta                     
+ 12  30.00000  15.00000  15.58286  -0.60304    32  Ammosphaeroidina pseudopauciloculata    
+ 13  36.00000  14.00000  12.41270   1.64625    92  Diphyes ficusoides                      
+ 14  38.00000  13.00000  11.24917   1.81265   175  Reticulophragmium intermedia            
+ 15  39.00000  12.00000  10.64738   1.39862    99  Eatonicysta ursulae                     
+ 16  40.00000  11.00000  10.03223   0.99931    54  Spiroplectammina navarroana             
+ 17  37.00000  11.00000  11.83761  -0.86808   260  Haplophragmoides kirki                  
+ 18  27.00000  11.00000  16.98771  -6.18485   261  Haplophragmoides walteri                
+ 19  41.00000  10.00000   9.40374   0.61488   279  Recurvoidella lamella                   
+ 20  42.00000   9.00000   8.76190   0.24527    50  Subbotina patagonica                    
+ 21  43.00000   8.00000   8.10670  -0.10984   108  Deflandrea oebisfeldensis               
+ 22  34.00000   7.00000  13.52282  -6.76755   263  Ammomarginulina aubertae                
+ 23  45.00000   6.00000   6.75626  -0.77929    28  Apectodinium augustum                   
+ 24  48.00000   5.00000   4.63046   0.38550   283  Reticulophragmium garcilassoi           
+ 25  50.00000   4.00000   3.14651   0.90880   114  Alisocysta margarita                    
+ 26  52.00000   3.00000   1.60915   1.53632   129  Trochammina ruthven murrayi             
+ 27  51.00000   3.00000   2.38450   0.66586   310  Saccammina placenta                     
+ 28  49.00000   2.00000   3.89516  -1.99415    57  Spiroplectammina spectabilis LCO        
+ 29  54.00000   1.00000   0.01839   1.15389   118  Palaeoperidinium pyrophorum             
+ 30  46.00000   0.00000   6.06101  -6.25990   105  Rzehakina minima                        
+
+
+
+  6407/7A-1                               
+
+ WELL #  8 WITH  10 EVENTS
+
+  i    X(i)    YMAX-Y(i) EXPECTED  DEVIATION  NO.  NAME
+
+  1   3.00000   5.00000   3.80000   1.33785    31  Cibicidoides scaldisensis               
+  2   1.00000   5.00000   4.04242   1.12757   228  Cassidulina teretis                     
+  3   2.00000   4.00000   3.98182   0.02012     1  Neogloboquadrina pachyderma             
+  4   6.00000   3.00000   2.52727   0.52703   270  Cibicidoides grossa                     
+  5   4.00000   3.00000   3.49697  -0.56424   316  Trifarina fluens                        
+  6   0.00000   3.00000   4.04242  -1.68700    77  Elphidium spp.                          
+  7   7.00000   2.00000   1.86061   0.15425     4  Globorotalia inflata                    
+  8   5.00000   2.00000   3.07273  -1.21794   171  Buccella frigida                        
+  9   9.00000   1.00000   0.16364   1.35353   269  Neogloboquadrina atlantica              
+ 10   8.00000   0.00000   1.07273  -1.26316    23  Sigmoilopsis schlumbergeri              
+
+
+
+  BP (UK) 15/20-2                         
+
+ WELL #  9 WITH  24 EVENTS
+
+  i    X(i)    YMAX-Y(i) EXPECTED  DEVIATION  NO.  NAME
+
+  1   0.00000  17.00000  16.66221   0.42781    77  Elphidium spp.                          
+  2   1.00000  16.00000  16.46096  -0.56004   228  Cassidulina teretis                     
+  3   9.00000  16.00000  14.67109   1.40329   269  Neogloboquadrina atlantica              
+  4   8.00000  15.00000  14.91230   0.09322    23  Sigmoilopsis schlumbergeri              
+  5  14.00000  14.00000  13.39008   0.63639   219  Martinotiella cylindrica                
+  6  16.00000  13.00000  12.84271   0.16429    17  Asterigerina gurichi                    
+  7  15.00000  13.00000  13.11889  -0.12408   236  G. ex.gr. praescitula zealandica        
+  8  11.00000  13.00000  14.17367  -1.22913    15  Globigerina praebulloides               
+  9  20.00000  12.00000  11.68803   0.32759    25  Coarse agglutinated spp.                
+ 10  22.00000  11.00000  11.08072  -0.08497   182  Spirosigmoilinella compressa            
+ 11  21.00000  11.00000  11.38687  -0.40677    97  Cyclammina placenta                     
+ 12  29.00000  10.00000   8.79779   1.26489    29  Reticulophragmium amplectens            
+ 13  37.00000   9.00000   5.88902   3.23072   260  Haplophragmoides kirki                  
+ 14  35.00000   8.00000   6.64618   1.40983    68  Spiroplectammina spectabilis LO         
+ 15  30.00000   7.00000   8.45167  -1.52526    32  Ammosphaeroidina pseudopauciloculata    
+ 16  27.00000   6.00000   9.47503  -3.66295   261  Haplophragmoides walteri                
+ 17  40.00000   5.00000   4.71581   0.29510    54  Spiroplectammina navarroana             
+ 18  42.00000   4.00000   3.90870   0.09525    50  Subbotina patagonica                    
+ 19  41.00000   4.00000   4.31475  -0.32740   279  Recurvoidella lamella                   
+ 20  44.00000   3.00000   3.08160  -0.08603    22  Coscinodiscus spp.                      
+ 21  46.00000   2.00000   2.23453  -0.25190   105  Rzehakina minima                        
+ 22  47.00000   2.00000   1.80350   0.21390    76  Reticulophragmium paupera               
+ 23  49.00000   1.00000   0.92645   0.08313    57  Spiroplectammina spectabilis LCO        
+ 24  48.00000   0.00000   1.36747  -1.51373   283  Reticulophragmium garcilassoi           
+
+
+
+  Saga (N) 2/2-4                          
+
+ WELL # 10 WITH  40 EVENTS
+
+  i    X(i)    YMAX-Y(i) EXPECTED  DEVIATION  NO.  NAME
+
+  1   5.00000  32.00000  28.32171   3.86103   171  Buccella frigida                        
+  2   0.00000  31.00000  31.29466  -0.32938    77  Elphidium spp.                          
+  3   1.00000  30.00000  30.70436  -0.77372   228  Cassidulina teretis                     
+  4   3.00000  29.00000  29.51732  -0.55319    31  Cibicidoides scaldisensis               
+  5   2.00000  29.00000  30.11191  -1.20365     1  Neogloboquadrina pachyderma             
+  6   8.00000  28.00000  26.51224   1.53571    23  Sigmoilopsis schlumbergeri              
+  7   9.00000  27.00000  25.90479   1.12667   269  Neogloboquadrina atlantica              
+  8  12.00000  26.00000  24.06961   1.97468   363  Hystrichosphaeropsis obscura            
+  9  14.00000  25.00000  22.83544   2.21183   219  Martinotiella cylindrica                
+ 10  13.00000  25.00000  23.45360   1.58071   362  Cannosphaeropsis utinensis              
+ 11  21.00000  24.00000  18.44838   5.68831    97  Cyclammina placenta                     
+ 12  20.00000  23.00000  19.08153   4.01284    25  Coarse agglutinated spp.                
+ 13  10.00000  22.00000  25.29521  -3.38120    91  Diatoms/radiolarians LCO                
+ 14  15.00000  21.00000  22.21515  -1.24165   236  G. ex.gr. praescitula zealandica        
+ 15  16.00000  20.00000  21.59270  -1.62781    17  Asterigerina gurichi                    
+ 16  11.00000  20.00000  24.68348  -4.79687    15  Globigerina praebulloides               
+ 17  25.00000  19.00000  15.89436   3.18597   198  Glomospirella biedae                    
+ 18  26.00000  19.00000  15.25049   3.84651   324  Aschemonella grandis                    
+ 19  27.00000  19.00000  14.60449   4.50872   261  Haplophragmoides walteri                
+ 20  22.00000  18.00000  17.81309   0.19160   182  Spirosigmoilinella compressa            
+ 21  24.00000  17.00000  16.53607   0.47586   289  Adercotryma agterbergi                  
+ 22  28.00000  16.00000  13.95635   2.09583   321  Dorothia seigliei                       
+ 23  18.00000  15.00000  20.34140  -5.46397     7  Areoligera semicirculata                
+ 24  19.00000  14.00000  19.71254  -5.84684    41  Wetzelliella symmetrica                 
+ 25  30.00000  13.00000  12.65363   0.35497    32  Ammosphaeroidina pseudopauciloculata    
+ 26  29.00000  12.00000  13.30606  -1.33899    29  Reticulophragmium amplectens            
+ 27  34.00000  11.00000  10.02249   1.00046   263  Ammomarginulina aubertae                
+ 28  31.00000  10.00000  11.99906  -2.04787    12  Areosphaeridium diktyoplokus            
+ 29  33.00000   9.00000  10.68349  -1.72336    72  Rottnestia borussica                    
+ 30  37.00000   8.00000   8.02664  -0.02728   260  Haplophragmoides kirki                  
+ 31  40.00000   7.00000   6.01151   1.01710    54  Spiroplectammina navarroana             
+ 32  35.00000   6.00000   9.35935  -3.43810    68  Spiroplectammina spectabilis LO         
+ 33  41.00000   5.00000   5.33551  -0.34621   279  Recurvoidella lamella                   
+ 34  38.00000   5.00000   7.35707  -2.41657   175  Reticulophragmium intermedia            
+ 35  39.00000   4.00000   6.68536  -2.75726    99  Eatonicysta ursulae                     
+ 36  42.00000   3.00000   4.65738  -1.71660    50  Subbotina patagonica                    
+ 37  49.00000   2.00000  -0.14956   2.37775    57  Spiroplectammina spectabilis LCO        
+ 38  45.00000   1.00000   2.61012  -1.69787    28  Apectodinium augustum                   
+ 39  53.00000   0.00000  -2.94351   3.58795   134  Hormosina excelsa                       
+ 40  47.00000   0.00000   1.23456  -1.32762    76  Reticulophragmium paupera               
+
+
+
+  Shell (UK) 22/6-1                       
+
+ WELL # 11 WITH  29 EVENTS
+
+  i    X(i)    YMAX-Y(i) EXPECTED  DEVIATION  NO.  NAME
+
+  1   0.00000  26.00000  25.41319   0.66705    77  Elphidium spp.                          
+  2   4.00000  25.00000  23.27902   1.84225   316  Trifarina fluens                        
+  3   1.00000  24.00000  24.87692  -0.97777   228  Cassidulina teretis                     
+  4   6.00000  23.00000  22.22286   0.81814   270  Cibicidoides grossa                     
+  5   2.00000  22.00000  24.34247  -2.57003     1  Neogloboquadrina pachyderma             
+  6   8.00000  21.00000  21.17397  -0.18119    23  Sigmoilopsis schlumbergeri              
+  7  10.00000  20.00000  20.13236  -0.13698    91  Diatoms/radiolarians LCO                
+  8  16.00000  19.00000  17.05121   2.00956    17  Asterigerina gurichi                    
+  9  11.00000  18.00000  19.61429  -1.66736    15  Globigerina praebulloides               
+ 10  15.00000  18.00000  17.56018   0.45334   236  G. ex.gr. praescitula zealandica        
+ 11  21.00000  17.00000  14.53362   2.55280    97  Cyclammina placenta                     
+ 12  22.00000  16.00000  14.03556   2.03470   182  Spirosigmoilinella compressa            
+ 13  25.00000  15.00000  12.55230   2.53870   198  Glomospirella biedae                    
+ 14  24.00000  14.00000  13.04490   0.99030   289  Adercotryma agterbergi                  
+ 15  32.00000  13.00000   9.15504   3.98019   229  Recurvoides ex.gr. walteri              
+ 16  30.00000  12.00000  10.11659   1.95185    32  Ammosphaeroidina pseudopauciloculata    
+ 17  23.00000  11.00000  13.53932  -2.63170    24  Turrilina alsatica                      
+ 18  26.00000  10.00000  12.06152  -2.13847   324  Aschemonella grandis                    
+ 19  28.00000   9.00000  11.08541  -2.16284   321  Dorothia seigliei                       
+ 20  27.00000   8.00000  11.57256  -3.70584   261  Haplophragmoides walteri                
+ 21  34.00000   7.00000   8.20078  -1.24156   263  Ammomarginulina aubertae                
+ 22  35.00000   6.00000   7.72637  -1.78417    68  Spiroplectammina spectabilis LO         
+ 23  40.00000   5.00000   5.38164  -0.39512    54  Spiroplectammina navarroana             
+ 24  42.00000   4.00000   4.45649  -0.47467    50  Subbotina patagonica                    
+ 25  44.00000   3.00000   3.53861  -0.56449    22  Coscinodiscus spp.                      
+ 26  51.00000   2.00000   0.38336   1.83161   310  Saccammina placenta                     
+ 27  47.00000   1.00000   2.17545  -1.25848    76  Reticulophragmium paupera               
+ 28  53.00000   1.00000  -0.50176   1.78458   134  Hormosina excelsa                       
+ 29  49.00000   0.00000   1.27577  -1.39793    57  Spiroplectammina spectabilis LCO        
+
+
+
+  Amoco (N) 2/8-1                         
+
+ WELL # 12 WITH  19 EVENTS
+
+  i    X(i)    YMAX-Y(i) EXPECTED  DEVIATION  NO.  NAME
+
+  1   1.00000  13.00000  13.72227  -0.87494   228  Cassidulina teretis                     
+  2   0.00000  13.00000  13.99836  -1.25905    77  Elphidium spp.                          
+  3   8.00000  12.00000  11.76036   0.25507    23  Sigmoilopsis schlumbergeri              
+  4   9.00000  12.00000  11.47591   0.55428   269  Neogloboquadrina atlantica              
+  5  14.00000  11.00000  10.03794   1.00538   219  Martinotiella cylindrica                
+  6  15.00000  11.00000   9.74721   1.30939   236  G. ex.gr. praescitula zealandica        
+  7  11.00000  11.00000  10.90386   0.10086    15  Globigerina praebulloides               
+  8  16.00000  10.00000   9.45543   0.56951    17  Asterigerina gurichi                    
+  9  20.00000   9.00000   8.27786   0.75853    25  Coarse agglutinated spp.                
+ 10  27.00000   8.00000   6.17686   1.92269   261  Haplophragmoides walteri                
+ 11  22.00000   7.00000   7.68280  -0.71873   182  Spirosigmoilinella compressa            
+ 12  28.00000   6.00000   5.87253   0.13440   321  Dorothia seigliei                       
+ 13  32.00000   5.00000   4.64476   0.37400   229  Recurvoides ex.gr. walteri              
+ 14  35.00000   4.00000   3.71295   0.30249    68  Spiroplectammina spectabilis LO         
+ 15  34.00000   3.00000   4.02460  -1.07892   263  Ammomarginulina aubertae                
+ 16  29.00000   2.00000   5.56715  -3.75974    29  Reticulophragmium amplectens            
+ 17  40.00000   1.00000   2.13902  -1.22116    54  Spiroplectammina navarroana             
+ 18  46.00000   0.00000   0.21579  -0.25280   105  Rzehakina minima                        
+ 19  51.00000   0.00000  -1.41566   2.11493   310  Saccammina placenta                     
+
+
+
+  Saga (N) 35/3-1                         
+
+ WELL # 13 WITH  21 EVENTS
+
+  i    X(i)    YMAX-Y(i) EXPECTED  DEVIATION  NO.  NAME
+
+  1   1.00000  18.00000  17.30773   0.80570   228  Cassidulina teretis                     
+  2   5.00000  17.00000  15.45703   1.65411   171  Buccella frigida                        
+  3   2.00000  17.00000  16.83439   0.18738     1  Neogloboquadrina pachyderma             
+  4   3.00000  16.00000  16.36815  -0.40728    31  Cibicidoides scaldisensis               
+  5   6.00000  15.00000  15.01213  -0.01287   270  Cibicidoides grossa                     
+  6  12.00000  14.00000  12.49211   1.57515   363  Hystrichosphaeropsis obscura            
+  7  13.00000  13.00000  12.09700   0.94570   362  Cannosphaeropsis utinensis              
+  8  10.00000  12.00000  13.30367  -1.35953    91  Diatoms/radiolarians LCO                
+  9  23.00000  11.00000   8.53706   2.70504    24  Turrilina alsatica                      
+ 10  17.00000  10.00000  10.58768  -0.62621     3  Deflandrea phosphoritica                
+ 11  18.00000   9.00000  10.22812  -1.31559     7  Areoligera semicirculata                
+ 12  16.00000   8.00000  10.95434  -3.13220    17  Asterigerina gurichi                    
+ 13  20.00000   7.00000   9.53036  -2.73960    25  Coarse agglutinated spp.                
+ 14  43.00000   6.00000   3.55083   2.60222   108  Deflandrea oebisfeldensis               
+ 15  44.00000   5.00000   3.37620   1.72083    22  Coscinodiscus spp.                      
+ 16  49.00000   4.00000   2.60972   1.48148    57  Spiroplectammina spectabilis LCO        
+ 17  50.00000   3.00000   2.47776   0.56016   114  Alisocysta margarita                    
+ 18  52.00000   2.00000   2.23517  -0.25770   129  Trochammina ruthven murrayi             
+ 19  47.00000   2.00000   2.89497  -0.94721    76  Reticulophragmium paupera               
+ 20  54.00000   1.00000   2.02104  -1.15993   118  Palaeoperidinium pyrophorum             
+ 21  53.00000   0.00000   2.12455  -2.36529   134  Hormosina excelsa                       
+
+
+
+  Saga 6406/2-1                           
+
+ WELL # 14 WITH  29 EVENTS
+
+  i    X(i)    YMAX-Y(i) EXPECTED  DEVIATION  NO.  NAME
+
+  1   0.00000  24.00000  23.56558   0.54013    77  Elphidium spp.                          
+  2   8.00000  23.00000  20.43227   2.70665    23  Sigmoilopsis schlumbergeri              
+  3   4.00000  22.00000  22.02069  -0.02292   316  Trifarina fluens                        
+  4   7.00000  21.00000  20.83345   0.17706     4  Globorotalia inflata                    
+  5   9.00000  20.00000  20.02836  -0.02970   269  Neogloboquadrina atlantica              
+  6  12.00000  19.00000  18.80030   0.20694   363  Hystrichosphaeropsis obscura            
+  7  11.00000  18.00000  19.21238  -1.25915    15  Globigerina praebulloides               
+  8  15.00000  18.00000  17.54776   0.46798   236  G. ex.gr. praescitula zealandica        
+  9  14.00000  17.00000  17.96800  -1.00145   219  Martinotiella cylindrica                
+ 10  13.00000  16.00000  18.38551  -2.46895   362  Cannosphaeropsis utinensis              
+ 11  18.00000  15.00000  16.27073  -1.31945     7  Areoligera semicirculata                
+ 12  23.00000  15.00000  14.08793   0.95437    24  Turrilina alsatica                      
+ 13  28.00000  14.00000  11.83710   2.26863   321  Dorothia seigliei                       
+ 14  24.00000  13.00000  13.64320  -0.67377   289  Adercotryma agterbergi                  
+ 15  27.00000  12.00000  12.29271  -0.30707   261  Haplophragmoides walteri                
+ 16  31.00000  11.00000  10.45395   0.57131    12  Areosphaeridium diktyoplokus            
+ 17  29.00000  10.00000  11.37877  -1.44541    29  Reticulophragmium amplectens            
+ 18  35.00000   9.00000   8.57166   0.44524    68  Spiroplectammina spectabilis LO         
+ 19  39.00000   8.00000   6.64583   1.39917    99  Eatonicysta ursulae                     
+ 20  38.00000   7.00000   7.13137  -0.13588   175  Reticulophragmium intermedia            
+ 21  42.00000   6.00000   5.17289   0.85464    50  Subbotina patagonica                    
+ 22  43.00000   5.00000   4.67646   0.33486   108  Deflandrea oebisfeldensis               
+ 23  44.00000   4.00000   4.17732  -0.18403    22  Coscinodiscus spp.                      
+ 24  45.00000   3.00000   3.67545  -0.70388    28  Apectodinium augustum                   
+ 25  48.00000   2.00000   2.15353  -0.16367   283  Reticulophragmium garcilassoi           
+ 26  49.00000   2.00000   1.64079   0.38760    57  Spiroplectammina spectabilis LCO        
+ 27  47.00000   2.00000   2.66356  -0.70060    76  Reticulophragmium paupera               
+ 28  50.00000   1.00000   1.12532  -0.13728   114  Alisocysta margarita                    
+ 29  51.00000   0.00000   0.60713  -0.67761   310  Saccammina placenta                     
+
+
+ STANDARD DEVIATION OF EVENTS PER WELL
+
+  Saga (N) 6407/2-3                          1.15056
+  Statoil (N) 6407/4-1                       1.42107
+  Elf Aquitaine (N) 6406/8-1                 1.19814
+  Hydro (N) 34/8-1                           1.94672
+  Esso (N) 16/1-1                            1.35000
+  Saga (N) 34/4-5                            1.71446
+  Hydro (N) 6407/7-1                         2.59620
+  6407/7A-1                                  1.06951
+  BP (UK) 15/20-2                            1.24331
+  Saga (N) 2/2-4                             2.72017
+  Shell (UK) 22/6-1                          1.87811
+  Amoco (N) 2/8-1                            1.30078
+  Saga (N) 35/3-1                            1.62878
+  Saga 6406/2-1                              1.05128
+
+
+
+ EVENT VARIANCE ANALYSIS
+
+
+ AVERAGE STANDARD DEVIATION FROM LINE OF CORRELATION =  1.6720
+
+
+
+
+ EVENT NO.   77  Elphidium spp.                          
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  4      0.109        I          I*         I
+  5      0.516        I          I**        I
+  6      1.070        I          I****      I
+  8      1.687        I          I******    I
+  9     -0.428        I        **I          I
+ 10      0.329        I          I*         I
+ 11     -0.667        I        **I          I
+ 12      1.259        I          I****      I
+ 14     -0.540        I        **I          I
+
+ SAMPLE SIZE =    9         UNCORRECTED MEAN =     0.371
+ ADJUSTED SD =   0.840      ADJUSTED SKEWNESS =    0.252
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  0.371 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        3  I***       I
+    5  -0.67 TO  0.00        2  I**        I
+    6   0.00 TO  0.67        1  I*         I
+    7   0.67 TO  1.34        3  I***       I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        0  I          I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  4     -0.262     1.    0.261
+  5      0.146     1.    1.527
+  6      0.699     1.    1.469
+  9     -0.798     1.   -2.214
+ 10     -0.041     2.    0.558
+ 11     -1.038     1.   -1.239
+ 12      0.889     1.    4.530
+ 14     -0.911     1.   -1.426
+
+
+
+
+ EVENT NO.  228  Cassidulina teretis                     
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1      1.032        I          I****      I
+  2      0.966        I          I***       I
+  3      1.251        I          I****      I
+  4     -0.345        I        **I          I
+  5      0.128        I          I*         I
+  6      0.268        I          I*         I
+  8     -1.128        I      ****I          I
+  9      0.560        I          I**        I
+ 10      0.774        I          I***       I
+ 11      0.978        I          I***       I
+ 12      0.875        I          I***       I
+ 13     -0.806        I       ***I          I
+
+ SAMPLE SIZE =   12         UNCORRECTED MEAN =     0.379
+ ADJUSTED SD =   0.774      ADJUSTED SKEWNESS =   -0.925
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  0.379 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        1  I*         I
+    4  -1.34 TO -0.67        2  I**        I
+    5  -0.67 TO  0.00        2  I**        I
+    6   0.00 TO  0.67        6  I******    I
+    7   0.67 TO  1.34        1  I*         I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        0  I          I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1      0.652     2.    2.678
+  2      0.586     1.    2.404
+  3      0.872     1.    3.454
+  4     -0.724     1.    0.178
+  5     -0.252     1.    1.375
+  6     -0.112     1.    1.370
+  9      0.181     2.    3.662
+ 10      0.394     3.    2.305
+ 11      0.598     3.    2.832
+ 12      0.496     1.    4.144
+ 13     -1.185     1.   -0.669
+
+
+
+
+ EVENT NO.    1  Neogloboquadrina pachyderma             
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -0.725        I       ***I          I
+  2      0.196        I          I*         I
+  3      0.668        I          I**        I
+  4     -0.797        I       ***I          I
+  5      0.849        I          I***       I
+  6     -0.503        I        **I          I
+  8     -0.020        I         *I          I
+ 10      1.204        I          I****      I
+ 11      2.570        I          I********  I
+ 13     -0.187        I         *I          I
+
+ SAMPLE SIZE =   10         UNCORRECTED MEAN =     0.326
+ ADJUSTED SD =   1.035      ADJUSTED SKEWNESS =    1.107
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  0.326 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        3  I***       I
+    5  -0.67 TO  0.00        3  I***       I
+    6   0.00 TO  0.67        2  I**        I
+    7   0.67 TO  1.34        1  I*         I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        1  I*         I
+   10   2.68 TO  9.99        0  I          I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1     -1.050     1.    0.823
+  2     -0.129     1.    2.286
+  3      0.343     1.    3.311
+  4     -1.122     1.    0.118
+  5      0.523     2.    4.422
+  6     -0.829     1.    1.300
+  8     -0.346     2.    1.817
+ 10      0.878     4.    4.021
+ 11      2.245     5.    6.857
+ 13     -0.513     2.    1.602
+
+
+
+
+ EVENT NO.   31  Cibicidoides scaldisensis               
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -0.304        I         *I          I
+  2     -0.546        I        **I          I
+  4     -1.248        I      ****I          I
+  6     -1.249        I      ****I          I
+  8     -1.338        I     *****I          I
+ 10      0.553        I          I**        I
+ 13      0.407        I          I**        I
+
+ SAMPLE SIZE =    7         UNCORRECTED MEAN =    -0.532
+ ADJUSTED SD =   0.795      ADJUSTED SKEWNESS =    0.400
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.532 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        3  I***       I
+    5  -0.67 TO  0.00        1  I*         I
+    6   0.00 TO  0.67        1  I*         I
+    7   0.67 TO  1.34        2  I**        I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        0  I          I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1      0.228     2.    2.504
+  2     -0.014     1.    2.202
+  4     -0.716     1.    0.075
+  6     -0.717     1.    1.253
+ 10      1.085     4.    3.927
+ 13      0.939     3.    3.886
+
+
+
+
+ EVENT NO.  316  Trifarina fluens                        
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -0.945        I       ***I          I
+  3      0.629        I          I**        I
+  4      2.497        I          I********  I
+  6     -0.927        I       ***I          I
+  8      0.564        I          I**        I
+ 11     -1.842        I    ******I          I
+ 14      0.023        I          I*         I
+
+ SAMPLE SIZE =    7         UNCORRECTED MEAN =     0.000
+ ADJUSTED SD =   1.420      ADJUSTED SKEWNESS =    0.661
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  0.000 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        1  I*         I
+    4  -1.34 TO -0.67        2  I**        I
+    5  -0.67 TO  0.00        0  I          I
+    6   0.00 TO  0.67        3  I***       I
+    7   0.67 TO  1.34        0  I          I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        1  I*         I
+   10   2.68 TO  9.99        0  I          I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1     -0.945     2.    2.453
+  3      0.629     2.    5.233
+  4      2.497     5.    9.373
+  6     -0.927     2.    2.682
+  8      0.564     3.    5.279
+ 11     -1.842     2.    0.544
+ 14      0.023     3.    4.059
+
+
+
+
+ EVENT NO.  171  Buccella frigida                        
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -0.527        I        **I          I
+  4     -1.116        I      ****I          I
+  6      0.439        I          I**        I
+  8      1.218        I          I****      I
+ 10     -3.861        I**********I          I
+ 13     -1.654        I     *****I          I
+
+ SAMPLE SIZE =    6         UNCORRECTED MEAN =    -0.917
+ ADJUSTED SD =   1.778      ADJUSTED SKEWNESS =   -0.729
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.917 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        1  I*         I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        1  I*         I
+    5  -0.67 TO  0.00        1  I*         I
+    6   0.00 TO  0.67        1  I*         I
+    7   0.67 TO  1.34        0  I          I
+    8   1.34 TO  2.01        1  I*         I
+    9   2.01 TO  2.68        1  I*         I
+   10   2.68 TO  9.99        0  I          I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1      0.390     3.    4.133
+  4     -0.199     2.    2.481
+  6      1.356     4.    5.641
+  8      2.135     4.    7.008
+ 10     -2.944     1.   -1.511
+ 13     -0.737     2.    1.414
+
+
+
+
+ EVENT NO.  270  Cibicidoides grossa                     
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -0.112        I         *I          I
+  2     -1.615        I     *****I          I
+  3     -1.505        I     *****I          I
+  4     -0.546        I        **I          I
+  5     -1.726        I    ******I          I
+  6     -1.305        I      ****I          I
+  8     -0.527        I        **I          I
+ 11     -0.818        I       ***I          I
+ 13      0.013        I          I*         I
+
+ SAMPLE SIZE =    9         UNCORRECTED MEAN =    -0.905
+ ADJUSTED SD =   0.657      ADJUSTED SKEWNESS =    0.100
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.905 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        2  I**        I
+    5  -0.67 TO  0.00        2  I**        I
+    6   0.00 TO  0.67        3  I***       I
+    7   0.67 TO  1.34        2  I**        I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        0  I          I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1      0.792     4.    5.814
+  2     -0.710     2.    3.615
+  3     -0.601     1.    3.050
+  4      0.359     3.    4.802
+  5     -0.822     1.    1.097
+  6     -0.400     3.    4.100
+  8      0.378     3.    5.038
+ 11      0.086     4.    4.450
+ 13      0.918     4.    6.029
+
+
+
+
+ EVENT NO.    4  Globorotalia inflata                    
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -1.771        I    ******I          I
+  2     -1.262        I      ****I          I
+  3      0.059        I          I*         I
+  4     -1.022        I      ****I          I
+  5     -1.055        I      ****I          I
+  6      0.068        I          I*         I
+  8     -0.154        I         *I          I
+ 14     -0.177        I         *I          I
+
+ SAMPLE SIZE =    8         UNCORRECTED MEAN =    -0.664
+ ADJUSTED SD =   0.699      ADJUSTED SKEWNESS =   -0.365
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.664 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        1  I*         I
+    5  -0.67 TO  0.00        3  I***       I
+    6   0.00 TO  0.67        2  I**        I
+    7   0.67 TO  1.34        2  I**        I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        0  I          I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1     -1.107     3.    4.073
+  2     -0.598     3.    5.125
+  3      0.723     3.    7.116
+  4     -0.358     3.    4.773
+  5     -0.391     2.    4.086
+  6      0.732     5.    7.102
+  8      0.510     4.    6.784
+ 14      0.487     4.    6.557
+
+
+
+
+ EVENT NO.   23  Sigmoilopsis schlumbergeri              
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -0.320        I         *I          I
+  2     -0.911        I       ***I          I
+  3     -2.545        I  ********I          I
+  4     -0.474        I        **I          I
+  5     -1.436        I     *****I          I
+  6     -2.670        I  ********I          I
+  8      1.263        I          I****      I
+  9     -0.093        I         *I          I
+ 10     -1.536        I     *****I          I
+ 11      0.181        I          I*         I
+ 12     -0.255        I         *I          I
+ 14     -2.707        I *********I          I
+
+ SAMPLE SIZE =   12         UNCORRECTED MEAN =    -0.959
+ ADJUSTED SD =   1.250      ADJUSTED SKEWNESS =   -0.047
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.959 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        3  I***       I
+    4  -1.34 TO -0.67        0  I          I
+    5  -0.67 TO  0.00        2  I**        I
+    6   0.00 TO  0.67        3  I***       I
+    7   0.67 TO  1.34        3  I***       I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        1  I*         I
+   10   2.68 TO  9.99        0  I          I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1      0.638     5.    7.466
+  2      0.047     4.    6.637
+  3     -1.587     1.    3.013
+  4      0.485     4.    6.994
+  5     -0.477     2.    4.062
+  6     -1.712     3.    4.059
+  8      2.222     6.    9.357
+  9      0.865     3.    7.608
+ 10     -0.577     5.    5.456
+ 11      1.140     6.    8.347
+ 12      0.704     2.    7.100
+ 14     -1.748     2.    1.116
+
+
+
+
+ EVENT NO.  269  Neogloboquadrina atlantica              
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1      0.094        I          I*         I
+  2     -0.562        I        **I          I
+  3      0.036        I          I*         I
+  4      1.090        I          I****      I
+  5      0.247        I          I*         I
+  6     -0.258        I         *I          I
+  8     -1.354        I     *****I          I
+  9     -1.403        I     *****I          I
+ 10     -1.127        I      ****I          I
+ 12     -0.554        I        **I          I
+ 14      0.030        I          I*         I
+
+ SAMPLE SIZE =   11         UNCORRECTED MEAN =    -0.342
+ ADJUSTED SD =   0.757      ADJUSTED SKEWNESS =    0.167
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.342 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        3  I***       I
+    5  -0.67 TO  0.00        2  I**        I
+    6   0.00 TO  0.67        5  I*****     I
+    7   0.67 TO  1.34        0  I          I
+    8   1.34 TO  2.01        1  I*         I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        0  I          I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1      0.436     6.    9.159
+  2     -0.220     5.    8.155
+  3      0.378     4.    9.071
+  4      1.432     6.   11.224
+  5      0.589     4.    9.647
+  6      0.084     6.    8.604
+  8     -1.012     4.    7.455
+  9     -1.061     2.    2.855
+ 10     -0.785     6.    7.142
+ 12     -0.212     2.    7.048
+ 14      0.372     5.    9.073
+
+
+
+
+ EVENT NO.   91  Diatoms/radiolarians LCO                
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1      1.534        I          I*****     I
+  2     -0.212        I         *I          I
+  3     -0.490        I        **I          I
+  5      0.883        I          I***       I
+  6      3.180        I          I**********I
+ 10      3.381        I          I**********I
+ 11      0.137        I          I*         I
+ 13      1.360        I          I*****     I
+
+ SAMPLE SIZE =    8         UNCORRECTED MEAN =     1.222
+ ADJUSTED SD =   1.459      ADJUSTED SKEWNESS =    0.512
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  1.222 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        2  I**        I
+    4  -1.34 TO -0.67        1  I*         I
+    5  -0.67 TO  0.00        1  I*         I
+    6   0.00 TO  0.67        2  I**        I
+    7   0.67 TO  1.34        0  I          I
+    8   1.34 TO  2.01        1  I*         I
+    9   2.01 TO  2.68        1  I*         I
+   10   2.68 TO  9.99        0  I          I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1      0.313     8.   12.600
+  2     -1.433     6.    9.679
+  3     -1.712     4.    9.041
+  5     -0.339     5.   12.262
+  6      1.958    10.   15.171
+ 10      2.160    11.   15.484
+ 11     -1.085     7.   10.264
+ 13      0.138     7.   13.392
+
+
+
+
+ EVENT NO.   15  Globigerina praebulloides               
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -0.097        I         *I          I
+  2      0.139        I          I*         I
+  3      0.013        I          I*         I
+  4      2.132        I          I*******   I
+  5      1.512        I          I*****     I
+  6     -0.544        I        **I          I
+  9      1.229        I          I****      I
+ 10      4.797        I          I**********I
+ 11      1.667        I          I*****     I
+ 12     -0.101        I         *I          I
+ 14      1.259        I          I****      I
+
+ SAMPLE SIZE =   11         UNCORRECTED MEAN =     1.091
+ ADJUSTED SD =   1.515      ADJUSTED SKEWNESS =    1.491
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  1.091 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        1  I*         I
+    4  -1.34 TO -0.67        4  I****      I
+    5  -0.67 TO  0.00        0  I          I
+    6   0.00 TO  0.67        4  I****      I
+    7   0.67 TO  1.34        1  I*         I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        1  I*         I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1     -1.189     7.   10.835
+  2     -0.952     7.   11.212
+  3     -1.079     5.   11.025
+  4      1.040     8.   15.163
+  5      0.421     6.   14.788
+  6     -1.635     7.   10.143
+  9      0.138     5.   15.633
+ 10      3.705    13.   18.724
+ 11      0.576     9.   14.243
+ 12     -1.192     3.   10.648
+ 14      0.168     7.   14.035
+
+
+
+
+ EVENT NO.  363  Hystrichosphaeropsis obscura            
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  2      0.492        I          I**        I
+  3      0.513        I          I**        I
+  6      2.911        I          I********* I
+ 10     -1.975        I    ******I          I
+ 13     -1.575        I     *****I          I
+ 14     -0.207        I         *I          I
+
+ SAMPLE SIZE =    6         UNCORRECTED MEAN =     0.027
+ ADJUSTED SD =   1.755      ADJUSTED SKEWNESS =    0.670
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  0.027 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        2  I**        I
+    4  -1.34 TO -0.67        0  I          I
+    5  -0.67 TO  0.00        1  I*         I
+    6   0.00 TO  0.67        2  I**        I
+    7   0.67 TO  1.34        0  I          I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        1  I*         I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  2      0.466     8.   12.755
+  3      0.487     6.   13.003
+  6      2.884    11.   16.873
+ 10     -2.001     7.    8.771
+ 13     -1.602     5.    8.179
+ 14     -0.233     6.   11.499
+
+
+
+
+ EVENT NO.  362  Cannosphaeropsis utinensis              
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1      0.743        I          I***       I
+  2      0.848        I          I***       I
+  3     -0.011        I         *I          I
+  6     -0.791        I       ***I          I
+ 10     -1.581        I     *****I          I
+ 13     -0.946        I       ***I          I
+ 14      2.469        I          I********  I
+
+ SAMPLE SIZE =    7         UNCORRECTED MEAN =     0.105
+ ADJUSTED SD =   1.373      ADJUSTED SKEWNESS =    0.651
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  0.105 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        1  I*         I
+    4  -1.34 TO -0.67        2  I**        I
+    5  -0.67 TO  0.00        1  I*         I
+    6   0.00 TO  0.67        1  I*         I
+    7   0.67 TO  1.34        1  I*         I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        1  I*         I
+   10   2.68 TO  9.99        0  I          I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1      0.639     9.   14.273
+  2      0.743     9.   14.310
+  3     -0.116     6.   12.979
+  6     -0.895     8.   11.719
+ 10     -1.685     8.   10.427
+ 13     -1.050     6.   10.636
+ 14      2.364     9.   18.822
+
+
+
+
+ EVENT NO.  219  Martinotiella cylindrica                
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1      1.167        I          I****      I
+  2     -0.835        I       ***I          I
+  3      0.488        I          I**        I
+  5     -2.797        I *********I          I
+  9     -0.636        I        **I          I
+ 10     -2.212        I   *******I          I
+ 12     -1.005        I      ****I          I
+ 14      1.001        I          I***       I
+
+ SAMPLE SIZE =    8         UNCORRECTED MEAN =    -0.604
+ ADJUSTED SD =   1.440      ADJUSTED SKEWNESS =   -0.242
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.604 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        1  I*         I
+    3  -2.01 TO -1.34        1  I*         I
+    4  -1.34 TO -0.67        0  I          I
+    5  -0.67 TO  0.00        3  I***       I
+    6   0.00 TO  0.67        0  I          I
+    7   0.67 TO  1.34        1  I*         I
+    8   1.34 TO  2.01        2  I**        I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        0  I          I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1      1.771    10.   16.010
+  2     -0.232     8.   12.712
+  3      1.092     7.   14.953
+  5     -2.193     3.    6.763
+  9     -0.033     4.   11.577
+ 10     -1.608     8.   10.406
+ 12     -0.402     3.   10.514
+ 14      1.605     8.   16.373
+
+
+
+
+ EVENT NO.  236  G. ex.gr. praescitula zealandica        
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  2      0.548        I          I**        I
+  5     -0.133        I         *I          I
+  9      0.124        I          I*         I
+ 10      1.242        I          I****      I
+ 11     -0.453        I        **I          I
+ 12     -1.309        I      ****I          I
+ 14     -0.468        I        **I          I
+
+ SAMPLE SIZE =    7         UNCORRECTED MEAN =    -0.064
+ ADJUSTED SD =   0.815      ADJUSTED SKEWNESS =    0.176
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.064 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        1  I*         I
+    5  -0.67 TO  0.00        3  I***       I
+    6   0.00 TO  0.67        2  I**        I
+    7   0.67 TO  1.34        1  I*         I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        0  I          I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  2      0.613    10.   15.855
+  5     -0.069     6.   14.675
+  9      0.188     5.   15.452
+ 10      1.306    12.   16.991
+ 11     -0.389     9.   14.112
+ 12     -1.245     3.   10.467
+ 14     -0.404     7.   13.886
+
+
+
+
+ EVENT NO.   17  Asterigerina gurichi                    
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  4     -1.525        I     *****I          I
+  5      0.471        I          I**        I
+  9     -0.164        I         *I          I
+ 10      1.628        I          I*****     I
+ 11     -2.010        I   *******I          I
+ 12     -0.570        I        **I          I
+ 13      3.132        I          I**********I
+
+ SAMPLE SIZE =    7         UNCORRECTED MEAN =     0.138
+ ADJUSTED SD =   1.792      ADJUSTED SKEWNESS =    0.622
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  0.138 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        1  I*         I
+    3  -2.01 TO -1.34        1  I*         I
+    4  -1.34 TO -0.67        1  I*         I
+    5  -0.67 TO  0.00        1  I*         I
+    6   0.00 TO  0.67        1  I*         I
+    7   0.67 TO  1.34        0  I          I
+    8   1.34 TO  2.01        1  I*         I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        1  I*         I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  4     -1.662     7.   13.083
+  5      0.334     7.   17.129
+  9     -0.302     5.   15.407
+ 10      1.490    13.   18.599
+ 11     -2.147     8.   12.072
+ 12     -0.707     4.   14.045
+ 13      2.995    11.   25.289
+
+
+
+
+ EVENT NO.    3  Deflandrea phosphoritica                
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1      0.414        I          I**        I
+  2      0.263        I          I*         I
+  3      0.961        I          I***       I
+  4     -0.030        I         *I          I
+  6      2.938        I          I********* I
+  7     -0.227        I         *I          I
+ 13      0.626        I          I**        I
+
+ SAMPLE SIZE =    7         UNCORRECTED MEAN =     0.707
+ ADJUSTED SD =   1.061      ADJUSTED SKEWNESS =    1.918
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  0.707 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        2  I**        I
+    5  -0.67 TO  0.00        3  I***       I
+    6   0.00 TO  0.67        1  I*         I
+    7   0.67 TO  1.34        0  I          I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        1  I*         I
+   10   2.68 TO  9.99        0  I          I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1     -0.292    11.   17.721
+  2     -0.443    11.   17.415
+  3      0.255     9.   18.875
+  4     -0.737     9.   16.944
+  6      2.232    14.   22.371
+  7     -0.934     2.   16.267
+ 13     -0.080     9.   18.755
+
+
+
+
+ EVENT NO.    7  Areoligera semicirculata                
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1      0.850        I          I***       I
+  2      0.637        I          I**        I
+  3     -0.585        I        **I          I
+  4      4.526        I          I**********I
+  6      1.329        I          I****      I
+  7     -1.699        I    ******I          I
+ 10      5.464        I          I**********I
+ 13      1.316        I          I****      I
+ 14      1.319        I          I****      I
+
+ SAMPLE SIZE =    9         UNCORRECTED MEAN =     1.462
+ ADJUSTED SD =   2.256      ADJUSTED SKEWNESS =    0.727
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  1.462 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        1  I*         I
+    2  -2.68 TO -2.01        1  I*         I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        1  I*         I
+    5  -0.67 TO  0.00        4  I****      I
+    6   0.00 TO  0.67        0  I          I
+    7   0.67 TO  1.34        0  I          I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        2  I**        I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1     -0.612    12.   19.488
+  2     -0.825    12.   19.009
+  3     -2.047     8.   16.859
+  4      3.064    14.   25.840
+  6     -0.133    13.   20.409
+  7     -3.161     1.   12.118
+ 10      4.002    18.   26.578
+ 13     -0.146    10.   21.843
+ 14     -0.142    10.   21.041
+
+
+
+
+ EVENT NO.   41  Wetzelliella symmetrica                 
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1      0.266        I          I*         I
+  2      1.014        I          I****      I
+  3     -0.087        I         *I          I
+  4      2.940        I          I********* I
+  5      1.229        I          I****      I
+  7      0.160        I          I*         I
+ 10      5.847        I          I**********I
+
+ SAMPLE SIZE =    7         UNCORRECTED MEAN =     1.624
+ ADJUSTED SD =   2.122      ADJUSTED SKEWNESS =    1.628
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  1.624 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        3  I***       I
+    4  -1.34 TO -0.67        0  I          I
+    5  -0.67 TO  0.00        2  I**        I
+    6   0.00 TO  0.67        0  I          I
+    7   0.67 TO  1.34        1  I*         I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        1  I*         I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1     -1.358    12.   19.467
+  2     -0.611    13.   20.617
+  3     -1.711     9.   18.831
+  4      1.316    13.   24.117
+  5     -0.395     9.   21.811
+  7     -1.464     3.   19.465
+ 10      4.223    19.   28.140
+
+
+
+
+ EVENT NO.   25  Coarse agglutinated spp.                
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1      0.707        I          I***       I
+  2      1.395        I          I*****     I
+  3      0.412        I          I**        I
+  4      0.322        I          I*         I
+  5     -0.249        I         *I          I
+  6      2.253        I          I*******   I
+  7      0.858        I          I***       I
+  9     -0.328        I         *I          I
+ 10     -4.013        I**********I          I
+ 12     -0.759        I       ***I          I
+ 13      2.740        I          I********* I
+
+ SAMPLE SIZE =   11         UNCORRECTED MEAN =     0.303
+ ADJUSTED SD =   1.785      ADJUSTED SKEWNESS =   -1.259
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  0.303 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        1  I*         I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        1  I*         I
+    5  -0.67 TO  0.00        2  I**        I
+    6   0.00 TO  0.67        4  I****      I
+    7   0.67 TO  1.34        1  I*         I
+    8   1.34 TO  2.01        1  I*         I
+    9   2.01 TO  2.68        1  I*         I
+   10   2.68 TO  9.99        0  I          I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1      0.404    13.   21.249
+  2      1.091    14.   22.241
+  3      0.108    10.   20.802
+  4      0.018    11.   20.569
+  5     -0.553     8.   19.425
+  6      1.949    15.   24.302
+  7      0.555     4.   22.318
+  9     -0.631     6.   18.893
+ 10     -4.316    10.   13.582
+ 12     -1.062     5.   17.430
+ 13      2.436    12.   28.827
+
+
+
+
+ EVENT NO.   97  Cyclammina placenta                     
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1      0.128        I          I*         I
+  2      0.757        I          I***       I
+  3      1.935        I          I******    I
+  4     -0.259        I         *I          I
+  5      1.365        I          I*****     I
+  6     -4.495        I**********I          I
+  7      3.646        I          I**********I
+  9      0.407        I          I**        I
+ 10     -5.688        I**********I          I
+ 11     -2.553        I  ********I          I
+
+ SAMPLE SIZE =   10         UNCORRECTED MEAN =    -0.476
+ ADJUSTED SD =   2.916      ADJUSTED SKEWNESS =   -0.686
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.476 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        2  I**        I
+    2  -2.68 TO -2.01        1  I*         I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        0  I          I
+    5  -0.67 TO  0.00        0  I          I
+    6   0.00 TO  0.67        2  I**        I
+    7   0.67 TO  1.34        2  I**        I
+    8   1.34 TO  2.01        1  I*         I
+    9   2.01 TO  2.68        1  I*         I
+   10   2.68 TO  9.99        1  I*         I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1      0.604    13.   21.226
+  2      1.233    14.   22.219
+  3      2.411    12.   24.768
+  4      0.217    11.   20.545
+  5      1.841    10.   24.049
+  6     -4.019     9.   13.143
+  7      4.122     7.   29.571
+  9      0.882     7.   22.325
+ 10     -5.213     9.   11.891
+ 11     -2.077    10.   15.931
+
+
+
+
+ EVENT NO.  182  Spirosigmoilinella compressa            
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -0.449        I        **I          I
+  2      3.191        I          I**********I
+  3      0.385        I          I**        I
+  4     -0.847        I       ***I          I
+  5      0.909        I          I***       I
+  9      0.085        I          I*         I
+ 10     -0.192        I         *I          I
+ 11     -2.035        I   *******I          I
+ 12      0.719        I          I***       I
+
+ SAMPLE SIZE =    9         UNCORRECTED MEAN =     0.196
+ ADJUSTED SD =   1.433      ADJUSTED SKEWNESS =    0.808
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  0.196 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        1  I*         I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        1  I*         I
+    5  -0.67 TO  0.00        3  I***       I
+    6   0.00 TO  0.67        2  I**        I
+    7   0.67 TO  1.34        1  I*         I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        1  I*         I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1     -0.646    13.   21.203
+  2      2.995    17.   27.226
+  3      0.189    11.   22.750
+  4     -1.043    11.   20.520
+  5      0.712    10.   24.018
+  9     -0.111     7.   22.275
+ 10     -0.388    15.   21.699
+ 11     -2.231    11.   17.937
+ 12      0.523     7.   24.397
+
+
+
+
+ EVENT NO.   24  Turrilina alsatica                      
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1      0.000        I         *I          I
+  4     -2.469        I  ********I          I
+  5      0.446        I          I**        I
+  6     -2.487        I  ********I          I
+  7     -3.470        I**********I          I
+ 11      2.632        I          I********  I
+ 13     -2.705        I *********I          I
+ 14     -0.954        I       ***I          I
+
+ SAMPLE SIZE =    8         UNCORRECTED MEAN =    -1.126
+ ADJUSTED SD =   2.054      ADJUSTED SKEWNESS =    0.805
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -1.126 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        1  I*         I
+    3  -2.01 TO -1.34        3  I***       I
+    4  -1.34 TO -0.67        0  I          I
+    5  -0.67 TO  0.00        0  I          I
+    6   0.00 TO  0.67        1  I*         I
+    7   0.67 TO  1.34        1  I*         I
+    8   1.34 TO  2.01        1  I*         I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        1  I*         I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1      1.126    14.   23.000
+  4     -1.343    10.   18.662
+  5      1.572    10.   23.985
+  6     -1.361    12.   18.374
+  7     -2.344     1.   12.263
+ 11      3.758    16.   28.366
+ 13     -1.579     8.   15.228
+ 14      0.172    10.   20.833
+
+
+
+
+ EVENT NO.  289  Adercotryma agterbergi                  
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1      0.452        I          I**        I
+  2     -0.116        I         *I          I
+  3     -1.695        I    ******I          I
+  4      0.003        I          I*         I
+  5      1.012        I          I****      I
+ 10     -0.476        I        **I          I
+ 11     -0.990        I       ***I          I
+ 14      0.674        I          I***       I
+
+ SAMPLE SIZE =    8         UNCORRECTED MEAN =    -0.142
+ ADJUSTED SD =   0.896      ADJUSTED SKEWNESS =   -0.557
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.142 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        1  I*         I
+    4  -1.34 TO -0.67        1  I*         I
+    5  -0.67 TO  0.00        1  I*         I
+    6   0.00 TO  0.67        3  I***       I
+    7   0.67 TO  1.34        2  I**        I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        0  I          I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1      0.594    15.   24.813
+  2      0.026    15.   23.811
+  3     -1.553    10.   20.699
+  4      0.145    13.   24.005
+  5      1.154    11.   26.197
+ 10     -0.334    16.   23.256
+ 11     -0.848    13.   22.001
+ 14      0.816    12.   25.504
+
+
+
+
+ EVENT NO.  198  Glomospirella biedae                    
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -0.117        I         *I          I
+  3     -1.197        I      ****I          I
+  4      3.495        I          I**********I
+  6      1.639        I          I*****     I
+ 10     -3.186        I**********I          I
+ 11     -2.539        I  ********I          I
+
+ SAMPLE SIZE =    6         UNCORRECTED MEAN =    -0.317
+ ADJUSTED SD =   2.543      ADJUSTED SKEWNESS =    0.504
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.317 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        1  I*         I
+    2  -2.68 TO -2.01        1  I*         I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        1  I*         I
+    5  -0.67 TO  0.00        0  I          I
+    6   0.00 TO  0.67        1  I*         I
+    7   0.67 TO  1.34        0  I          I
+    8   1.34 TO  2.01        1  I*         I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        1  I*         I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1      0.200    15.   24.788
+  3     -0.879    11.   22.671
+  4      3.812    17.   30.629
+  6      1.957    17.   28.415
+ 10     -2.868    14.   20.002
+ 11     -2.221    12.   19.885
+
+
+
+
+ EVENT NO.  324  Aschemonella grandis                    
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -0.685        I       ***I          I
+  2     -0.340        I        **I          I
+  3     -1.725        I    ******I          I
+  7     -1.623        I     *****I          I
+ 10     -3.847        I**********I          I
+ 11      2.138        I          I*******   I
+
+ SAMPLE SIZE =    6         UNCORRECTED MEAN =    -1.014
+ ADJUSTED SD =   1.970      ADJUSTED SKEWNESS =    0.327
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -1.014 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        1  I*         I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        1  I*         I
+    5  -0.67 TO  0.00        1  I*         I
+    6   0.00 TO  0.67        1  I*         I
+    7   0.67 TO  1.34        1  I*         I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        1  I*         I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1      0.329    15.   24.763
+  2      0.674    16.   25.440
+  3     -0.712    11.   22.643
+  7     -0.610     4.   22.025
+ 10     -2.833    14.   19.976
+ 11      3.152    17.   30.401
+
+
+
+
+ EVENT NO.  261  Haplophragmoides walteri                
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  2      2.115        I          I*******   I
+  3     -0.199        I         *I          I
+  4     -2.881        I *********I          I
+  5     -0.425        I        **I          I
+  6      0.632        I          I**        I
+  7      6.185        I          I**********I
+  9      3.663        I          I**********I
+ 10     -4.509        I**********I          I
+ 11      3.706        I          I**********I
+ 12     -1.923        I    ******I          I
+ 14      0.307        I          I*         I
+
+ SAMPLE SIZE =   11         UNCORRECTED MEAN =     0.606
+ ADJUSTED SD =   3.144      ADJUSTED SKEWNESS =    0.162
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  0.606 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        2  I**        I
+    2  -2.68 TO -2.01        1  I*         I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        2  I**        I
+    5  -0.67 TO  0.00        1  I*         I
+    6   0.00 TO  0.67        1  I*         I
+    7   0.67 TO  1.34        0  I          I
+    8   1.34 TO  2.01        1  I*         I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        3  I***       I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  2      1.508    19.   30.544
+  3     -0.806    13.   26.613
+  4     -3.488    12.   22.174
+  5     -1.031    11.   26.093
+  6      0.025    17.   28.342
+  7      5.578    12.   38.744
+  9      3.057    12.   37.200
+ 10     -5.115    14.   19.950
+ 11      3.099    19.   34.704
+ 12     -2.529     6.   20.601
+ 14     -0.299    13.   27.675
+
+
+
+
+ EVENT NO.  321  Dorothia seigliei                       
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1      2.289        I          I*******   I
+  2      1.499        I          I*****     I
+  3      4.409        I          I**********I
+  4     -4.541        I**********I          I
+  5     -0.914        I       ***I          I
+ 10     -2.096        I   *******I          I
+ 11      2.163        I          I*******   I
+ 12     -0.134        I         *I          I
+ 14     -2.269        I   *******I          I
+
+ SAMPLE SIZE =    9         UNCORRECTED MEAN =     0.045
+ ADJUSTED SD =   2.797      ADJUSTED SKEWNESS =   -0.092
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  0.045 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        1  I*         I
+    2  -2.68 TO -2.01        2  I**        I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        1  I*         I
+    5  -0.67 TO  0.00        1  I*         I
+    6   0.00 TO  0.67        0  I          I
+    7   0.67 TO  1.34        0  I          I
+    8   1.34 TO  2.01        1  I*         I
+    9   2.01 TO  2.68        2  I**        I
+   10   2.68 TO  9.99        1  I*         I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1      2.244    19.   32.227
+  2      1.454    19.   30.519
+  3      4.364    18.   36.555
+  4     -4.586    11.   20.355
+  5     -0.959    11.   26.058
+ 10     -2.141    17.   24.754
+ 11      2.118    18.   32.486
+ 12     -0.180     8.   27.559
+ 14     -2.314    11.   22.960
+
+
+
+
+ EVENT NO.   29  Reticulophragmium amplectens            
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -0.320        I         *I          I
+  2     -0.138        I         *I          I
+  3     -0.229        I         *I          I
+  4     -1.079        I      ****I          I
+  5      3.760        I          I**********I
+  6      2.769        I          I********* I
+  7     -2.001        I    ******I          I
+  9     -1.265        I      ****I          I
+ 10      1.339        I          I*****     I
+ 12      3.760        I          I**********I
+ 14      1.445        I          I*****     I
+
+ SAMPLE SIZE =   11         UNCORRECTED MEAN =     0.731
+ ADJUSTED SD =   2.022      ADJUSTED SKEWNESS =    0.409
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  0.731 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        1  I*         I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        2  I**        I
+    4  -1.34 TO -0.67        3  I***       I
+    5  -0.67 TO  0.00        0  I          I
+    6   0.00 TO  0.67        1  I*         I
+    7   0.67 TO  1.34        1  I*         I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        1  I*         I
+   10   2.68 TO  9.99        2  I**        I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1     -1.051    17.   28.412
+  2     -0.869    18.   28.769
+  3     -0.960    14.   28.555
+  4     -1.810    15.   27.268
+  5      3.029    16.   36.529
+  6      2.038    20.   35.483
+  7     -2.732     5.   24.503
+  9     -1.996     8.   25.215
+ 10      0.608    21.   31.049
+ 12      3.029    12.   41.043
+ 14      0.714    15.   32.116
+
+
+
+
+ EVENT NO.   32  Ammosphaeroidina pseudopauciloculata    
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1      2.196        I          I*******   I
+  2     -0.746        I       ***I          I
+  3      0.269        I          I*         I
+  4     -1.728        I    ******I          I
+  7      0.603        I          I**        I
+  9      1.525        I          I*****     I
+ 10     -0.355        I        **I          I
+ 11     -1.952        I    ******I          I
+
+ SAMPLE SIZE =    8         UNCORRECTED MEAN =    -0.023
+ ADJUSTED SD =   1.467      ADJUSTED SKEWNESS =    0.144
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.023 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        2  I**        I
+    4  -1.34 TO -0.67        1  I*         I
+    5  -0.67 TO  0.00        1  I*         I
+    6   0.00 TO  0.67        2  I**        I
+    7   0.67 TO  1.34        0  I          I
+    8   1.34 TO  2.01        1  I*         I
+    9   2.01 TO  2.68        1  I*         I
+   10   2.68 TO  9.99        0  I          I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1      2.220    20.   34.094
+  2     -0.723    18.   28.745
+  3      0.293    15.   30.523
+  4     -1.705    15.   27.243
+  7      0.626     8.   31.215
+  9      1.549    11.   34.246
+ 10     -0.332    20.   29.456
+ 11     -1.928    15.   25.986
+
+
+
+
+ EVENT NO.   12  Areosphaeridium diktyoplokus            
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -2.453        I  ********I          I
+  2     -0.327        I         *I          I
+  4     -1.359        I     *****I          I
+  5     -0.343        I        **I          I
+  6     -2.298        I   *******I          I
+  7     -1.980        I    ******I          I
+ 10      2.048        I          I*******   I
+ 14     -0.571        I        **I          I
+
+ SAMPLE SIZE =    8         UNCORRECTED MEAN =    -0.911
+ ADJUSTED SD =   1.473      ADJUSTED SKEWNESS =    1.112
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.911 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        2  I**        I
+    4  -1.34 TO -0.67        1  I*         I
+    5  -0.67 TO  0.00        1  I*         I
+    6   0.00 TO  0.67        3  I***       I
+    7   0.67 TO  1.34        0  I          I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        1  I*         I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1     -1.543    16.   26.498
+  2      0.584    19.   30.446
+  4     -0.448    16.   28.865
+  5      0.568    13.   30.299
+  6     -1.388    16.   26.033
+  7     -1.070     6.   26.820
+ 10      2.958    23.   34.108
+ 14      0.339    14.   29.767
+
+
+
+
+ EVENT NO.  229  Recurvoides ex.gr. walteri              
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1      2.114        I          I*******   I
+  2     -1.950        I    ******I          I
+  3      0.238        I          I*         I
+  6     -0.679        I       ***I          I
+ 11     -3.980        I**********I          I
+ 12     -0.374        I        **I          I
+
+ SAMPLE SIZE =    6         UNCORRECTED MEAN =    -0.772
+ ADJUSTED SD =   2.059      ADJUSTED SKEWNESS =   -0.328
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.772 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        1  I*         I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        1  I*         I
+    5  -0.67 TO  0.00        0  I          I
+    6   0.00 TO  0.67        2  I**        I
+    7   0.67 TO  1.34        1  I*         I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        1  I*         I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1      2.886    21.   35.977
+  2     -1.178    18.   28.702
+  3      1.010    16.   32.462
+  6      0.093    18.   30.447
+ 11     -3.208    14.   23.817
+ 12      0.398     9.   30.787
+
+
+
+
+ EVENT NO.   72  Rottnestia borussica                    
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -1.502        I     *****I          I
+  2     -0.502        I        **I          I
+  4      0.378        I          I**        I
+  6     -2.149        I   *******I          I
+  7     -3.051        I**********I          I
+ 10      1.723        I          I******    I
+
+ SAMPLE SIZE =    6         UNCORRECTED MEAN =    -0.851
+ ADJUSTED SD =   1.744      ADJUSTED SKEWNESS =    0.329
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.851 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        1  I*         I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        1  I*         I
+    5  -0.67 TO  0.00        1  I*         I
+    6   0.00 TO  0.67        1  I*         I
+    7   0.67 TO  1.34        1  I*         I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        1  I*         I
+   10   2.68 TO  9.99        0  I          I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1     -0.652    18.   30.205
+  2      0.349    20.   32.140
+  4      1.229    19.   33.572
+  6     -1.299    17.   28.149
+  7     -2.201     6.   26.728
+ 10      2.574    24.   35.600
+
+
+
+
+ EVENT NO.  263  Ammomarginulina aubertae                
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  2     -2.116        I   *******I          I
+  3     -1.844        I    ******I          I
+  5     -0.850        I       ***I          I
+  7      6.768        I          I**********I
+ 10     -1.000        I       ***I          I
+ 11      1.242        I          I****      I
+ 12      1.079        I          I****      I
+
+ SAMPLE SIZE =    7         UNCORRECTED MEAN =     0.468
+ ADJUSTED SD =   3.071      ADJUSTED SKEWNESS =    1.737
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  0.468 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        2  I**        I
+    3  -2.01 TO -1.34        1  I*         I
+    4  -1.34 TO -0.67        1  I*         I
+    5  -0.67 TO  0.00        0  I          I
+    6   0.00 TO  0.67        1  I*         I
+    7   0.67 TO  1.34        1  I*         I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        1  I*         I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  2     -2.584    19.   30.384
+  3     -2.313    15.   30.421
+  5     -1.318    14.   32.305
+  7      6.299    16.   45.001
+ 10     -1.469    22.   32.485
+ 11      0.773    20.   36.625
+ 12      0.611    11.   37.448
+
+
+
+
+ EVENT NO.   68  Spiroplectammina spectabilis LO         
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -1.564        I     *****I          I
+  2     -2.704        I *********I          I
+  3     -2.372        I  ********I          I
+  4      2.080        I          I*******   I
+  5     -0.344        I        **I          I
+  7     -3.139        I**********I          I
+  9     -1.410        I     *****I          I
+ 10      3.438        I          I**********I
+ 11      1.784        I          I******    I
+ 12     -0.302        I         *I          I
+ 14     -0.445        I        **I          I
+
+ SAMPLE SIZE =   11         UNCORRECTED MEAN =    -0.453
+ ADJUSTED SD =   2.115      ADJUSTED SKEWNESS =    0.597
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.453 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        1  I*         I
+    2  -2.68 TO -2.01        1  I*         I
+    3  -2.01 TO -1.34        1  I*         I
+    4  -1.34 TO -0.67        2  I**        I
+    5  -0.67 TO  0.00        0  I          I
+    6   0.00 TO  0.67        3  I***       I
+    7   0.67 TO  1.34        0  I          I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        2  I**        I
+   10   2.68 TO  9.99        1  I*         I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1     -1.112    19.   32.063
+  2     -2.252    19.   30.366
+  3     -1.919    15.   30.398
+  4      2.533    22.   38.037
+  5      0.109    15.   34.324
+  7     -2.686     7.   28.897
+  9     -0.957    10.   31.126
+ 10      3.891    27.   40.134
+ 11      2.237    21.   38.796
+ 12      0.150    10.   34.029
+ 14      0.007    16.   34.062
+
+
+
+
+ EVENT NO.   92  Diphyes ficusoides                      
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -3.122        I**********I          I
+  2      0.792        I          I***       I
+  3     -0.851        I       ***I          I
+  4     -0.654        I        **I          I
+  6     -1.337        I      ****I          I
+  7     -1.646        I     *****I          I
+
+ SAMPLE SIZE =    6         UNCORRECTED MEAN =    -1.136
+ ADJUSTED SD =   1.287      ADJUSTED SKEWNESS =   -0.094
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -1.136 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        1  I*         I
+    4  -1.34 TO -0.67        0  I          I
+    5  -0.67 TO  0.00        2  I**        I
+    6   0.00 TO  0.67        2  I**        I
+    7   0.67 TO  1.34        0  I          I
+    8   1.34 TO  2.01        1  I*         I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        0  I          I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1     -1.986    18.   30.151
+  2      1.928    23.   37.390
+  3      0.285    17.   34.351
+  4      0.483    20.   35.035
+  6     -0.200    19.   32.715
+  7     -0.510     9.   32.998
+
+
+
+
+ EVENT NO.  260  Haplophragmoides kirki                  
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1      1.443        I          I*****     I
+  2     -1.829        I    ******I          I
+  3      0.668        I          I**        I
+  4     -3.391        I**********I          I
+  5     -4.482        I**********I          I
+  6      1.354        I          I*****     I
+  7      0.868        I          I***       I
+  9     -3.231        I**********I          I
+ 10      0.027        I          I*         I
+
+ SAMPLE SIZE =    9         UNCORRECTED MEAN =    -0.952
+ ADJUSTED SD =   2.300      ADJUSTED SKEWNESS =   -0.445
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.952 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        1  I*         I
+    2  -2.68 TO -2.01        2  I**        I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        1  I*         I
+    5  -0.67 TO  0.00        0  I          I
+    6   0.00 TO  0.67        0  I          I
+    7   0.67 TO  1.34        1  I*         I
+    8   1.34 TO  2.01        2  I**        I
+    9   2.01 TO  2.68        2  I**        I
+   10   2.68 TO  9.99        0  I          I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1      2.396    23.   39.775
+  2     -0.877    21.   33.815
+  3      1.621    19.   38.294
+  4     -2.439    18.   31.938
+  5     -3.529    12.   28.002
+  6      2.307    22.   40.722
+  7      1.821    12.   38.467
+  9     -2.278     9.   28.057
+ 10      0.980    25.   37.041
+
+
+
+
+ EVENT NO.  175  Reticulophragmium intermedia            
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -1.129        I      ****I          I
+  2      0.651        I          I**        I
+  4      2.020        I          I*******   I
+  7     -1.813        I    ******I          I
+ 10      2.417        I          I********  I
+ 14      0.136        I          I*         I
+
+ SAMPLE SIZE =    6         UNCORRECTED MEAN =     0.380
+ ADJUSTED SD =   1.677      ADJUSTED SKEWNESS =   -0.072
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  0.380 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        1  I*         I
+    3  -2.01 TO -1.34        1  I*         I
+    4  -1.34 TO -0.67        0  I          I
+    5  -0.67 TO  0.00        1  I*         I
+    6   0.00 TO  0.67        1  I*         I
+    7   0.67 TO  1.34        0  I          I
+    8   1.34 TO  2.01        1  I*         I
+    9   2.01 TO  2.68        1  I*         I
+   10   2.68 TO  9.99        0  I          I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1     -1.509    21.   35.846
+  2      0.270    24.   39.154
+  4      1.640    24.   40.859
+  7     -2.193    10.   34.842
+ 10      2.036    28.   41.583
+ 14     -0.244    18.   38.280
+
+
+
+
+ EVENT NO.   99  Eatonicysta ursulae                     
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -0.639        I        **I          I
+  2      2.114        I          I*******   I
+  3      0.635        I          I**        I
+  4      0.288        I          I*         I
+  5     -0.429        I        **I          I
+  6     -0.441        I        **I          I
+  7     -1.399        I     *****I          I
+ 10      2.757        I          I********* I
+ 14     -1.399        I     *****I          I
+
+ SAMPLE SIZE =    9         UNCORRECTED MEAN =     0.165
+ ADJUSTED SD =   1.458      ADJUSTED SKEWNESS =    0.846
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  0.165 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        2  I**        I
+    4  -1.34 TO -0.67        1  I*         I
+    5  -0.67 TO  0.00        2  I**        I
+    6   0.00 TO  0.67        2  I**        I
+    7   0.67 TO  1.34        0  I          I
+    8   1.34 TO  2.01        1  I*         I
+    9   2.01 TO  2.68        1  I*         I
+   10   2.68 TO  9.99        0  I          I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1     -0.804    22.   37.771
+  2      1.949    26.   42.803
+  3      0.469    20.   40.228
+  4      0.123    23.   39.408
+  5     -0.595    17.   38.188
+  6     -0.606    21.   37.804
+  7     -1.564    11.   36.640
+ 10      2.592    29.   43.072
+ 14     -1.564    17.   36.103
+
+
+
+
+ EVENT NO.   54  Spiroplectammina navarroana             
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -0.147        I         *I          I
+  2     -3.553        I**********I          I
+  3      1.130        I          I****      I
+  4      5.679        I          I**********I
+  5      0.050        I          I*         I
+  6      0.220        I          I*         I
+  7     -0.999        I       ***I          I
+  9     -0.295        I         *I          I
+ 10     -1.017        I      ****I          I
+ 11      0.395        I          I**        I
+ 12      1.221        I          I****      I
+
+ SAMPLE SIZE =   11         UNCORRECTED MEAN =     0.244
+ ADJUSTED SD =   2.221      ADJUSTED SKEWNESS =    1.152
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  0.244 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        1  I*         I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        2  I**        I
+    5  -0.67 TO  0.00        4  I****      I
+    6   0.00 TO  0.67        1  I*         I
+    7   0.67 TO  1.34        2  I**        I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        1  I*         I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1     -0.391    23.   39.716
+  2     -3.797    21.   33.761
+  3      0.886    21.   42.185
+  4      5.435    29.   47.683
+  5     -0.194    18.   40.093
+  6     -0.024    22.   40.628
+  7     -1.243    12.   38.364
+  9     -0.539    13.   39.256
+ 10     -1.261    26.   38.489
+ 11      0.151    22.   40.852
+ 12      0.977    13.   43.823
+
+
+
+
+ EVENT NO.  279  Recurvoidella lamella                   
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -0.672        I       ***I          I
+  2     -3.103        I**********I          I
+  4     -3.197        I**********I          I
+  5     -0.505        I        **I          I
+  7     -0.615        I        **I          I
+  9      0.327        I          I*         I
+ 10      0.346        I          I**        I
+
+ SAMPLE SIZE =    7         UNCORRECTED MEAN =    -1.060
+ ADJUSTED SD =   1.489      ADJUSTED SKEWNESS =   -0.886
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -1.060 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        2  I**        I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        0  I          I
+    5  -0.67 TO  0.00        0  I          I
+    6   0.00 TO  0.67        3  I***       I
+    7   0.67 TO  1.34        0  I          I
+    8   1.34 TO  2.01        2  I**        I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        0  I          I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1      0.388    23.   39.696
+  2     -2.043    22.   35.506
+  4     -2.138    21.   36.441
+  5      0.554    18.   40.062
+  7      0.445    13.   40.022
+  9      1.387    14.   41.807
+ 10      1.406    28.   41.511
+
+
+
+
+ EVENT NO.   50  Subbotina patagonica                    
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -1.195        I      ****I          I
+  2     -0.610        I        **I          I
+  3      0.071        I          I*         I
+  4      0.142        I          I*         I
+  5     -0.034        I         *I          I
+  6     -0.487        I        **I          I
+  7     -0.245        I         *I          I
+  9     -0.095        I         *I          I
+ 10      1.717        I          I******    I
+ 11      0.475        I          I**        I
+ 14     -0.855        I       ***I          I
+
+ SAMPLE SIZE =   11         UNCORRECTED MEAN =    -0.102
+ ADJUSTED SD =   0.770      ADJUSTED SKEWNESS =    1.152
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.102 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        2  I**        I
+    5  -0.67 TO  0.00        3  I***       I
+    6   0.00 TO  0.67        5  I*****     I
+    7   0.67 TO  1.34        0  I          I
+    8   1.34 TO  2.01        1  I*         I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        0  I          I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1     -1.093    23.   39.674
+  2     -0.508    25.   40.900
+  3      0.173    21.   42.138
+  4      0.243    25.   42.195
+  5      0.067    19.   41.937
+  6     -0.385    22.   40.570
+  7     -0.144    14.   41.620
+  9      0.006    14.   41.767
+ 10      1.818    30.   44.517
+ 11      0.576    23.   43.032
+ 14     -0.753    19.   40.265
+
+
+
+
+ EVENT NO.  108  Deflandrea oebisfeldensis               
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -0.695        I       ***I          I
+  2      0.871        I          I***       I
+  3      0.567        I          I**        I
+  4      0.418        I          I**        I
+  5      0.435        I          I**        I
+  6      0.204        I          I*         I
+  7      0.110        I          I*         I
+ 13     -2.602        I  ********I          I
+ 14     -0.335        I        **I          I
+
+ SAMPLE SIZE =    9         UNCORRECTED MEAN =    -0.114
+ ADJUSTED SD =   1.046      ADJUSTED SKEWNESS =   -1.964
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.114 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        1  I*         I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        0  I          I
+    5  -0.67 TO  0.00        2  I**        I
+    6   0.00 TO  0.67        4  I****      I
+    7   0.67 TO  1.34        2  I**        I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        0  I          I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1     -0.581    24.   41.636
+  2      0.985    27.   44.595
+  3      0.682    22.   44.097
+  4      0.532    26.   43.568
+  5      0.549    20.   43.787
+  6      0.318    23.   43.636
+  7      0.224    15.   43.166
+ 13     -2.488    13.   31.183
+ 14     -0.221    20.   42.326
+
+
+
+
+ EVENT NO.   22  Coscinodiscus spp.                      
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -0.191        I         *I          I
+  2      0.313        I          I*         I
+  3      0.036        I          I*         I
+  4      0.687        I          I***       I
+  5      0.905        I          I***       I
+  9      0.086        I          I*         I
+ 11      0.564        I          I**        I
+ 13     -1.721        I    ******I          I
+ 14      0.184        I          I*         I
+
+ SAMPLE SIZE =    9         UNCORRECTED MEAN =     0.096
+ ADJUSTED SD =   0.764      ADJUSTED SKEWNESS =   -1.865
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  0.096 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        1  I*         I
+    4  -1.34 TO -0.67        0  I          I
+    5  -0.67 TO  0.00        3  I***       I
+    6   0.00 TO  0.67        4  I****      I
+    7   0.67 TO  1.34        1  I*         I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        0  I          I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1     -0.287    25.   43.622
+  2      0.217    27.   44.574
+  3     -0.060    22.   44.069
+  4      0.591    27.   44.924
+  5      0.809    21.   45.616
+  9     -0.010    15.   44.205
+ 11      0.469    24.   45.238
+ 13     -1.817    14.   35.458
+ 14      0.088    21.   44.367
+
+
+
+
+ EVENT NO.   28  Apectodinium augustum                   
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1      0.317        I          I*         I
+  2      0.782        I          I***       I
+  3      0.535        I          I**        I
+  4      0.950        I          I***       I
+  5     -0.732        I       ***I          I
+  6     -0.447        I        **I          I
+  7      0.779        I          I***       I
+ 10      1.698        I          I******    I
+ 14      0.704        I          I***       I
+
+ SAMPLE SIZE =    9         UNCORRECTED MEAN =     0.510
+ ADJUSTED SD =   0.732      ADJUSTED SKEWNESS =   -0.405
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  0.510 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        2  I**        I
+    5  -0.67 TO  0.00        1  I*         I
+    6   0.00 TO  0.67        5  I*****     I
+    7   0.67 TO  1.34        1  I*         I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        0  I          I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1     -0.192    26.   45.632
+  2      0.273    28.   46.449
+  3      0.025    23.   46.032
+  4      0.441    28.   46.263
+  5     -1.242    20.   43.687
+  6     -0.957    23.   43.566
+  7      0.270    17.   46.120
+ 10      1.188    32.   47.467
+ 14      0.194    22.   46.393
+
+
+
+
+ EVENT NO.  105  Rzehakina minima                        
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1      1.864        I          I******    I
+  2      1.259        I          I****      I
+  4      1.208        I          I****      I
+  7      6.260        I          I**********I
+  9      0.252        I          I*         I
+ 12      0.253        I          I*         I
+
+ SAMPLE SIZE =    6         UNCORRECTED MEAN =     1.849
+ ADJUSTED SD =   2.250      ADJUSTED SKEWNESS =    2.033
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  1.849 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        2  I**        I
+    4  -1.34 TO -0.67        0  I          I
+    5  -0.67 TO  0.00        2  I**        I
+    6   0.00 TO  0.67        1  I*         I
+    7   0.67 TO  1.34        0  I          I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        1  I*         I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1      0.015    28.   49.761
+  2     -0.590    29.   48.354
+  4     -0.641    29.   47.587
+  7      4.411    23.   54.268
+  9     -1.597    16.   46.586
+ 12     -1.596    14.   46.780
+
+
+
+
+ EVENT NO.   76  Reticulophragmium paupera               
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1      0.319        I          I*         I
+  2      0.708        I          I***       I
+  3      0.502        I          I**        I
+  4      1.460        I          I*****     I
+  5      0.187        I          I*         I
+  6      2.070        I          I*******   I
+  9     -0.214        I         *I          I
+ 10      1.328        I          I****      I
+ 11      1.258        I          I****      I
+ 13      0.947        I          I***       I
+ 14      0.701        I          I***       I
+
+ SAMPLE SIZE =   11         UNCORRECTED MEAN =     0.842
+ ADJUSTED SD =   0.654      ADJUSTED SKEWNESS =    0.272
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  0.842 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        1  I*         I
+    5  -0.67 TO  0.00        5  I*****     I
+    6   0.00 TO  0.67        4  I****      I
+    7   0.67 TO  1.34        1  I*         I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        0  I          I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1     -0.523    27.   47.643
+  2     -0.134    29.   48.329
+  3     -0.340    24.   47.969
+  4      0.618    30.   48.897
+  5     -0.655    22.   47.327
+  6      1.227    26.   55.420
+  9     -1.056    16.   46.505
+ 10      0.485    33.   48.919
+ 11      0.416    26.   49.802
+ 13      0.105    17.   54.753
+ 14     -0.142    23.   48.372
+
+
+
+
+ EVENT NO.  283  Reticulophragmium garcilassoi           
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  2      3.283        I          I**********I
+  4     -0.359        I        **I          I
+  5      0.657        I          I**        I
+  7     -0.385        I        **I          I
+  9      1.514        I          I*****     I
+ 14      0.164        I          I*         I
+
+ SAMPLE SIZE =    6         UNCORRECTED MEAN =     0.812
+ ADJUSTED SD =   1.403      ADJUSTED SKEWNESS =    1.284
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  0.812 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        2  I**        I
+    5  -0.67 TO  0.00        2  I**        I
+    6   0.00 TO  0.67        0  I          I
+    7   0.67 TO  1.34        1  I*         I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        1  I*         I
+   10   2.68 TO  9.99        0  I          I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  2      2.471    32.   54.296
+  4     -1.171    29.   47.533
+  5     -0.155    23.   49.134
+  7     -1.198    18.   47.468
+  9      0.702    18.   51.387
+ 14     -0.648    23.   48.320
+
+
+
+
+ EVENT NO.   57  Spiroplectammina spectabilis LCO        
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1      0.334        I          I*         I
+  2     -0.399        I        **I          I
+  4      0.913        I          I***       I
+  5      1.139        I          I****      I
+  6      0.451        I          I**        I
+  7      1.994        I          I******    I
+  9     -0.083        I         *I          I
+ 10     -2.378        I  ********I          I
+ 11      1.398        I          I*****     I
+ 13     -1.481        I     *****I          I
+ 14     -0.388        I        **I          I
+
+ SAMPLE SIZE =   11         UNCORRECTED MEAN =     0.136
+ ADJUSTED SD =   1.278      ADJUSTED SKEWNESS =   -0.614
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM  0.136 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        1  I*         I
+    3  -2.01 TO -1.34        1  I*         I
+    4  -1.34 TO -0.67        0  I          I
+    5  -0.67 TO  0.00        3  I***       I
+    6   0.00 TO  0.67        2  I**        I
+    7   0.67 TO  1.34        3  I***       I
+    8   1.34 TO  2.01        1  I*         I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        0  I          I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1      0.197    28.   49.678
+  2     -0.536    29.   48.246
+  4      0.777    31.   50.168
+  5      1.002    24.   50.942
+  6      0.314    25.   50.743
+  7      1.858    21.   51.626
+  9     -0.219    17.   48.812
+ 10     -2.514    31.   45.557
+ 11      1.262    27.   52.140
+ 13     -1.618    15.   40.132
+ 14     -0.524    23.   48.245
+
+
+
+
+ EVENT NO.  114  Alisocysta margarita                    
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1      1.934        I          I******    I
+  3     -0.079        I         *I          I
+  4     -0.943        I       ***I          I
+  7     -0.909        I       ***I          I
+ 13     -0.560        I        **I          I
+ 14      0.137        I          I*         I
+
+ SAMPLE SIZE =    6         UNCORRECTED MEAN =    -0.070
+ ADJUSTED SD =   1.074      ADJUSTED SKEWNESS =    1.620
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.070 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        2  I**        I
+    5  -0.67 TO  0.00        2  I**        I
+    6   0.00 TO  0.67        1  I*         I
+    7   0.67 TO  1.34        0  I          I
+    8   1.34 TO  2.01        1  I*         I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        0  I          I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1      2.004    30.   53.988
+  3     -0.009    25.   49.847
+  4     -0.873    30.   48.792
+  7     -0.839    19.   48.784
+ 13     -0.490    16.   46.066
+ 14      0.207    24.   50.265
+
+
+
+
+ EVENT NO.  310  Saccammina placenta                     
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1      0.361        I          I**        I
+  2     -0.461        I        **I          I
+  3      0.441        I          I**        I
+  4     -1.780        I    ******I          I
+  7     -0.666        I        **I          I
+ 11     -1.832        I    ******I          I
+ 12     -2.115        I   *******I          I
+ 14      0.678        I          I***       I
+
+ SAMPLE SIZE =    8         UNCORRECTED MEAN =    -0.672
+ ADJUSTED SD =   1.123      ADJUSTED SKEWNESS =   -0.132
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.672 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        1  I*         I
+    4  -1.34 TO -0.67        2  I**        I
+    5  -0.67 TO  0.00        0  I          I
+    6   0.00 TO  0.67        2  I**        I
+    7   0.67 TO  1.34        2  I**        I
+    8   1.34 TO  2.01        1  I*         I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        0  I          I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1      1.033    29.   51.743
+  2      0.210    30.   50.118
+  3      1.113    26.   51.850
+  4     -1.108    30.   48.729
+  7      0.006    20.   50.127
+ 11     -1.160    25.   46.913
+ 12     -1.443    13.   44.503
+ 14      1.349    25.   52.300
+
+
+
+
+ EVENT NO.  129  Trochammina ruthven murrayi             
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -0.161        I         *I          I
+  2      1.137        I          I****      I
+  3     -0.123        I         *I          I
+  4      0.547        I          I**        I
+  6     -1.467        I     *****I          I
+  7     -1.536        I     *****I          I
+ 13      0.258        I          I*         I
+
+ SAMPLE SIZE =    7         UNCORRECTED MEAN =    -0.192
+ ADJUSTED SD =   0.996      ADJUSTED SKEWNESS =   -0.391
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.192 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        1  I*         I
+    4  -1.34 TO -0.67        1  I*         I
+    5  -0.67 TO  0.00        0  I          I
+    6   0.00 TO  0.67        3  I***       I
+    7   0.67 TO  1.34        2  I**        I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        0  I          I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1      0.032    29.   51.669
+  2      1.329    32.   54.207
+  3      0.069    26.   51.763
+  4      0.739    33.   52.682
+  6     -1.274    24.   46.460
+  7     -1.344    20.   50.001
+ 13      0.450    17.   54.443
+
+
+
+
+ EVENT NO.  134  Hormosina excelsa                       
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  1     -0.694        I       ***I          I
+  4     -1.385        I     *****I          I
+  6     -0.634        I        **I          I
+ 10     -3.588        I**********I          I
+ 11     -1.785        I    ******I          I
+ 13      2.365        I          I********  I
+
+ SAMPLE SIZE =    6         UNCORRECTED MEAN =    -0.953
+ ADJUSTED SD =   1.949      ADJUSTED SKEWNESS =    0.715
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.953 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        1  I*         I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        1  I*         I
+    5  -0.67 TO  0.00        1  I*         I
+    6   0.00 TO  0.67        2  I**        I
+    7   0.67 TO  1.34        0  I          I
+    8   1.34 TO  2.01        0  I          I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        1  I*         I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  1      0.259    29.   51.566
+  4     -0.431    32.   51.270
+  6      0.319    25.   50.373
+ 10     -2.635    32.   47.854
+ 11     -0.831    26.   48.984
+
+
+
+
+ EVENT NO.  118  Palaeoperidinium pyrophorum             
+
+ WELL DEVIATION     STRAT. HIGHER/LOWER THAN 'EXPECTED
+
+  2     -1.100        I      ****I          I
+  3     -1.311        I      ****I          I
+  4     -0.108        I         *I          I
+  6      1.379        I          I*****     I
+  7     -1.154        I      ****I          I
+ 13      1.160        I          I****      I
+
+ SAMPLE SIZE =    6         UNCORRECTED MEAN =    -0.189
+ ADJUSTED SD =   1.209      ADJUSTED SKEWNESS =    0.551
+
+
+ HISTOGRAM AFTER CHANGING MEAN FROM -0.189 TO 0
+
+ CLASS     LIMITS            FREQUENCY
+
+    1  -9.99 TO -2.68        0  I          I
+    2  -2.68 TO -2.01        0  I          I
+    3  -2.01 TO -1.34        0  I          I
+    4  -1.34 TO -0.67        3  I***       I
+    5  -0.67 TO  0.00        0  I          I
+    6   0.00 TO  0.67        1  I*         I
+    7   0.67 TO  1.34        0  I          I
+    8   1.34 TO  2.01        2  I**        I
+    9   2.01 TO  2.68        0  I          I
+   10   2.68 TO  9.99        0  I          I
+
+
+PROJECTION OF WELL DATA ONTO OPTIMUM SEQUENCE AXIS
+
+ WELL DEVIATION LEVEL PROJECTION
+
+  2     -0.911    31.   51.866
+  3     -1.122    26.   51.475
+  4      0.081    34.   53.867
+  6      1.568    27.   61.532
+  7     -0.965    22.   52.556
+
+
+
+SUMMARY OF EVENT VARIANCE ANALYSIS RESULTS
+
+
+                                             N      MEAN       SD    SKEWNESS
+
+ Elphidium spp.                              9     0.371     0.840 *  -0.252
+ Cassidulina teretis                        12     0.379     0.774 *   0.925
+ Neogloboquadrina pachyderma                10     0.326     1.035 *  -1.107
+ Cibicidoides scaldisensis                   7    -0.532     0.795 *  -0.400
+ Trifarina fluens                            7     0.000     1.420 *  -0.661
+ Buccella frigida                            6    -0.917     1.778     0.729
+ Cibicidoides grossa                         9    -0.905     0.657 *  -0.100
+ Globorotalia inflata                        8    -0.664     0.699 *   0.365
+ Sigmoilopsis schlumbergeri                 12    -0.959     1.250 *   0.047
+ Neogloboquadrina atlantica                 11    -0.342     0.757 *  -0.167
+ Diatoms/radiolarians LCO                    8     1.222     1.459 *  -0.512
+ Globigerina praebulloides                  11     1.091     1.515 *  -1.491
+ Hystrichosphaeropsis obscura                6     0.027     1.755    -0.670
+ Cannosphaeropsis utinensis                  7     0.105     1.373 *  -0.651
+ Martinotiella cylindrica                    8    -0.604     1.440 *   0.242
+ G. ex.gr. praescitula zealandica            7    -0.064     0.815 *  -0.176
+ Asterigerina gurichi                        7     0.138     1.792    -0.622
+ Deflandrea phosphoritica                    7     0.707     1.061 *  -1.918
+ Areoligera semicirculata                    9     1.462     2.256    -0.727
+ Wetzelliella symmetrica                     7     1.624     2.122    -1.628
+ Coarse agglutinated spp.                   11     0.303     1.785     1.259
+ Cyclammina placenta                        10    -0.476     2.916     0.686
+ Spirosigmoilinella compressa                9     0.196     1.433 *  -0.808
+ Turrilina alsatica                          8    -1.126     2.054    -0.805
+ Adercotryma agterbergi                      8    -0.142     0.896 *   0.557
+ Glomospirella biedae                        6    -0.317     2.543    -0.504
+ Aschemonella grandis                        6    -1.014     1.970    -0.327
+ Haplophragmoides walteri                   11     0.606     3.144    -0.162
+ Dorothia seigliei                           9     0.045     2.797     0.092
+ Reticulophragmium amplectens               11     0.731     2.022    -0.409
+ Ammosphaeroidina pseudopauciloculata        8    -0.023     1.467 *  -0.144
+ Areosphaeridium diktyoplokus                8    -0.911     1.473 *  -1.112
+ Recurvoides ex.gr. walteri                  6    -0.772     2.059     0.328
+ Rottnestia borussica                        6    -0.851     1.744    -0.329
+ Ammomarginulina aubertae                    7     0.468     3.071    -1.737
+ Spiroplectammina spectabilis LO            11    -0.453     2.115    -0.597
+ Diphyes ficusoides                          6    -1.136     1.287 *   0.094
+ Haplophragmoides kirki                      9    -0.952     2.300     0.445
+ Reticulophragmium intermedia                6     0.380     1.677     0.072
+ Eatonicysta ursulae                         9     0.165     1.458 *  -0.846
+ Spiroplectammina navarroana                11     0.244     2.221    -1.152
+ Recurvoidella lamella                       7    -1.060     1.489 *   0.886
+ Subbotina patagonica                       11    -0.102     0.770 *  -1.152
+ Deflandrea oebisfeldensis                   9    -0.114     1.046 *   1.964
+ Coscinodiscus spp.                          9     0.096     0.764 *   1.865
+ Apectodinium augustum                       9     0.510     0.732 *   0.405
+ Rzehakina minima                            6     1.849     2.250    -2.033
+ Reticulophragmium paupera                  11     0.842     0.654 *  -0.272
+ Reticulophragmium garcilassoi               6     0.812     1.403 *  -1.284
+ Spiroplectammina spectabilis LCO           11     0.136     1.278 *   0.614
+ Alisocysta margarita                        6    -0.070     1.074 *  -1.620
+ Saccammina placenta                         8    -0.672     1.123 *   0.132
+ Trochammina ruthven murrayi                 7    -0.192     0.996 *   0.391
+ Hormosina excelsa                           6    -0.953     1.949    -0.715
+ Palaeoperidinium pyrophorum                 6    -0.189     1.209 *  -0.551
+
+ AVERAGE STANDARD DEVIATION FROM LINE OF CORRELATION =  1.6720
+  * INDICATES EVENT WITH SD < ave SD
+
+
+
+
+ESTIMATION OF EVENT RANGES
+
+                                                      LOWEST  AVERAGE HIGHEST
+
+   1   77  Elphidium spp.                              4.530   0.000  -2.214
+   2  228  Cassidulina teretis                         4.144   1.000  -0.669
+   3    1  Neogloboquadrina pachyderma                 6.857   2.000   0.118
+   4   31  Cibicidoides scaldisensis                   3.927   3.000   0.075
+   5  316  Trifarina fluens                            9.373   4.000   0.544
+   6  171  Buccella frigida                            7.008   5.000  -1.511
+   7  270  Cibicidoides grossa                         6.029   6.000   1.097
+   8    4  Globorotalia inflata                        7.116   7.000   4.073
+   9   23  Sigmoilopsis schlumbergeri                  9.357   8.000   1.116
+  10  269  Neogloboquadrina atlantica                 11.224   9.000   2.855
+  11   91  Diatoms/radiolarians LCO                   15.484  10.000   9.041
+  12   15  Globigerina praebulloides                  18.724  11.000  10.143
+  13  363  Hystrichosphaeropsis obscura               16.873  12.000   8.179
+  14  362  Cannosphaeropsis utinensis                 18.822  13.000  10.427
+  15  219  Martinotiella cylindrica                   16.373  14.000   6.763
+  16  236  G. ex.gr. praescitula zealandica           16.991  15.000  10.467
+  17   17  Asterigerina gurichi                       25.289  16.000  12.072
+  18    3  Deflandrea phosphoritica                   22.371  17.000  16.267
+  19    7  Areoligera semicirculata                   26.578  18.000  12.118
+  20   41  Wetzelliella symmetrica                    28.140  19.000  18.831
+  21   25  Coarse agglutinated spp.                   28.827  20.000  13.582
+  22   97  Cyclammina placenta                        29.571  21.000  11.891
+  23  182  Spirosigmoilinella compressa               27.226  22.000  17.937
+  24   24  Turrilina alsatica                         28.366  23.000  12.263
+  25  289  Adercotryma agterbergi                     26.197  24.000  20.699
+  26  198  Glomospirella biedae                       30.629  25.000  19.885
+  27  324  Aschemonella grandis                       30.401  26.000  19.976
+  28  261  Haplophragmoides walteri                   38.744  27.000  19.950
+  29  321  Dorothia seigliei                          36.555  28.000  20.355
+  30   29  Reticulophragmium amplectens               41.043  29.000  24.503
+  31   32  Ammosphaeroidina pseudopauciloculata       34.246  30.000  25.986
+  32   12  Areosphaeridium diktyoplokus               34.108  31.000  26.033
+  33  229  Recurvoides ex.gr. walteri                 35.977  32.000  23.817
+  34   72  Rottnestia borussica                       35.600  33.000  26.728
+  35  263  Ammomarginulina aubertae                   45.001  34.000  30.384
+  36   68  Spiroplectammina spectabilis LO            40.134  35.000  28.897
+  37   92  Diphyes ficusoides                         37.390  36.000  30.151
+  38  260  Haplophragmoides kirki                     40.722  37.000  28.002
+  39  175  Reticulophragmium intermedia               41.583  38.000  34.842
+  40   99  Eatonicysta ursulae                        43.072  39.000  36.103
+  41   54  Spiroplectammina navarroana                47.683  40.000  33.761
+  42  279  Recurvoidella lamella                      41.807  41.000  35.506
+  43   50  Subbotina patagonica                       44.517  42.000  39.674
+  44  108  Deflandrea oebisfeldensis                  44.595  43.000  31.183
+  45   22  Coscinodiscus spp.                         45.616  44.000  35.458
+  46   28  Apectodinium augustum                      47.467  45.000  43.566
+  47  105  Rzehakina minima                           54.268  46.000  46.586
+  48   76  Reticulophragmium paupera                  55.420  47.000  46.505
+  49  283  Reticulophragmium garcilassoi              54.296  48.000  47.468
+  50   57  Spiroplectammina spectabilis LCO           52.140  49.000  40.132
+  51  114  Alisocysta margarita                       53.988  50.000  46.066
+  52  310  Saccammina placenta                        52.300  51.000  44.503
+  53  129  Trochammina ruthven murrayi                54.443  52.000  46.460
+  54  134  Hormosina excelsa                          51.566  53.000  47.854
+  55  118  Palaeoperidinium pyrophorum                61.532  54.000  51.475
+
+RANGE IS THE OBSERVED STRATIGRAPHIC SPREAD OF AN EVENT
+OVER ALL WELLS, PROJECTED ALONG THE OPTIMUM SEQUENCE AXIS
+
+
+
+GRAPHICAL REPRESENTATION OF EVENT RANGES: M = RASC DISTANCE
+
+         77.47          53.56          29.66           5.75         -18.15
+           +              +              +              +              +
+   1                                                ---M-                  77  Elphidium spp.                          
+   2                                                --M-                  228  Cassidulina teretis                     
+   3                                              ---M--                    1  Neogloboquadrina pachyderma             
+   4                                                -M--                   31  Cibicidoides scaldisensis               
+   5                                             ---M--                   316  Trifarina fluens                        
+   6                                              -M-----                 171  Buccella frigida                        
+   7                                               M---                   270  Cibicidoides grossa                     
+   8                                              M--                       4  Globorotalia inflata                    
+   9                                             -M----                    23  Sigmoilopsis schlumbergeri              
+  10                                            -M----                    269  Neogloboquadrina atlantica              
+  11                                         ---M-                         91  Diatoms/radiolarians LCO                
+  12                                       -----M                          15  Globigerina praebulloides               
+  13                                        ---M--                        363  Hystrichosphaeropsis obscura            
+  14                                       ---M--                         362  Cannosphaeropsis utinensis              
+  15                                        --M----                       219  Martinotiella cylindrica                
+  16                                        -M---                         236  G. ex.gr. praescitula zealandica        
+  17                                   ------M--                           17  Asterigerina gurichi                    
+  18                                     ---M                               3  Deflandrea phosphoritica                
+  19                                  -----M----                            7  Areoligera semicirculata                
+  20                                 ------M                               41  Wetzelliella symmetrica                 
+  21                                 -----M----                            25  Coarse agglutinated spp.                
+  22                                -----M------                           97  Cyclammina placenta                     
+  23                                  ---M--                              182  Spirosigmoilinella compressa            
+  24                                 ---M-------                           24  Turrilina alsatica                      
+  25                                  --M--                               289  Adercotryma agterbergi                  
+  26                               ----M---                               198  Glomospirella biedae                    
+  27                                --M----                               324  Aschemonella grandis                    
+  28                          --------M----                               261  Haplophragmoides walteri                
+  29                            -----M-----                               321  Dorothia seigliei                       
+  30                         -------M---                                   29  Reticulophragmium amplectens            
+  31                             ---M--                                    32  Ammosphaeroidina pseudopauciloculata    
+  32                             --M---                                    12  Areosphaeridium diktyoplokus            
+  33                            ---M-----                                 229  Recurvoides ex.gr. walteri              
+  34                            --M----                                    72  Rottnestia borussica                    
+  35                      -------M---                                     263  Ammomarginulina aubertae                
+  36                         ----M---                                      68  Spiroplectammina spectabilis LO         
+  37                           -M----                                      92  Diphyes ficusoides                      
+  38                         --M------                                    260  Haplophragmoides kirki                  
+  39                         --M--                                        175  Reticulophragmium intermedia            
+  40                        --M--                                          99  Eatonicysta ursulae                     
+  41                     -----M---                                         54  Spiroplectammina navarroana             
+  42                        -M---                                         279  Recurvoidella lamella                   
+  43                       -M--                                            50  Subbotina patagonica                    
+  44                       -M-------                                      108  Deflandrea oebisfeldensis               
+  45                      -M-----                                          22  Coscinodiscus spp.                      
+  46                     -M-                                               28  Apectodinium augustum                   
+  47                 -----M                                               105  Rzehakina minima                        
+  48                -----M                                                 76  Reticulophragmium paupera               
+  49                 ---M-                                                283  Reticulophragmium garcilassoi           
+  50                  --M-----                                             57  Spiroplectammina spectabilis LCO        
+  51                 --M---                                               114  Alisocysta margarita                    
+  52                  -M----                                              310  Saccammina placenta                     
+  53                --M---                                                129  Trochammina ruthven murrayi             
+  54                 M----                                                134  Hormosina excelsa                       
+  55            -----M-                                                   118  Palaeoperidinium pyrophorum             
+           +              +              +              +              +
+         77.47          53.56          29.66           5.75         -18.15
+
+
+
+
+
+STRATIGRAPHIC OVERLAP OF EVENTS (CROSS-OVER RANGE)
+
+                                                      LOWEST  AVERAGE HIGHEST
+
+   1   77  Elphidium spp.                              6.000   0.000   0.000
+   2  228  Cassidulina teretis                         9.000   1.000   0.000
+   3    1  Neogloboquadrina pachyderma                 8.000   2.000   0.000
+   4   31  Cibicidoides scaldisensis                   5.000   3.000   0.000
+   5  316  Trifarina fluens                            8.000   4.000   0.000
+   6  171  Buccella frigida                            8.000   5.000   0.000
+   7  270  Cibicidoides grossa                         8.000   6.000   0.000
+   8    4  Globorotalia inflata                        8.000   7.000   2.000
+   9   23  Sigmoilopsis schlumbergeri                  9.000   8.000   1.000
+  10  269  Neogloboquadrina atlantica                 14.000   9.000   1.000
+  11   91  Diatoms/radiolarians LCO                   21.000  10.000   9.000
+  12   15  Globigerina praebulloides                  21.000  11.000  10.000
+  13  363  Hystrichosphaeropsis obscura               21.000  12.000  10.000
+  14  362  Cannosphaeropsis utinensis                 15.000  13.000  10.000
+  15  219  Martinotiella cylindrica                   15.000  14.000   9.000
+  16  236  G. ex.gr. praescitula zealandica           21.000  15.000  11.000
+  17   17  Asterigerina gurichi                       23.000  16.000  11.000
+  18    3  Deflandrea phosphoritica                   23.000  17.000  16.000
+  19    7  Areoligera semicirculata                   28.000  18.000  16.000
+  20   41  Wetzelliella symmetrica                    28.000  19.000  17.000
+  21   25  Coarse agglutinated spp.                   28.000  20.000  10.000
+  22   97  Cyclammina placenta                        35.000  21.000  10.000
+  23  182  Spirosigmoilinella compressa               28.000  22.000  18.000
+  24   24  Turrilina alsatica                         32.000  23.000  16.000
+  25  289  Adercotryma agterbergi                     28.000  24.000  18.000
+  26  198  Glomospirella biedae                       33.000  25.000  18.000
+  27  324  Aschemonella grandis                       32.000  26.000  18.000
+  28  261  Haplophragmoides walteri                   40.000  27.000  18.000
+  29  321  Dorothia seigliei                          36.000  28.000  18.000
+  30   29  Reticulophragmium amplectens               37.000  29.000  21.000
+  31   32  Ammosphaeroidina pseudopauciloculata       37.000  30.000  23.000
+  32   12  Areosphaeridium diktyoplokus               37.000  31.000  21.000
+  33  229  Recurvoides ex.gr. walteri                 38.000  32.000  23.000
+  34   72  Rottnestia borussica                       37.000  33.000  21.000
+  35  263  Ammomarginulina aubertae                   43.000  34.000  27.000
+  36   68  Spiroplectammina spectabilis LO            41.000  35.000  21.000
+  37   92  Diphyes ficusoides                         41.000  36.000  27.000
+  38  260  Haplophragmoides kirki                     42.000  37.000  27.000
+  39  175  Reticulophragmium intermedia               41.000  38.000  27.000
+  40   99  Eatonicysta ursulae                        42.000  39.000  27.000
+  41   54  Spiroplectammina navarroana                48.000  40.000  27.000
+  42  279  Recurvoidella lamella                      42.000  41.000  34.000
+  43   50  Subbotina patagonica                       42.000  42.000  34.000
+  44  108  Deflandrea oebisfeldensis                  45.000  43.000  34.000
+  45   22  Coscinodiscus spp.                         45.000  44.000  40.000
+  46   28  Apectodinium augustum                      49.000  45.000  40.000
+  47  105  Rzehakina minima                           54.000  46.000  40.000
+  48   76  Reticulophragmium paupera                  53.000  47.000  46.000
+  49  283  Reticulophragmium garcilassoi              54.000  48.000  40.000
+  50   57  Spiroplectammina spectabilis LCO           53.000  49.000  45.000
+  51  114  Alisocysta margarita                       53.000  50.000  46.000
+  52  310  Saccammina placenta                        54.000  51.000  46.000
+  53  129  Trochammina ruthven murrayi                54.000  52.000  46.000
+  54  134  Hormosina excelsa                          54.000  53.000  47.000
+  55  118  Palaeoperidinium pyrophorum                54.000  54.000  46.000
+
+RANGE IS THE OBSERVED STRATIGRAPHIC SPREAD OF AN EVENT
+OVER ALL WELLS, PROJECTED ALONG THE OPTIMUM SEQUENCE AXIS
+
+
+
+GRAPHICAL REPRESENTATION OF EVENT RANGES: M = RASC DISTANCE
+
+         67.50          47.25          27.00           6.75         -13.50
+           +              +              +              +              +
+   1                                                ----M                  77  Elphidium spp.                          
+   2                                             ------M-                 228  Cassidulina teretis                     
+   3                                              -----M-                   1  Neogloboquadrina pachyderma             
+   4                                                --M--                  31  Cibicidoides scaldisensis               
+   5                                              ---M---                 316  Trifarina fluens                        
+   6                                              --M----                 171  Buccella frigida                        
+   7                                              --M----                 270  Cibicidoides grossa                     
+   8                                              -M----                    4  Globorotalia inflata                    
+   9                                             -M-----                   23  Sigmoilopsis schlumbergeri              
+  10                                          ---M------                  269  Neogloboquadrina atlantica              
+  11                                    ---------M                         91  Diatoms/radiolarians LCO                
+  12                                    --------M-                         15  Globigerina praebulloides               
+  13                                    -------M--                        363  Hystrichosphaeropsis obscura            
+  14                                         -M---                        362  Cannosphaeropsis utinensis              
+  15                                         -M---                        219  Martinotiella cylindrica                
+  16                                    -----M---                         236  G. ex.gr. praescitula zealandica        
+  17                                   -----M----                          17  Asterigerina gurichi                    
+  18                                   ----M-                               3  Deflandrea phosphoritica                
+  19                               --------M-                               7  Areoligera semicirculata                
+  20                               -------M-                               41  Wetzelliella symmetrica                 
+  21                               ------M--------                         25  Coarse agglutinated spp.                
+  22                          ----------M---------                         97  Cyclammina placenta                     
+  23                               -----M---                              182  Spirosigmoilinella compressa            
+  24                            -------M-----                              24  Turrilina alsatica                      
+  25                               ---M-----                              289  Adercotryma agterbergi                  
+  26                            -----M------                              198  Glomospirella biedae                    
+  27                            -----M------                              324  Aschemonella grandis                    
+  28                      ----------M-------                              261  Haplophragmoides walteri                
+  29                         ------M--------                              321  Dorothia seigliei                       
+  30                         ------M-----                                  29  Reticulophragmium amplectens            
+  31                         -----M-----                                   32  Ammosphaeroidina pseudopauciloculata    
+  32                         ----M-------                                  12  Areosphaeridium diktyoplokus            
+  33                        ----M-------                                  229  Recurvoides ex.gr. walteri              
+  34                         ---M--------                                  72  Rottnestia borussica                    
+  35                    -------M-----                                     263  Ammomarginulina aubertae                
+  36                      ----M----------                                  68  Spiroplectammina spectabilis LO         
+  37                      ---M-------                                      92  Diphyes ficusoides                      
+  38                     ----M-------                                     260  Haplophragmoides kirki                  
+  39                      --M--------                                     175  Reticulophragmium intermedia            
+  40                     --M---------                                      99  Eatonicysta ursulae                     
+  41                ------M----------                                      54  Spiroplectammina navarroana             
+  42                     -M-----                                          279  Recurvoidella lamella                   
+  43                     M------                                           50  Subbotina patagonica                    
+  44                   -M-------                                          108  Deflandrea oebisfeldensis               
+  45                   M---                                                22  Coscinodiscus spp.                      
+  46                ---M---                                                28  Apectodinium augustum                   
+  47            ------M----                                               105  Rzehakina minima                        
+  48             ----M-                                                    76  Reticulophragmium paupera               
+  49            ----M------                                               283  Reticulophragmium garcilassoi           
+  50             ---M---                                                   57  Spiroplectammina spectabilis LCO        
+  51             --M---                                                   114  Alisocysta margarita                    
+  52            --M----                                                   310  Saccammina placenta                     
+  53            -M-----                                                   129  Trochammina ruthven murrayi             
+  54            -M----                                                    134  Hormosina excelsa                       
+  55            M------                                                   118  Palaeoperidinium pyrophorum             
+           +              +              +              +              +
+         67.50          47.25          27.00           6.75         -13.50

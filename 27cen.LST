@@ -1,0 +1,2837 @@
+MAKEDAT DATA LIST OUTPUT  -  02/05/02 20:18
+Filename: ncen.lst   
+
+
+
+
+Saga (N) 6407/2-3
+Rotary table height: 26 m
+Water depth:  250.0 m
+Comment: Foram by F.Gradstein; dinos by R. Jan du Chene. Saga 1992
+
+
+Depth(m)/type   Event#/Freq.      Event (fossil) name
+---------------------------------------------------------------
+
+    409/s          1/3            Neogloboquadrina pachyderma             
+
+    420/d         31/1            Cibicidoides scaldisensis               
+                 240/3            Elphidium clavatum                      
+                 228/2            Cassidulina teretis                     
+                 316/1            Trifarina fluens                        
+                 326/1            Nonion labradoricum                     
+
+    440/d        330/1            Cibicidoides pachyderma                 
+
+    460/d        171/1            Buccella frigida                        
+                   4/1            Globorotalia inflata                    
+
+    489/s        270/1            Cibicidoides grossa                     
+
+    500/d        329/1            Ammonia inflata                         
+
+    520/d        328/1            Ammonia beccarii                        
+
+    540/d        178/1            Eggerella advena                        
+
+    560/d        332/1            Planulina ariminensis                   
+
+    580/d        325/1            Hyalinea balthica                       
+
+    720/d         23/1            Sigmoilopsis schlumbergeri              
+
+    980/d        352/3            Nonion affine LCO                       
+
+   1040/d        269/1            Neogloboquadrina atlantica              
+
+   1330/d         81/1            Globoquadrina venezuelana               
+
+   1340/d         15/1            Globigerina praebulloides               
+
+   1380/d         91/3            Radiolarians/diatoms flood              
+
+   1390/d        362/0            Cannosphaeropsis utinensis              
+
+   1400/d        334/1            Ehrenbergina variabilis                 
+                 233/1            Catapsydrax unicavus                    
+                 219/1            Martinotiella cylindrica                
+                 335/1            Bolboforma fragori                      
+                 300/1            Bolboforma laevis                       
+
+   1426/s         93/1            Systematophora placacantha              
+
+   1450/s        209/1            Globorotalia bella                      
+
+   1506/s        368/1            Chiropteridium mespilanum               
+                   3/1            Deflandrea phosphoritica                
+                 367/1            Emslandia emslandensis                  
+
+   1580/d          7/1            Areoligera semicirculata                
+                 227/1            Wetzeliella gochtii                     
+                  41/1            Wetzelliella symmetrica                 
+                 369/1            Rhombodinium draco                      
+
+   1600/s         43/2            Areoligera semicirculata LCO            
+
+   1610/s         46/1            Svalbardella cooksoniae                 
+
+   1630/s        371/2            Areosphaeridium arcuatum                
+
+   1650/s         25/4            Coarse agglutinated spp.                
+                  97/2            Cyclammina placenta                     
+                 182/2            Spirosigmoilinella compressa            
+                  56/2            Glomospira charoides                    
+                 407/1            Spiniferites sp. 1 Manum                
+                 400/1            Hystrichostrogylon sp.                  
+
+   1666/s        302/3            Cenosphaera spp. (spheres)              
+                  24/1            Turrilina alsatica                      
+
+   1690/d        370/1            Corrudinium incompositum                
+                 372/1            D. phosphoritica (thick walled)         
+
+   1700/d        289/1            Adercotryma agterbergi                  
+                 324/1            Aschemonella grandis                    
+                 198/1            Glomospirella biedae                    
+                 410/1            Haplophragmoides carinatus              
+
+   1710/s         12/1            Areosphaeridium diktyoplokus            
+
+   1720/d         29/1            Reticulophragmium amplectens            
+
+   1750/s         13/1            Heteraulacacysta porosa                 
+
+   1760/d         72/1            Rottnestia borussica                    
+                  92/1            Diphyes ficusoides                      
+
+   1780/d        197/1            Reophax elongatus                       
+                 201/1            Haplophragmoides stomatus               
+
+   1800/d        321/1            Dorothia seigliei                       
+                  68/1            Spiroplectammina spectabilis LO         
+
+   1810/s         94/2            Systematophora placacantha LCO          
+
+   1820/d         32/1            Ammosphaeroidina pseudopauciloculata    
+                 166/1            Haplophragmoides porrectus              
+                 110/1            Cystammina aff.globigerinaeformis       
+                 387/1            Genus indet. Michoux 1                  
+
+   1840/d        136/1            Cystammina pauciloculata                
+
+   1876/s        388/1            Genus indet. Michoux 2                  
+
+   1900/s        229/1            Recurvoides ex.gr. walteri              
+                 175/1            Reticulophragmium intermedia            
+
+   1930/s         99/2            Eatonicysta ursulae                     
+
+   1940/d         39/2            Alabamina wilcoxensis                   
+                 260/1            Haplophragmoides kirki                  
+                 279/2            Recurvoidella lamella                   
+                  50/3            Subbotina patagonica                    
+                  54/1            Spiroplectammina navarroana             
+
+   1960/d        306/1            Nuttalinella florealis                  
+                  47/1            Planorotalites planoconicus             
+
+   1962/s        108/1            Deflandrea oebisfeldensis               
+
+   1975/s        157/2            Glaphyrocysta ordinata LCO              
+                  21/2            Deflandrea oebisfeldensis LCO           
+
+   1980/d         22/1            Coscinodiscus spp.                      
+
+   1999/s         28/2            Apectodinium augustum                   
+
+   2020/d         76/1            Reticulophragmium paupera               
+                 291/1            Reticulophragmoides jarvisi             
+
+   2027/s        184/2            Palaeoperidinium pyrophorum LCO         
+                  57/2            Spiroplectammina spectabilis LCO        
+                 105/1            Rzehakina minima                        
+
+   2040/d        129/1            Trochammina ruthven murrayi             
+                 251/1            Ammodiscus planus                       
+                 245/1            Hyperammina dilatata                    
+                 134/1            Hormosina excelsa                       
+                 264/1            Karreriella conversa                    
+                 310/1            Saccammina placenta                     
+
+   2055/s        169/1            Cribrostomoides trinitatensis           
+                 163/1            Glomospirella sp.1                      
+                 114/1            Alisocysta margarita                    
+
+   2075/d        196/2            Pseudobolivina sp. 1                    
+                 192/1            Karreriella coniformis                  
+                 106/1            Trochammina cf. subvesicularis          
+                 133/1            Hormosina ovulum                        
+
+
+
+Statoil (N) 6407/4-1
+Rotary table height: 22 m
+Water depth:  225.0 m
+Comment: Forams F.Gradstein; dinos 1210-2260m by R.Jan du Chene. For Saga 1992
+
+
+Depth(m)/type   Event#/Freq.      Event (fossil) name
+---------------------------------------------------------------
+
+    330/d        326/2            Nonion labradoricum                     
+                  31/2            Cibicidoides scaldisensis               
+                   1/2            Neogloboquadrina pachyderma             
+                 228/2            Cassidulina teretis                     
+                 338/2            Bulimina marginata                      
+
+    370/d         64/1            Cassidulina islandica                   
+
+    450/d        270/1            Cibicidoides grossa                     
+                 339/1            Globigerina bulloides                   
+
+    510/d        325/1            Hyalinea balthica                       
+                 332/2            Planulina ariminensis                   
+                 181/1            Cibicidoides dutemplei                  
+
+    550/d        159/3            Cibicidoides grossa LCO                 
+
+    590/d        329/1            Ammonia inflata                         
+
+    670/d          4/1            Globorotalia inflata                    
+
+    690/d         23/1            Sigmoilopsis schlumbergeri              
+                 330/2            Cibicidoides pachyderma                 
+
+    810/d        340/1            Paromalina crassa                       
+
+   1270/d        269/1            Neogloboquadrina atlantica              
+
+   1290/d        301/1            Bolboforma metzmacheri                  
+
+   1310/d         91/3            Radiolarians/diatoms flood              
+                 391/0            Achomosphaera andalousiense             
+                 392/0            Operculodinium janduchenei              
+
+   1330/d         15/1            Globigerina praebulloides               
+                 125/1            Neogloboquadrina continuosa             
+                 361/0            Sumatradinium spp.                      
+                 394/0            Tuberculodinium vancampoae              
+
+   1350/d        219/1            Martinotiella cylindrica                
+                 363/0            Hystrichosphaera obscura                
+
+   1370/d        335/1            Bolboforma fragori                      
+
+   1390/d        341/1            Neogloboquadrina mayeri                 
+                 342/1            Bolboforma reticulata                   
+                 362/0            Cannosphaeropsis utinensis              
+
+   1430/d        179/1            Globorotalia scitula praescitula        
+                 395/0            Unipontidinium aquaeductum              
+
+   1450/d        396/0            Cordosphaeridium cantharellum           
+
+   1470/d        406/0            Distatodinium paradoxum                 
+
+   1490/d        368/0            Chiropteridium mespilanum               
+
+   1510/d          3/0            Deflandrea phosphoritica                
+
+   1530/d        373/0            Systematophora sp. 1                    
+
+   1570/d          7/0            Areoligera semicirculata                
+
+   1590/d        227/0            Wetzeliella gochtii                     
+                 369/0            Rhombodinium draco                      
+
+   1610/d         46/0            Svalbardella cooksoniae                 
+                  41/0            Wetzelliella symmetrica                 
+
+   1630/d        371/1            Areosphaeridium arcuatum                
+
+   1650/d         25/3            Coarse agglutinated spp.                
+                  97/1            Cyclammina placenta                     
+                 372/0            D. phosphoritica (thick walled)         
+                 407/0            Spiniferites sp. 1 Manum                
+
+   1670/d        289/1            Adercotryma agterbergi                  
+
+   1690/d        400/0            Hystrichostrogylon sp.                  
+
+   1710/d        324/1            Aschemonella grandis                    
+                 410/1            Haplophragmoides carinatus              
+
+   1730/d        302/1            Cenosphaera spp. (spheres)              
+                  56/2            Glomospira charoides                    
+                 197/1            Reophax elongatus                       
+
+   1750/d        182/1            Spirosigmoilinella compressa            
+                 262/1            Karreriella horrida                     
+
+   1770/d         29/1            Reticulophragmium amplectens            
+                 229/1            Recurvoides ex.gr. walteri              
+                  32/1            Ammosphaeroidina pseudopauciloculata    
+                 398/0            Cerebrocysta bartonensis                
+
+   1790/d        321/1            Dorothia seigliei                       
+                 263/1            Ammomarginulina aubertae                
+                  68/1            Spiroplectammina spectabilis LO         
+                 261/1            Haplophragmoides walteri                
+                  12/0            Areosphaeridium diktyoplokus            
+
+   1810/d        201/1            Haplophragmoides stomatus               
+                 183/1            Cyclammina rotundidorsata               
+
+   1830/d        370/0            Corrudinium incompositum                
+
+   1850/d        401/0            Areosphaeridium sp. A                   
+
+   1890/d         72/0            Rottnestia borussica                    
+                 402/0            Cordosphaeridium funiculatum            
+
+   1910/d         98/0            Dracodinium pachydermum                 
+
+   1930/d        110/1            Cystammina aff.globigerinaeformis       
+                 260/1            Haplophragmoides kirki                  
+                  54/1            Spiroplectammina navarroana             
+
+   1950/d        387/0            Genus indet. Michoux 1                  
+
+   1970/d        136/1            Cystammina pauciloculata                
+
+   1990/d        279/1            Recurvoidella lamella                   
+                  83/0            Diphyes colligerum                      
+
+   2010/d        403/0            Phthanoperidinium amoenum var           
+                  92/0            Diphyes ficusoides                      
+
+   2030/d        166/1            Haplophragmoides porrectus              
+                 388/0            Genus indet. Michoux 2                  
+
+   2050/d        175/2            Reticulophragmium intermedia            
+
+   2070/d        306/3            Nuttalinella florealis                  
+                  50/3            Subbotina patagonica                    
+
+   2080/d         99/0            Eatonicysta ursulae                     
+                 389/0            Hystrichosphaeridium tubiferum          
+
+   2084/d        277/1            Tuff                                    
+
+   2090/d         22/2            Coscinodiscus spp.                      
+                 108/0            Deflandrea oebisfeldensis               
+
+   2110/d        374/0            Inaperturopollenites hiatus             
+                 375/0            Senegal. obscurum                       
+
+   2130/d        408/0            Wetzelliella astra                      
+
+   2170/d         28/0            Apectodinium augustum                   
+                 343/2            Cenosphaera sp. (disc or flat)          
+
+   2190/d        169/1            Cribrostomoides trinitatensis           
+                  76/2            Reticulophragmium paupera               
+                 105/1            Rzehakina minima                        
+                  57/2            Spiroplectammina spectabilis LCO        
+
+   2210/d        310/1            Saccammina placenta                     
+                 405/0            Deflandrea striata                      
+
+   2228/s        118/0            Palaeoperidinium pyrophorum             
+                  30/3            Alisocysta margarita LCO                
+
+   2230/d        129/1            Trochammina ruthven murrayi             
+                 283/2            Reticulophragmium garcilassoi           
+
+   2240/d        409/0            Palaeocystodinium australinum           
+
+
+
+Elf Aquitaine (N) 6406/8-1
+Rotary table height: 27 m
+Water depth:  348.0 m
+Comment: Forams F.M. Gradstein, dinos R.Jan du Chene. For Saga, 1992.
+
+
+Depth(m)/type   Event#/Freq.      Event (fossil) name
+---------------------------------------------------------------
+
+   1320/d          1/3            Neogloboquadrina pachyderma             
+                 338/3            Bulimina marginata                      
+                 228/1            Cassidulina teretis                     
+                 270/2            Cibicidoides grossa                     
+                  23/1            Sigmoilopsis schlumbergeri              
+
+   1340/d        333/1            Neogloboquadrina dutertrei              
+
+   1380/d        316/1            Trifarina fluens                        
+
+   1400/d          4/1            Globorotalia inflata                    
+
+   1420/d        181/1            Cibicidoides dutemplei                  
+
+   1440/d        301/2            Bolboforma metzmacheri                  
+                 269/2            Neogloboquadrina atlantica              
+                  91/3            Radiolarians/diatoms flood              
+
+   1480/d        361/1            Sumatradinium spp.                      
+
+   1500/D         15/2            Globigerina praebulloides               
+                 334/2            Ehrenbergina variabilis                 
+
+   1540/D         71/2            Epistomina elegans                      
+
+   1560/D        138/1            Tenuitella angustiumbilicata            
+                 282/3            Uvigerina ex.gr. semiornata             
+
+   1580/D         81/1            Globoquadrina venezuelana               
+                 125/2            Neogloboquadrina continuosa             
+
+   1600/D        122/1            Sphaeroidinellopsis seminulina          
+                 362/1            Cannosphaeropsis utinensis              
+                 363/1            Hystrichosphaera obscura                
+
+   1620/D         70/1            Alabamina scitula                       
+
+   1660/D        219/2            Martinotiella cylindrica                
+
+   1720/d        395/1            Unipontidinium aquaeductum              
+
+   1760/D        348/1            Sphaeroidinella disjuncta               
+                 406/1            Distatodinium paradoxum                 
+
+   1780/D        344/1            Globoquadrina praedehiscens             
+
+   1800/d        368/1            Chiropteridium mespilanum               
+
+   1820/d        349/1            Coscinodiscus sp. 4 King                
+                   7/1            Areoligera semicirculata                
+                 367/1            Emslandia emslandensis                  
+
+   1860/d        373/1            Systematophora sp. 1                    
+
+   1880/d        371/1            Areosphaeridium arcuatum                
+                 227/1            Wetzeliella gochtii                     
+                 369/1            Rhombodinium draco                      
+                  41/1            Wetzelliella symmetrica                 
+                   3/1            Deflandrea phosphoritica                
+
+   1900/D         25/3            Coarse agglutinated spp.                
+                 289/1            Adercotryma agterbergi                  
+
+   1920/D        182/1            Spirosigmoilinella compressa            
+                 170/1            Reticulophragmium acutidorsata          
+                 324/1            Aschemonella grandis                    
+                 198/1            Glomospirella biedae                    
+                 407/2            Spiniferites sp. 1 Manum                
+
+   1940/D        140/1            Rotaliatina bulimoides                  
+                  20/1            Gyroidina girardana                     
+                 302/1            Cenosphaera spp. (spheres)              
+
+   1960/d        400/1            Hystrichostrogylon sp.                  
+
+   1980/d         97/2            Cyclammina placenta                     
+
+   2020/d        372/1            D. phosphoritica (thick walled)         
+
+   2040/d        142/1            Gyroidina soldanii mamilligera          
+                 370/1            Corrudinium incompositum                
+
+   2060/d        197/1            Reophax elongatus                       
+                  13/1            Heteraulacacysta porosa                 
+
+   2080/d        262/1            Karreriella horrida                     
+                 261/1            Haplophragmoides walteri                
+
+   2100/d         29/1            Reticulophragmium amplectens            
+
+   2120/d        259/1            Ammodiscus latus                        
+
+   2160/d         32/1            Ammosphaeroidina pseudopauciloculata    
+                 264/1            Karreriella conversa                    
+                  68/1            Spiroplectammina spectabilis LO         
+                 263/1            Ammomarginulina aubertae                
+
+   2200/d        229/2            Recurvoides ex.gr. walteri              
+
+   2240/d        166/1            Haplophragmoides porrectus              
+
+   2260/d         92/1            Diphyes ficusoides                      
+
+   2280/d         98/1            Dracodinium pachydermum                 
+
+   2310/d        136/2            Cystammina pauciloculata                
+
+   2340/d        321/1            Dorothia seigliei                       
+
+   2380/d        387/1            Genus indet. Michoux 1                  
+
+   2400/d        201/1            Haplophragmoides stomatus               
+
+   2420/d        260/1            Haplophragmoides kirki                  
+
+   2450/d        403/1            Phthanoperidinium amoenum var           
+
+   2500/d         99/1            Eatonicysta ursulae                     
+
+   2520/d        378/1            Kisselovia vittata gr.                  
+
+   2540/d        306/2            Nuttalinella florealis                  
+                  50/1            Subbotina patagonica                    
+                  54/1            Spiroplectammina navarroana             
+                 415/1            Dracodinium condylos                    
+
+   2620/d        113/3            Inaperturopollenites spp. LCO           
+                  22/1            Coscinodiscus spp.                      
+                 108/1            Deflandrea oebisfeldensis               
+                 389/1            Hystrichosphaeridium tubiferum          
+
+   2660/d        376/1            Ceratiopsis wardenensis                 
+
+   2680/d         28/1            Apectodinium augustum                   
+
+   2700/d         76/2            Reticulophragmium paupera               
+
+   2720/d        114/1            Alisocysta margarita                    
+
+   2740/d        129/1            Trochammina ruthven murrayi             
+                 291/1            Reticulophragmoides jarvisi             
+                 310/1            Saccammina placenta                     
+                 118/3            Palaeoperidinium pyrophorum             
+
+   2760/d        409/1            Palaeocystodinium australinum           
+
+
+
+Hydro (N) 34/8-1
+Rotary table height: 0 m
+Water depth:    0.0 m
+Comment: Forams F. Gradstein for Hydro 1989, Saga 1992; dinos I.L. Kristiansen, 
+        Hydro 1989. Micropal 1992 (
+
+Depth(m)/type   Event#/Freq.      Event (fossil) name
+---------------------------------------------------------------
+
+    440/U         31/0            Cibicidoides scaldisensis               
+                  77/0            Elphidium spp.                          
+                 240/0            Elphidium clavatum                      
+                   1/0            Neogloboquadrina pachyderma             
+                 228/0            Cassidulina teretis                     
+                   8/0            Orbulina universa                       
+                 326/0            Nonion labradoricum                     
+
+    465/U        171/0            Buccella frigida                        
+
+    540/U        328/0            Ammonia beccarii                        
+                 329/0            Ammonia inflata                         
+                   4/0            Globorotalia inflata                    
+                 270/0            Cibicidoides grossa                     
+                 178/0            Eggerella advena                        
+
+    600/U         23/0            Sigmoilopsis schlumbergeri              
+
+    640/U         64/0            Cassidulina islandica                   
+
+    726/U        327/0            Cibicidoides scaldisensis LCO           
+
+    820/U        181/0            Cibicidoides dutemplei                  
+
+    900/U        159/0            Cibicidoides grossa LCO                 
+
+   1040/U        316/0            Trifarina fluens                        
+
+   1080/U        269/0            Neogloboquadrina atlantica              
+                 285/0            Caucasina elongata                      
+
+   1089/U        207/0            NS Log G                                
+
+   1090/U         17/0            Asterigerina gurichi                    
+
+   1100/U         15/1            Globigerina praebulloides               
+                 233/1            Catapsydrax unicavus                    
+                 334/1            Ehrenbergina variabilis                 
+                 411/1            Globocassidulina subglobosa var.        
+
+   1150/U        412/2            Flat rads + sponge spicules             
+                 413/2            Silicious biofacies                     
+
+   1161/U          3/0            Deflandrea phosphoritica                
+                 145/0            Homotryblium floripes                   
+                  51/0            Chiropteridium lobospinosum             
+
+   1194/U        128/0            Distatodinium biffii                    
+                  24/0            Turrilina alsatica                      
+                 176/0            Uvigerina gallowayi                     
+
+   1240/d        351/1            Coscinodiscus sp. 3 King                
+
+   1400/U         25/0            Coarse agglutinated spp.                
+                 182/0            Spirosigmoilinella compressa            
+                  97/0            Cyclammina placenta                     
+                 321/0            Dorothia seigliei                       
+
+   1410/U        261/0            Haplophragmoides walteri                
+
+   1422/U        150/0            Distatodinium biffii FO                 
+
+   1440/U         41/0            Wetzelliella symmetrica                 
+                 262/0            Karreriella horrida                     
+                 289/0            Adercotryma agterbergi                  
+
+   1458/U          7/0            Areoligera semicirculata                
+
+   1480/U         46/0            Svalbardella cooksoniae                 
+
+   1497/s         29/0            Reticulophragmium amplectens            
+                  32/0            Ammosphaeroidina pseudopauciloculata    
+                  11/0            R. actinocoronata FO                    
+                  63/0            Chiropteridium lobospinosum FO          
+                  59/0            Areoligera semicirculata FO             
+                  48/0            Spiniferites sp. 2 Manum et al.         
+
+   1540/U         12/0            Areosphaeridium diktyoplokus            
+                  69/0            Areosphaeridium cf. diktyoplokus        
+                  13/0            Heteraulacacysta porosa                 
+
+   1580/U         75/0            Rhombodinium porosum                    
+                  67/0            Operculodinium tiara                    
+
+   1600/U        198/0            Glomospirella biedae                    
+                  83/0            Diphyes colligerum                      
+                 151/0            Dracodinium spp.                        
+
+   1610/U        260/0            Haplophragmoides kirki                  
+
+   1620/U         88/0            Areosphaeridium fenestratum             
+                  72/0            Rottnestia borussica                    
+
+   1697/s        264/1            Karreriella conversa                    
+
+   1710/U         92/0            Diphyes ficusoides                      
+
+   1720/d         94/0            Systematophora placacantha LCO          
+                 117/2            Cenosphaera spp. LCO                    
+
+   1725/U        279/0            Recurvoidella lamella                   
+
+   1730/U         68/0            Spiroplectammina spectabilis LO         
+
+   1740/U         98/0            Dracodinium pachydermum                 
+                  99/0            Eatonicysta ursulae                     
+
+   1760/U        175/0            Reticulophragmium intermedia            
+                 192/0            Karreriella coniformis                  
+                  36/0            Pseudohastigerina wilcoxensis           
+
+   1778/U         14/0            Eatonicysta ursulae LCO                 
+                 100/0            Dracodinium pachydermum LCO             
+
+   1786/U        251/0            Ammodiscus planus                       
+
+   1790/U         45/0            Bulimina trigonalis                     
+                  47/0            Planorotalites planoconicus             
+
+   1805/U        146/0            Subbotina eocaena                       
+
+   1815/U        154/0            Dracodinium pachydermum FO              
+
+   1820/U        194/0            Subbotina frontosa                      
+                  50/0            Subbotina patagonica                    
+
+   1829/U        108/0            Deflandrea oebisfeldensis               
+                  21/0            Deflandrea oebisfeldensis LCO           
+                 113/0            Inaperturopollenites spp. LCO           
+
+   1830/U         22/0            Coscinodiscus spp.                      
+
+   1832/U        277/0            Tuff                                    
+
+   1868/U         28/0            Apectodinium augustum                   
+
+   1875/s        298/0            Glomospira irregularis                  
+                 299/0            Glomospira diffundens                   
+                  54/0            Spiroplectammina navarroana             
+                 283/0            Reticulophragmium garcilassoi           
+                 105/0            Rzehakina minima                        
+                 196/1            Pseudobolivina sp. 1                    
+
+   1884/U         76/0            Reticulophragmium paupera               
+                 295/0            Kalamopsis grzybowskii                  
+                 310/0            Saccammina placenta                     
+                 114/0            Alisocysta margarita                    
+
+   1890/U        284/0            Labrospira pacifica                     
+
+   1892/U         57/0            Spiroplectammina spectabilis LCO        
+
+   1898/U        136/0            Cystammina pauciloculata                
+                 110/0            Cystammina aff.globigerinaeformis       
+                 134/0            Hormosina excelsa                       
+                 115/0            Areoligera cf. senonensis               
+
+   1943/U        131/0            Palaeocystodinium bulliforme            
+
+   1950/U        129/0            Trochammina ruthven murrayi             
+
+   1955/U        118/0            Palaeoperidinium pyrophorum             
+
+   1975/U         30/0            Alisocysta margarita LCO                
+
+   1995/U         55/0            Gavelinella beccariiformis              
+                 135/0            Palaeocystodinium bulliforme LCO        
+
+   2006/U        158/0            Spongodinium delitiense                 
+
+   2010/U        107/0            Matanzia varians                        
+                 155/0            Palynodinium grallator                  
+
+
+
+Esso (N) 16/1-1
+Rotary table height: 0 f
+Water depth:    0.0 f
+Comment: Forams F.Gradstein for Hydro 1989. Dinos Ioakim (1979), revised I.L. Kr
+        istiansen for Hydro 89. Mic
+
+Depth(f)/type   Event#/Freq.      Event (fossil) name
+---------------------------------------------------------------
+
+   1250/U         77/0            Elphidium spp.                          
+                 228/0            Cassidulina teretis                     
+                  64/0            Cassidulina islandica                   
+                 270/0            Cibicidoides grossa                     
+
+   2090/U         23/0            Sigmoilopsis schlumbergeri              
+                   1/0            Neogloboquadrina pachyderma             
+                   4/0            Globorotalia inflata                    
+
+   2110/U        219/0            Martinotiella cylindrica                
+
+   2320/U          5/0            Globorotalia crassaformis               
+                 269/0            Neogloboquadrina atlantica              
+
+   2385/U        266/0            Globorotalia puncticulata               
+
+   2410/U         71/0            Epistomina elegans                      
+
+   2700/U         91/0            Radiolarians/diatoms flood              
+
+   2950/U        236/0            G. ex.gr. praescitula zealandica        
+                 125/0            Neogloboquadrina continuosa             
+                  15/0            Globigerina praebulloides               
+
+   2980/U        285/0            Caucasina elongata                      
+                  17/0            Asterigerina gurichi                    
+
+   3400/U        282/0            Uvigerina ex.gr. semiornata             
+
+   3704/U        207/0            NS Log G                                
+
+   4000/U         25/0            Coarse agglutinated spp.                
+
+   4222/U         51/0            Chiropteridium lobospinosum             
+
+   4502/U         41/0            Wetzelliella symmetrica                 
+
+   4580/U        140/0            Rotaliatina bulimoides                  
+                  24/0            Turrilina alsatica                      
+                 182/0            Spirosigmoilinella compressa            
+                  97/0            Cyclammina placenta                     
+
+   5025/U        206/0            NS Log F                                
+
+   5100/U        321/0            Dorothia seigliei                       
+                 261/0            Haplophragmoides walteri                
+                 289/0            Adercotryma agterbergi                  
+
+   5200/U        260/0            Haplophragmoides kirki                  
+                 262/0            Karreriella horrida                     
+
+   5222/U         12/0            Areosphaeridium diktyoplokus            
+
+   5250/U        117/0            Cenosphaera spp. LCO                    
+
+   5643/U        263/0            Ammomarginulina aubertae                
+
+   5665/U         68/0            Spiroplectammina spectabilis LO         
+
+   5671/U         29/0            Reticulophragmium amplectens            
+
+   6315/U        156/0            Phthanoperidinium echinatum LCO         
+
+   6622/U         99/0            Eatonicysta ursulae                     
+                 100/0            Dracodinium pachydermum LCO             
+
+   6923/U        205/0            NS Log E                                
+
+   7060/U        264/0            Karreriella conversa                    
+                 279/0            Recurvoidella lamella                   
+                  54/0            Spiroplectammina navarroana             
+                 153/0            Dracodinium spp. LCO                    
+
+   7069/U         37/0            Acarinina pentacamerata                 
+                  50/0            Subbotina patagonica                    
+
+   7103/U         86/0            Turrilina robertsi                      
+
+   7222/U        157/0            Glaphyrocysta ordinata LCO              
+
+   7296/U         36/0            Pseudohastigerina wilcoxensis           
+
+   7354/U        277/0            Tuff                                    
+                 108/0            Deflandrea oebisfeldensis               
+                  28/0            Apectodinium augustum                   
+
+   7375/U         22/0            Coscinodiscus spp.                      
+
+   7402/U         78/0            Trochamminoides coronatus               
+
+   7411/U        204/0            NS Log D                                
+
+   7572/U        203/0            NS Log C                                
+
+   7903/U         76/0            Reticulophragmium paupera               
+
+   7940/U        136/0            Cystammina pauciloculata                
+
+   7958/U        283/0            Reticulophragmium garcilassoi           
+
+   8332/U        184/0            Palaeoperidinium pyrophorum LCO         
+
+   8460/U         45/0            Bulimina trigonalis                     
+
+   8480/U         57/0            Spiroplectammina spectabilis LCO        
+
+   8623/U        107/0            Matanzia varians                        
+                  61/0            Subbotina pseudobulloides               
+                  55/0            Gavelinella beccariiformis              
+                 274/0            Gaudryina aff. hiltermanni              
+
+   8924/U         60/0            Planorotalites compressus               
+
+   8990/U        253/0            Subbotina triloculinoides               
+                  19/0            Globoconusa daubjergensis               
+
+
+
+Saga (N) 34/4-5
+Rotary table height: 0 m
+Water depth:    0.0 m
+Comment: Forams F. Gradstein, dinos R. Jan du Chene 1100- 1920m. For Saga       
+        1992.
+
+
+Depth(m)/type   Event#/Freq.      Event (fossil) name
+---------------------------------------------------------------
+
+    520/d         77/4            Elphidium spp.                          
+                 240/2            Elphidium clavatum                      
+                  64/1            Cassidulina islandica                   
+                 228/2            Cassidulina teretis                     
+                   1/1            Neogloboquadrina pachyderma             
+                  31/1            Cibicidoides scaldisensis               
+                 328/1            Ammonia beccarii                        
+                 329/1            Ammonia inflata                         
+
+    540/d        316/1            Trifarina fluens                        
+
+    560/d        331/1            Cribroelphidium bartletti               
+
+    580/d         23/1            Sigmoilopsis schlumbergeri              
+                 270/2            Cibicidoides grossa                     
+
+    600/d        171/2            Buccella frigida                        
+
+    720/d        327/3            Cibicidoides scaldisensis LCO           
+                   4/1            Globorotalia inflata                    
+
+    780/d        266/1            Globorotalia puncticulata               
+
+    820/d        269/1            Neogloboquadrina atlantica              
+
+    860/U        243/1            Globigerina decoraperta                 
+
+   1040/U          6/1            Neogloboquadrina acostaensis            
+
+   1240/U        207/0            NS Log G                                
+
+   1260/U        287/3            Miocene planktonic foram flood          
+                  15/2            Globigerina praebulloides               
+                  81/1            Globoquadrina venezuelana               
+                 116/1            Orbulina suturalis                      
+
+   1280/d        362/2            Cannosphaeropsis utinensis              
+
+   1290/U         80/1            Cyclammina cancellata                   
+                  97/1            Cyclammina placenta                     
+
+   1300/U         91/4            Radiolarians/diatoms flood              
+                 170/1            Reticulophragmium acutidorsata          
+
+   1320/U        233/1            Catapsydrax unicavus                    
+                 272/1            Dentoglobigerina baroemoenensis         
+
+   1340/d        147/1            Catapsydrax aff. dissimilis             
+                 361/2            Sumatradinium spp.                      
+
+   1350/d        210/1            Nonion granosum                         
+
+   1360/d        363/2            Hystrichosphaera obscura                
+                 412/2            Flat rads + sponge spicules             
+                 415/3            Dracodinium condylos                    
+                 406/1            Distatodinium paradoxum                 
+
+   1370/d         24/1            Turrilina alsatica                      
+
+   1380/d         20/1            Gyroidina girardana                     
+                 176/2            Uvigerina gallowayi                     
+                 368/1            Chiropteridium mespilanum               
+                 367/1            Emslandia emslandensis                  
+
+   1400/d          7/1            Areoligera semicirculata                
+
+   1420/d          3/1            Deflandrea phosphoritica                
+
+   1480/d        227/1            Wetzeliella gochtii                     
+                 371/1            Areosphaeridium arcuatum                
+                 369/1            Rhombodinium draco                      
+
+   1500/U         25/2            Coarse agglutinated spp.                
+
+   1520/d        302/3            Cenosphaera spp. (spheres)              
+
+   1540/d         75/0            Rhombodinium porosum                    
+                  12/2            Areosphaeridium diktyoplokus            
+                 370/2            Corrudinium incompositum                
+
+   1600/U        261/1            Haplophragmoides walteri                
+                  13/0            Heteraulacacysta porosa                 
+                  72/0            Rottnestia borussica                    
+                 198/1            Glomospirella biedae                    
+
+   1620/U        161/0            Wetzeliella articulata                  
+
+   1630/U        229/1            Recurvoides ex.gr. walteri              
+
+   1660/U         83/0            Diphyes colligerum                      
+
+   1680/d         92/1            Diphyes ficusoides                      
+                 377/1            P.amoenum var.                          
+
+   1720/d        388/1            Genus indet. Michoux 2                  
+
+   1760/U         29/2            Reticulophragmium amplectens            
+                 166/1            Haplophragmoides porrectus              
+                 167/1            Trochamminoides proteus                 
+                  98/0            Dracodinium pachydermum                 
+
+   1780/U         99/1            Eatonicysta ursulae                     
+                 378/1            Kisselovia vittata gr.                  
+
+   1800/U         54/1            Spiroplectammina navarroana             
+                  50/1            Subbotina patagonica                    
+                  39/1            Alabamina wilcoxensis                   
+                 260/1            Haplophragmoides kirki                  
+                 306/1            Nuttalinella florealis                  
+                 168/1            Recurvoides anormis                     
+                 115/0            Areoligera cf. senonensis               
+                  14/2            Eatonicysta ursulae LCO                 
+
+   1810/U        204/0            NS Log D                                
+
+   1835/U        157/0            Glaphyrocysta ordinata LCO              
+
+   1840/U         28/0            Apectodinium augustum                   
+                 108/0            Deflandrea oebisfeldensis               
+                 203/0            NS Log C                                
+
+   1860/U        172/0            Apectodinium homomorphum                
+                 343/1            Cenosphaera sp. (disc or flat)          
+                  78/1            Trochamminoides coronatus               
+
+   1870/U        129/1            Trochammina ruthven murrayi             
+
+   1880/U        169/1            Cribrostomoides trinitatensis           
+                  57/2            Spiroplectammina spectabilis LCO        
+                 136/1            Cystammina pauciloculata                
+                 134/1            Hormosina excelsa                       
+
+   1890/U         76/1            Reticulophragmium paupera               
+
+   1900/d        118/1            Palaeoperidinium pyrophorum             
+
+   1920/U        264/1            Karreriella conversa                    
+                 110/1            Cystammina aff.globigerinaeformis       
+                  30/0            Alisocysta margarita LCO                
+
+
+
+Hydro (N) 6407/7-1
+Rotary table height: 0 m
+Water depth:  330.0 m
+Comment: Forams F. Gradstein; dinos I.L. Kristiansen. For Norsk Hydro 1989. Micr
+        opaleontology 1992 (38), no
+
+Depth(m)/type   Event#/Freq.      Event (fossil) name
+---------------------------------------------------------------
+
+   1100/U         24/2            Turrilina alsatica                      
+                   7/0            Areoligera semicirculata                
+
+   1110/U          3/0            Deflandrea phosphoritica                
+                  51/0            Chiropteridium lobospinosum             
+
+   1120/U         41/0            Wetzelliella symmetrica                 
+                  43/0            Areoligera semicirculata LCO            
+
+   1140/U         46/0            Svalbardella cooksoniae                 
+
+   1160/U         48/0            Spiniferites sp. 2 Manum et al.         
+
+   1180/U         59/0            Areoligera semicirculata FO             
+                  63/0            Chiropteridium lobospinosum FO          
+
+   1199/U         11/0            R. actinocoronata FO                    
+
+   1200/U         70/1            Alabamina scitula                       
+
+   1210/U         67/0            Operculodinium tiara                    
+
+   1230/d         25/1            Coarse agglutinated spp.                
+                 324/1            Aschemonella grandis                    
+
+   1245/U         29/1            Reticulophragmium amplectens            
+                  13/0            Heteraulacacysta porosa                 
+                  69/0            Areosphaeridium cf. diktyoplokus        
+
+   1250/U         12/0            Areosphaeridium diktyoplokus            
+                  72/0            Rottnestia borussica                    
+                  75/0            Rhombodinium porosum                    
+
+   1320/U         68/0            Spiroplectammina spectabilis LO         
+                  97/0            Cyclammina placenta                     
+
+   1340/U         83/0            Diphyes colligerum                      
+                  88/0            Areosphaeridium fenestratum             
+                 156/0            Phthanoperidinium echinatum LCO         
+
+   1380/d         32/1            Ammosphaeroidina pseudopauciloculata    
+                 211/3            Coarse aglutinated spp. LCO             
+
+   1460/d        262/1            Karreriella horrida                     
+                 117/4            Cenosphaera spp. LCO                    
+
+   1540/U         92/0            Diphyes ficusoides                      
+
+   1550/U         94/0            Systematophora placacantha LCO          
+
+   1570/U        175/2            Reticulophragmium intermedia            
+
+   1600/U         98/0            Dracodinium pachydermum                 
+
+   1630/U        100/0            Dracodinium pachydermum LCO             
+                  99/0            Eatonicysta ursulae                     
+
+   1660/U         54/1            Spiroplectammina navarroana             
+                 260/1            Haplophragmoides kirki                  
+                 261/1            Haplophragmoides walteri                
+                 136/1            Cystammina pauciloculata                
+
+   1674/U        264/2            Karreriella conversa                    
+                  39/1            Alabamina wilcoxensis                   
+
+   1675/U        101/0            Deflandrea phosphoritica FO             
+                 104/0            Areoligera spp. LCO                     
+
+   1690/U        279/1            Recurvoidella lamella                   
+                 192/1            Karreriella coniformis                  
+                 166/1            Haplophragmoides porrectus              
+
+   1710/U         50/1            Subbotina patagonica                    
+                 146/1            Subbotina eocaena                       
+
+   1730/U        110/1            Cystammina aff.globigerinaeformis       
+
+   1739/U        108/0            Deflandrea oebisfeldensis               
+                 113/0            Inaperturopollenites spp. LCO           
+
+   1740/U        280/1            Haplophragmoides decussatus             
+                 263/1            Ammomarginulina aubertae                
+
+   1765/U        157/0            Glaphyrocysta ordinata LCO              
+
+   1820/U         21/0            Deflandrea oebisfeldensis LCO           
+
+   1825/U         78/1            Trochamminoides coronatus               
+
+   1860/U         28/0            Apectodinium augustum                   
+
+   1870/U        283/1            Reticulophragmium garcilassoi           
+
+   1895/U        114/0            Alisocysta margarita                    
+
+   1898/U        129/1            Trochammina ruthven murrayi             
+                 295/1            Kalamopsis grzybowskii                  
+                 278/3            Greenbug assemblage                     
+                 310/1            Saccammina placenta                     
+
+   1927/d         57/2            Spiroplectammina spectabilis LCO        
+                 250/1            Hyperammina rugosa                      
+
+   1940/U        115/0            Areoligera cf. senonensis               
+                  30/0            Alisocysta margarita LCO                
+                 118/0            Palaeoperidinium pyrophorum             
+                 184/0            Palaeoperidinium pyrophorum LCO         
+
+   1960/U        251/1            Ammodiscus planus                       
+                 131/0            Palaeocystodinium bulliforme            
+                 135/0            Palaeocystodinium bulliforme LCO        
+
+   1975/U        105/1            Rzehakina minima                        
+
+
+
+6407/7A-1
+Rotary table height: 23 m
+Water depth:  330.0 m
+Comment: Forams F. Gradstein for Norsk Hydro 1989. Micropaleontology 1992 (2).
+
+
+Depth(m)/type   Event#/Freq.      Event (fossil) name
+---------------------------------------------------------------
+
+    480/d         31/1            Cibicidoides scaldisensis               
+                 228/1            Cassidulina teretis                     
+
+    600/d          1/1            Neogloboquadrina pachyderma             
+
+    810/d        270/1            Cibicidoides grossa                     
+                 316/1            Trifarina fluens                        
+                  77/1            Elphidium spp.                          
+
+    940/d          4/2            Globorotalia inflata                    
+                 159/3            Cibicidoides grossa LCO                 
+                 171/1            Buccella frigida                        
+
+    970/d        266/1            Globorotalia puncticulata               
+
+   1040/d        269/1            Neogloboquadrina atlantica              
+
+   1060/d         23/1            Sigmoilopsis schlumbergeri              
+
+   1090/d          5/1            Globorotalia crassaformis               
+                 318/1            Monspeliensis pseudotepida              
+
+
+
+Shell (UK) 9/23-1
+Rotary table height: 0 f
+Water depth:    0.0 f
+Comment: Forams F.M.Gradstein, 1988.
+
+
+Depth(f)/type   Event#/Freq.      Event (fossil) name
+---------------------------------------------------------------
+
+   1330/U         77/0            Elphidium spp.                          
+                 228/0            Cassidulina teretis                     
+                 270/0            Cibicidoides grossa                     
+
+   1390/U         23/0            Sigmoilopsis schlumbergeri              
+
+   1500/U        269/0            Neogloboquadrina atlantica              
+
+   1776/U         17/0            Asterigerina gurichi                    
+
+   1780/U         16/0            Ceratobulimina contraria                
+
+   1786/U        285/0            Caucasina elongata                      
+
+   1840/U         15/0            Globigerina praebulloides               
+
+   1870/U        123/0            Globigerinoides trilobus                
+
+   1900/U        138/0            Tenuitella angustiumbilicata            
+
+   2230/U        287/0            Miocene planktonic foram flood          
+
+   2260/U        126/0            Globigerinoides obliquus                
+                 282/0            Uvigerina ex.gr. semiornata             
+
+   2530/U         20/0            Gyroidina girardana                     
+
+   2550/U        292/0            Karreriella bradyi                      
+
+   2680/U         18/0            Spiroplectammina carinata               
+
+   2710/U         25/0            Coarse agglutinated spp.                
+
+   2770/U        142/0            Gyroidina soldanii mamilligera          
+
+   2800/U        215/0            Martinotiella sp.2                      
+
+   3040/U        140/0            Rotaliatina bulimoides                  
+
+   3070/U        165/0            Heterolepa mexicana                     
+
+   3159/U        206/0            NS Log F                                
+
+   3580/U         97/0            Cyclammina placenta                     
+                  68/0            Spiroplectammina spectabilis LO         
+
+   3880/U        264/0            Karreriella conversa                    
+                 177/0            Haplophragmoides sp. 3                  
+
+   4210/U        263/0            Ammomarginulina aubertae                
+                  32/0            Ammosphaeroidina pseudopauciloculata    
+
+   4280/U         86/0            Turrilina robertsi                      
+
+   4380/U         29/0            Reticulophragmium amplectens            
+
+   4429/U        205/0            NS Log E                                
+
+   4510/U        117/0            Cenosphaera spp. LCO                    
+
+   4810/U         54/0            Spiroplectammina navarroana             
+                 260/0            Haplophragmoides kirki                  
+                 261/0            Haplophragmoides walteri                
+
+   4840/U        279/0            Recurvoidella lamella                   
+
+   5309/U         78/0            Trochamminoides coronatus               
+
+   5310/U        136/0            Cystammina pauciloculata                
+
+   5470/U        277/0            Tuff                                    
+
+   5531/U        204/0            NS Log D                                
+
+   5850/U        203/0            NS Log C                                
+
+   5910/U        105/0            Rzehakina minima                        
+
+   5940/U         76/0            Reticulophragmium paupera               
+
+   5970/U         57/0            Spiroplectammina spectabilis LCO        
+
+   6060/U        106/0            Trochammina cf. subvesicularis          
+                 129/0            Trochammina ruthven murrayi             
+
+   6120/U        284/0            Labrospira pacifica                     
+                 283/0            Reticulophragmium garcilassoi           
+
+   6150/U        134/0            Hormosina excelsa                       
+
+   6310/U        174/0            Reticulophragmium sp.9                  
+
+   6343/U        291/0            Reticulophragmoides jarvisi             
+                 310/0            Saccammina placenta                     
+
+   6505/U        251/1            Ammodiscus planus                       
+
+   6591/U        202/0            NS Log B                                
+
+   6665/U        200/0            Clavulina sp. 1                         
+                  55/0            Gavelinella beccariiformis              
+                  61/0            Subbotina pseudobulloides               
+                 253/0            Subbotina triloculinoides               
+                 293/0            Morozovella ex.gr. angulata             
+                  60/0            Planorotalites compressus               
+
+
+
+Mobil (UK) 9/13-1
+Rotary table height: 0 f
+Water depth:    0.0 f
+Comment: Forams F.M. Gradstein, 1988.
+
+
+Depth(f)/type   Event#/Freq.      Event (fossil) name
+---------------------------------------------------------------
+
+   2000/U        334/0            Ehrenbergina variabilis                 
+
+   2210/U         17/0            Asterigerina gurichi                    
+                  20/0            Gyroidina girardana                     
+
+   3520/U         25/0            Coarse agglutinated spp.                
+                  97/0            Cyclammina placenta                     
+
+   3900/U         34/0            Marginulina decorata                    
+                 148/0            Globigerapsis index                     
+                 193/0            Dentoglobigerina galavisi               
+
+   4020/U         42/0            Cibicidoides alleni                     
+                  29/0            Reticulophragmium amplectens            
+                  68/0            Spiroplectammina spectabilis LO         
+                 264/0            Karreriella conversa                    
+                  37/0            Acarinina pentacamerata                 
+
+   4370/U        117/0            Cenosphaera spp. LCO                    
+
+   5040/U         50/0            Subbotina patagonica                    
+                  86/0            Turrilina robertsi                      
+                  22/0            Coscinodiscus spp.                      
+
+   6140/U         54/0            Spiroplectammina navarroana             
+
+   6600/U        110/0            Cystammina aff.globigerinaeformis       
+
+   6620/U        310/0            Saccammina placenta                     
+
+   7180/U         76/0            Reticulophragmium paupera               
+
+   7460/U        134/0            Hormosina excelsa                       
+
+   7820/U        284/0            Labrospira pacifica                     
+
+   8400/U         78/0            Trochamminoides coronatus               
+
+   8415/U         61/0            Subbotina pseudobulloides               
+                  60/0            Planorotalites compressus               
+                  19/0            Globoconusa daubjergensis               
+                 253/0            Subbotina triloculinoides               
+
+   8510/U         55/0            Gavelinella beccariiformis              
+
+   8540/U        107/0            Matanzia varians                        
+
+
+
+Mobil (UK) 9/13-3A
+Rotary table height: 0 f
+Water depth:    0.0 f
+Comment: Forams by F.M. Gradstein, 1988.
+
+
+Depth(f)/type   Event#/Freq.      Event (fossil) name
+---------------------------------------------------------------
+
+   1600/U         77/0            Elphidium spp.                          
+
+   1820/U        286/0            Elphidium subnodosum                    
+                  17/0            Asterigerina gurichi                    
+                 411/0            Globocassidulina subglobosa var.        
+
+   2010/U        219/0            Martinotiella cylindrica                
+                  20/0            Gyroidina girardana                     
+                  18/0            Spiroplectammina carinata               
+
+   2330/U         71/0            Epistomina elegans                      
+
+   2420/U         16/0            Ceratobulimina contraria                
+                 165/0            Heterolepa mexicana                     
+
+   2841/U         15/0            Globigerina praebulloides               
+
+   3300/U        271/0            Turborotalia increbescens               
+                  25/0            Coarse agglutinated spp.                
+                 138/0            Tenuitella angustiumbilicata            
+                 233/0            Catapsydrax unicavus                    
+                  97/0            Cyclammina placenta                     
+                 142/0            Gyroidina soldanii mamilligera          
+                  81/0            Globoquadrina venezuelana               
+
+   3360/U         32/0            Ammosphaeroidina pseudopauciloculata    
+
+   3620/U        148/0            Globigerapsis index                     
+
+   3700/U         34/0            Marginulina decorata                    
+
+   3740/U         68/0            Spiroplectammina spectabilis LO         
+
+   3800/U        177/0            Haplophragmoides sp. 3                  
+
+   3875/U        264/0            Karreriella conversa                    
+
+   3900/U        205/0            NS Log E                                
+
+   3910/U         29/0            Reticulophragmium amplectens            
+
+   4600/U        117/0            Cenosphaera spp. LCO                    
+
+   4660/U         54/0            Spiroplectammina navarroana             
+
+   4694/U         22/0            Coscinodiscus spp.                      
+
+   4800/U        277/0            Tuff                                    
+
+   5390/U        204/0            NS Log D                                
+                  57/0            Spiroplectammina spectabilis LCO        
+
+   5584/U        203/0            NS Log C                                
+
+   5650/U        129/0            Trochammina ruthven murrayi             
+                 310/0            Saccammina placenta                     
+                 298/0            Glomospira irregularis                  
+
+   5670/U         76/0            Reticulophragmium paupera               
+
+   5710/U        136/0            Cystammina pauciloculata                
+
+   5810/U        110/0            Cystammina aff.globigerinaeformis       
+
+   5840/U        106/0            Trochammina cf. subvesicularis          
+
+   8724/U        202/0            NS Log B                                
+
+   8740/U         55/0            Gavelinella beccariiformis              
+                  61/0            Subbotina pseudobulloides               
+                  60/0            Planorotalites compressus               
+
+
+
+BP (UK) 15/20-2
+Rotary table height: 0 m
+Water depth:    0.0 m
+Comment: Forams by F.M. Gradstein, 1988.
+
+
+Depth(m)/type   Event#/Freq.      Event (fossil) name
+---------------------------------------------------------------
+
+    850/U         77/0            Elphidium spp.                          
+
+    870/U        228/0            Cassidulina teretis                     
+                 269/0            Neogloboquadrina atlantica              
+
+    890/U         23/0            Sigmoilopsis schlumbergeri              
+
+    900/U        219/0            Martinotiella cylindrica                
+
+    907/U        207/0            NS Log G                                
+
+    920/U         17/0            Asterigerina gurichi                    
+                  10/0            Uvigerina canariensis                   
+                 236/0            G. ex.gr. praescitula zealandica        
+                 123/0            Globigerinoides trilobus                
+                 272/0            Dentoglobigerina baroemoenensis         
+                  15/0            Globigerina praebulloides               
+                 285/0            Caucasina elongata                      
+                 130/0            Siphonina advena                        
+
+   1000/d        176/0            Uvigerina gallowayi                     
+
+   1040/U         25/0            Coarse agglutinated spp.                
+
+   1080/U        182/0            Spirosigmoilinella compressa            
+                  97/0            Cyclammina placenta                     
+                 138/0            Tenuitella angustiumbilicata            
+
+   1260/U        142/0            Gyroidina soldanii mamilligera          
+
+   1275/U        206/0            NS Log F                                
+
+   1330/U         71/0            Epistomina elegans                      
+
+   1450/U         29/0            Reticulophragmium amplectens            
+
+   1460/U        260/0            Haplophragmoides kirki                  
+
+   1490/U         86/0            Turrilina robertsi                      
+                  68/0            Spiroplectammina spectabilis LO         
+
+   1500/U        264/0            Karreriella conversa                    
+
+   1510/U         32/0            Ammosphaeroidina pseudopauciloculata    
+
+   1570/U        259/0            Ammodiscus latus                        
+
+   1600/U        261/0            Haplophragmoides walteri                
+
+   1690/U        117/0            Cenosphaera spp. LCO                    
+
+   1805/U        205/0            NS Log E                                
+                 291/0            Reticulophragmoides jarvisi             
+
+   1875/U         54/0            Spiroplectammina navarroana             
+
+   1885/U         90/0            Acarinina densa                         
+                  37/0            Acarinina pentacamerata                 
+
+   1895/U        160/0            Acarinina pseudotopilensis              
+                  50/0            Subbotina patagonica                    
+                  52/0            Acarinina soldadoensis                  
+                 279/0            Recurvoidella lamella                   
+
+   1905/U        110/0            Cystammina aff.globigerinaeformis       
+
+   1935/U         22/0            Coscinodiscus spp.                      
+                  78/0            Trochamminoides coronatus               
+
+   1945/U        164/0            Nuttalides truempyi                     
+
+   1950/U        204/0            NS Log D                                
+
+   1993/U        203/0            NS Log C                                
+
+   2005/U        105/0            Rzehakina minima                        
+                  76/0            Reticulophragmium paupera               
+
+   2015/U         57/0            Spiroplectammina spectabilis LCO        
+
+   2055/U        283/0            Reticulophragmium garcilassoi           
+
+   2320/U        202/0            NS Log B                                
+
+
+
+BP (UK) 21/10-1
+Rotary table height: 0 f
+Water depth:    0.0 f
+Comment: Forams by F. M. Gradstein, 1988.
+
+
+Depth(f)/type   Event#/Freq.      Event (fossil) name
+---------------------------------------------------------------
+
+   4970/U         70/0            Alabamina scitula                       
+                  15/0            Globigerina praebulloides               
+                 285/0            Caucasina elongata                      
+
+   5050/U        236/0            G. ex.gr. praescitula zealandica        
+                 138/0            Tenuitella angustiumbilicata            
+                  17/0            Asterigerina gurichi                    
+                  91/0            Radiolarians/diatoms flood              
+
+   5230/U         25/0            Coarse agglutinated spp.                
+                  97/0            Cyclammina placenta                     
+
+   5380/U         24/0            Turrilina alsatica                      
+                 182/0            Spirosigmoilinella compressa            
+
+   5850/U        261/0            Haplophragmoides walteri                
+                 140/0            Rotaliatina bulimoides                  
+                 321/0            Dorothia seigliei                       
+
+   6010/U        183/0            Cyclammina rotundidorsata               
+                 262/0            Karreriella horrida                     
+
+   6150/U        264/0            Karreriella conversa                    
+                  29/0            Reticulophragmium amplectens            
+
+   6230/U        263/0            Ammomarginulina aubertae                
+
+   6390/U         68/0            Spiroplectammina spectabilis LO         
+
+   6610/U        278/0            Greenbug assemblage                     
+                 260/0            Haplophragmoides kirki                  
+
+   6772/U        277/0            Tuff                                    
+
+   6800/U         22/0            Coscinodiscus spp.                      
+                  78/0            Trochamminoides coronatus               
+
+   7450/U         76/0            Reticulophragmium paupera               
+
+   7560/U        105/0            Rzehakina minima                        
+
+   7680/U         57/0            Spiroplectammina spectabilis LCO        
+                 136/0            Cystammina pauciloculata                
+
+   7890/U         60/0            Planorotalites compressus               
+
+
+
+BP (UK) 21/10-4
+Rotary table height: 0 m
+Water depth:    0.0 m
+Comment: Forams by F.M. Gradstein, 1988.
+
+
+Depth(m)/type   Event#/Freq.      Event (fossil) name
+---------------------------------------------------------------
+
+    600/U          4/0            Globorotalia inflata                    
+
+   1217/U        207/0            NS Log G                                
+
+   1400/U         17/0            Asterigerina gurichi                    
+                   9/0            Fursenkoina gracilis                    
+                 236/0            G. ex.gr. praescitula zealandica        
+                 138/0            Tenuitella angustiumbilicata            
+
+   1430/U        219/0            Martinotiella cylindrica                
+                  25/0            Coarse agglutinated spp.                
+                  80/0            Cyclammina cancellata                   
+
+   1450/U         97/0            Cyclammina placenta                     
+
+   1500/U        182/0            Spirosigmoilinella compressa            
+
+   1530/U        261/0            Haplophragmoides walteri                
+
+   1620/U        198/0            Glomospirella biedae                    
+                 229/0            Recurvoides ex.gr. walteri              
+
+   1650/U        324/0            Aschemonella grandis                    
+                 259/0            Ammodiscus latus                        
+
+   1760/U        321/0            Dorothia seigliei                       
+
+   1830/U        385/0            Reticulophragmium aff. amplectens       
+
+   1870/U        289/0            Adercotryma agterbergi                  
+
+   1876/U        206/0            NS Log F                                
+
+   1910/U        291/0            Reticulophragmoides jarvisi             
+
+   1940/d         29/0            Reticulophragmium amplectens            
+
+   2020/U        298/0            Glomospira irregularis                  
+
+   2065/U         68/0            Spiroplectammina spectabilis LO         
+
+   2110/U        205/0            NS Log E                                
+
+   2145/U         78/0            Trochamminoides coronatus               
+
+   2211/U        204/0            NS Log D                                
+
+   2254/U        203/0            NS Log C                                
+
+   2415/U        263/0            Ammomarginulina aubertae                
+
+   2715/U         57/0            Spiroplectammina spectabilis LCO        
+
+   2758/U        202/0            NS Log B                                
+
+   2765/U        253/0            Subbotina triloculinoides               
+                  60/0            Planorotalites compressus               
+                  55/0            Gavelinella beccariiformis              
+
+   2805/U         61/0            Subbotina pseudobulloides               
+                 281/0            Dorothia oxycona                        
+
+
+
+Saga (N) 2/2-4
+Rotary table height: 26 m
+Water depth:   33.0 m
+Comment: Forams F.M. Gradstein; dinos 940-1520m by R. Jan du Chene. For Saga 199
+        2.
+
+
+Depth(m)/type   Event#/Freq.      Event (fossil) name
+---------------------------------------------------------------
+
+    220/d        240/3            Elphidium clavatum                      
+
+    280/d        171/1            Buccella frigida                        
+
+    320/d         77/3            Elphidium spp.                          
+
+    360/d        228/1            Cassidulina teretis                     
+
+    520/d        338/1            Bulimina marginata                      
+
+    700/d         31/1            Cibicidoides scaldisensis               
+                   1/1            Neogloboquadrina pachyderma             
+
+    720/d        318/2            Monspeliensis pseudotepida              
+                  23/1            Sigmoilopsis schlumbergeri              
+
+    740/d        269/1            Neogloboquadrina atlantica              
+
+    780/d         74/1            Neogloboquadrina humerosa               
+                 330/2            Cibicidoides pachyderma                 
+
+    820/d        339/3            Globigerina bulloides                   
+
+    900/d          2/1            Globigerina apertura                    
+
+    940/d        414/1            Reticulatosphaera actinocoronata        
+                 391/1            Achomosphaera andalousiense             
+
+    980/d          9/2            Fursenkoina gracilis                    
+                 243/2            Globigerina decoraperta                 
+
+   1000/d        361/1            Sumatradinium spp.                      
+
+   1160/d        394/1            Tuberculodinium vancampoae              
+
+   1260/d        363/1            Hystrichosphaera obscura                
+
+   1460/d        219/1            Martinotiella cylindrica                
+                 362/1            Cannosphaeropsis utinensis              
+
+   1480/d         97/1            Cyclammina placenta                     
+
+   1520/d         25/3            Coarse agglutinated spp.                
+
+   1540/d        130/1            Siphonina advena                        
+                 342/1            Bolboforma reticulata                   
+
+   1580/d        359/1            Psamminopelta tenuitheka                
+
+   1585/s         91/2            Radiolarians/diatoms flood              
+                 410/1            Haplophragmoides carinatus              
+
+   1620/d        122/1            Sphaeroidinellopsis seminulina          
+
+   1680/d        179/3            Globorotalia scitula praescitula        
+                 282/4            Uvigerina ex.gr. semiornata             
+                 360/1            Globigerinella praesiphonifera          
+
+   1740/d        285/1            Caucasina elongata                      
+
+   1753/s        125/2            Neogloboquadrina continuosa             
+
+   1760/d        262/3            Karreriella horrida                     
+                  18/1            Spiroplectammina carinata               
+
+   1860/d         17/1            Asterigerina gurichi                    
+                  15/1            Globigerina praebulloides               
+
+   1880/d        198/1            Glomospirella biedae                    
+                 324/1            Aschemonella grandis                    
+                 261/1            Haplophragmoides walteri                
+
+   1920/d        259/1            Ammodiscus latus                        
+                  80/1            Cyclammina cancellata                   
+
+   1940/d        384/2            Dorothia sp. 1 (big)                    
+
+   1960/d        182/4            Spirosigmoilinella compressa            
+
+   1980/d        183/2            Cyclammina rotundidorsata               
+
+   2020/d        289/1            Adercotryma agterbergi                  
+
+   2040/d        291/1            Reticulophragmoides jarvisi             
+                 321/1            Dorothia seigliei                       
+                 385/1            Reticulophragmium aff. amplectens       
+
+   2060/d        319/1            Haplophragmoides walteri excavatus      
+
+   2080/d        351/1            Coscinodiscus sp. 3 King                
+
+   2140/d          7/1            Areoligera semicirculata                
+
+   2160/d         41/1            Wetzelliella symmetrica                 
+
+   2180/d        197/1            Reophax elongatus                       
+
+   2220/d        210/1            Nonion granosum                         
+
+   2240/d         33/1            Turborotalia pomeroli                   
+                  82/3            Subbotina linaperta                     
+
+   2260/d         32/1            Ammosphaeroidina pseudopauciloculata    
+
+   2340/d         29/1            Reticulophragmium amplectens            
+
+   2440/d        263/1            Ammomarginulina aubertae                
+
+   2510/d         12/1            Areosphaeridium diktyoplokus            
+                 399/1            Glaphyrocysta semitecta                 
+
+   2520/d         72/1            Rottnestia borussica                    
+
+   2540/d        260/1            Haplophragmoides kirki                  
+
+   2560/d         54/1            Spiroplectammina navarroana             
+
+   2600/d         68/2            Spiroplectammina spectabilis LO         
+                 264/1            Karreriella conversa                    
+
+   2608/s         83/1            Diphyes colligerum                      
+
+   2620/d        279/1            Recurvoidella lamella                   
+                 110/2            Cystammina aff.globigerinaeformis       
+                 175/2            Reticulophragmium intermedia            
+
+   2650/d         99/2            Eatonicysta ursulae                     
+                 378/1            Kisselovia vittata gr.                  
+                 389/1            Hystrichosphaeridium tubiferum          
+
+   2660/d         50/4            Subbotina patagonica                    
+
+   2664/s        376/1            Ceratiopsis wardenensis                 
+
+   2673/s        113/3            Inaperturopollenites spp. LCO           
+                  21/2            Deflandrea oebisfeldensis LCO           
+                 157/2            Glaphyrocysta ordinata LCO              
+
+   2700/d        136/1            Cystammina pauciloculata                
+                  57/1            Spiroplectammina spectabilis LCO        
+                 343/1            Cenosphaera sp. (disc or flat)          
+                 163/1            Glomospirella sp.1                      
+
+   2735/s         28/2            Apectodinium augustum                   
+
+   2740/d        134/1            Hormosina excelsa                       
+                  76/1            Reticulophragmium paupera               
+
+   2760/d        169/1            Cribrostomoides trinitatensis           
+
+   2780/d         55/1            Gavelinella beccariiformis              
+
+   2800/d        185/1            Bulimina midwayensis                    
+
+   2810/d        386/1            Alisocysta reticulata                   
+                  61/3            Subbotina pseudobulloides               
+                 281/1            Dorothia oxycona                        
+                  60/2            Planorotalites compressus               
+
+   2823/s        253/0            Subbotina triloculinoides               
+
+
+
+Shell (UK) 30/19-1
+Rotary table height: 0 f
+Water depth:    0.0 f
+Comment: Forams by F.M. Gradstein, 1989.
+
+
+Depth(f)/type   Event#/Freq.      Event (fossil) name
+---------------------------------------------------------------
+
+   1410/U         77/0            Elphidium spp.                          
+
+   1580/U        228/0            Cassidulina teretis                     
+
+   2150/U        270/0            Cibicidoides grossa                     
+
+   2400/U         23/0            Sigmoilopsis schlumbergeri              
+
+   2500/U          2/0            Globigerina apertura                    
+
+   3740/U        269/0            Neogloboquadrina atlantica              
+
+   4130/U          6/0            Neogloboquadrina acostaensis            
+
+   4160/U         91/0            Radiolarians/diatoms flood              
+
+   4750/U         25/0            Coarse agglutinated spp.                
+
+   5010/U        123/0            Globigerinoides trilobus                
+                  15/0            Globigerina praebulloides               
+
+   5100/U         97/0            Cyclammina placenta                     
+
+   5232/U        219/0            Martinotiella cylindrica                
+                 183/0            Cyclammina rotundidorsata               
+
+   5407/U        207/0            NS Log G                                
+
+   5530/U         10/0            Uvigerina canariensis                   
+                 125/0            Neogloboquadrina continuosa             
+                 236/0            G. ex.gr. praescitula zealandica        
+                 285/0            Caucasina elongata                      
+
+   5710/U        124/0            Globoquadrina dehiscens                 
+                 173/0            Asterigerina staeschi                   
+                 195/0            Globorotalia praemenardii               
+                  17/0            Asterigerina gurichi                    
+
+   5830/U        262/0            Karreriella horrida                     
+
+   6310/U        182/0            Spirosigmoilinella compressa            
+
+   6650/U        259/0            Ammodiscus latus                        
+
+   7000/U        322/0            Reticulophragmoides sp.5                
+
+   7230/d        385/1            Reticulophragmium aff. amplectens       
+
+   7730/U        321/0            Dorothia seigliei                       
+                  24/0            Turrilina alsatica                      
+                 132/0            Paragloborotalia opima nana             
+                 111/0            Globigerina ex.gr. officinalis          
+                 261/0            Haplophragmoides walteri                
+
+   8090/U        289/0            Adercotryma agterbergi                  
+
+   8150/U        309/0            Ammomarginulina foliaceus               
+
+   8210/U         27/0            Eponides umbonatus                      
+
+   8270/U        140/0            Rotaliatina bulimoides                  
+
+   8330/U         29/0            Reticulophragmium amplectens            
+
+   8700/U        206/0            NS Log F                                
+
+   8727/U        263/0            Ammomarginulina aubertae                
+                 260/0            Haplophragmoides kirki                  
+
+   8730/U         32/0            Ammosphaeroidina pseudopauciloculata    
+
+   8754/U        117/0            Cenosphaera spp. LCO                    
+
+   8760/U        291/0            Reticulophragmoides jarvisi             
+
+   8800/U         68/0            Spiroplectammina spectabilis LO         
+
+   8850/U        134/0            Hormosina excelsa                       
+
+   8890/U        110/0            Cystammina aff.globigerinaeformis       
+
+   8980/U        205/0            NS Log E                                
+
+   9272/U        264/0            Karreriella conversa                    
+                  54/0            Spiroplectammina navarroana             
+
+   9323/U        204/0            NS Log D                                
+
+   9400/U         22/0            Coscinodiscus spp.                      
+
+   9415/U        203/0            NS Log C                                
+
+   9610/U         76/0            Reticulophragmium paupera               
+                  57/0            Spiroplectammina spectabilis LCO        
+
+   9780/U        310/0            Saccammina placenta                     
+
+   9900/U         55/0            Gavelinella beccariiformis              
+
+   9985/U         60/0            Planorotalites compressus               
+
+  10007/U         61/0            Subbotina pseudobulloides               
+
+  10074/U        129/0            Trochammina ruthven murrayi             
+
+  10132/U        202/0            NS Log B                                
+
+  10164/U         78/0            Trochamminoides coronatus               
+
+  10186/U        251/0            Ammodiscus planus                       
+
+  10290/U        106/0            Trochammina cf. subvesicularis          
+
+
+
+Shell (UK) 29/3-1
+Rotary table height: 0 f
+Water depth:    0.0 f
+Comment: Forams by F. M. Gradstein, 1989.
+
+
+Depth(f)/type   Event#/Freq.      Event (fossil) name
+---------------------------------------------------------------
+
+   1420/U         77/0            Elphidium spp.                          
+                 317/0            Elphidiella hannai                      
+                 240/0            Elphidium clavatum                      
+
+   1560/U        228/0            Cassidulina teretis                     
+
+   1940/U        270/0            Cibicidoides grossa                     
+
+   2180/U        300/0            Bolboforma laevis                       
+
+   3740/U        316/0            Trifarina fluens                        
+
+   3800/U         23/0            Sigmoilopsis schlumbergeri              
+
+   4040/U        318/0            Monspeliensis pseudotepida              
+                   1/0            Neogloboquadrina pachyderma             
+
+   4220/U         74/0            Neogloboquadrina humerosa               
+
+   4340/U        266/0            Globorotalia puncticulata               
+                   2/0            Globigerina apertura                    
+
+   4520/U        269/0            Neogloboquadrina atlantica              
+                 130/0            Siphonina advena                        
+
+   4550/U        301/0            Bolboforma metzmacheri                  
+                   6/0            Neogloboquadrina acostaensis            
+
+   4551/U        207/0            NS Log G                                
+
+   4880/U         91/0            Radiolarians/diatoms flood              
+
+   5100/U        236/0            G. ex.gr. praescitula zealandica        
+                 282/0            Uvigerina ex.gr. semiornata             
+                  17/0            Asterigerina gurichi                    
+
+   5180/U        123/0            Globigerinoides trilobus                
+
+   5240/U        125/0            Neogloboquadrina continuosa             
+
+   5320/U          8/0            Orbulina universa                       
+
+   5370/U        219/0            Martinotiella cylindrica                
+
+   5480/U         25/0            Coarse agglutinated spp.                
+                 262/0            Karreriella horrida                     
+
+   5750/U         97/0            Cyclammina placenta                     
+
+   5820/U        182/0            Spirosigmoilinella compressa            
+
+   6100/U        309/0            Ammomarginulina foliaceus               
+                 261/0            Haplophragmoides walteri                
+
+   6280/U        259/0            Ammodiscus latus                        
+                 183/0            Cyclammina rotundidorsata               
+
+   6740/U        320/0            Uvigerina rustica                       
+
+   6980/U        321/0            Dorothia seigliei                       
+
+   7040/U        140/0            Rotaliatina bulimoides                  
+                  20/0            Gyroidina girardana                     
+
+   7220/U         15/0            Globigerina praebulloides               
+
+   7450/U        289/0            Adercotryma agterbergi                  
+
+   7510/U         24/0            Turrilina alsatica                      
+                 208/0            Subbotina angiporoides                  
+                 111/0            Globigerina ex.gr. officinalis          
+                 138/0            Tenuitella angustiumbilicata            
+                 307/0            Tenuitella munda                        
+                 132/0            Paragloborotalia opima nana             
+
+   7570/U        291/0            Reticulophragmoides jarvisi             
+                  32/0            Ammosphaeroidina pseudopauciloculata    
+
+   7700/U        206/0            NS Log F                                
+
+   7740/U        322/0            Reticulophragmoides sp.5                
+
+   7770/U        263/0            Ammomarginulina aubertae                
+                 264/0            Karreriella conversa                    
+
+   7800/U         29/0            Reticulophragmium amplectens            
+                  68/0            Spiroplectammina spectabilis LO         
+                 260/0            Haplophragmoides kirki                  
+
+   8100/U        136/0            Cystammina pauciloculata                
+
+   8150/U         54/0            Spiroplectammina navarroana             
+
+   8232/U        205/0            NS Log E                                
+
+   8245/U        192/0            Karreriella coniformis                  
+
+   8270/U         78/0            Trochamminoides coronatus               
+
+   8390/U         50/0            Subbotina patagonica                    
+
+   8430/U         22/0            Coscinodiscus spp.                      
+
+   8478/U        204/0            NS Log D                                
+
+   8547/U        203/0            NS Log C                                
+
+   8735/U         76/0            Reticulophragmium paupera               
+                 284/0            Labrospira pacifica                     
+
+   8780/U         57/0            Spiroplectammina spectabilis LCO        
+
+   8790/U        110/0            Cystammina aff.globigerinaeformis       
+
+   8800/U        310/0            Saccammina placenta                     
+
+   9030/U        129/0            Trochammina ruthven murrayi             
+
+   9072/U        283/0            Reticulophragmium garcilassoi           
+
+   9157/U        202/0            NS Log B                                
+
+   9220/U         61/0            Subbotina pseudobulloides               
+
+
+
+Shell (UK) 22/6-1
+Rotary table height: 0 f
+Water depth:    0.0 f
+Comment: Forams by F.M. Gradstein, 1989.
+
+
+Depth(f)/type   Event#/Freq.      Event (fossil) name
+---------------------------------------------------------------
+
+   1480/U         77/0            Elphidium spp.                          
+
+   1540/U        316/0            Trifarina fluens                        
+
+   1630/U        228/0            Cassidulina teretis                     
+
+   3100/U        270/0            Cibicidoides grossa                     
+
+   3190/U          1/0            Neogloboquadrina pachyderma             
+
+   3640/U         23/0            Sigmoilopsis schlumbergeri              
+
+   3670/U         74/0            Neogloboquadrina humerosa               
+
+   3700/U        266/0            Globorotalia puncticulata               
+
+   3790/U          6/0            Neogloboquadrina acostaensis            
+                 323/0            Bolboforma spiralis                     
+                 130/0            Siphonina advena                        
+
+   3880/U        301/0            Bolboforma metzmacheri                  
+                 125/0            Neogloboquadrina continuosa             
+
+   4045/U        282/0            Uvigerina ex.gr. semiornata             
+
+   4117/U        207/0            NS Log G                                
+
+   4150/U         91/0            Radiolarians/diatoms flood              
+
+   4450/U         17/0            Asterigerina gurichi                    
+                 123/0            Globigerinoides trilobus                
+
+   4540/U         15/0            Globigerina praebulloides               
+                 236/0            G. ex.gr. praescitula zealandica        
+
+   4570/U        138/0            Tenuitella angustiumbilicata            
+                 262/0            Karreriella horrida                     
+
+   4600/U         97/0            Cyclammina placenta                     
+                 410/0            Haplophragmoides carinatus              
+
+   4660/U        182/0            Spirosigmoilinella compressa            
+
+   4690/U        111/0            Globigerina ex.gr. officinalis          
+
+   4930/U        198/0            Glomospirella biedae                    
+
+   5025/U        259/0            Ammodiscus latus                        
+                 289/0            Adercotryma agterbergi                  
+
+   5080/U        229/0            Recurvoides ex.gr. walteri              
+
+   5230/U        183/0            Cyclammina rotundidorsata               
+
+   5770/U         32/0            Ammosphaeroidina pseudopauciloculata    
+
+   5910/U        140/0            Rotaliatina bulimoides                  
+                  24/0            Turrilina alsatica                      
+
+   5950/U        291/0            Reticulophragmoides jarvisi             
+
+   6010/U        324/0            Aschemonella grandis                    
+
+   6100/U        321/0            Dorothia seigliei                       
+
+   6130/U        261/0            Haplophragmoides walteri                
+
+   6289/U        206/0            NS Log F                                
+
+   6310/U        264/0            Karreriella conversa                    
+
+   6356/U        263/0            Ammomarginulina aubertae                
+
+   6610/U         68/0            Spiroplectammina spectabilis LO         
+
+   6877/U        205/0            NS Log E                                
+
+   6940/U        117/0            Cenosphaera spp. LCO                    
+
+   6970/U         54/0            Spiroplectammina navarroana             
+
+   7000/U         50/0            Subbotina patagonica                    
+
+   7083/U        204/0            NS Log D                                
+
+   7178/U        203/0            NS Log C                                
+
+   7424/U         22/0            Coscinodiscus spp.                      
+
+   7600/U        136/0            Cystammina pauciloculata                
+
+   7611/U        310/0            Saccammina placenta                     
+
+   7630/U         76/0            Reticulophragmium paupera               
+                 134/0            Hormosina excelsa                       
+
+   7638/U         57/0            Spiroplectammina spectabilis LCO        
+
+   7660/U        110/0            Cystammina aff.globigerinaeformis       
+
+   7890/U         61/0            Subbotina pseudobulloides               
+                 107/0            Matanzia varians                        
+
+   8163/U        202/0            NS Log B                                
+
+
+
+Phillips (UK) 16/17-1
+Rotary table height: 0 f
+Water depth:    0.0 f
+Comment: Forams by F.M. Gradstein. 1988.
+
+
+Depth(f)/type   Event#/Freq.      Event (fossil) name
+---------------------------------------------------------------
+
+   3579/U        207/0            NS Log G                                
+
+   4150/U         25/0            Coarse agglutinated spp.                
+
+   4325/U         97/0            Cyclammina placenta                     
+                 233/0            Catapsydrax unicavus                    
+
+   4350/U        259/0            Ammodiscus latus                        
+
+   4475/U        324/0            Aschemonella grandis                    
+
+   4675/U        183/0            Cyclammina rotundidorsata               
+
+   4775/U        229/0            Recurvoides ex.gr. walteri              
+
+   5175/U         18/0            Spiroplectammina carinata               
+
+   5260/U        182/0            Spirosigmoilinella compressa            
+
+   5400/U        262/0            Karreriella horrida                     
+
+   5580/U        261/0            Haplophragmoides walteri                
+
+   5600/U         29/0            Reticulophragmium amplectens            
+
+   5640/U        206/0            NS Log F                                
+
+   5760/U        260/0            Haplophragmoides kirki                  
+
+   5820/U         54/0            Spiroplectammina navarroana             
+
+   5880/U        263/0            Ammomarginulina aubertae                
+
+   5920/U        291/0            Reticulophragmoides jarvisi             
+
+   5960/U         32/0            Ammosphaeroidina pseudopauciloculata    
+
+   5980/U         68/0            Spiroplectammina spectabilis LO         
+
+   6860/U        298/0            Glomospira irregularis                  
+
+   7140/U        264/0            Karreriella conversa                    
+
+   7290/U        205/0            NS Log E                                
+
+   7360/U        117/0            Cenosphaera spp. LCO                    
+
+   7500/U        284/0            Labrospira pacifica                     
+                 175/0            Reticulophragmium intermedia            
+
+   7620/U         22/0            Coscinodiscus spp.                      
+
+   7785/U        204/0            NS Log D                                
+
+   8080/U        310/0            Saccammina placenta                     
+
+   8260/U        134/0            Hormosina excelsa                       
+                  57/0            Spiroplectammina spectabilis LCO        
+
+   8540/U         76/0            Reticulophragmium paupera               
+
+   9060/U        107/0            Matanzia varians                        
+
+   9100/U         61/0            Subbotina pseudobulloides               
+
+   9180/U         78/0            Trochamminoides coronatus               
+
+   9219/U        202/0            NS Log B                                
+
+   9240/U         55/0            Gavelinella beccariiformis              
+
+
+
+Phillips (UK) 23/22-1
+Rotary table height: 0 f
+Water depth:    0.0 f
+Comment: Forams by F.M. Gradstein, 1988.
+
+
+Depth(f)/type   Event#/Freq.      Event (fossil) name
+---------------------------------------------------------------
+
+   1525/U         77/0            Elphidium spp.                          
+
+   1625/U        228/0            Cassidulina teretis                     
+
+   1675/U        270/0            Cibicidoides grossa                     
+
+   1750/U         64/0            Cassidulina islandica                   
+
+   1825/U        219/0            Martinotiella cylindrica                
+
+   2675/U         23/0            Sigmoilopsis schlumbergeri              
+
+   3175/U        266/0            Globorotalia puncticulata               
+                 269/0            Neogloboquadrina atlantica              
+
+   4850/U        236/0            G. ex.gr. praescitula zealandica        
+                  74/0            Neogloboquadrina humerosa               
+                 122/0            Sphaeroidinellopsis seminulina          
+                  58/0            Neogloboquadrina atlantica (dextral)    
+                 123/0            Globigerinoides trilobus                
+
+   5033/U        207/0            NS Log G                                
+
+   5240/U         25/0            Coarse agglutinated spp.                
+
+   5600/U        182/0            Spirosigmoilinella compressa            
+
+   5720/U        262/0            Karreriella horrida                     
+                 183/0            Cyclammina rotundidorsata               
+
+   6820/d        385/1            Reticulophragmium aff. amplectens       
+
+   7120/U         24/0            Turrilina alsatica                      
+
+   7160/U        140/0            Rotaliatina bulimoides                  
+
+   7520/U        261/0            Haplophragmoides walteri                
+
+   8000/U        206/0            NS Log F                                
+
+   8100/U        148/0            Globigerapsis index                     
+
+   8200/U         29/0            Reticulophragmium amplectens            
+                  32/0            Ammosphaeroidina pseudopauciloculata    
+                 264/0            Karreriella conversa                    
+                  68/0            Spiroplectammina spectabilis LO         
+
+   8530/U        205/0            NS Log E                                
+
+   9120/U         22/0            Coscinodiscus spp.                      
+
+   9160/U        204/0            NS Log D                                
+
+   9242/U        203/0            NS Log C                                
+
+   9780/U         19/0            Globoconusa daubjergensis               
+                  55/0            Gavelinella beccariiformis              
+
+   9856/U        202/0            NS Log B                                
+
+
+
+Amoco (N) 2/8-1
+Rotary table height: 0 f
+Water depth:    0.0 f
+Comment: Forams by F.M. Gradstein, 1986.
+
+
+Depth(f)/type   Event#/Freq.      Event (fossil) name
+---------------------------------------------------------------
+
+   1190/U        228/0            Cassidulina teretis                     
+                  77/0            Elphidium spp.                          
+
+   2930/U          9/0            Fursenkoina gracilis                    
+
+   3290/U         23/0            Sigmoilopsis schlumbergeri              
+                 269/0            Neogloboquadrina atlantica              
+
+   3620/U         71/0            Epistomina elegans                      
+
+   4900/U        219/0            Martinotiella cylindrica                
+                   6/0            Neogloboquadrina acostaensis            
+                 236/0            G. ex.gr. praescitula zealandica        
+                  15/0            Globigerina praebulloides               
+                 130/0            Siphonina advena                        
+
+   5400/U         17/0            Asterigerina gurichi                    
+
+   5620/U         25/0            Coarse agglutinated spp.                
+
+   5640/U        292/0            Karreriella bradyi                      
+
+   5740/U        261/0            Haplophragmoides walteri                
+
+   6200/U        182/0            Spirosigmoilinella compressa            
+                 183/0            Cyclammina rotundidorsata               
+
+   6500/U        225/0            "Turborotalia" aff. ampliapertura       
+
+   7100/U        321/0            Dorothia seigliei                       
+
+   7200/U        229/0            Recurvoides ex.gr. walteri              
+
+   7580/U         68/0            Spiroplectammina spectabilis LO         
+
+   7590/U        263/0            Ammomarginulina aubertae                
+
+   7600/U         29/0            Reticulophragmium amplectens            
+
+   7640/U         54/0            Spiroplectammina navarroana             
+
+   7740/U        105/0            Rzehakina minima                        
+                 310/0            Saccammina placenta                     
+
+   8200/U        136/0            Cystammina pauciloculata                
+
+   8210/U        107/0            Matanzia varians                        
+
+
+
+Saga (N) 35/3-1
+Rotary table height: 26 m
+Water depth:  304.0 m
+Comment: Forams F.M. Gradstein; Dinos R. Jan du Chene 520-1570m. For Saga 1992.
+
+
+Depth(m)/type   Event#/Freq.      Event (fossil) name
+---------------------------------------------------------------
+
+    520/d        240/2            Elphidium clavatum                      
+                 228/2            Cassidulina teretis                     
+                 338/2            Bulimina marginata                      
+
+    540/d        171/1            Buccella frigida                        
+                   1/2            Neogloboquadrina pachyderma             
+
+    600/d         31/1            Cibicidoides scaldisensis               
+
+    620/d        270/1            Cibicidoides grossa                     
+
+    640/d        332/1            Planulina ariminensis                   
+                 181/1            Cibicidoides dutemplei                  
+
+    670/d        361/2            Sumatradinium spp.                      
+
+    710/d        363/1            Hystrichosphaera obscura                
+
+    750/d        362/2            Cannosphaeropsis utinensis              
+
+    800/d         91/2            Radiolarians/diatoms flood              
+
+    820/d        348/1            Sphaeroidinella disjuncta               
+                 282/1            Uvigerina ex.gr. semiornata             
+
+    840/d         24/1            Turrilina alsatica                      
+                 412/2            Flat rads + sponge spicules             
+                 413/3            Silicious biofacies                     
+
+    850/d          3/2            Deflandrea phosphoritica                
+
+    890/d          7/2            Areoligera semicirculata                
+                 368/2            Chiropteridium mespilanum               
+
+   1040/d         17/1            Asterigerina gurichi                    
+
+   1060/d        351/1            Coscinodiscus sp. 3 King                
+
+   1110/d        371/2            Areosphaeridium arcuatum                
+                 372/2            D. phosphoritica (thick walled)         
+
+   1140/d         16/1            Ceratobulimina contraria                
+                 210/1            Nonion granosum                         
+
+   1160/D         25/1            Coarse agglutinated spp.                
+
+   1170/d         75/1            Rhombodinium porosum                    
+                 387/1            Genus indet. Michoux 1                  
+
+   1250/d        161/2            Wetzeliella articulata                  
+                 108/2            Deflandrea oebisfeldensis               
+
+   1330/s        374/2            Inaperturopollenites hiatus             
+                 172/2            Apectodinium homomorphum                
+
+   1370/d         22/1            Coscinodiscus spp.                      
+
+   1380/d         57/2            Spiroplectammina spectabilis LCO        
+
+   1450/d        114/1            Alisocysta margarita                    
+
+   1455/s        129/1            Trochammina ruthven murrayi             
+                  76/1            Reticulophragmium paupera               
+
+   1470/d        118/2            Palaeoperidinium pyrophorum             
+
+   1480/d        251/1            Ammodiscus planus                       
+                 343/1            Cenosphaera sp. (disc or flat)          
+                 134/1            Hormosina excelsa                       
+
+   1500/d        353/2            Calcareous benthics spp.                
+                 264/1            Karreriella conversa                    
+                 354/3            Cenosphaera acme (zones 1-3)            
+                 253/1            Subbotina triloculinoides               
+
+   1520/d         60/1            Planorotalites compressus               
+                  61/1            Subbotina pseudobulloides               
+
+   1550/d        386/1            Alisocysta reticulata                   
+
+   1560/d        281/1            Dorothia oxycona                        
+
+
+
+Saga 34/7-1
+Rotary table height: 0 m
+Water depth:    0.0 m
+Comment: Forams F.Gradstein for Saga 1992. Poor picking quality.
+
+
+Depth(m)/type   Event#/Freq.      Event (fossil) name
+---------------------------------------------------------------
+
+    950/d         77/2            Elphidium spp.                          
+                 228/1            Cassidulina teretis                     
+                 328/1            Ammonia beccarii                        
+                   1/1            Neogloboquadrina pachyderma             
+
+    960/d         31/1            Cibicidoides scaldisensis               
+
+    970/d        270/2            Cibicidoides grossa                     
+                 338/1            Bulimina marginata                      
+                 171/1            Buccella frigida                        
+
+    980/d        181/1            Cibicidoides dutemplei                  
+
+    990/d         23/1            Sigmoilopsis schlumbergeri              
+
+   1040/d        316/1            Trifarina fluens                        
+
+   1050/d        159/3            Cibicidoides grossa LCO                 
+                   4/2            Globorotalia inflata                    
+                 266/1            Globorotalia puncticulata               
+
+   1052/d        391/0            Achomosphaera andalousiense             
+                 414/0            Reticulatosphaera actinocoronata        
+
+   1090/d        116/1            Orbulina suturalis                      
+                 269/1            Neogloboquadrina atlantica              
+                 347/1            Globigerinita glutinata                 
+
+   1100/d        411/1            Globocassidulina subglobosa var.        
+                  81/1            Globoquadrina venezuelana               
+                 334/1            Ehrenbergina variabilis                 
+
+   1130/d        362/1            Cannosphaeropsis utinensis              
+
+   1155/s        361/1            Sumatradinium spp.                      
+
+   1170/d         24/2            Turrilina alsatica                      
+                  20/1            Gyroidina girardana                     
+                 412/3            Flat rads + sponge spicules             
+
+   1190/d        176/2            Uvigerina gallowayi                     
+
+   1230/d         17/1            Asterigerina gurichi                    
+
+   1290/d        142/1            Gyroidina soldanii mamilligera          
+
+   1330/d        182/1            Spirosigmoilinella compressa            
+
+   1360/d        289/1            Adercotryma agterbergi                  
+                  97/1            Cyclammina placenta                     
+                 302/2            Cenosphaera spp. (spheres)              
+                  25/2            Coarse agglutinated spp.                
+                 259/1            Ammodiscus latus                        
+
+   1370/d         29/2            Reticulophragmium amplectens            
+                  56/2            Glomospira charoides                    
+                 321/1            Dorothia seigliei                       
+                  12/1            Areosphaeridium diktyoplokus            
+
+   1380/d        198/1            Glomospirella biedae                    
+
+   1390/d        197/1            Reophax elongatus                       
+
+   1410/d         13/1            Heteraulacacysta porosa                 
+                  75/1            Rhombodinium porosum                    
+
+   1450/d        370/1            Corrudinium incompositum                
+
+
+
+Saga 34/7-2
+Rotary table height: 271 m
+Water depth:   26.0 m
+Comment: Forams F.M.Gradstein; poor picking quality. Dinos R. Jan du Chene and R
+        RI well report. For Saga 19
+
+Depth(m)/type   Event#/Freq.      Event (fossil) name
+---------------------------------------------------------------
+
+    800/d        270/2            Cibicidoides grossa                     
+                  31/2            Cibicidoides scaldisensis               
+                 318/2            Monspeliensis pseudotepida              
+                 228/2            Cassidulina teretis                     
+                 171/1            Buccella frigida                        
+                 152/2            Globocassidulina subglobosa             
+
+    810/d          1/2            Neogloboquadrina pachyderma             
+                 328/2            Ammonia beccarii                        
+                 329/2            Ammonia inflata                         
+                 352/2            Nonion affine LCO                       
+
+    880/d        159/3            Cibicidoides grossa LCO                 
+                 327/3            Cibicidoides scaldisensis LCO           
+
+    900/d         23/1            Sigmoilopsis schlumbergeri              
+                 116/1            Orbulina suturalis                      
+
+    920/d          4/1            Globorotalia inflata                    
+                  74/1            Neogloboquadrina humerosa               
+
+    930/d        339/2            Globigerina bulloides                   
+
+    940/d        269/1            Neogloboquadrina atlantica              
+
+    960/d        181/2            Cibicidoides dutemplei                  
+
+    990/d        266/1            Globorotalia puncticulata               
+
+    998/s        394/1            Tuberculodinium vancampoae              
+
+   1000/d         81/1            Globoquadrina venezuelana               
+                 411/2            Globocassidulina subglobosa var.        
+
+   1020/d         15/1            Globigerina praebulloides               
+                 330/1            Cibicidoides pachyderma                 
+
+   1030/d        334/2            Ehrenbergina variabilis                 
+
+   1040/d        348/1            Sphaeroidinella disjuncta               
+                  91/2            Radiolarians/diatoms flood              
+
+   1050/d        413/3            Silicious biofacies                     
+                 412/2            Flat rads + sponge spicules             
+
+   1160/d         97/1            Cyclammina placenta                     
+                 319/1            Haplophragmoides walteri excavatus      
+                  25/2            Coarse agglutinated spp.                
+
+   1170/d        211/4            Coarse aglutinated spp. LCO             
+                 302/3            Cenosphaera spp. (spheres)              
+                 321/1            Dorothia seigliei                       
+                 170/1            Reticulophragmium acutidorsata          
+
+   1180/d        289/1            Adercotryma agterbergi                  
+
+   1190/d         80/1            Cyclammina cancellata                   
+
+   1250/d         29/1            Reticulophragmium amplectens            
+
+   1270/d         32/1            Ammosphaeroidina pseudopauciloculata    
+
+   1370/d         12/1            Areosphaeridium diktyoplokus            
+
+   1425/s         13/1            Heteraulacacysta porosa                 
+
+   1455/s         72/1            Rottnestia borussica                    
+
+
+
+Saga 34/7-4
+Rotary table height: 0 m
+Water depth:    0.0 m
+Comment: Forams F.M. Gradstein for Saga, 1992.
+
+
+Depth(m)/type   Event#/Freq.      Event (fossil) name
+---------------------------------------------------------------
+
+    970/d          4/1            Globorotalia inflata                    
+                 270/1            Cibicidoides grossa                     
+                  31/1            Cibicidoides scaldisensis               
+                 228/2            Cassidulina teretis                     
+                   1/1            Neogloboquadrina pachyderma             
+                 338/1            Bulimina marginata                      
+                 171/1            Buccella frigida                        
+                  77/2            Elphidium spp.                          
+
+   1000/d        328/2            Ammonia beccarii                        
+
+   1030/d        159/2            Cibicidoides grossa LCO                 
+                 152/2            Globocassidulina subglobosa             
+
+   1040/d        181/1            Cibicidoides dutemplei                  
+                 352/2            Nonion affine LCO                       
+
+   1050/d        318/2            Monspeliensis pseudotepida              
+                 327/3            Cibicidoides scaldisensis LCO           
+                 316/1            Trifarina fluens                        
+
+   1120/d          6/1            Neogloboquadrina acostaensis            
+                 266/1            Globorotalia puncticulata               
+                   5/1            Globorotalia crassaformis               
+
+   1130/d        411/1            Globocassidulina subglobosa var.        
+                  15/1            Globigerina praebulloides               
+                 307/1            Tenuitella munda                        
+                 210/1            Nonion granosum                         
+                 347/1            Globigerinita glutinata                 
+
+   1140/d        330/1            Cibicidoides pachyderma                 
+
+   1160/d        179/1            Globorotalia scitula praescitula        
+
+   1180/d        111/2            Globigerina ex.gr. officinalis          
+                 383/1            Globoquadrina baroemoenensis            
+
+   1210/d        140/1            Rotaliatina bulimoides                  
+
+   1220/d        413/3            Silicious biofacies                     
+
+   1330/d        182/1            Spirosigmoilinella compressa            
+
+   1340/d         25/3            Coarse agglutinated spp.                
+                 302/3            Cenosphaera spp. (spheres)              
+                 289/2            Adercotryma agterbergi                  
+                  97/3            Cyclammina placenta                     
+
+   1350/d         12/1            Areosphaeridium diktyoplokus            
+
+   1420/d         13/1            Heteraulacacysta porosa                 
+
+   1430/d         72/1            Rottnestia borussica                    
+
+
+
+Saga 34/7-15s
+Rotary table height: 0 m
+Water depth:    0.0 m
+Comment: Forams F.M. Gradstein, for Saga 1992.
+
+
+Depth(m)/type   Event#/Freq.      Event (fossil) name
+---------------------------------------------------------------
+
+    930/d        270/2            Cibicidoides grossa                     
+                  31/2            Cibicidoides scaldisensis               
+                 181/1            Cibicidoides dutemplei                  
+                 339/1            Globigerina bulloides                   
+                   1/1            Neogloboquadrina pachyderma             
+                  77/2            Elphidium spp.                          
+                 228/2            Cassidulina teretis                     
+                 338/1            Bulimina marginata                      
+
+    960/d        330/1            Cibicidoides pachyderma                 
+
+   1000/d        159/3            Cibicidoides grossa LCO                 
+                 327/3            Cibicidoides scaldisensis LCO           
+                   4/1            Globorotalia inflata                    
+                 352/2            Nonion affine LCO                       
+
+   1050/d        347/1            Globigerinita glutinata                 
+
+   1060/d         23/1            Sigmoilopsis schlumbergeri              
+
+   1100/d        233/1            Catapsydrax unicavus                    
+                  81/1            Globoquadrina venezuelana               
+
+   1120/d         15/1            Globigerina praebulloides               
+                 219/1            Martinotiella cylindrica                
+                  91/2            Radiolarians/diatoms flood              
+
+   1130/d        413/3            Silicious biofacies                     
+                 412/1            Flat rads + sponge spicules             
+
+   1190/d         24/1            Turrilina alsatica                      
+                  20/1            Gyroidina girardana                     
+
+   1210/d        176/1            Uvigerina gallowayi                     
+
+   1260/d        140/1            Rotaliatina bulimoides                  
+
+   1360/d        302/3            Cenosphaera spp. (spheres)              
+                  25/2            Coarse agglutinated spp.                
+                 182/1            Spirosigmoilinella compressa            
+                  97/1            Cyclammina placenta                     
+
+   1370/d        197/1            Reophax elongatus                       
+
+   1390/d        289/1            Adercotryma agterbergi                  
+
+   1400/d        198/1            Glomospirella biedae                    
+                  56/2            Glomospira charoides                    
+                 170/1            Reticulophragmium acutidorsata          
+
+   1420/d         29/2            Reticulophragmium amplectens            
+
+   1460/d        261/2            Haplophragmoides walteri                
+                  32/1            Ammosphaeroidina pseudopauciloculata    
+
+   1480/d         68/2            Spiroplectammina spectabilis LO         
+                 263/2            Ammomarginulina aubertae                
+                 229/2            Recurvoides ex.gr. walteri              
+
+
+
+Total (UK) 3/25-1
+Rotary table height: 0 m
+Water depth:    0.0 m
+Comment: Forams F.M. Gradstein, 1988.
+
+
+Depth(m)/type   Event#/Freq.      Event (fossil) name
+---------------------------------------------------------------
+
+    544/U        207/0            NS Log G                                
+
+    650/U        102/0            Almaena osnabrugensis                   
+
+    720/U        111/0            Globigerina ex.gr. officinalis          
+
+    760/U         18/0            Spiroplectammina carinata               
+
+    860/U         85/0            Pseudohastigerina micra                 
+                 225/0            "Turborotalia" aff. ampliapertura       
+
+   1060/U         25/0            Coarse agglutinated spp.                
+
+   1080/U         97/0            Cyclammina placenta                     
+                 183/0            Cyclammina rotundidorsata               
+                 182/0            Spirosigmoilinella compressa            
+
+   1140/U        140/0            Rotaliatina bulimoides                  
+
+   1160/U        206/0            NS Log F                                
+
+   1200/U        261/0            Haplophragmoides walteri                
+
+   1300/U        260/0            Haplophragmoides kirki                  
+
+   1400/U         68/0            Spiroplectammina spectabilis LO         
+                 229/0            Recurvoides ex.gr. walteri              
+
+   1600/U         29/0            Reticulophragmium amplectens            
+                 262/0            Karreriella horrida                     
+
+   1700/U        264/0            Karreriella conversa                    
+                  54/0            Spiroplectammina navarroana             
+
+   1800/U        136/0            Cystammina pauciloculata                
+
+   1857/U        205/0            NS Log E                                
+
+   2100/U         50/0            Subbotina patagonica                    
+
+   2137/U        310/0            Saccammina placenta                     
+                 298/0            Glomospira irregularis                  
+
+   2210/U        204/0            NS Log D                                
+
+   2220/U        203/0            NS Log C                                
+
+   2240/U        134/0            Hormosina excelsa                       
+
+   2250/U         76/0            Reticulophragmium paupera               
+
+   2270/U        290/0            Trochamminoides subtrullisatus          
+                  78/0            Trochamminoides coronatus               
+
+   2420/U         61/0            Subbotina pseudobulloides               
+                 129/0            Trochammina ruthven murrayi             
+                 283/0            Reticulophragmium garcilassoi           
+
+   2430/U        107/0            Matanzia varians                        
+                 110/0            Cystammina aff.globigerinaeformis       
+
+   2440/U        253/0            Subbotina triloculinoides               
+                  60/0            Planorotalites compressus               
+                  19/0            Globoconusa daubjergensis               
+
+   2470/U        281/0            Dorothia oxycona                        
+                 238/0            Cibicidoides aff. subspiratus           
+
+   2512/U         55/0            Gavelinella beccariiformis              
+
+   2570/U        133/0            Hormosina ovulum                        

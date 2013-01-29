@@ -1,0 +1,1412 @@
+ NUMBER OF EVENTS =    98
+
+
+
+
+ STEP MODEL
+ __________
+
+THE STEPMODEL GIVES A PENALTY POINT FOR EACH POSITION
+AN EVENT RECORD IN A WELL IS OUT OF PLACE, RELATIVE TO
+THE EVENT ORDER IN THE (SCALED) OPTIMUM SEQUENCE.
+AAA INDICATES MORE THAN 12 PENALTY POINTS.
+
+
+           NAME                       NUMBER     WELL NUMBER
+   (OPTIMUM SEQUENCE)
+                                                   1    2    3    4    5    6    7    8    9   10   11   12   13   14   15   16   17
+
+
+ Elphidium clavatum                      240     2.5            2.0       2.5                                          0.0       0.5
+ Elphidium spp.                           77                    2.0  1.0  2.5       4.0  1.0       0.0  0.0            1.0  0.0  0.5
+ Cassidulina teretis                     228     2.5  1.5  2.0  2.0  1.0  2.5       1.5  1.0            0.5            1.0  0.0  0.0
+ Bulimina marginata                      338          1.5  2.0                                                         1.0          
+ Neogloboquadrina pachyderma               1     2.0  1.5  2.0  2.0  2.0  2.5       2.0                                1.5       3.0
+ Cibicidoides scaldisensis                31     1.5  1.5       2.0       2.5       2.5                                1.5          
+ Buccella frigida                        171     2.5            0.0       4.0       3.0                                5.0          
+ Cibicidoides grossa                     270     3.0  0.0  2.0  1.0  2.0  3.5       2.0  1.0                                0.0  1.0
+ Ammonia beccarii                        328     3.0            1.0       4.5                                                       
+ Cibicidoides dutemplei                  181          0.0  3.0  2.0                                                                 
+ Trifarina fluens                        316     4.5       2.0  3.0       2.0       2.0                                          1.0
+ Globorotalia inflata                      4     3.5  1.0  2.0  3.0  1.0  1.0       1.0                           0.0               
+ Cibicidoides grossa LCO                 159          1.0       2.0                 1.0                                             
+ Sigmoilopsis schlumbergeri               23     1.0  0.5  5.0  3.0  1.0  2.5       2.0  0.0            1.0            0.0  0.0  1.0
+ Globorotalia puncticulata               266                         2.0  0.0       1.0                                          0.0
+ Neogloboquadrina atlantica              269     1.0  1.0  0.5  0.5  2.0  0.0       1.0  0.0            1.5            0.0  0.0  0.0
+ Neogloboquadrina acostaensis              6                              0.0                                               0.0  0.0
+ Cibicidoides pachyderma                 330     6.0  1.5                                                              0.0          
+ Globoquadrina venezuelana                81     0.0       6.5            1.5                      6.0                              
+ Radiolarians/diatoms flood               91     1.0  0.0  1.5       1.0  4.0                                3.5       5.0  0.0  1.0
+ Sumatradinium spp.                      361          1.0  1.0            5.0                                          1.0          
+ Martinotiella cylindrica                219     3.0  2.0  6.0       3.0                           2.5  0.0       4.5  1.5  4.5  6.0
+ NS Log G                                207                    1.0  6.0  3.0                           0.0       1.0       5.0  2.0
+ Caucasina elongata                      285                    1.5  4.5                 1.0            2.0  1.5       4.0  6.0     
+ Globigerina praebulloides                15     2.0  2.0  2.5  2.0  3.0  2.5            1.0       3.0  2.0  1.5       6.5  4.5  AAA
+ Ehrenbergina variabilis                 334     2.0       2.5  2.0                           0.0                                   
+ G. ex.gr. praescitula zealandica        236                         3.0                                2.0  1.5  2.0       5.0  3.0
+ Uvigerina ex.gr. semiornata             282               2.5       3.0                 3.0                           5.0       3.0
+ Neogloboquadrina continuosa             125          2.0  2.5       4.0                                               4.0  5.0  4.0
+ Cannosphaeropsis utinensis              362     2.0  0.0  2.0            2.0                                          5.5          
+ Asterigerina gurichi                     17                    2.0  2.5                 3.0  0.5  3.0  2.0  1.5  2.0  3.5  4.0  4.0
+ Globigerinoides trilobus                123                                             1.0            2.0                 7.5  3.0
+ Tenuitella angustiumbilicata            138               4.5                           1.0       3.0  2.0  1.5  2.0           11.5
+ Catapsydrax unicavus                    233     1.0            1.0       2.0                      3.0                              
+ Flat rads + sponge spicules             412                    0.0       1.0                                                       
+ Deflandrea phosphoritica                  3     0.0  0.0  1.5  0.0       4.0  2.0                                                  
+ Areoligera semicirculata                  7     0.5  0.0  1.0  9.0       4.0  1.5                                    12.0          
+ Wetzelliella symmetrica                  41     0.5  0.0  0.5  8.0  1.0       1.0                                    12.0          
+ Gyroidina girardana                      20               6.0            4.0            0.0  0.5  4.5                          10.5
+ Coarse agglutinated spp.                 25     1.0  0.5  1.5  4.5  1.0  2.0  1.5       0.0  0.5  2.0  1.0  0.5  0.5  9.0  8.0  3.5
+ Cyclammina placenta                      97     1.0  0.5  6.0  4.5  1.5  8.0  6.5       2.5  0.5  2.0  1.0  0.5  0.0  9.0  6.0  4.0
+ Spirosigmoilinella compressa            182     1.0  4.5  4.0  4.5  1.5                                1.0  0.5  0.0  7.0  2.0  4.0
+ Cyclammina rotundidorsata               183          AAA                                                    4.5       7.0  6.5  5.5
+ Turrilina alsatica                       24     0.5            5.0  1.5  4.0  4.5                           1.5            3.0  6.5
+ Cenosphaera spp. (spheres)              302     0.5  4.5  5.0            0.0                                                       
+ Karreriella horrida                     262          4.5  6.5  4.0  5.5       7.5                           3.5       6.0  2.0  7.5
+ Glomospirella biedae                    198     1.0       6.0  7.0       2.5                                     1.5  5.0          
+ Ammodiscus latus                        259               7.0                                          6.0       2.5  6.0  1.0  5.5
+ Rotaliatina bulimoides                  140               6.0       2.5                 1.0                 3.0            3.0  5.5
+ Adercotryma agterbergi                  289     1.0  4.0  8.5  5.0  3.0                                          4.0  4.0  3.0  4.0
+ Aschemonella grandis                    324     1.0  4.0  7.0                 2.5                                3.5  7.0          
+ Reophax elongatus                       197     5.0  3.5  2.5                                                         3.0          
+ Haplophragmoides walteri                261          6.0  2.5  6.0  3.0  2.5 11.5       9.0            6.0  3.0  4.0  8.0  3.0  8.0
+ Dorothia seigliei                       321     5.5  6.0  9.0  7.5  3.0                                     3.0  2.0  3.5  3.0  6.0
+ NS Log F                                206                         4.0                 2.0            2.0       1.0       1.0  2.0
+ Reticulophragmium amplectens             29     3.0  4.0  3.0  1.5  5.0  5.0  3.5       5.0  1.0  4.0  2.0  0.5  2.0  2.0  1.0  5.0
+ Ammosphaeroidina pseudopauciloculata     32     5.5  4.0  3.5  1.5            6.0       4.5       1.0  5.0            2.0  2.0  2.5
+ Areosphaeridium diktyoplokus             12     4.0  4.0       1.5  2.0  3.0  5.5                                     2.0          
+ Heteraulacacysta porosa                  13     3.0       6.5  1.5       2.5  5.5                                                  
+ Recurvoides ex.gr. walteri              229     5.5  5.0  4.0            2.0                                     6.5               
+ Ammomarginulina aubertae                263          3.0  3.5       3.0       AAA       4.5                 1.0  6.0  2.0  1.5  2.5
+ Rottnestia borussica                     72     4.5  1.0       1.0       3.5  5.5                                     1.0          
+ Diphyes ficusoides                       92     4.5  6.0  3.0  2.0       1.0  4.0                                                  
+ Haplophragmoides kirki                  260     6.5  3.0  3.0  2.0  3.5  2.0  6.5       5.0            3.0  2.0       1.0  1.5  3.0
+ Reticulophragmoides jarvisi             291    11.5      11.5                           AAA            3.5       2.0  9.5  1.0  4.5
+ Spiroplectammina spectabilis LO          68     4.5  6.0  6.5  3.0  2.0       6.5       6.5  1.0  1.0  4.0  2.0  1.0  1.5  1.0  2.0
+ Karreriella conversa                    264     AAA       6.5  2.0  4.0  AAA  6.0       6.0  1.0  1.0  4.0  3.5       1.5  4.5  3.5
+ Cenosphaera spp. LCO                    117                    1.0  4.0       5.5       4.0  0.0  1.0  1.0                 3.0     
+ Reticulophragmium intermedia            175     5.5  4.0       2.0            4.0                                     2.0          
+ Eatonicysta ursulae                      99     5.0  5.0  2.0  2.0  1.0  2.0  4.0                                     3.0          
+ NS Log E                                205                         1.0                 4.0       2.0  0.5       1.0       3.0  2.0
+ Spiroplectammina navarroana              54     5.5  4.0  2.5  8.0  1.0  2.0  3.5       2.0  2.0  0.0  0.0            4.0  2.5  2.0
+ Recurvoidella lamella                   279     5.5  5.0       4.0  1.0       2.0       1.0            0.5            2.0          
+ Subbotina patagonica                     50     5.5  3.0  2.5  2.0  0.0  2.0  2.0            1.5       0.5            1.0       2.0
+ Tuff                                    277          2.0       4.0  1.0                 3.0       1.0       0.0                    
+ Deflandrea oebisfeldensis               108     4.0  2.5  2.5  3.0  1.0  3.0  3.0                                                  
+ Coscinodiscus spp.                       22     4.0  2.5  2.5  3.0  1.0                      1.5  1.0  1.5  0.5            3.0  2.0
+ NS Log D                                204                         2.0  2.0            3.0       0.5  2.0       2.0       3.0  2.0
+ NS Log C                                203                         2.0  2.0            3.0       1.0  2.0       2.0       2.0  2.0
+ Cystammina pauciloculata                136    12.0  9.0  8.0  8.0  3.0  5.0  6.5       5.0       4.0       3.5       1.5       6.0
+ Trochamminoides coronatus                78                         4.0  3.0  1.0       5.0  4.0       3.5  1.5  3.0      10.0  4.0
+ Cystammina aff.globigerinaeformis       110     AAA 10.0       8.0       6.5  3.0            1.0  4.0  4.0            4.0  8.0  2.0
+ Apectodinium augustum                    28     2.0  0.0  1.0  4.0  6.0  5.0  0.0                                     1.0          
+ Rzehakina minima                        105     2.5  1.0       4.0            6.0       1.0            0.5  2.0                    
+ Reticulophragmium paupera                76     2.5  1.0  1.0  4.5  1.0  5.0            1.0  2.0  5.0  0.5  2.0       1.5  2.5  1.0
+ Spiroplectammina spectabilis LCO         57     1.5  1.0       5.0  1.0  5.0  4.0       1.0       4.5  0.0  0.5  0.0  2.5  2.5  1.0
+ Saccammina placenta                     310     2.0  0.0  1.5  5.5            3.5       3.5  2.0  3.5                      2.0  0.0
+ Reticulophragmium garcilassoi           283          1.5       7.0  1.0       3.0       3.0            0.0                      1.0
+ Hormosina excelsa                       134     2.0            2.0       5.0            3.0  1.0                      0.5 11.0     
+ Trochammina ruthven murrayi             129     2.0  1.5  1.5  1.0       6.0  2.5       4.0       3.5                      4.0  1.0
+ Palaeoperidinium pyrophorum             118          2.0  1.5  1.0       2.0  1.0                                                  
+ Ammodiscus planus                       251     2.0            AAA            1.0       0.0                                4.0     
+ Subbotina pseudobulloides                61                         1.0                 2.5  1.0  2.0            4.0  1.5  5.0  1.0
+ Matanzia varians                        107                    1.0  1.0                      3.0                                   
+ NS Log B                                202                                             1.0       1.0  0.0       1.0       4.0  1.0
+ Gavelinella beccariiformis               55                    1.0  1.0                 1.5  3.0  1.0            2.0  1.0  5.0     
+ Planorotalites compressus                60                         0.0                 1.5  3.0  1.0       0.0  2.0  0.5  5.0     
+ Subbotina triloculinoides               253                         0.0                 1.5  3.0                 2.0  0.0          
+
+
+
+
+ STEP MODEL (CONTINUED)
+
+
+           NAME                       NUMBER     WELL NUMBER
+                                                  18   19   20   21   22   23   24   25   26   27
+
+
+ Elphidium clavatum                      240                         1.0                         
+ Elphidium spp.                           77     0.0       0.0  0.5       1.5       3.5  3.0     
+ Cassidulina teretis                     228     1.0       0.0  0.5  1.0  1.5  1.5  3.5  3.0     
+ Bulimina marginata                      338                         1.0  4.0       3.5  3.0     
+ Neogloboquadrina pachyderma               1     2.0                 0.5  2.5  3.5  3.5  3.0     
+ Cibicidoides scaldisensis                31                         1.0  2.0  2.5  3.5  3.0     
+ Buccella frigida                        171                         1.5  2.0  2.5  3.5          
+ Cibicidoides grossa                     270     2.0       0.0       0.0  2.0  2.5  3.5  3.0     
+ Ammonia beccarii                        328                              5.5  0.5  1.0          
+ Cibicidoides dutemplei                  181                         0.0  0.0  4.0  2.0  3.0     
+ Trifarina fluens                        316     3.0                      1.0       2.0          
+ Globorotalia inflata                      4                              2.0  3.0  6.5  1.5     
+ Cibicidoides grossa LCO                 159                              2.0  2.0  2.0  1.5     
+ Sigmoilopsis schlumbergeri               23     0.0       1.0  0.5       3.0  2.0       1.0     
+ Globorotalia puncticulata               266     0.0       1.5            1.0  1.0  0.5          
+ Neogloboquadrina atlantica              269               1.5  0.5       0.0  2.0               
+ Neogloboquadrina acostaensis              6     0.0            1.5                 0.5          
+ Cibicidoides pachyderma                 330                                   1.5  1.0  3.0     
+ Globoquadrina venezuelana                81                              0.5  1.0       0.5     
+ Radiolarians/diatoms flood               91     3.0                 2.0       2.0       2.0     
+ Sumatradinium spp.                      361                         1.0  2.0                    
+ Martinotiella cylindrica                219               3.0  1.5                      2.0     
+ NS Log G                                207     3.0  0.0  2.0                                0.0
+ Caucasina elongata                      285                                                     
+ Globigerina praebulloides                15     4.5            1.5            1.5  1.0  2.0     
+ Ehrenbergina variabilis                 334                              1.5  1.0               
+ G. ex.gr. praescitula zealandica        236     4.5       1.5  1.5                              
+ Uvigerina ex.gr. semiornata             282     5.0                 1.0                         
+ Neogloboquadrina continuosa             125     5.0                                             
+ Cannosphaeropsis utinensis              362                         2.0  1.0                    
+ Asterigerina gurichi                     17     2.5            0.0  4.0  3.0                    
+ Globigerinoides trilobus                123     2.5       1.5                                   
+ Tenuitella angustiumbilicata            138     0.5                                             
+ Catapsydrax unicavus                    233          1.5                                3.5     
+ Flat rads + sponge spicules             412                         1.5  2.0  0.0       0.0     
+ Deflandrea phosphoritica                  3                         2.0                         
+ Areoligera semicirculata                  7                         2.0                         
+ Wetzelliella symmetrica                  41                                                     
+ Gyroidina girardana                      20                              2.0            0.5     
+ Coarse agglutinated spp.                 25          1.0  0.0  0.0  1.0  4.0  0.5  3.5  3.5  0.0
+ Cyclammina placenta                      97     1.0  0.5                 4.0  0.5  3.5  3.5  1.0
+ Spirosigmoilinella compressa            182     1.0  4.0  0.0  1.5       3.0       3.0  3.5  1.0
+ Cyclammina rotundidorsata               183     5.0  3.0  0.5  1.5                           1.0
+ Turrilina alsatica                       24     6.5       1.0       4.5  5.0            3.5     
+ Cenosphaera spp. (spheres)              302                              2.0  0.5  2.5  2.5     
+ Karreriella horrida                     262     4.5  3.0  1.5                                6.5
+ Glomospirella biedae                    198     2.0                      5.0            3.0     
+ Ammodiscus latus                        259     2.5  3.0                 3.0                    
+ Rotaliatina bulimoides                  140     3.5       0.0                      4.0  5.0  1.0
+ Adercotryma agterbergi                  289     3.5                      3.0  1.0  1.5  2.0     
+ Aschemonella grandis                    324     3.0  3.0                                        
+ Reophax elongatus                       197                              3.0            2.0     
+ Haplophragmoides walteri                261     4.0  1.0  0.0  2.0                      1.5  2.0
+ Dorothia seigliei                       321     4.0            0.0       3.0  1.5               
+ NS Log F                                206     3.0  2.0  0.0                                2.0
+ Reticulophragmium amplectens             29          2.0  1.5  3.0       3.0  0.0       1.0  3.5
+ Ammosphaeroidina pseudopauciloculata     32     7.0  5.0  1.5                 0.0       0.5     
+ Areosphaeridium diktyoplokus             12                              3.0  0.0  0.0          
+ Heteraulacacysta porosa                  13                              0.0  0.0  0.0          
+ Recurvoides ex.gr. walteri              229     8.0  6.0       1.0                      1.0  3.5
+ Ammomarginulina aubertae                263     2.0  3.0       2.0                      1.0     
+ Rottnestia borussica                     72                                   0.0  0.0          
+ Diphyes ficusoides                       92                                                     
+ Haplophragmoides kirki                  260          2.0                                     3.0
+ Reticulophragmoides jarvisi             291     5.0  2.0                                        
+ Spiroplectammina spectabilis LO          68     1.0  1.0  1.5  2.0                      1.0  2.5
+ Karreriella conversa                    264     2.0  1.0  1.5       8.5                      0.5
+ Cenosphaera spp. LCO                    117     1.0  2.0                                        
+ Reticulophragmium intermedia            175          2.0                                        
+ Eatonicysta ursulae                      99                                                     
+ NS Log E                                205     1.0  3.0  0.0                                2.0
+ Spiroplectammina navarroana              54     0.0  8.0       0.0                           1.5
+ Recurvoidella lamella                   279                                                     
+ Subbotina patagonica                     50     0.0                                          1.0
+ Tuff                                    277                                                     
+ Deflandrea oebisfeldensis               108                         1.0                         
+ Coscinodiscus spp.                       22     2.0  0.0  0.0       1.0                         
+ NS Log D                                204     1.0  0.0  0.0                                2.0
+ NS Log C                                203     1.0       0.0                                2.0
+ Cystammina pauciloculata                136     0.0            2.0                           4.0
+ Trochamminoides coronatus                78          6.0                                     3.0
+ Cystammina aff.globigerinaeformis       110     4.0                                          6.5
+ Apectodinium augustum                    28                                                     
+ Rzehakina minima                        105                    1.5                              
+ Reticulophragmium paupera                76     2.5  4.0            2.5                      4.0
+ Spiroplectammina spectabilis LCO         57     3.0  3.5            2.0                         
+ Saccammina placenta                     310     3.0  3.0       1.5                           5.0
+ Reticulophragmium garcilassoi           283                                                  3.0
+ Hormosina excelsa                       134     2.5  2.5            3.5                      4.0
+ Trochammina ruthven murrayi             129                         2.5                      2.0
+ Palaeoperidinium pyrophorum             118                         2.0                         
+ Ammodiscus planus                       251                         1.5                         
+ Subbotina pseudobulloides                61     0.5  2.0            1.5                      2.0
+ Matanzia varians                        107     0.5  2.0       0.0                           0.5
+ NS Log B                                202     0.0  0.0  1.0                                   
+ Gavelinella beccariiformis               55          0.0  1.0                                2.0
+ Planorotalites compressus                60                         1.5                      1.5
+ Subbotina triloculinoides               253                         2.5                      1.5
+
+
+  WELL NO.    KENDALL`S TAU
+
+         1            0.884
+         2            0.903
+         3            0.868
+         4            0.898
+         5            0.920
+         6            0.881
+         7            0.764
+         8            0.652
+         9            0.873
+        10            0.857
+        11            0.845
+        12            0.906
+        13            0.868
+        14            0.856
+        15            0.878
+        16            0.868
+        17            0.880
+        18            0.903
+        19            0.854
+        20            0.939
+        21            0.897
+        22            0.869
+        23            0.861
+        24            0.899
+        25            0.803
+        26            0.862
+        27            0.849
+
+
+NOTE: KENDALL`S TAU IS A RANK CORRELATION COEFFICIENT.
+LIKE THE ORDINARY (PEARSON`S) PRODUCT-MOMENT CORRELATION
+COEFFICIENT, TAU VARIES BETWEEN 0 FOR COMPLETE LACK OF
+CORRELATION AND +1 OR -1 FOR MAXIMUM POSITIVE OR NEGATIVE
+CORRELATION. TAU IS CALCULATED FROM THE PENALTY SCORES FOR
+EACH WELL AND EXPRESSES DEGREE OF CORRELATION WITH THE
+OPTIMUM SEQUENCE.
+
+
+
+
+
+
+ PENALTY POINTS FOR EVENTS LOWER THAN EXPECTED
+
+
+           NAME                       NUMBER     WELL NUMBER
+   (OPTIMUM SEQUENCE)
+                                                   1    2    3    4    5    6    7    8    9   10   11   12   13   14   15   16   17
+
+
+ Elphidium clavatum                      240     1.0            0.0       0.0                                          0.0       0.0
+ Elphidium spp.                           77                    0.0  0.0  0.0       3.0  0.0       0.0  0.0            1.0  0.0  0.0
+ Cassidulina teretis                     228     1.0  0.0  0.0  0.0  0.0  0.0       0.0  0.0            0.0            1.0  0.0  0.0
+ Bulimina marginata                      338          0.0  0.0                                                         1.0          
+ Neogloboquadrina pachyderma               1     0.0  0.0  0.0  0.0  1.0  0.0       1.0                                1.0       3.0
+ Cibicidoides scaldisensis                31     0.0  0.0       0.0       0.0       0.0                                1.0          
+ Buccella frigida                        171     2.0            0.0       4.0       2.0                                0.0          
+ Cibicidoides grossa                     270     3.0  0.0  0.0  0.0  0.0  2.0       0.0  0.0                                0.0  0.0
+ Ammonia beccarii                        328     3.0            0.0       0.0                                                       
+ Cibicidoides dutemplei                  181          0.0  3.0  2.0                                                                 
+ Trifarina fluens                        316     0.0       1.0  3.0       0.0       0.0                                          0.0
+ Globorotalia inflata                      4     1.0  1.0  1.0  0.0  0.0  1.0       0.0                           0.0               
+ Cibicidoides grossa LCO                 159          0.0       1.0                 0.0                                             
+ Sigmoilopsis schlumbergeri               23     1.0  0.0  0.0  0.0  0.0  0.0       2.0  0.0            1.0            0.0  0.0  0.0
+ Globorotalia puncticulata               266                         2.0  0.0       0.0                                          0.0
+ Neogloboquadrina atlantica              269     1.0  1.0  0.0  0.0  1.0  0.0       0.0  0.0            0.0            0.0  0.0  0.0
+ Neogloboquadrina acostaensis              6                              0.0                                               0.0  0.0
+ Cibicidoides pachyderma                 330     0.0  0.0                                                              0.0          
+ Globoquadrina venezuelana                81     0.0       6.0            1.0                      4.0                              
+ Radiolarians/diatoms flood               91     1.0  0.0  0.0       1.0  4.0                                2.0       5.0  0.0  1.0
+ Sumatradinium spp.                      361          0.0  0.0            5.0                                          0.0          
+ Martinotiella cylindrica                219     2.0  2.0  6.0       0.0                           1.0  0.0       4.0  0.0  4.0  6.0
+ NS Log G                                207                    1.0  6.0  0.0                           0.0       0.0       5.0  0.0
+ Caucasina elongata                      285                    0.0  3.0                 1.0            0.0  0.0       4.0  5.0     
+ Globigerina praebulloides                15     0.0  0.0  0.0  1.0  0.0  0.0            1.0       2.0  0.0  0.0       6.0  1.0  AAA
+ Ehrenbergina variabilis                 334     1.0       0.0  1.0                           0.0                                   
+ G. ex.gr. praescitula zealandica        236                         0.0                                0.0  0.0  0.0       4.0  0.0
+ Uvigerina ex.gr. semiornata             282               0.0       2.0                 3.0                           3.0       0.0
+ Neogloboquadrina continuosa             125          0.0  1.0       0.0                                               3.0  4.0  2.0
+ Cannosphaeropsis utinensis              362     0.0  0.0  1.0            0.0                                          0.0          
+ Asterigerina gurichi                     17                    0.0  0.0                 0.0  0.0  0.0  0.0  0.0  0.0  3.0  4.0  0.0
+ Globigerinoides trilobus                123                                             0.0            0.0                 1.0  0.0
+ Tenuitella angustiumbilicata            138               0.0                           0.0       1.0  1.0  0.0  0.0           11.0
+ Catapsydrax unicavus                    233     0.0            0.0       1.0                      1.0                              
+ Flat rads + sponge spicules             412                    0.0       1.0                                                       
+ Deflandrea phosphoritica                  3     0.0  0.0  1.0  0.0       4.0  2.0                                                  
+ Areoligera semicirculata                  7     0.0  0.0  0.0  9.0       3.0  0.0                                    12.0          
+ Wetzelliella symmetrica                  41     0.0  0.0  0.0  6.0  1.0       1.0                                    12.0          
+ Gyroidina girardana                      20               5.0            2.0            0.0  0.0  0.0                           8.0
+ Coarse agglutinated spp.                 25     0.0  0.0  0.0  1.0  0.0  2.0  1.0       0.0  0.0  0.0  0.0  0.0  0.0  1.0  0.0  0.0
+ Cyclammina placenta                      97     0.0  0.0  6.0  1.0  0.0  0.0  6.0       2.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  1.0
+ Spirosigmoilinella compressa            182     0.0  4.0  1.0  1.0  0.0                                0.0  0.0  0.0  5.0  2.0  1.0
+ Cyclammina rotundidorsata               183          AAA                                                    4.0       5.0  0.0  2.0
+ Turrilina alsatica                       24     0.0            0.0  0.0  0.0  0.0                           0.0            2.0  6.0
+ Cenosphaera spp. (spheres)              302     0.0  2.0  3.0            0.0                                                       
+ Karreriella horrida                     262          3.0  6.0  2.0  5.0       7.0                           3.0       0.0  0.0  0.0
+ Glomospirella biedae                    198     0.0       1.0  7.0       1.0                                     1.0  0.0          
+ Ammodiscus latus                        259               7.0                                          6.0       2.0  2.0  0.0  1.0
+ Rotaliatina bulimoides                  140               2.0       0.0                 0.0                 0.0            3.0  2.0
+ Adercotryma agterbergi                  289     0.0  0.0  0.0  2.0  1.0                                          4.0  2.0  2.0  2.0
+ Aschemonella grandis                    324     0.0  0.0  0.0                 0.0                                2.0  0.0          
+ Reophax elongatus                       197     5.0  0.0  0.0                                                         3.0          
+ Haplophragmoides walteri                261          3.0  1.0  1.0  1.0  1.0 10.0       8.0            6.0  0.0  0.0  0.0  0.0  0.0
+ Dorothia seigliei                       321     5.0  3.0  9.0  0.0  1.0                                     0.0  1.0  0.0  0.0  0.0
+ NS Log F                                206                         0.0                 0.0            0.0       1.0       1.0  2.0
+ Reticulophragmium amplectens             29     1.0  0.0  1.0  0.0  5.0  5.0  0.0       4.0  0.0  4.0  0.0  0.0  2.0  2.0  0.0  4.0
+ Ammosphaeroidina pseudopauciloculata     32     5.0  0.0  1.0  0.0            4.0       2.0       0.0  3.0            1.0  2.0  0.0
+ Areosphaeridium diktyoplokus             12     0.0  1.0       0.0  1.0  0.0  1.0                                     2.0          
+ Heteraulacacysta porosa                  13     0.0       0.0  0.0       0.0  0.0                                                  
+ Recurvoides ex.gr. walteri              229     5.0  0.0  3.0            1.0                                     0.0               
+ Ammomarginulina aubertae                263          0.0  0.0       2.0       AAA       2.0                 1.0  6.0  1.0  0.0  1.0
+ Rottnestia borussica                     72     0.0  1.0       1.0       0.0  0.0                                     1.0          
+ Diphyes ficusoides                       92     0.0  6.0  2.0  2.0       0.0  2.0                                                  
+ Haplophragmoides kirki                  260     5.0  1.0  3.0  0.0  0.0  1.0  4.0       4.0            0.0  2.0       1.0  0.0  2.0
+ Reticulophragmoides jarvisi             291    11.0      10.0                           AAA            3.0       0.0  0.0  1.0  0.0
+ Spiroplectammina spectabilis LO          68     0.0  0.0  0.0  3.0  1.0       0.0       0.0  0.0  0.0  0.0  1.0  0.0  1.0  1.0  1.0
+ Karreriella conversa                    264     AAA       0.0  0.0  3.0  AAA  5.0       0.0  0.0  0.0  0.0  0.0       1.0  4.0  0.0
+ Cenosphaera spp. LCO                    117                    0.0  0.0       0.0       1.0  0.0  1.0  0.0                 0.0     
+ Reticulophragmium intermedia            175     2.0  4.0       2.0            0.0                                     1.0          
+ Eatonicysta ursulae                      99     2.0  5.0  1.0  1.0  0.0  0.0  0.0                                     3.0          
+ NS Log E                                205                         0.0                 0.0       0.0  0.0       0.0       2.0  2.0
+ Spiroplectammina navarroana              54     2.0  0.0  1.0  7.0  0.0  0.0  0.0       0.0  2.0  0.0  0.0            0.0  2.0  1.0
+ Recurvoidella lamella                   279     2.0  2.0       0.0  0.0       1.0       0.0            0.0            0.0          
+ Subbotina patagonica                     50     2.0  2.0  1.0  1.0  0.0  0.0  1.0            0.0       0.0            1.0       2.0
+ Tuff                                    277          2.0       3.0  0.0                 2.0       1.0       0.0                    
+ Deflandrea oebisfeldensis               108     2.0  2.0  1.0  1.0  0.0  1.0  2.0                                                  
+ Coscinodiscus spp.                       22     2.0  2.0  1.0  1.0  1.0                      0.0  0.0  1.0  0.0            3.0  2.0
+ NS Log D                                204                         2.0  0.0            2.0       0.0  2.0       1.0       2.0  2.0
+ NS Log C                                203                         2.0  0.0            2.0       1.0  2.0       1.0       2.0  2.0
+ Cystammina pauciloculata                136     1.0  1.0  0.0  7.0  3.0  3.0  0.0       1.0       4.0       3.0       1.0       0.0
+ Trochamminoides coronatus                78                         1.0  1.0  1.0       0.0  4.0       1.0  0.0  0.0      10.0  0.0
+ Cystammina aff.globigerinaeformis       110     0.0  0.0       7.0       6.0  0.0            0.0  4.0  0.0            0.0  1.0  2.0
+ Apectodinium augustum                    28     0.0  0.0  0.0  1.0  0.0  0.0  0.0                                     1.0          
+ Rzehakina minima                        105     1.0  0.0       1.0            6.0       0.0            0.0  1.0                    
+ Reticulophragmium paupera                76     0.0  0.0  0.0  2.0  0.0  3.0            0.0  1.0  3.0  0.0  0.0       1.0  1.0  0.0
+ Spiroplectammina spectabilis LCO         57     0.0  0.0       3.0  1.0  1.0  3.0       0.0       0.0  0.0  0.0  0.0  0.0  1.0  0.0
+ Saccammina placenta                     310     0.0  0.0  0.0  2.0            1.0       3.0  0.0  0.0                      1.0  0.0
+ Reticulophragmium garcilassoi           283          1.0       1.0  0.0       0.0       1.0            0.0                      1.0
+ Hormosina excelsa                       134     0.0            1.0       1.0            1.0  0.0                      0.0  0.0     
+ Trochammina ruthven murrayi             129     0.0  1.0  0.0  1.0       0.0  0.0       0.0       0.0                      3.0  0.0
+ Palaeoperidinium pyrophorum             118          0.0  0.0  1.0       0.0  0.0                                                  
+ Ammodiscus planus                       251     0.0            0.0            0.0       0.0                                4.0     
+ Subbotina pseudobulloides                61                         0.0                 1.0  0.0  1.0            4.0  1.0  2.0  1.0
+ Matanzia varians                        107                    1.0  0.0                      3.0                                   
+ NS Log B                                202                                             0.0       0.0  0.0       0.0       2.0  0.0
+ Gavelinella beccariiformis               55                    0.0  0.0                 0.0  2.0  0.0            0.0  0.0  0.0     
+ Planorotalites compressus                60                         0.0                 0.0  0.0  0.0       0.0  0.0  0.0  0.0     
+ Subbotina triloculinoides               253                         0.0                 0.0  0.0                 0.0  0.0          
+
+
+
+
+ STEP MODEL (CONTINUED)
+
+
+           NAME                       NUMBER     WELL NUMBER
+                                                  18   19   20   21   22   23   24   25   26   27
+
+
+ Elphidium clavatum                      240                         0.0                         
+ Elphidium spp.                           77     0.0       0.0  0.0       0.0       0.0  0.0     
+ Cassidulina teretis                     228     1.0       0.0  0.0  0.0  0.0  0.0  0.0  0.0     
+ Bulimina marginata                      338                         0.0  3.0       0.0  0.0     
+ Neogloboquadrina pachyderma               1     2.0                 0.0  0.0  3.0  0.0  0.0     
+ Cibicidoides scaldisensis                31                         1.0  1.0  0.0  0.0  0.0     
+ Buccella frigida                        171                         0.0  1.0  0.0  0.0          
+ Cibicidoides grossa                     270     1.0       0.0       0.0  1.0  0.0  0.0  0.0     
+ Ammonia beccarii                        328                              0.0  0.0  1.0          
+ Cibicidoides dutemplei                  181                         0.0  0.0  4.0  2.0  0.0     
+ Trifarina fluens                        316     0.0                      1.0       2.0          
+ Globorotalia inflata                      4                              1.0  2.0  0.0  1.0     
+ Cibicidoides grossa LCO                 159                              1.0  0.0  0.0  1.0     
+ Sigmoilopsis schlumbergeri               23     0.0       1.0  0.0       0.0  0.0       1.0     
+ Globorotalia puncticulata               266     0.0       1.0            0.0  1.0  0.0          
+ Neogloboquadrina atlantica              269               1.0  0.0       0.0  0.0               
+ Neogloboquadrina acostaensis              6     0.0            0.0                 0.0          
+ Cibicidoides pachyderma                 330                                   1.0  1.0  0.0     
+ Globoquadrina venezuelana                81                              0.0  0.0       0.0     
+ Radiolarians/diatoms flood               91     3.0                 2.0       2.0       1.0     
+ Sumatradinium spp.                      361                         0.0  2.0                    
+ Martinotiella cylindrica                219               0.0  0.0                      1.0     
+ NS Log G                                207     2.0  0.0  2.0                                0.0
+ Caucasina elongata                      285                                                     
+ Globigerina praebulloides                15     4.0            0.0            0.0  0.0  1.0     
+ Ehrenbergina variabilis                 334                              0.0  0.0               
+ G. ex.gr. praescitula zealandica        236     4.0       0.0  0.0                              
+ Uvigerina ex.gr. semiornata             282     1.0                 1.0                         
+ Neogloboquadrina continuosa             125     0.0                                             
+ Cannosphaeropsis utinensis              362                         0.0  0.0                    
+ Asterigerina gurichi                     17     0.0            0.0  4.0  3.0                    
+ Globigerinoides trilobus                123     0.0       0.0                                   
+ Tenuitella angustiumbilicata            138     0.0                                             
+ Catapsydrax unicavus                    233          1.0                                0.0     
+ Flat rads + sponge spicules             412                         0.0  0.0  0.0       0.0     
+ Deflandrea phosphoritica                  3                         1.0                         
+ Areoligera semicirculata                  7                         1.0                         
+ Wetzelliella symmetrica                  41                                                     
+ Gyroidina girardana                      20                              0.0            0.0     
+ Coarse agglutinated spp.                 25          0.0  0.0  0.0  1.0  2.0  0.0  2.0  2.0  0.0
+ Cyclammina placenta                      97     1.0  0.0                 2.0  0.0  2.0  2.0  0.0
+ Spirosigmoilinella compressa            182     1.0  4.0  0.0  1.0       1.0       1.0  2.0  0.0
+ Cyclammina rotundidorsata               183     5.0  2.0  0.0  1.0                           0.0
+ Turrilina alsatica                       24     6.0       1.0       0.0  0.0            0.0     
+ Cenosphaera spp. (spheres)              302                              0.0  0.0  1.0  1.0     
+ Karreriella horrida                     262     0.0  3.0  0.0                                6.0
+ Glomospirella biedae                    198     0.0                      5.0            3.0     
+ Ammodiscus latus                        259     0.0  0.0                 0.0                    
+ Rotaliatina bulimoides                  140     3.0       0.0                      0.0  0.0  0.0
+ Adercotryma agterbergi                  289     0.0                      0.0  1.0  0.0  1.0     
+ Aschemonella grandis                    324     3.0  0.0                                        
+ Reophax elongatus                       197                              3.0            0.0     
+ Haplophragmoides walteri                261     4.0  1.0  0.0  0.0                      1.0  1.0
+ Dorothia seigliei                       321     3.0            0.0       0.0  0.0               
+ NS Log F                                206     3.0  2.0  0.0                                0.0
+ Reticulophragmium amplectens             29          1.0  0.0  3.0       0.0  0.0       0.0  3.0
+ Ammosphaeroidina pseudopauciloculata     32     1.0  5.0  0.0                 0.0       0.0     
+ Areosphaeridium diktyoplokus             12                              0.0  0.0  0.0          
+ Heteraulacacysta porosa                  13                              0.0  0.0  0.0          
+ Recurvoides ex.gr. walteri              229     0.0  0.0       0.0                      0.0  1.0
+ Ammomarginulina aubertae                263     2.0  2.0       1.0                      0.0     
+ Rottnestia borussica                     72                                   0.0  0.0          
+ Diphyes ficusoides                       92                                                     
+ Haplophragmoides kirki                  260          0.0                                     0.0
+ Reticulophragmoides jarvisi             291     0.0  1.0                                        
+ Spiroplectammina spectabilis LO          68     1.0  1.0  0.0  0.0                      0.0  0.0
+ Karreriella conversa                    264     0.0  1.0  0.0       8.0                      0.0
+ Cenosphaera spp. LCO                    117     1.0  2.0                                        
+ Reticulophragmium intermedia            175          2.0                                        
+ Eatonicysta ursulae                      99                                                     
+ NS Log E                                205     0.0  1.0  0.0                                2.0
+ Spiroplectammina navarroana              54     0.0  0.0       0.0                           0.0
+ Recurvoidella lamella                   279                                                     
+ Subbotina patagonica                     50     0.0                                          1.0
+ Tuff                                    277                                                     
+ Deflandrea oebisfeldensis               108                         0.0                         
+ Coscinodiscus spp.                       22     2.0  0.0  0.0       0.0                         
+ NS Log D                                204     0.0  0.0  0.0                                2.0
+ NS Log C                                203     0.0       0.0                                2.0
+ Cystammina pauciloculata                136     0.0            2.0                           0.0
+ Trochamminoides coronatus                78          6.0                                     3.0
+ Cystammina aff.globigerinaeformis       110     4.0                                          6.0
+ Apectodinium augustum                    28                                                     
+ Rzehakina minima                        105                    0.0                              
+ Reticulophragmium paupera                76     1.0  3.0            1.0                      2.0
+ Spiroplectammina spectabilis LCO         57     2.0  1.0            0.0                         
+ Saccammina placenta                     310     0.0  0.0       0.0                           0.0
+ Reticulophragmium garcilassoi           283                                                  1.0
+ Hormosina excelsa                       134     0.0  0.0            2.0                      0.0
+ Trochammina ruthven murrayi             129                         0.0                      0.0
+ Palaeoperidinium pyrophorum             118                         0.0                         
+ Ammodiscus planus                       251                         0.0                         
+ Subbotina pseudobulloides                61     0.0  1.0            1.0                      0.0
+ Matanzia varians                        107     0.0  0.0       0.0                           0.0
+ NS Log B                                202     0.0  0.0  1.0                                   
+ Gavelinella beccariiformis               55          0.0  0.0                                2.0
+ Planorotalites compressus                60                         1.0                      0.0
+ Subbotina triloculinoides               253                         0.0                      0.0
+
+
+
+
+ PENALTY POINTS FOR EVENTS HIGHER THAN EXPECTED
+
+
+           NAME                       NUMBER     WELL NUMBER
+   (OPTIMUM SEQUENCE)
+                                                   1    2    3    4    5    6    7    8    9   10   11   12   13   14   15   16   17
+
+
+ Elphidium clavatum                      240     0.0            0.0       0.0                                          0.0       0.0
+ Elphidium spp.                           77                    0.0  0.0  0.0       0.0  0.0       0.0  0.0            0.0  0.0  0.0
+ Cassidulina teretis                     228     0.0  0.0  0.0  0.0  0.0  0.0       1.0  0.0            0.0            0.0  0.0  0.0
+ Bulimina marginata                      338          0.0  0.0                                                         0.0          
+ Neogloboquadrina pachyderma               1     2.0  0.0  0.0  0.0  0.0  0.0       1.0                                0.0       0.0
+ Cibicidoides scaldisensis                31     0.0  0.0       0.0       0.0       2.0                                0.0          
+ Buccella frigida                        171     0.0            0.0       0.0       0.0                                5.0          
+ Cibicidoides grossa                     270     0.0  0.0  0.0  0.0  1.0  1.0       1.0  0.0                                0.0  1.0
+ Ammonia beccarii                        328     0.0            0.0       2.0                                                       
+ Cibicidoides dutemplei                  181          0.0  0.0  0.0                                                                 
+ Trifarina fluens                        316     3.0       1.0  0.0       2.0       1.0                                          1.0
+ Globorotalia inflata                      4     2.0  0.0  1.0  2.0  0.0  0.0       0.0                           0.0               
+ Cibicidoides grossa LCO                 159          1.0       1.0                 0.0                                             
+ Sigmoilopsis schlumbergeri               23     0.0  0.0  3.0  3.0  0.0  2.0       0.0  0.0            0.0            0.0  0.0  1.0
+ Globorotalia puncticulata               266                         0.0  0.0       1.0                                          0.0
+ Neogloboquadrina atlantica              269     0.0  0.0  0.0  0.0  1.0  0.0       1.0  0.0            1.0            0.0  0.0  0.0
+ Neogloboquadrina acostaensis              6                              0.0                                               0.0  0.0
+ Cibicidoides pachyderma                 330     6.0  1.0                                                              0.0          
+ Globoquadrina venezuelana                81     0.0       0.0            0.0                      0.0                              
+ Radiolarians/diatoms flood               91     0.0  0.0  1.0       0.0  0.0                                0.0       0.0  0.0  0.0
+ Sumatradinium spp.                      361          0.0  1.0            0.0                                          1.0          
+ Martinotiella cylindrica                219     0.0  0.0  0.0       3.0                           1.0  0.0       0.0  1.0  0.0  0.0
+ NS Log G                                207                    0.0  0.0  3.0                           0.0       1.0       0.0  2.0
+ Caucasina elongata                      285                    1.0  1.0                 0.0            0.0  1.0       0.0  0.0     
+ Globigerina praebulloides                15     2.0  1.0  2.0  0.0  2.0  2.0            0.0       1.0  0.0  1.0       0.0  3.0  0.0
+ Ehrenbergina variabilis                 334     0.0       2.0  0.0                           0.0                                   
+ G. ex.gr. praescitula zealandica        236                         2.0                                0.0  0.0  1.0       0.0  2.0
+ Uvigerina ex.gr. semiornata             282               2.0       1.0                 0.0                           2.0       2.0
+ Neogloboquadrina continuosa             125          1.0  1.0       3.0                                               1.0  0.0  2.0
+ Cannosphaeropsis utinensis              362     2.0  0.0  1.0            2.0                                          5.0          
+ Asterigerina gurichi                     17                    2.0  2.0                 3.0  0.0  3.0  0.0  0.0  1.0  0.0  0.0  3.0
+ Globigerinoides trilobus                123                                             1.0            0.0                 6.0  3.0
+ Tenuitella angustiumbilicata            138               4.0                           1.0       0.0  0.0  0.0  1.0            0.0
+ Catapsydrax unicavus                    233     0.0            0.0       1.0                      0.0                              
+ Flat rads + sponge spicules             412                    0.0       0.0                                                       
+ Deflandrea phosphoritica                  3     0.0  0.0  0.0  0.0       0.0  0.0                                                  
+ Areoligera semicirculata                  7     0.0  0.0  1.0  0.0       1.0  1.0                                     0.0          
+ Wetzelliella symmetrica                  41     0.0  0.0  0.0  1.0  0.0       0.0                                     0.0          
+ Gyroidina girardana                      20               0.0            2.0            0.0  0.0  4.0                           2.0
+ Coarse agglutinated spp.                 25     0.0  0.0  1.0  2.0  1.0  0.0  0.0       0.0  0.0  0.0  1.0  0.0  0.0  8.0  8.0  3.0
+ Cyclammina placenta                      97     0.0  0.0  0.0  2.0  0.0  8.0  0.0       0.0  0.0  0.0  0.0  0.0  0.0  9.0  6.0  3.0
+ Spirosigmoilinella compressa            182     0.0  0.0  2.0  2.0  0.0                                0.0  0.0  0.0  2.0  0.0  3.0
+ Cyclammina rotundidorsata               183          0.0                                                    0.0       2.0  6.0  3.0
+ Turrilina alsatica                       24     0.0            5.0  0.0  4.0  4.0                           1.0            0.0  0.0
+ Cenosphaera spp. (spheres)              302     0.0  2.0  1.0            0.0                                                       
+ Karreriella horrida                     262          1.0  0.0  1.0  0.0       0.0                           0.0       6.0  2.0  7.0
+ Glomospirella biedae                    198     0.0       4.0  0.0       0.0                                     0.0  4.0          
+ Ammodiscus latus                        259               0.0                                          0.0       0.0  4.0  1.0  4.0
+ Rotaliatina bulimoides                  140               3.0       1.0                 1.0                 2.0            0.0  3.0
+ Adercotryma agterbergi                  289     0.0  4.0  8.0  2.0  1.0                                          0.0  2.0  1.0  2.0
+ Aschemonella grandis                    324     0.0  4.0  6.0                 2.0                                1.0  6.0          
+ Reophax elongatus                       197     0.0  3.0  2.0                                                         0.0          
+ Haplophragmoides walteri                261          1.0  1.0  5.0  1.0  0.0  0.0       0.0            0.0  2.0  4.0  7.0  2.0  8.0
+ Dorothia seigliei                       321     0.0  1.0  0.0  6.0  1.0                                     2.0  1.0  3.0  2.0  6.0
+ NS Log F                                206                         4.0                 2.0            2.0       0.0       0.0  0.0
+ Reticulophragmium amplectens             29     2.0  3.0  2.0  1.0  0.0  0.0  3.0       1.0  0.0  0.0  2.0  0.0  0.0  0.0  1.0  0.0
+ Ammosphaeroidina pseudopauciloculata     32     0.0  3.0  1.0  1.0            2.0       2.0       1.0  2.0            1.0  0.0  2.0
+ Areosphaeridium diktyoplokus             12     4.0  1.0       1.0  1.0  3.0  4.0                                     0.0          
+ Heteraulacacysta porosa                  13     3.0       6.0  1.0       1.0  5.0                                                  
+ Recurvoides ex.gr. walteri              229     0.0  4.0  1.0            1.0                                     6.0               
+ Ammomarginulina aubertae                263          1.0  2.0       1.0       0.0       2.0                 0.0  0.0  1.0  1.0  1.0
+ Rottnestia borussica                     72     4.0  0.0       0.0       2.0  5.0                                     0.0          
+ Diphyes ficusoides                       92     4.0  0.0  1.0  0.0       1.0  2.0                                                  
+ Haplophragmoides kirki                  260     0.0  1.0  0.0  2.0  3.0  0.0  1.0       0.0            3.0  0.0       0.0  1.0  0.0
+ Reticulophragmoides jarvisi             291     0.0       0.0                           0.0            0.0       2.0  9.0  0.0  4.0
+ Spiroplectammina spectabilis LO          68     4.0  4.0  5.0  0.0  1.0       6.0       6.0  0.0  1.0  4.0  1.0  1.0  0.0  0.0  0.0
+ Karreriella conversa                    264     0.0       5.0  2.0  0.0  0.0  1.0       6.0  0.0  1.0  4.0  3.0       0.0  0.0  3.0
+ Cenosphaera spp. LCO                    117                    1.0  4.0       5.0       3.0  0.0  0.0  1.0                 3.0     
+ Reticulophragmium intermedia            175     3.0  0.0       0.0            4.0                                     0.0          
+ Eatonicysta ursulae                      99     3.0  0.0  1.0  1.0  1.0  2.0  4.0                                     0.0          
+ NS Log E                                205                         1.0                 4.0       2.0  0.0       1.0       1.0  0.0
+ Spiroplectammina navarroana              54     2.0  3.0  1.0  0.0  0.0  1.0  2.0       1.0  0.0  0.0  0.0            4.0  0.0  1.0
+ Recurvoidella lamella                   279     2.0  3.0       4.0  0.0       1.0       1.0            0.0            1.0          
+ Subbotina patagonica                     50     2.0  1.0  1.0  1.0  0.0  1.0  1.0            1.0       0.0            0.0       0.0
+ Tuff                                    277          0.0       1.0  0.0                 1.0       0.0       0.0                    
+ Deflandrea oebisfeldensis               108     2.0  0.0  1.0  2.0  0.0  1.0  1.0                                                  
+ Coscinodiscus spp.                       22     2.0  0.0  1.0  2.0  0.0                      1.0  1.0  0.0  0.0            0.0  0.0
+ NS Log D                                204                         0.0  2.0            1.0       0.0  0.0       1.0       1.0  0.0
+ NS Log C                                203                         0.0  1.0            1.0       0.0  0.0       1.0       0.0  0.0
+ Cystammina pauciloculata                136    11.0  8.0  8.0  0.0  0.0  1.0  5.0       4.0       0.0       0.0       0.0       6.0
+ Trochamminoides coronatus                78                         3.0  2.0  0.0       5.0  0.0       2.0  1.0  3.0       0.0  4.0
+ Cystammina aff.globigerinaeformis       110    12.0  9.0       0.0       0.0  3.0            1.0  0.0  4.0            3.0  7.0  0.0
+ Apectodinium augustum                    28     2.0  0.0  1.0  3.0  5.0  4.0  0.0                                     0.0          
+ Rzehakina minima                        105     1.0  0.0       2.0            0.0       1.0            0.0  1.0                    
+ Reticulophragmium paupera                76     2.0  0.0  1.0  2.0  1.0  2.0            1.0  1.0  2.0  0.0  2.0       0.0  1.0  1.0
+ Spiroplectammina spectabilis LCO         57     1.0  0.0       2.0  0.0  3.0  1.0       1.0       4.0  0.0  0.0  0.0  2.0  1.0  1.0
+ Saccammina placenta                     310     0.0  0.0  0.0  3.0            2.0       0.0  2.0  3.0                      1.0  0.0
+ Reticulophragmium garcilassoi           283          0.0       5.0  1.0       3.0       2.0            0.0                      0.0
+ Hormosina excelsa                       134     0.0            0.0       3.0            2.0  1.0                      0.0 11.0     
+ Trochammina ruthven murrayi             129     0.0  0.0  0.0  0.0       6.0  2.0       4.0       3.0                      1.0  1.0
+ Palaeoperidinium pyrophorum             118          2.0  0.0  0.0       2.0  1.0                                                  
+ Ammodiscus planus                       251     0.0            AAA            1.0       0.0                                0.0     
+ Subbotina pseudobulloides                61                         0.0                 0.0  0.0  0.0            0.0  0.0  3.0  0.0
+ Matanzia varians                        107                    0.0  0.0                      0.0                                   
+ NS Log B                                202                                             1.0       1.0  0.0       1.0       2.0  1.0
+ Gavelinella beccariiformis               55                    1.0  0.0                 0.0  1.0  0.0            1.0  1.0  5.0     
+ Planorotalites compressus                60                         0.0                 0.0  2.0  0.0       0.0  1.0  0.0  5.0     
+ Subbotina triloculinoides               253                         0.0                 0.0  2.0                 1.0  0.0          
+
+
+
+
+ STEP MODEL (CONTINUED)
+
+
+           NAME                       NUMBER     WELL NUMBER
+                                                  18   19   20   21   22   23   24   25   26   27
+
+
+ Elphidium clavatum                      240                         0.0                         
+ Elphidium spp.                           77     0.0       0.0  0.0       0.0       0.0  0.0     
+ Cassidulina teretis                     228     0.0       0.0  0.0  0.0  0.0  0.0  0.0  0.0     
+ Bulimina marginata                      338                         0.0  0.0       0.0  0.0     
+ Neogloboquadrina pachyderma               1     0.0                 0.0  1.0  0.0  0.0  0.0     
+ Cibicidoides scaldisensis                31                         0.0  1.0  1.0  0.0  0.0     
+ Buccella frigida                        171                         1.0  0.0  1.0  0.0          
+ Cibicidoides grossa                     270     1.0       0.0       0.0  0.0  1.0  0.0  0.0     
+ Ammonia beccarii                        328                              4.0  0.0  0.0          
+ Cibicidoides dutemplei                  181                         0.0  0.0  0.0  0.0  0.0     
+ Trifarina fluens                        316     3.0                      0.0       0.0          
+ Globorotalia inflata                      4                              0.0  1.0  3.0  0.0     
+ Cibicidoides grossa LCO                 159                              0.0  2.0  2.0  0.0     
+ Sigmoilopsis schlumbergeri               23     0.0       0.0  0.0       3.0  2.0       0.0     
+ Globorotalia puncticulata               266     0.0       0.0            0.0  0.0  0.0          
+ Neogloboquadrina atlantica              269               0.0  0.0       0.0  2.0               
+ Neogloboquadrina acostaensis              6     0.0            0.0                 0.0          
+ Cibicidoides pachyderma                 330                                   0.0  0.0  3.0     
+ Globoquadrina venezuelana                81                              0.0  1.0       0.0     
+ Radiolarians/diatoms flood               91     0.0                 0.0       0.0       0.0     
+ Sumatradinium spp.                      361                         1.0  0.0                    
+ Martinotiella cylindrica                219               3.0  0.0                      0.0     
+ NS Log G                                207     1.0  0.0  0.0                                0.0
+ Caucasina elongata                      285                                                     
+ Globigerina praebulloides                15     0.0            0.0            1.0  1.0  0.0     
+ Ehrenbergina variabilis                 334                              1.0  1.0               
+ G. ex.gr. praescitula zealandica        236     0.0       1.0  0.0                              
+ Uvigerina ex.gr. semiornata             282     4.0                 0.0                         
+ Neogloboquadrina continuosa             125     5.0                                             
+ Cannosphaeropsis utinensis              362                         2.0  1.0                    
+ Asterigerina gurichi                     17     2.0            0.0  0.0  0.0                    
+ Globigerinoides trilobus                123     2.0       1.0                                   
+ Tenuitella angustiumbilicata            138     0.0                                             
+ Catapsydrax unicavus                    233          0.0                                3.0     
+ Flat rads + sponge spicules             412                         1.0  1.0  0.0       0.0     
+ Deflandrea phosphoritica                  3                         1.0                         
+ Areoligera semicirculata                  7                         1.0                         
+ Wetzelliella symmetrica                  41                                                     
+ Gyroidina girardana                      20                              1.0            0.0     
+ Coarse agglutinated spp.                 25          1.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0
+ Cyclammina placenta                      97     0.0  0.0                 0.0  0.0  0.0  0.0  0.0
+ Spirosigmoilinella compressa            182     0.0  0.0  0.0  0.0       2.0       2.0  0.0  0.0
+ Cyclammina rotundidorsata               183     0.0  1.0  0.0  0.0                           0.0
+ Turrilina alsatica                       24     0.0       0.0       4.0  4.0            3.0     
+ Cenosphaera spp. (spheres)              302                              0.0  0.0  0.0  0.0     
+ Karreriella horrida                     262     4.0  0.0  1.0                                0.0
+ Glomospirella biedae                    198     2.0                      0.0            0.0     
+ Ammodiscus latus                        259     2.0  3.0                 1.0                    
+ Rotaliatina bulimoides                  140     0.0       0.0                      4.0  5.0  1.0
+ Adercotryma agterbergi                  289     3.0                      1.0  0.0  0.0  1.0     
+ Aschemonella grandis                    324     0.0  3.0                                        
+ Reophax elongatus                       197                              0.0            2.0     
+ Haplophragmoides walteri                261     0.0  0.0  0.0  2.0                      0.0  1.0
+ Dorothia seigliei                       321     1.0            0.0       2.0  1.0               
+ NS Log F                                206     0.0  0.0  0.0                                2.0
+ Reticulophragmium amplectens             29          1.0  0.0  0.0       2.0  0.0       1.0  0.0
+ Ammosphaeroidina pseudopauciloculata     32     6.0  0.0  0.0                 0.0       0.0     
+ Areosphaeridium diktyoplokus             12                              2.0  0.0  0.0          
+ Heteraulacacysta porosa                  13                              0.0  0.0  0.0          
+ Recurvoides ex.gr. walteri              229     8.0  6.0       1.0                      0.0  2.0
+ Ammomarginulina aubertae                263     0.0  1.0       1.0                      0.0     
+ Rottnestia borussica                     72                                   0.0  0.0          
+ Diphyes ficusoides                       92                                                     
+ Haplophragmoides kirki                  260          2.0                                     3.0
+ Reticulophragmoides jarvisi             291     5.0  1.0                                        
+ Spiroplectammina spectabilis LO          68     0.0  0.0  0.0  2.0                      0.0  2.0
+ Karreriella conversa                    264     2.0  0.0  0.0       0.0                      0.0
+ Cenosphaera spp. LCO                    117     0.0  0.0                                        
+ Reticulophragmium intermedia            175          0.0                                        
+ Eatonicysta ursulae                      99                                                     
+ NS Log E                                205     1.0  2.0  0.0                                0.0
+ Spiroplectammina navarroana              54     0.0  8.0       0.0                           1.0
+ Recurvoidella lamella                   279                                                     
+ Subbotina patagonica                     50     0.0                                          0.0
+ Tuff                                    277                                                     
+ Deflandrea oebisfeldensis               108                         1.0                         
+ Coscinodiscus spp.                       22     0.0  0.0  0.0       1.0                         
+ NS Log D                                204     1.0  0.0  0.0                                0.0
+ NS Log C                                203     1.0       0.0                                0.0
+ Cystammina pauciloculata                136     0.0            0.0                           4.0
+ Trochamminoides coronatus                78          0.0                                     0.0
+ Cystammina aff.globigerinaeformis       110     0.0                                          0.0
+ Apectodinium augustum                    28                                                     
+ Rzehakina minima                        105                    1.0                              
+ Reticulophragmium paupera                76     1.0  1.0            1.0                      2.0
+ Spiroplectammina spectabilis LCO         57     1.0  2.0            2.0                         
+ Saccammina placenta                     310     3.0  3.0       1.0                           5.0
+ Reticulophragmium garcilassoi           283                                                  1.0
+ Hormosina excelsa                       134     2.0  2.0            1.0                      4.0
+ Trochammina ruthven murrayi             129                         2.0                      1.0
+ Palaeoperidinium pyrophorum             118                         2.0                         
+ Ammodiscus planus                       251                         1.0                         
+ Subbotina pseudobulloides                61     0.0  1.0            0.0                      1.0
+ Matanzia varians                        107     0.0  2.0       0.0                           0.0
+ NS Log B                                202     0.0  0.0  0.0                                   
+ Gavelinella beccariiformis               55          0.0  1.0                                0.0
+ Planorotalites compressus                60                         0.0                      1.0
+ Subbotina triloculinoides               253                         2.0                      1.0
+ NUMBER OF EVENTS =    98
+
+
+
+
+ STEP MODEL
+ __________
+
+THE STEPMODEL GIVES A PENALTY POINT FOR EACH POSITION
+AN EVENT RECORD IN A WELL IS OUT OF PLACE, RELATIVE TO
+THE EVENT ORDER IN THE (SCALED) OPTIMUM SEQUENCE.
+AAA INDICATES MORE THAN 12 PENALTY POINTS.
+
+
+           NAME                       NUMBER     WELL NUMBER
+   (OPTIMUM SEQUENCE)
+                                                   1    2    3    4    5    6    7    8    9   10   11   12   13   14   15   16   17
+
+
+ Elphidium clavatum                      240     2.5            2.0       2.5                                          0.0       0.5
+ Elphidium spp.                           77                    2.0  1.0  2.5       4.0  1.0       0.0  0.0            1.0  0.0  0.5
+ Cassidulina teretis                     228     2.5  1.5  2.0  2.0  1.0  2.5       1.5  1.0            0.5            1.0  0.0  0.0
+ Cibicidoides scaldisensis                31     2.5  1.5       2.0       2.5       1.5                                2.5          
+ Bulimina marginata                      338          1.5  2.0                                                         2.0          
+ Neogloboquadrina pachyderma               1     3.0  1.5  2.0  2.0  2.0  2.5       1.0                                1.5       3.0
+ Buccella frigida                        171     2.5            0.0       4.0       3.0                                5.0          
+ Cibicidoides grossa                     270     3.0  0.0  2.0  1.0  2.0  3.5       2.0  1.0                                0.0  1.0
+ Ammonia beccarii                        328     3.0            1.0       4.5                                                       
+ Trifarina fluens                        316     4.5       1.0  4.0       2.0       2.0                                          1.0
+ Globorotalia inflata                      4     3.5  2.0  1.0  2.0  1.0  1.0       1.0                           0.0               
+ Cibicidoides dutemplei                  181          1.0  1.0  2.0                                                                 
+ Cibicidoides grossa LCO                 159          1.0       2.0                 1.0                                             
+ Sigmoilopsis schlumbergeri               23     1.0  0.5  5.0  3.0  1.0  2.5       2.0  0.0            1.0            0.0  0.0  1.0
+ Cibicidoides pachyderma                 330     5.0  0.5                                                              1.0          
+ Neogloboquadrina atlantica              269     0.0  0.0  0.5  0.5  1.0  1.0       2.0  0.0            1.5            1.0  0.0  1.0
+ Globorotalia puncticulata               266                         1.0  1.0       2.0                                          1.0
+ Neogloboquadrina acostaensis              6                              0.0                                               0.0  0.0
+ Globoquadrina venezuelana                81     0.0       6.5            1.5                      6.0                              
+ Sumatradinium spp.                      361          2.0  2.0            6.0                                          0.0          
+ Radiolarians/diatoms flood               91     1.0  1.0  2.5       1.0  5.0                                3.5       4.0  0.0  1.0
+ Cannosphaeropsis utinensis              362     1.0  3.0  5.0            4.0                                          1.5          
+ NS Log G                                207                    1.0  7.0  4.0                           1.0       0.0       6.0  1.0
+ Martinotiella cylindrica                219     2.0  3.0  5.0       4.0                           2.5  1.0       3.5  1.5  5.5  5.0
+ Ehrenbergina variabilis                 334     2.0       3.5  3.0                           0.0                                   
+ Globigerinoides trilobus                123                                             3.0            2.0                 3.5  4.0
+ Uvigerina ex.gr. semiornata             282               4.5       6.0                 4.0                           2.0       3.0
+ Neogloboquadrina continuosa             125          3.0  4.5       3.0                                               3.0  5.0  3.0
+ G. ex.gr. praescitula zealandica        236                         3.0                                2.0  3.5  2.0       5.0  4.0
+ Globigerina praebulloides                15     4.0  3.0  5.5  3.0  3.0  3.5            4.0       3.0  2.0  2.5       4.5  5.5 11.0
+ Caucasina elongata                      285                    3.5  2.5                 4.0            2.0  2.5       4.0  4.0     
+ Catapsydrax unicavus                    233     1.0            2.0       2.0                      4.0                              
+ Asterigerina gurichi                     17                    3.0  2.5                 4.0  0.5  4.0  2.0  1.5  2.0  3.5  3.0  5.0
+ Flat rads + sponge spicules             412                    0.0       1.0                                                       
+ Deflandrea phosphoritica                  3     0.0  0.0  2.5  0.0       4.0  2.0                                                  
+ Tenuitella angustiumbilicata            138               5.5                           1.0       3.0  2.0  1.5  2.0           11.5
+ Gyroidina girardana                      20               8.0            3.0            0.0  0.5  4.5                          10.5
+ Coarse agglutinated spp.                 25     3.0  2.5  3.5  2.5  0.0  3.0  3.5       0.0  0.5  2.0  1.0  0.5  0.5  7.0  8.0  3.5
+ Cyclammina placenta                      97     3.0  2.5  8.0  2.5  2.5  7.0  8.5       2.5  0.5  2.0  1.0  0.5  0.0  7.0  6.0  4.0
+ Areoligera semicirculata                  7     2.5  2.0  4.0  7.0       3.0  3.5                                    10.0          
+ Wetzelliella symmetrica                  41     2.5  2.0  3.5  6.0  1.0       3.0                                    10.0          
+ Spirosigmoilinella compressa            182     1.0  4.5  4.0  4.5  1.5                                1.0  0.5  0.0  7.0  2.0  4.0
+ Turrilina alsatica                       24     0.5            5.0  1.5  4.0  4.5                           0.5            4.0  7.5
+ Cyclammina rotundidorsata               183          AAA                                                    3.5       7.0  7.5  6.5
+ Cenosphaera spp. (spheres)              302     0.5  4.5  5.0            0.0                                                       
+ Rotaliatina bulimoides                  140               5.0       1.5                 1.0                 2.0            5.0  7.5
+ Glomospirella biedae                    198     1.0       6.0  8.0       2.5                                     1.5  6.0          
+ Ammodiscus latus                        259               7.0                                          6.0       2.5  7.0  3.0  7.5
+ Adercotryma agterbergi                  289     1.0  3.0  7.5  5.0  2.0                                          4.0  5.0  4.0  5.0
+ Aschemonella grandis                    324     1.0  3.0  6.0                 1.5                                3.5  8.0          
+ Karreriella horrida                     262          2.5  3.5  5.0  3.5       6.5                           2.5      10.0  5.0 10.5
+ Haplophragmoides walteri                261          7.0  3.5  6.0  3.0  2.5 11.5       9.0            6.0  3.0  4.0  7.0  3.0  8.0
+ Dorothia seigliei                       321     6.5  7.0 10.0  7.5  3.0                                     3.0  2.0  2.5  3.0  6.0
+ Reophax elongatus                       197     6.0  5.5  4.5                                                         1.0          
+ Areosphaeridium diktyoplokus             12     2.0  6.0       3.5  2.0  2.0  5.5                                     4.0          
+ Heteraulacacysta porosa                  13     3.0       4.5  3.5       1.5  4.5                                                  
+ Recurvoides ex.gr. walteri              229     7.5  5.0  6.0            1.0                                     4.5               
+ NS Log F                                206                         5.0                 2.0            2.0       0.0       1.0  2.0
+ Reticulophragmium amplectens             29     4.0  5.0  3.0  3.5  4.0  2.0  4.5       5.0  1.0  4.0  2.0  0.5  1.0  3.0  1.0  5.0
+ Ammosphaeroidina pseudopauciloculata     32     4.5  5.0  3.5  3.5            4.0       4.5       1.0  5.0            3.0  2.0  2.5
+ Rottnestia borussica                     72     4.5  2.0       1.0       3.5  4.5                                     2.0          
+ Spiroplectammina spectabilis LO          68     3.5  4.0  3.5  5.0  4.0       3.5       3.5  1.0  1.0  4.0  2.0  1.0  4.5  4.0  4.0
+ Ammomarginulina aubertae                263          4.0  3.5       4.0      12.0       3.5                 2.0  5.0  4.0  2.5  3.5
+ Diphyes ficusoides                       92     5.5  5.0  2.0  3.0       1.0  3.0                                                  
+ Haplophragmoides kirki                  260     5.5  2.0  2.0  3.0  4.5  2.0  5.5       4.0            4.0  1.0       2.0  2.5  3.0
+ Cenosphaera spp. LCO                    117                    2.0  3.0       4.5       4.0  1.0  2.0  1.0                 1.0     
+ Karreriella conversa                    264     AAA       5.5  3.0  3.0  AAA  5.0       6.0  2.0  2.0  4.0  3.5       2.5  4.5  4.5
+ Reticulophragmoides jarvisi             291    11.5       9.5                           AAA            0.5       3.0 11.5  2.0  6.5
+ Eatonicysta ursulae                      99     6.0  6.0  2.0  1.0  1.0  2.0  5.0                                     4.0          
+ Reticulophragmium intermedia            175     6.5  5.0       1.0            5.0                                     3.0          
+ Spiroplectammina navarroana              54     5.5  4.0  2.5  8.0  2.0  2.0  3.5       3.0  2.0  1.0  1.0            4.0  3.5  1.0
+ NS Log E                                205                         2.0                 5.0       3.0  1.5       1.0       4.0  1.0
+ Recurvoidella lamella                   279     5.5  5.0       4.0  1.0       2.0       1.0            0.5            2.0          
+ Subbotina patagonica                     50     5.5  3.0  2.5  2.0  0.0  2.0  2.0            1.5       0.5            1.0       2.0
+ Deflandrea oebisfeldensis               108     4.0  3.5  2.5  2.0  1.0  3.0  3.0                                                  
+ Tuff                                    277          3.0       3.0  1.0                 3.0       1.0       0.0                    
+ Coscinodiscus spp.                       22     4.0  2.5  2.5  3.0  1.0                      1.5  1.0  1.5  0.5            3.0  2.0
+ Cystammina pauciloculata                136    12.0  9.0  8.0  8.0  5.0  7.0  6.5       3.0       6.0       3.5       1.5       4.0
+ NS Log D                                204                         3.0  3.0            2.0       1.5  2.0       2.0       3.0  1.0
+ NS Log C                                203                         3.0  3.0            2.0       2.0  2.0       2.0       2.0  1.0
+ Cystammina aff.globigerinaeformis       110     AAA 10.0       8.0       7.5  2.0            0.0  4.0  3.0            4.0  7.0  3.0
+ Apectodinium augustum                    28     2.0  0.0  1.0  4.0  5.0  4.0  1.0                                     1.0          
+ Trochamminoides coronatus                78                         3.0  3.0  1.0       5.0  3.0       2.5  1.5  3.0       9.0  5.0
+ Reticulophragmium paupera                76     1.5  1.0  1.0  5.5  1.0  5.0            2.0  2.0  5.0  0.5  1.0       1.5  2.5  1.0
+ Rzehakina minima                        105     1.5  1.0       5.0            6.0       2.0            0.5  1.0                    
+ Spiroplectammina spectabilis LCO         57     1.5  1.0       5.0  1.0  5.0  4.0       1.0       4.5  0.0  0.5  0.0  2.5  2.5  1.0
+ Saccammina placenta                     310     2.0  0.0  1.5  5.5            3.5       3.5  2.0  3.5                      2.0  0.0
+ Hormosina excelsa                       134     2.0            3.0       5.0            4.0  1.0                      0.5 11.0     
+ Reticulophragmium garcilassoi           283          1.5       8.0  1.0       3.0       4.0            0.0                      1.0
+ Trochammina ruthven murrayi             129     2.0  1.5  1.5  1.0       6.0  2.5       4.0       3.5                      4.0  1.0
+ Ammodiscus planus                       251     2.0            AAA            2.0       0.0                                4.0     
+ Palaeoperidinium pyrophorum             118          2.0  1.5  0.0       2.0  2.0                                                  
+ Matanzia varians                        107                    1.0  1.0                      4.0                                   
+ NS Log B                                202                                             0.0       0.0  0.0       0.0       5.0  0.0
+ Subbotina pseudobulloides                61                         1.0                 1.5  2.0  1.0            3.0  1.5  6.0  0.0
+ Gavelinella beccariiformis               55                    1.0  1.0                 1.5  3.0  1.0            2.0  1.0  5.0     
+ Planorotalites compressus                60                         0.0                 1.5  3.0  1.0       0.0  2.0  0.5  5.0     
+ Subbotina triloculinoides               253                         0.0                 1.5  3.0                 2.0  0.0          
+
+
+
+
+ STEP MODEL (CONTINUED)
+
+
+           NAME                       NUMBER     WELL NUMBER
+                                                  18   19   20   21   22   23   24   25   26   27
+
+
+ Elphidium clavatum                      240                         1.0                         
+ Elphidium spp.                           77     0.0       0.0  0.5       1.5       3.5  3.0     
+ Cassidulina teretis                     228     1.0       0.0  0.5  1.0  1.5  1.5  3.5  3.0     
+ Cibicidoides scaldisensis                31                         3.0  2.0  1.5  3.5  3.0     
+ Bulimina marginata                      338                         2.0  3.0       3.5  3.0     
+ Neogloboquadrina pachyderma               1     2.0                 1.5  3.5  2.5  3.5  3.0     
+ Buccella frigida                        171                         1.5  2.0  2.5  3.5          
+ Cibicidoides grossa                     270     2.0       0.0       0.0  2.0  2.5  3.5  3.0     
+ Ammonia beccarii                        328                              5.5  0.5  1.0          
+ Trifarina fluens                        316     3.0                      2.0       3.0          
+ Globorotalia inflata                      4                              3.0  2.0  5.5  2.5     
+ Cibicidoides dutemplei                  181                         0.0  2.0  3.0  2.0  4.0     
+ Cibicidoides grossa LCO                 159                              2.0  2.0  2.0  1.5     
+ Sigmoilopsis schlumbergeri               23     0.0       1.0  0.5       3.0  2.0       1.0     
+ Cibicidoides pachyderma                 330                                   3.5  3.0  3.0     
+ Neogloboquadrina atlantica              269               1.5  0.5       1.0  2.0               
+ Globorotalia puncticulata               266     0.0       1.5            2.0  1.0  1.5          
+ Neogloboquadrina acostaensis              6     0.0            1.5                 1.5          
+ Globoquadrina venezuelana                81                              0.5  1.0       0.5     
+ Sumatradinium spp.                      361                         0.0  2.0                    
+ Radiolarians/diatoms flood               91     3.0                 1.0       2.0       2.0     
+ Cannosphaeropsis utinensis              362                         1.0  2.0                    
+ NS Log G                                207     3.0  0.0  3.0                                0.0
+ Martinotiella cylindrica                219               4.0  1.5                      2.0     
+ Ehrenbergina variabilis                 334                              2.5  2.0               
+ Globigerinoides trilobus                123     2.5       1.5                                   
+ Uvigerina ex.gr. semiornata             282     4.0                 0.0                         
+ Neogloboquadrina continuosa             125     4.0                                             
+ G. ex.gr. praescitula zealandica        236     1.5       1.5  1.5                              
+ Globigerina praebulloides                15     1.5            1.5            2.5  1.0  2.0     
+ Caucasina elongata                      285                                                     
+ Catapsydrax unicavus                    233          1.5                                3.5     
+ Asterigerina gurichi                     17     2.5            0.0  4.0  3.0                    
+ Flat rads + sponge spicules             412                         1.5  2.0  0.0       0.0     
+ Deflandrea phosphoritica                  3                         2.0                         
+ Tenuitella angustiumbilicata            138     0.5                                             
+ Gyroidina girardana                      20                              2.0            0.5     
+ Coarse agglutinated spp.                 25          1.0  0.0  0.0  2.0  4.0  0.5  3.5  3.5  0.0
+ Cyclammina placenta                      97     1.0  0.5                 4.0  0.5  3.5  3.5  1.0
+ Areoligera semicirculata                  7                         3.0                         
+ Wetzelliella symmetrica                  41                                                     
+ Spirosigmoilinella compressa            182     1.0  4.0  0.0  1.5       3.0       3.0  3.5  1.0
+ Turrilina alsatica                       24     7.5       2.0       4.5  5.0            3.5     
+ Cyclammina rotundidorsata               183     6.0  3.0  1.5  1.5                           1.0
+ Cenosphaera spp. (spheres)              302                              2.0  0.5  2.5  2.5     
+ Rotaliatina bulimoides                  140     6.5       1.0                      4.0  4.0  0.0
+ Glomospirella biedae                    198     4.0                      5.0            2.0     
+ Ammodiscus latus                        259     4.5  2.0                 3.0                    
+ Adercotryma agterbergi                  289     4.5                      3.0  1.0  1.5  2.0     
+ Aschemonella grandis                    324     4.0  2.0                                        
+ Karreriella horrida                     262     9.5  1.0  2.5                                5.5
+ Haplophragmoides walteri                261     4.0  1.0  0.0  2.0                      2.5  2.0
+ Dorothia seigliei                       321     4.0            0.0       2.0  1.5               
+ Reophax elongatus                       197                              2.0            3.0     
+ Areosphaeridium diktyoplokus             12                              3.0  2.0  0.0          
+ Heteraulacacysta porosa                  13                              1.0  2.0  0.0          
+ Recurvoides ex.gr. walteri              229     6.0  3.0       0.0                      3.0  3.5
+ NS Log F                                206     2.0  1.0  0.0                                3.0
+ Reticulophragmium amplectens             29          1.0  1.5  2.0       4.0  2.0       2.0  2.5
+ Ammosphaeroidina pseudopauciloculata     32     6.0  4.0  1.5                 2.0       1.5     
+ Rottnestia borussica                     72                                   0.0  0.0          
+ Spiroplectammina spectabilis LO          68     3.0  4.0  1.5  1.0                      1.0  3.5
+ Ammomarginulina aubertae                263     3.0  4.0       1.0                      1.0     
+ Diphyes ficusoides                       92                                                     
+ Haplophragmoides kirki                  260          3.0                                     4.0
+ Cenosphaera spp. LCO                    117     3.0  4.0                                        
+ Karreriella conversa                    264     4.0  3.0  1.5       8.5                      0.5
+ Reticulophragmoides jarvisi             291     8.0  5.0                                        
+ Eatonicysta ursulae                      99                                                     
+ Reticulophragmium intermedia            175          2.0                                        
+ Spiroplectammina navarroana              54     1.0  7.0       0.0                           0.5
+ NS Log E                                205     2.0  2.0  0.0                                1.0
+ Recurvoidella lamella                   279                                                     
+ Subbotina patagonica                     50     0.0                                          1.0
+ Deflandrea oebisfeldensis               108                         1.0                         
+ Tuff                                    277                                                     
+ Coscinodiscus spp.                       22     2.0  0.0  0.0       1.0                         
+ Cystammina pauciloculata                136     2.0            2.0                           2.0
+ NS Log D                                204     2.0  0.0  0.0                                1.0
+ NS Log C                                203     2.0       0.0                                1.0
+ Cystammina aff.globigerinaeformis       110     4.0                                          7.5
+ Apectodinium augustum                    28                                                     
+ Trochamminoides coronatus                78          6.0                                     4.0
+ Reticulophragmium paupera                76     2.5  4.0            2.5                      4.0
+ Rzehakina minima                        105                    1.5                              
+ Spiroplectammina spectabilis LCO         57     3.0  3.5            2.0                         
+ Saccammina placenta                     310     3.0  3.0       1.5                           5.0
+ Hormosina excelsa                       134     2.5  2.5            3.5                      3.0
+ Reticulophragmium garcilassoi           283                                                  2.0
+ Trochammina ruthven murrayi             129                         2.5                      2.0
+ Ammodiscus planus                       251                         2.5                         
+ Palaeoperidinium pyrophorum             118                         3.0                         
+ Matanzia varians                        107     0.5  1.0       0.0                           1.5
+ NS Log B                                202     1.0  1.0  1.0                                   
+ Subbotina pseudobulloides                61     1.5  2.0            1.5                      3.0
+ Gavelinella beccariiformis               55          0.0  1.0                                2.0
+ Planorotalites compressus                60                         1.5                      1.5
+ Subbotina triloculinoides               253                         2.5                      1.5
+
+
+  WELL NO.    KENDALL`S TAU
+
+         1            0.878
+         2            0.890
+         3            0.861
+         4            0.892
+         5            0.919
+         6            0.878
+         7            0.767
+         8            0.652
+         9            0.871
+        10            0.848
+        11            0.828
+        12            0.906
+        13            0.873
+        14            0.873
+        15            0.876
+        16            0.859
+        17            0.875
+        18            0.886
+        19            0.854
+        20            0.923
+        21            0.913
+        22            0.860
+        23            0.847
+        24            0.878
+        25            0.790
+        26            0.850
+        27            0.857
+
+
+NOTE: KENDALL`S TAU IS A RANK CORRELATION COEFFICIENT.
+LIKE THE ORDINARY (PEARSON`S) PRODUCT-MOMENT CORRELATION
+COEFFICIENT, TAU VARIES BETWEEN 0 FOR COMPLETE LACK OF
+CORRELATION AND +1 OR -1 FOR MAXIMUM POSITIVE OR NEGATIVE
+CORRELATION. TAU IS CALCULATED FROM THE PENALTY SCORES FOR
+EACH WELL AND EXPRESSES DEGREE OF CORRELATION WITH THE
+OPTIMUM SEQUENCE.
+
+
+
+
+
+
+ PENALTY POINTS FOR EVENTS LOWER THAN EXPECTED
+
+
+           NAME                       NUMBER     WELL NUMBER
+   (OPTIMUM SEQUENCE)
+                                                   1    2    3    4    5    6    7    8    9   10   11   12   13   14   15   16   17
+
+
+ Elphidium clavatum                      240     1.0            0.0       0.0                                          0.0       0.0
+ Elphidium spp.                           77                    0.0  0.0  0.0       3.0  0.0       0.0  0.0            1.0  0.0  0.0
+ Cassidulina teretis                     228     1.0  0.0  0.0  0.0  0.0  0.0       0.0  0.0            0.0            1.0  0.0  0.0
+ Cibicidoides scaldisensis                31     1.0  0.0       0.0       0.0       0.0                                2.0          
+ Bulimina marginata                      338          0.0  0.0                                                         1.0          
+ Neogloboquadrina pachyderma               1     0.0  0.0  0.0  0.0  1.0  0.0       0.0                                1.0       3.0
+ Buccella frigida                        171     2.0            0.0       4.0       2.0                                0.0          
+ Cibicidoides grossa                     270     3.0  0.0  0.0  0.0  0.0  2.0       0.0  0.0                                0.0  0.0
+ Ammonia beccarii                        328     3.0            0.0       0.0                                                       
+ Trifarina fluens                        316     0.0       1.0  4.0       0.0       0.0                                          0.0
+ Globorotalia inflata                      4     1.0  2.0  1.0  0.0  0.0  1.0       0.0                           0.0               
+ Cibicidoides dutemplei                  181          0.0  1.0  1.0                                                                 
+ Cibicidoides grossa LCO                 159          0.0       1.0                 0.0                                             
+ Sigmoilopsis schlumbergeri               23     1.0  0.0  0.0  0.0  0.0  0.0       2.0  0.0            1.0            0.0  0.0  0.0
+ Cibicidoides pachyderma                 330     0.0  0.0                                                              1.0          
+ Neogloboquadrina atlantica              269     0.0  0.0  0.0  0.0  1.0  1.0       1.0  0.0            0.0            0.0  0.0  1.0
+ Globorotalia puncticulata               266                         1.0  0.0       0.0                                          0.0
+ Neogloboquadrina acostaensis              6                              0.0                                               0.0  0.0
+ Globoquadrina venezuelana                81     0.0       6.0            1.0                      4.0                              
+ Sumatradinium spp.                      361          1.0  1.0            6.0                                          0.0          
+ Radiolarians/diatoms flood               91     1.0  0.0  0.0       1.0  4.0                                2.0       4.0  0.0  1.0
+ Cannosphaeropsis utinensis              362     1.0  3.0  5.0            2.0                                          0.0          
+ NS Log G                                207                    1.0  7.0  0.0                           1.0       0.0       6.0  0.0
+ Martinotiella cylindrica                219     1.0  2.0  5.0       0.0                           1.0  0.0       3.0  0.0  4.0  5.0
+ Ehrenbergina variabilis                 334     1.0       0.0  2.0                           0.0                                   
+ Globigerinoides trilobus                123                                             3.0            0.0                 1.0  3.0
+ Uvigerina ex.gr. semiornata             282               1.0       5.0                 4.0                           2.0       0.0
+ Neogloboquadrina continuosa             125          0.0  2.0       0.0                                               3.0  4.0  2.0
+ G. ex.gr. praescitula zealandica        236                         0.0                                0.0  2.0  0.0       4.0  0.0
+ Globigerina praebulloides                15     0.0  0.0  0.0  2.0  0.0  0.0            2.0       2.0  0.0  0.0       4.0  1.0 11.0
+ Caucasina elongata                      285                    0.0  0.0                 1.0            0.0  0.0       2.0  3.0     
+ Catapsydrax unicavus                    233     0.0            1.0       1.0                      2.0                              
+ Asterigerina gurichi                     17                    0.0  0.0                 0.0  0.0  0.0  0.0  0.0  0.0  3.0  3.0  0.0
+ Flat rads + sponge spicules             412                    0.0       1.0                                                       
+ Deflandrea phosphoritica                  3     0.0  0.0  2.0  0.0       4.0  2.0                                                  
+ Tenuitella angustiumbilicata            138               0.0                           0.0       1.0  1.0  0.0  0.0           11.0
+ Gyroidina girardana                      20               7.0            2.0            0.0  0.0  0.0                           8.0
+ Coarse agglutinated spp.                 25     2.0  2.0  2.0  1.0  0.0  3.0  3.0       0.0  0.0  0.0  0.0  0.0  0.0  1.0  0.0  0.0
+ Cyclammina placenta                      97     2.0  2.0  8.0  1.0  1.0  0.0  8.0       2.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  1.0
+ Areoligera semicirculata                  7     0.0  0.0  0.0  7.0       1.0  0.0                                    10.0          
+ Wetzelliella symmetrica                  41     0.0  0.0  0.0  4.0  0.0       1.0                                    10.0          
+ Spirosigmoilinella compressa            182     0.0  4.0  1.0  1.0  0.0                                0.0  0.0  0.0  5.0  2.0  1.0
+ Turrilina alsatica                       24     0.0            0.0  0.0  0.0  0.0                           0.0            3.0  7.0
+ Cyclammina rotundidorsata               183          AAA                                                    3.0       5.0  0.0  2.0
+ Cenosphaera spp. (spheres)              302     0.0  2.0  3.0            0.0                                                       
+ Rotaliatina bulimoides                  140               3.0       0.0                 0.0                 0.0            5.0  4.0
+ Glomospirella biedae                    198     0.0       1.0  8.0       1.0                                     1.0  1.0          
+ Ammodiscus latus                        259               7.0                                          6.0       2.0  3.0  1.0  2.0
+ Adercotryma agterbergi                  289     0.0  0.0  0.0  2.0  1.0                                          4.0  3.0  3.0  3.0
+ Aschemonella grandis                    324     0.0  0.0  0.0                 0.0                                2.0  1.0          
+ Karreriella horrida                     262          1.0  2.0  2.0  3.0       6.0                           2.0       0.0  0.0  0.0
+ Haplophragmoides walteri                261          4.0  2.0  1.0  1.0  1.0 10.0       8.0            6.0  0.0  0.0  0.0  0.0  0.0
+ Dorothia seigliei                       321     6.0  4.0 10.0  0.0  1.0                                     0.0  1.0  0.0  0.0  0.0
+ Reophax elongatus                       197     5.0  0.0  0.0                                                         1.0          
+ Areosphaeridium diktyoplokus             12     0.0  3.0       2.0  2.0  0.0  2.0                                     4.0          
+ Heteraulacacysta porosa                  13     1.0       0.0  2.0       0.0  0.0                                                  
+ Recurvoides ex.gr. walteri              229     7.0  0.0  5.0            1.0                                     0.0               
+ NS Log F                                206                         0.0                 0.0            0.0       0.0       1.0  2.0
+ Reticulophragmium amplectens             29     0.0  0.0  0.0  0.0  4.0  2.0  0.0       4.0  0.0  4.0  0.0  0.0  1.0  2.0  0.0  4.0
+ Ammosphaeroidina pseudopauciloculata     32     3.0  0.0  0.0  0.0            2.0       2.0       0.0  3.0            1.0  2.0  0.0
+ Rottnestia borussica                     72     0.0  2.0       1.0       0.0  0.0                                     2.0          
+ Spiroplectammina spectabilis LO          68     1.0  0.0  0.0  5.0  3.0       0.0       0.0  0.0  0.0  1.0  2.0  1.0  4.0  4.0  3.0
+ Ammomarginulina aubertae                263          0.0  0.0       2.0      12.0       1.0                 1.0  5.0  1.0  0.0  1.0
+ Diphyes ficusoides                       92     0.0  5.0  1.0  2.0       0.0  1.0                                                  
+ Haplophragmoides kirki                  260     4.0  0.0  2.0  0.0  0.0  1.0  3.0       3.0            0.0  1.0       1.0  0.0  2.0
+ Cenosphaera spp. LCO                    117                    1.0  0.0       0.0       2.0  1.0  2.0  1.0                 0.0     
+ Karreriella conversa                    264     AAA       0.0  0.0  2.0  AAA  4.0       0.0  0.0  0.0  0.0  0.0       2.0  4.0  1.0
+ Reticulophragmoides jarvisi             291    10.0       8.0                           AAA            0.0       0.0  0.0  0.0  0.0
+ Eatonicysta ursulae                      99     3.0  6.0  1.0  1.0  0.0  0.0  1.0                                     4.0          
+ Reticulophragmium intermedia            175     2.0  4.0       1.0            0.0                                     1.0          
+ Spiroplectammina navarroana              54     2.0  0.0  1.0  7.0  1.0  0.0  0.0       1.0  2.0  1.0  1.0            0.0  3.0  1.0
+ NS Log E                                205                         0.0                 0.0       0.0  0.0       0.0       2.0  1.0
+ Recurvoidella lamella                   279     2.0  2.0       0.0  0.0       1.0       0.0            0.0            0.0          
+ Subbotina patagonica                     50     2.0  2.0  1.0  1.0  0.0  0.0  1.0            0.0       0.0            1.0       2.0
+ Deflandrea oebisfeldensis               108     2.0  3.0  1.0  1.0  0.0  1.0  2.0                                                  
+ Tuff                                    277          2.0       2.0  0.0                 2.0       1.0       0.0                    
+ Coscinodiscus spp.                       22     2.0  2.0  1.0  1.0  1.0                      0.0  0.0  1.0  0.0            3.0  2.0
+ Cystammina pauciloculata                136     1.0  1.0  0.0  7.0  5.0  5.0  0.0       1.0       6.0       3.0       1.0       0.0
+ NS Log D                                204                         2.0  0.0            1.0       0.0  2.0       1.0       2.0  1.0
+ NS Log C                                203                         2.0  0.0            1.0       1.0  2.0       1.0       2.0  1.0
+ Cystammina aff.globigerinaeformis       110     0.0  0.0       7.0       7.0  0.0            0.0  4.0  0.0            0.0  1.0  3.0
+ Apectodinium augustum                    28     0.0  0.0  0.0  1.0  0.0  0.0  1.0                                     1.0          
+ Trochamminoides coronatus                78                         0.0  0.0  0.0       0.0  3.0       0.0  0.0  0.0       9.0  0.0
+ Reticulophragmium paupera                76     0.0  0.0  0.0  3.0  0.0  3.0            1.0  1.0  3.0  0.0  0.0       1.0  1.0  0.0
+ Rzehakina minima                        105     0.0  0.0       1.0            6.0       0.0            0.0  0.0                    
+ Spiroplectammina spectabilis LCO         57     0.0  0.0       3.0  1.0  1.0  3.0       0.0       0.0  0.0  0.0  0.0  0.0  1.0  0.0
+ Saccammina placenta                     310     0.0  0.0  0.0  2.0            1.0       3.0  0.0  0.0                      1.0  0.0
+ Hormosina excelsa                       134     0.0            2.0       1.0            2.0  0.0                      0.0  0.0     
+ Reticulophragmium garcilassoi           283          1.0       1.0  0.0       0.0       1.0            0.0                      1.0
+ Trochammina ruthven murrayi             129     0.0  1.0  0.0  1.0       0.0  0.0       0.0       0.0                      3.0  0.0
+ Ammodiscus planus                       251     0.0            0.0            1.0       0.0                                4.0     
+ Palaeoperidinium pyrophorum             118          0.0  0.0  0.0       0.0  0.0                                                  
+ Matanzia varians                        107                    1.0  0.0                      4.0                                   
+ NS Log B                                202                                             0.0       0.0  0.0       0.0       3.0  0.0
+ Subbotina pseudobulloides                61                         0.0                 0.0  0.0  0.0            3.0  1.0  2.0  0.0
+ Gavelinella beccariiformis               55                    0.0  0.0                 0.0  2.0  0.0            0.0  0.0  0.0     
+ Planorotalites compressus                60                         0.0                 0.0  0.0  0.0       0.0  0.0  0.0  0.0     
+ Subbotina triloculinoides               253                         0.0                 0.0  0.0                 0.0  0.0          
+
+
+
+
+ STEP MODEL (CONTINUED)
+
+
+           NAME                       NUMBER     WELL NUMBER
+                                                  18   19   20   21   22   23   24   25   26   27
+
+
+ Elphidium clavatum                      240                         0.0                         
+ Elphidium spp.                           77     0.0       0.0  0.0       0.0       0.0  0.0     
+ Cassidulina teretis                     228     1.0       0.0  0.0  0.0  0.0  0.0  0.0  0.0     
+ Cibicidoides scaldisensis                31                         3.0  2.0  0.0  0.0  0.0     
+ Bulimina marginata                      338                         0.0  2.0       0.0  0.0     
+ Neogloboquadrina pachyderma               1     2.0                 0.0  0.0  2.0  0.0  0.0     
+ Buccella frigida                        171                         0.0  1.0  0.0  0.0          
+ Cibicidoides grossa                     270     1.0       0.0       0.0  1.0  0.0  0.0  0.0     
+ Ammonia beccarii                        328                              0.0  0.0  1.0          
+ Trifarina fluens                        316     0.0                      2.0       3.0          
+ Globorotalia inflata                      4                              2.0  2.0  0.0  2.0     
+ Cibicidoides dutemplei                  181                         0.0  0.0  3.0  1.0  0.0     
+ Cibicidoides grossa LCO                 159                              1.0  0.0  0.0  1.0     
+ Sigmoilopsis schlumbergeri               23     0.0       1.0  0.0       0.0  0.0       1.0     
+ Cibicidoides pachyderma                 330                                   3.0  3.0  0.0     
+ Neogloboquadrina atlantica              269               1.0  0.0       1.0  0.0               
+ Globorotalia puncticulata               266     0.0       1.0            0.0  0.0  0.0          
+ Neogloboquadrina acostaensis              6     0.0            0.0                 0.0          
+ Globoquadrina venezuelana                81                              0.0  0.0       0.0     
+ Sumatradinium spp.                      361                         0.0  2.0                    
+ Radiolarians/diatoms flood               91     3.0                 1.0       2.0       1.0     
+ Cannosphaeropsis utinensis              362                         0.0  1.0                    
+ NS Log G                                207     2.0  0.0  3.0                                0.0
+ Martinotiella cylindrica                219               0.0  0.0                      1.0     
+ Ehrenbergina variabilis                 334                              0.0  1.0               
+ Globigerinoides trilobus                123     2.0       0.0                                   
+ Uvigerina ex.gr. semiornata             282     1.0                 0.0                         
+ Neogloboquadrina continuosa             125     0.0                                             
+ G. ex.gr. praescitula zealandica        236     1.0       0.0  0.0                              
+ Globigerina praebulloides                15     1.0            0.0            0.0  0.0  1.0     
+ Caucasina elongata                      285                                                     
+ Catapsydrax unicavus                    233          1.0                                0.0     
+ Asterigerina gurichi                     17     0.0            0.0  4.0  3.0                    
+ Flat rads + sponge spicules             412                         0.0  0.0  0.0       0.0     
+ Deflandrea phosphoritica                  3                         1.0                         
+ Tenuitella angustiumbilicata            138     0.0                                             
+ Gyroidina girardana                      20                              0.0            0.0     
+ Coarse agglutinated spp.                 25          0.0  0.0  0.0  2.0  2.0  0.0  2.0  2.0  0.0
+ Cyclammina placenta                      97     1.0  0.0                 2.0  0.0  2.0  2.0  0.0
+ Areoligera semicirculata                  7                         1.0                         
+ Wetzelliella symmetrica                  41                                                     
+ Spirosigmoilinella compressa            182     1.0  4.0  0.0  1.0       1.0       1.0  2.0  0.0
+ Turrilina alsatica                       24     7.0       2.0       0.0  0.0            0.0     
+ Cyclammina rotundidorsata               183     5.0  2.0  0.0  1.0                           0.0
+ Cenosphaera spp. (spheres)              302                              0.0  0.0  1.0  1.0     
+ Rotaliatina bulimoides                  140     6.0       1.0                      0.0  0.0  0.0
+ Glomospirella biedae                    198     1.0                      5.0            2.0     
+ Ammodiscus latus                        259     1.0  0.0                 0.0                    
+ Adercotryma agterbergi                  289     1.0                      0.0  1.0  0.0  1.0     
+ Aschemonella grandis                    324     4.0  0.0                                        
+ Karreriella horrida                     262     0.0  1.0  0.0                                5.0
+ Haplophragmoides walteri                261     4.0  1.0  0.0  0.0                      2.0  1.0
+ Dorothia seigliei                       321     3.0            0.0       0.0  0.0               
+ Reophax elongatus                       197                              2.0            0.0     
+ Areosphaeridium diktyoplokus             12                              0.0  2.0  0.0          
+ Heteraulacacysta porosa                  13                              1.0  2.0  0.0          
+ Recurvoides ex.gr. walteri              229     0.0  0.0       0.0                      2.0  2.0
+ NS Log F                                206     2.0  1.0  0.0                                0.0
+ Reticulophragmium amplectens             29          0.0  0.0  2.0       0.0  0.0       0.0  2.0
+ Ammosphaeroidina pseudopauciloculata     32     0.0  4.0  0.0                 0.0       0.0     
+ Rottnestia borussica                     72                                   0.0  0.0          
+ Spiroplectammina spectabilis LO          68     3.0  4.0  0.0  0.0                      0.0  1.0
+ Ammomarginulina aubertae                263     2.0  2.0       0.0                      0.0     
+ Diphyes ficusoides                       92                                                     
+ Haplophragmoides kirki                  260          0.0                                     0.0
+ Cenosphaera spp. LCO                    117     3.0  4.0                                        
+ Karreriella conversa                    264     1.0  2.0  0.0       8.0                      0.0
+ Reticulophragmoides jarvisi             291     0.0  1.0                                        
+ Eatonicysta ursulae                      99                                                     
+ Reticulophragmium intermedia            175          2.0                                        
+ Spiroplectammina navarroana              54     1.0  0.0       0.0                           0.0
+ NS Log E                                205     0.0  0.0  0.0                                1.0
+ Recurvoidella lamella                   279                                                     
+ Subbotina patagonica                     50     0.0                                          1.0
+ Deflandrea oebisfeldensis               108                         0.0                         
+ Tuff                                    277                                                     
+ Coscinodiscus spp.                       22     2.0  0.0  0.0       0.0                         
+ Cystammina pauciloculata                136     2.0            2.0                           0.0
+ NS Log D                                204     0.0  0.0  0.0                                1.0
+ NS Log C                                203     0.0       0.0                                1.0
+ Cystammina aff.globigerinaeformis       110     4.0                                          7.0
+ Apectodinium augustum                    28                                                     
+ Trochamminoides coronatus                78          6.0                                     3.0
+ Reticulophragmium paupera                76     1.0  3.0            1.0                      2.0
+ Rzehakina minima                        105                    0.0                              
+ Spiroplectammina spectabilis LCO         57     2.0  1.0            0.0                         
+ Saccammina placenta                     310     0.0  0.0       0.0                           0.0
+ Hormosina excelsa                       134     0.0  0.0            2.0                      0.0
+ Reticulophragmium garcilassoi           283                                                  0.0
+ Trochammina ruthven murrayi             129                         0.0                      0.0
+ Ammodiscus planus                       251                         1.0                         
+ Palaeoperidinium pyrophorum             118                         0.0                         
+ Matanzia varians                        107     0.0  0.0       0.0                           1.0
+ NS Log B                                202     1.0  1.0  1.0                                   
+ Subbotina pseudobulloides                61     0.0  0.0            1.0                      0.0
+ Gavelinella beccariiformis               55          0.0  0.0                                2.0
+ Planorotalites compressus                60                         1.0                      0.0
+ Subbotina triloculinoides               253                         0.0                      0.0
+
+
+
+
+ PENALTY POINTS FOR EVENTS HIGHER THAN EXPECTED
+
+
+           NAME                       NUMBER     WELL NUMBER
+   (OPTIMUM SEQUENCE)
+                                                   1    2    3    4    5    6    7    8    9   10   11   12   13   14   15   16   17
+
+
+ Elphidium clavatum                      240     0.0            0.0       0.0                                          0.0       0.0
+ Elphidium spp.                           77                    0.0  0.0  0.0       0.0  0.0       0.0  0.0            0.0  0.0  0.0
+ Cassidulina teretis                     228     0.0  0.0  0.0  0.0  0.0  0.0       1.0  0.0            0.0            0.0  0.0  0.0
+ Cibicidoides scaldisensis                31     0.0  0.0       0.0       0.0       1.0                                0.0          
+ Bulimina marginata                      338          0.0  0.0                                                         1.0          
+ Neogloboquadrina pachyderma               1     3.0  0.0  0.0  0.0  0.0  0.0       1.0                                0.0       0.0
+ Buccella frigida                        171     0.0            0.0       0.0       0.0                                5.0          
+ Cibicidoides grossa                     270     0.0  0.0  0.0  0.0  1.0  1.0       1.0  0.0                                0.0  1.0
+ Ammonia beccarii                        328     0.0            0.0       2.0                                                       
+ Trifarina fluens                        316     3.0       0.0  0.0       2.0       1.0                                          1.0
+ Globorotalia inflata                      4     2.0  0.0  0.0  1.0  0.0  0.0       0.0                           0.0               
+ Cibicidoides dutemplei                  181          1.0  0.0  1.0                                                                 
+ Cibicidoides grossa LCO                 159          1.0       1.0                 0.0                                             
+ Sigmoilopsis schlumbergeri               23     0.0  0.0  3.0  3.0  0.0  2.0       0.0  0.0            0.0            0.0  0.0  1.0
+ Cibicidoides pachyderma                 330     5.0  0.0                                                              0.0          
+ Neogloboquadrina atlantica              269     0.0  0.0  0.0  0.0  0.0  0.0       1.0  0.0            1.0            1.0  0.0  0.0
+ Globorotalia puncticulata               266                         0.0  1.0       2.0                                          1.0
+ Neogloboquadrina acostaensis              6                              0.0                                               0.0  0.0
+ Globoquadrina venezuelana                81     0.0       0.0            0.0                      0.0                              
+ Sumatradinium spp.                      361          0.0  1.0            0.0                                          0.0          
+ Radiolarians/diatoms flood               91     0.0  1.0  2.0       0.0  1.0                                0.0       0.0  0.0  0.0
+ Cannosphaeropsis utinensis              362     0.0  0.0  0.0            2.0                                          1.0          
+ NS Log G                                207                    0.0  0.0  4.0                           0.0       0.0       0.0  1.0
+ Martinotiella cylindrica                219     0.0  1.0  0.0       4.0                           1.0  1.0       0.0  1.0  1.0  0.0
+ Ehrenbergina variabilis                 334     0.0       3.0  0.0                           0.0                                   
+ Globigerinoides trilobus                123                                             0.0            0.0                 2.0  1.0
+ Uvigerina ex.gr. semiornata             282               3.0       1.0                 0.0                           0.0       2.0
+ Neogloboquadrina continuosa             125          2.0  2.0       2.0                                               0.0  0.0  1.0
+ G. ex.gr. praescitula zealandica        236                         2.0                                0.0  0.0  1.0       0.0  3.0
+ Globigerina praebulloides                15     4.0  2.0  5.0  0.0  2.0  3.0            2.0       1.0  0.0  2.0       0.0  4.0  0.0
+ Caucasina elongata                      285                    3.0  2.0                 3.0            0.0  2.0       2.0  0.0     
+ Catapsydrax unicavus                    233     0.0            0.0       1.0                      0.0                              
+ Asterigerina gurichi                     17                    3.0  2.0                 4.0  0.0  4.0  0.0  0.0  1.0  0.0  0.0  4.0
+ Flat rads + sponge spicules             412                    0.0       0.0                                                       
+ Deflandrea phosphoritica                  3     0.0  0.0  0.0  0.0       0.0  0.0                                                  
+ Tenuitella angustiumbilicata            138               5.0                           1.0       0.0  0.0  0.0  1.0            0.0
+ Gyroidina girardana                      20               0.0            1.0            0.0  0.0  4.0                           2.0
+ Coarse agglutinated spp.                 25     0.0  0.0  1.0  0.0  0.0  0.0  0.0       0.0  0.0  0.0  1.0  0.0  0.0  6.0  8.0  3.0
+ Cyclammina placenta                      97     0.0  0.0  0.0  0.0  0.0  7.0  0.0       0.0  0.0  0.0  0.0  0.0  0.0  7.0  6.0  3.0
+ Areoligera semicirculata                  7     2.0  2.0  4.0  0.0       2.0  3.0                                     0.0          
+ Wetzelliella symmetrica                  41     2.0  2.0  3.0  1.0  1.0       2.0                                     0.0          
+ Spirosigmoilinella compressa            182     0.0  0.0  2.0  2.0  0.0                                0.0  0.0  0.0  2.0  0.0  3.0
+ Turrilina alsatica                       24     0.0            5.0  0.0  4.0  4.0                           0.0            0.0  0.0
+ Cyclammina rotundidorsata               183          0.0                                                    0.0       2.0  7.0  4.0
+ Cenosphaera spp. (spheres)              302     0.0  2.0  1.0            0.0                                                       
+ Rotaliatina bulimoides                  140               1.0       0.0                 1.0                 1.0            0.0  3.0
+ Glomospirella biedae                    198     0.0       4.0  0.0       0.0                                     0.0  4.0          
+ Ammodiscus latus                        259               0.0                                          0.0       0.0  4.0  2.0  5.0
+ Adercotryma agterbergi                  289     0.0  3.0  7.0  2.0  0.0                                          0.0  2.0  1.0  2.0
+ Aschemonella grandis                    324     0.0  3.0  5.0                 1.0                                1.0  6.0          
+ Karreriella horrida                     262          1.0  1.0  2.0  0.0       0.0                           0.0      10.0  5.0 10.0
+ Haplophragmoides walteri                261          1.0  1.0  5.0  1.0  0.0  0.0       0.0            0.0  2.0  4.0  6.0  2.0  8.0
+ Dorothia seigliei                       321     0.0  1.0  0.0  6.0  1.0                                     2.0  1.0  2.0  2.0  6.0
+ Reophax elongatus                       197     1.0  5.0  4.0                                                         0.0          
+ Areosphaeridium diktyoplokus             12     2.0  1.0       1.0  0.0  2.0  3.0                                     0.0          
+ Heteraulacacysta porosa                  13     2.0       4.0  1.0       0.0  4.0                                                  
+ Recurvoides ex.gr. walteri              229     0.0  4.0  1.0            0.0                                     4.0               
+ NS Log F                                206                         5.0                 2.0            2.0       0.0       0.0  0.0
+ Reticulophragmium amplectens             29     4.0  4.0  3.0  3.0  0.0  0.0  4.0       1.0  0.0  0.0  2.0  0.0  0.0  1.0  1.0  0.0
+ Ammosphaeroidina pseudopauciloculata     32     1.0  4.0  2.0  3.0            2.0       2.0       1.0  2.0            2.0  0.0  2.0
+ Rottnestia borussica                     72     4.0  0.0       0.0       2.0  4.0                                     0.0          
+ Spiroplectammina spectabilis LO          68     2.0  2.0  2.0  0.0  1.0       3.0       3.0  0.0  1.0  3.0  0.0  0.0  0.0  0.0  0.0
+ Ammomarginulina aubertae                263          2.0  2.0       2.0       0.0       2.0                 1.0  0.0  3.0  2.0  2.0
+ Diphyes ficusoides                       92     5.0  0.0  1.0  1.0       1.0  2.0                                                  
+ Haplophragmoides kirki                  260     0.0  1.0  0.0  3.0  4.0  0.0  1.0       0.0            4.0  0.0       1.0  2.0  0.0
+ Cenosphaera spp. LCO                    117                    1.0  3.0       4.0       2.0  0.0  0.0  0.0                 1.0     
+ Karreriella conversa                    264     0.0       4.0  3.0  0.0  0.0  1.0       6.0  1.0  2.0  4.0  3.0       0.0  0.0  3.0
+ Reticulophragmoides jarvisi             291     1.0       0.0                           0.0            0.0       3.0 11.0  2.0  6.0
+ Eatonicysta ursulae                      99     3.0  0.0  1.0  0.0  1.0  2.0  4.0                                     0.0          
+ Reticulophragmium intermedia            175     4.0  1.0       0.0            5.0                                     1.0          
+ Spiroplectammina navarroana              54     2.0  3.0  1.0  0.0  0.0  1.0  2.0       1.0  0.0  0.0  0.0            4.0  0.0  0.0
+ NS Log E                                205                         2.0                 5.0       3.0  1.0       1.0       2.0  0.0
+ Recurvoidella lamella                   279     2.0  3.0       4.0  0.0       1.0       1.0            0.0            1.0          
+ Subbotina patagonica                     50     2.0  1.0  1.0  1.0  0.0  1.0  1.0            1.0       0.0            0.0       0.0
+ Deflandrea oebisfeldensis               108     2.0  0.0  1.0  1.0  0.0  1.0  1.0                                                  
+ Tuff                                    277          1.0       1.0  0.0                 1.0       0.0       0.0                    
+ Coscinodiscus spp.                       22     2.0  0.0  1.0  2.0  0.0                      1.0  1.0  0.0  0.0            0.0  0.0
+ Cystammina pauciloculata                136    11.0  8.0  8.0  0.0  0.0  1.0  5.0       2.0       0.0       0.0       0.0       4.0
+ NS Log D                                204                         1.0  3.0            1.0       1.0  0.0       1.0       1.0  0.0
+ NS Log C                                203                         1.0  2.0            1.0       1.0  0.0       1.0       0.0  0.0
+ Cystammina aff.globigerinaeformis       110    12.0  9.0       0.0       0.0  2.0            0.0  0.0  3.0            3.0  6.0  0.0
+ Apectodinium augustum                    28     2.0  0.0  1.0  3.0  4.0  3.0  0.0                                     0.0          
+ Trochamminoides coronatus                78                         3.0  3.0  1.0       5.0  0.0       2.0  1.0  3.0       0.0  5.0
+ Reticulophragmium paupera                76     1.0  0.0  1.0  2.0  1.0  2.0            1.0  1.0  2.0  0.0  1.0       0.0  1.0  1.0
+ Rzehakina minima                        105     1.0  0.0       3.0            0.0       2.0            0.0  1.0                    
+ Spiroplectammina spectabilis LCO         57     1.0  0.0       2.0  0.0  3.0  1.0       1.0       4.0  0.0  0.0  0.0  2.0  1.0  1.0
+ Saccammina placenta                     310     0.0  0.0  0.0  3.0            2.0       0.0  2.0  3.0                      1.0  0.0
+ Hormosina excelsa                       134     0.0            0.0       3.0            2.0  1.0                      0.0 11.0     
+ Reticulophragmium garcilassoi           283          0.0       6.0  1.0       3.0       3.0            0.0                      0.0
+ Trochammina ruthven murrayi             129     0.0  0.0  0.0  0.0       6.0  2.0       4.0       3.0                      1.0  1.0
+ Ammodiscus planus                       251     0.0            AAA            1.0       0.0                                0.0     
+ Palaeoperidinium pyrophorum             118          2.0  0.0  0.0       2.0  2.0                                                  
+ Matanzia varians                        107                    0.0  0.0                      0.0                                   
+ NS Log B                                202                                             0.0       0.0  0.0       0.0       2.0  0.0
+ Subbotina pseudobulloides                61                         0.0                 0.0  1.0  0.0            0.0  0.0  4.0  0.0
+ Gavelinella beccariiformis               55                    1.0  0.0                 0.0  1.0  0.0            1.0  1.0  5.0     
+ Planorotalites compressus                60                         0.0                 0.0  2.0  0.0       0.0  1.0  0.0  5.0     
+ Subbotina triloculinoides               253                         0.0                 0.0  2.0                 1.0  0.0          
+
+
+
+
+ STEP MODEL (CONTINUED)
+
+
+           NAME                       NUMBER     WELL NUMBER
+                                                  18   19   20   21   22   23   24   25   26   27
+
+
+ Elphidium clavatum                      240                         0.0                         
+ Elphidium spp.                           77     0.0       0.0  0.0       0.0       0.0  0.0     
+ Cassidulina teretis                     228     0.0       0.0  0.0  0.0  0.0  0.0  0.0  0.0     
+ Cibicidoides scaldisensis                31                         0.0  0.0  0.0  0.0  0.0     
+ Bulimina marginata                      338                         1.0  0.0       0.0  0.0     
+ Neogloboquadrina pachyderma               1     0.0                 1.0  2.0  0.0  0.0  0.0     
+ Buccella frigida                        171                         1.0  0.0  1.0  0.0          
+ Cibicidoides grossa                     270     1.0       0.0       0.0  0.0  1.0  0.0  0.0     
+ Ammonia beccarii                        328                              4.0  0.0  0.0          
+ Trifarina fluens                        316     3.0                      0.0       0.0          
+ Globorotalia inflata                      4                              0.0  0.0  2.0  0.0     
+ Cibicidoides dutemplei                  181                         0.0  2.0  0.0  1.0  1.0     
+ Cibicidoides grossa LCO                 159                              0.0  2.0  2.0  0.0     
+ Sigmoilopsis schlumbergeri               23     0.0       0.0  0.0       3.0  2.0       0.0     
+ Cibicidoides pachyderma                 330                                   0.0  0.0  3.0     
+ Neogloboquadrina atlantica              269               0.0  0.0       0.0  2.0               
+ Globorotalia puncticulata               266     0.0       0.0            1.0  1.0  1.0          
+ Neogloboquadrina acostaensis              6     0.0            0.0                 1.0          
+ Globoquadrina venezuelana                81                              0.0  1.0       0.0     
+ Sumatradinium spp.                      361                         0.0  0.0                    
+ Radiolarians/diatoms flood               91     0.0                 0.0       0.0       0.0     
+ Cannosphaeropsis utinensis              362                         1.0  1.0                    
+ NS Log G                                207     1.0  0.0  0.0                                0.0
+ Martinotiella cylindrica                219               4.0  0.0                      0.0     
+ Ehrenbergina variabilis                 334                              2.0  1.0               
+ Globigerinoides trilobus                123     0.0       1.0                                   
+ Uvigerina ex.gr. semiornata             282     3.0                 0.0                         
+ Neogloboquadrina continuosa             125     4.0                                             
+ G. ex.gr. praescitula zealandica        236     0.0       1.0  0.0                              
+ Globigerina praebulloides                15     0.0            0.0            2.0  1.0  0.0     
+ Caucasina elongata                      285                                                     
+ Catapsydrax unicavus                    233          0.0                                3.0     
+ Asterigerina gurichi                     17     2.0            0.0  0.0  0.0                    
+ Flat rads + sponge spicules             412                         1.0  1.0  0.0       0.0     
+ Deflandrea phosphoritica                  3                         1.0                         
+ Tenuitella angustiumbilicata            138     0.0                                             
+ Gyroidina girardana                      20                              1.0            0.0     
+ Coarse agglutinated spp.                 25          1.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0  0.0
+ Cyclammina placenta                      97     0.0  0.0                 0.0  0.0  0.0  0.0  0.0
+ Areoligera semicirculata                  7                         2.0                         
+ Wetzelliella symmetrica                  41                                                     
+ Spirosigmoilinella compressa            182     0.0  0.0  0.0  0.0       2.0       2.0  0.0  0.0
+ Turrilina alsatica                       24     0.0       0.0       4.0  4.0            3.0     
+ Cyclammina rotundidorsata               183     1.0  1.0  1.0  0.0                           0.0
+ Cenosphaera spp. (spheres)              302                              0.0  0.0  0.0  0.0     
+ Rotaliatina bulimoides                  140     0.0       0.0                      4.0  4.0  0.0
+ Glomospirella biedae                    198     3.0                      0.0            0.0     
+ Ammodiscus latus                        259     3.0  2.0                 1.0                    
+ Adercotryma agterbergi                  289     3.0                      1.0  0.0  0.0  1.0     
+ Aschemonella grandis                    324     0.0  2.0                                        
+ Karreriella horrida                     262     9.0  0.0  2.0                                0.0
+ Haplophragmoides walteri                261     0.0  0.0  0.0  2.0                      0.0  1.0
+ Dorothia seigliei                       321     1.0            0.0       1.0  1.0               
+ Reophax elongatus                       197                              0.0            3.0     
+ Areosphaeridium diktyoplokus             12                              2.0  0.0  0.0          
+ Heteraulacacysta porosa                  13                              0.0  0.0  0.0          
+ Recurvoides ex.gr. walteri              229     6.0  3.0       0.0                      0.0  1.0
+ NS Log F                                206     0.0  0.0  0.0                                3.0
+ Reticulophragmium amplectens             29          1.0  0.0  0.0       3.0  2.0       2.0  0.0
+ Ammosphaeroidina pseudopauciloculata     32     6.0  0.0  0.0                 2.0       1.0     
+ Rottnestia borussica                     72                                   0.0  0.0          
+ Spiroplectammina spectabilis LO          68     0.0  0.0  0.0  1.0                      0.0  2.0
+ Ammomarginulina aubertae                263     1.0  2.0       1.0                      0.0     
+ Diphyes ficusoides                       92                                                     
+ Haplophragmoides kirki                  260          3.0                                     4.0
+ Cenosphaera spp. LCO                    117     0.0  0.0                                        
+ Karreriella conversa                    264     3.0  1.0  0.0       0.0                      0.0
+ Reticulophragmoides jarvisi             291     8.0  4.0                                        
+ Eatonicysta ursulae                      99                                                     
+ Reticulophragmium intermedia            175          0.0                                        
+ Spiroplectammina navarroana              54     0.0  7.0       0.0                           0.0
+ NS Log E                                205     2.0  2.0  0.0                                0.0
+ Recurvoidella lamella                   279                                                     
+ Subbotina patagonica                     50     0.0                                          0.0
+ Deflandrea oebisfeldensis               108                         1.0                         
+ Tuff                                    277                                                     
+ Coscinodiscus spp.                       22     0.0  0.0  0.0       1.0                         
+ Cystammina pauciloculata                136     0.0            0.0                           2.0
+ NS Log D                                204     2.0  0.0  0.0                                0.0
+ NS Log C                                203     2.0       0.0                                0.0
+ Cystammina aff.globigerinaeformis       110     0.0                                          0.0
+ Apectodinium augustum                    28                                                     
+ Trochamminoides coronatus                78          0.0                                     1.0
+ Reticulophragmium paupera                76     1.0  1.0            1.0                      2.0
+ Rzehakina minima                        105                    1.0                              
+ Spiroplectammina spectabilis LCO         57     1.0  2.0            2.0                         
+ Saccammina placenta                     310     3.0  3.0       1.0                           5.0
+ Hormosina excelsa                       134     2.0  2.0            1.0                      3.0
+ Reticulophragmium garcilassoi           283                                                  1.0
+ Trochammina ruthven murrayi             129                         2.0                      1.0
+ Ammodiscus planus                       251                         1.0                         
+ Palaeoperidinium pyrophorum             118                         3.0                         
+ Matanzia varians                        107     0.0  1.0       0.0                           0.0
+ NS Log B                                202     0.0  0.0  0.0                                   
+ Subbotina pseudobulloides                61     1.0  2.0            0.0                      2.0
+ Gavelinella beccariiformis               55          0.0  1.0                                0.0
+ Planorotalites compressus                60                         0.0                      1.0
+ Subbotina triloculinoides               253                         2.0                      1.0

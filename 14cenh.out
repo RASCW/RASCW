@@ -1,0 +1,239 @@
+                14cenh.out                                          2007/06/24
+
+ EXTRA OUTPUT FILE.  POSSIBLE PLOTTING PROGRAM INPUT
+
+        55
+        1       77       0   2   Elphidium spp.                          
+        2      228       1   3   Cassidulina teretis                     
+        3        1       2   4   Neogloboquadrina pachyderma             
+        4       31       3   5   Cibicidoides scaldisensis               
+        5      316       4   6   Trifarina fluens                        
+        6      171       5   7   Buccella frigida                        
+        7      270       6   8   Cibicidoides grossa                     
+        8        4       7   9   Globorotalia inflata                    
+        9       23       8  10   Sigmoilopsis schlumbergeri              
+       10      269       9  11   Neogloboquadrina atlantica              
+       11       91      10  12   Diatoms/radiolarians LCO                
+       12       15      11  13   Globigerina praebulloides               
+       13      363      12  14   Hystrichosphaeropsis obscura            
+       14      362      13  16   Cannosphaeropsis utinensis              
+       15      219      13  16   Martinotiella cylindrica                
+       16      236      15  17   G. ex.gr. praescitula zealandica        
+       17       17      16  19   Asterigerina gurichi                    
+       18        3      16  19   Deflandrea phosphoritica                
+       19        7      18  20   Areoligera semicirculata                
+       20       41      19  21   Wetzelliella symmetrica                 
+       21       25      20  22   Coarse agglutinated spp.                
+       22       97      21  23   Cyclammina placenta                     
+       23      182      22  24   Spirosigmoilinella compressa            
+       24       24      23  25   Turrilina alsatica                      
+       25      289      24  27   Adercotryma agterbergi                  
+       26      198      24  27   Glomospirella biedae                    
+       27      324      26  28   Aschemonella grandis                    
+       28      261      27  30   Haplophragmoides walteri                
+       29      321      27  30   Dorothia seigliei                       
+       30       29      29  31   Reticulophragmium amplectens            
+       31       32      30  32   Ammosphaeroidina pseudopauciloculata    
+       32       12      31  33   Areosphaeridium diktyoplokus            
+       33      229      32  35   Recurvoides ex.gr. walteri              
+       34       72      32  36   Rottnestia borussica                    
+       35      263      33  36   Ammomarginulina aubertae                
+       36       68      35  37   Spiroplectammina spectabilis LO         
+       37       92      36  38   Diphyes ficusoides                      
+       38      260      37  39   Haplophragmoides kirki                  
+       39      175      38  40   Reticulophragmium intermedia            
+       40       99      39  41   Eatonicysta ursulae                     
+       41       54      40  42   Spiroplectammina navarroana             
+       42      279      41  43   Recurvoidella lamella                   
+       43       50      42  44   Subbotina patagonica                    
+       44      108      43  45   Deflandrea oebisfeldensis               
+       45       22      44  46   Coscinodiscus spp.                      
+       46       28      45  47   Apectodinium augustum                   
+       47      105      46  49   Rzehakina minima                        
+       48       76      46  49   Reticulophragmium paupera               
+       49      283      48  50   Reticulophragmium garcilassoi           
+       50       57      49  51   Spiroplectammina spectabilis LCO        
+       51      114      50  52   Alisocysta margarita                    
+       52      310      51  53   Saccammina placenta                     
+       53      129      52  54   Trochammina ruthven murrayi             
+       54      134      53  55   Hormosina excelsa                       
+       55      118      54  56   Palaeoperidinium pyrophorum             
+***
+         55
+        1.13087189      -0.04193180
+  77    0.0236   Elphidium spp.                          ,
+ 228    0.2506   Cassidulina teretis                     ,
+  31    0.0759   Cibicidoides scaldisensis               ,
+   1    0.5928   Neogloboquadrina pachyderma             ,
+ 171    0.0575   Buccella frigida                        ,
+ 316    0.0295   Trifarina fluens                        ,
+ 270    0.7041   Cibicidoides grossa                     ,
+   4    0.1045   Globorotalia inflata                    ,
+  23    0.6264   Sigmoilopsis schlumbergeri              ,
+ 269    1.0874   Neogloboquadrina atlantica              ,
+  91    0.0714   Diatoms/radiolarians LCO                ,
+ 363    0.0788   Hystrichosphaeropsis obscura            ,
+  15    0.2333   Globigerina praebulloides               ,
+ 219    0.1040   Martinotiella cylindrica                ,
+ 362    0.3057   Cannosphaeropsis utinensis              ,
+ 236    0.2480   G. ex.gr. praescitula zealandica        ,
+  17    0.2972   Asterigerina gurichi                    ,
+   3    0.4572   Deflandrea phosphoritica                ,
+  25    0.0323   Coarse agglutinated spp.                ,
+   7    0.0035   Areoligera semicirculata                ,
+  24    0.0566   Turrilina alsatica                      ,
+  97    0.1029   Cyclammina placenta                     ,
+  41    0.1860   Wetzelliella symmetrica                 ,
+ 182    0.3399   Spirosigmoilinella compressa            ,
+ 289    0.0015   Adercotryma agterbergi                  ,
+ 324    0.1432   Aschemonella grandis                    ,
+ 198    0.3101   Glomospirella biedae                    ,
+ 261    0.0691   Haplophragmoides walteri                ,
+ 321    0.1303   Dorothia seigliei                       ,
+  12    0.0609   Areosphaeridium diktyoplokus            ,
+  29    0.0156   Reticulophragmium amplectens            ,
+  32    0.0614   Ammosphaeroidina pseudopauciloculata    ,
+ 229    0.2329   Recurvoides ex.gr. walteri              ,
+  72    0.2522   Rottnestia borussica                    ,
+  68    0.0872   Spiroplectammina spectabilis LO         ,
+ 263    0.0355   Ammomarginulina aubertae                ,
+  92    0.2355   Diphyes ficusoides                      ,
+ 260    0.3692   Haplophragmoides kirki                  ,
+ 175    0.1351   Reticulophragmium intermedia            ,
+  99    0.1631   Eatonicysta ursulae                     ,
+ 279    0.0560   Recurvoidella lamella                   ,
+  54    0.6161   Spiroplectammina navarroana             ,
+  50    0.5013   Subbotina patagonica                    ,
+ 108    0.5804   Deflandrea oebisfeldensis               ,
+  22    0.4804   Coscinodiscus spp.                      ,
+  28    0.6475   Apectodinium augustum                   ,
+  76    0.1255   Reticulophragmium paupera               ,
+ 105    0.0711   Rzehakina minima                        ,
+ 283    0.1278   Reticulophragmium garcilassoi           ,
+  57    0.0989   Spiroplectammina spectabilis LCO        ,
+ 114    0.1156   Alisocysta margarita                    ,
+ 310    0.3620   Saccammina placenta                     ,
+ 129    0.1168   Trochammina ruthven murrayi             ,
+ 134    0.5221   Hormosina excelsa                       ,
+ 118   Palaeoperidinium pyrophorum             
+***
+         55
+        1.09338164      -0.02706215
+  77    0.0236   Elphidium spp.                          ,
+ 228    0.2456   Cassidulina teretis                     ,
+  31    0.0759   Cibicidoides scaldisensis               ,
+   1    0.6087   Neogloboquadrina pachyderma             ,
+ 171    0.0575   Buccella frigida                        ,
+ 316    0.0332   Trifarina fluens                        ,
+ 270    0.7041   Cibicidoides grossa                     ,
+   4    0.1045   Globorotalia inflata                    ,
+  23    0.6264   Sigmoilopsis schlumbergeri              ,
+ 269    1.0519   Neogloboquadrina atlantica              ,
+ 363    0.0332   Hystrichosphaeropsis obscura            ,
+  91    0.2025   Diatoms/radiolarians LCO                ,
+ 219    0.0346   Martinotiella cylindrica                ,
+  15    0.2107   Globigerina praebulloides               ,
+ 362    0.3033   Cannosphaeropsis utinensis              ,
+ 236    0.2480   G. ex.gr. praescitula zealandica        ,
+  17    0.2972   Asterigerina gurichi                    ,
+   3    0.5307   Deflandrea phosphoritica                ,
+  25    0.0162   Coarse agglutinated spp.                ,
+  24    0.0146   Turrilina alsatica                      ,
+   7    0.0478   Areoligera semicirculata                ,
+  97    0.0634   Cyclammina placenta                     ,
+  41    0.2303   Wetzelliella symmetrica                 ,
+ 182    0.3743   Spirosigmoilinella compressa            ,
+ 324    0.0266   Aschemonella grandis                    ,
+ 289    0.1447   Adercotryma agterbergi                  ,
+ 198    0.3401   Glomospirella biedae                    ,
+ 261    0.0691   Haplophragmoides walteri                ,
+ 321    0.1303   Dorothia seigliei                       ,
+  12    0.0601   Areosphaeridium diktyoplokus            ,
+  29    0.0156   Reticulophragmium amplectens            ,
+  32    0.1043   Ammosphaeroidina pseudopauciloculata    ,
+ 229    0.2329   Recurvoides ex.gr. walteri              ,
+  72    0.3334   Rottnestia borussica                    ,
+  68    0.0872   Spiroplectammina spectabilis LO         ,
+ 263    0.0144   Ammomarginulina aubertae                ,
+  92    0.2355   Diphyes ficusoides                      ,
+ 260    0.3692   Haplophragmoides kirki                  ,
+ 175    0.1351   Reticulophragmium intermedia            ,
+  99    0.1601   Eatonicysta ursulae                     ,
+ 279    0.0560   Recurvoidella lamella                   ,
+  54    0.4076   Spiroplectammina navarroana             ,
+  50    0.5013   Subbotina patagonica                    ,
+ 108    0.5804   Deflandrea oebisfeldensis               ,
+  22    0.4804   Coscinodiscus spp.                      ,
+  28    0.8335   Apectodinium augustum                   ,
+  76    0.0971   Reticulophragmium paupera               ,
+ 105    0.0626   Rzehakina minima                        ,
+ 283    0.1278   Reticulophragmium garcilassoi           ,
+  57    0.0989   Spiroplectammina spectabilis LCO        ,
+ 114    0.1156   Alisocysta margarita                    ,
+ 310    0.3620   Saccammina placenta                     ,
+ 129    0.1168   Trochammina ruthven murrayi             ,
+ 134    0.5221   Hormosina excelsa                       ,
+ 118   Palaeoperidinium pyrophorum             
+***
+         60
+        1.09338164      -0.02706215
+  77    0.0236   Elphidium spp.                          ,
+ 228    0.2456   Cassidulina teretis                     ,
+  31    0.0759   Cibicidoides scaldisensis               ,
+   1    0.6087   Neogloboquadrina pachyderma             ,
+ 171    0.0575   Buccella frigida                        ,
+ 316    0.0332   Trifarina fluens                        ,
+ 270    0.7041   Cibicidoides grossa                     ,
+   4    0.1045   Globorotalia inflata                    ,
+  23    0.6264   Sigmoilopsis schlumbergeri              ,
+ 269    1.0519   Neogloboquadrina atlantica              ,
+  58    0.1563 **Neogloboquadrina atlantica (dextral)    ,
+   6    0.4512 **Neogloboquadrina acostaensis            ,
+ 363    0.0332   Hystrichosphaeropsis obscura            ,
+  91    0.2025   Diatoms/radiolarians LCO                ,
+ 219    0.0346   Martinotiella cylindrica                ,
+  15    0.2107   Globigerina praebulloides               ,
+ 362    0.3033   Cannosphaeropsis utinensis              ,
+ 236    0.2480   G. ex.gr. praescitula zealandica        ,
+ 348    0.1012 **Sphaeroidinella disjuncta               ,
+  17    0.2972   Asterigerina gurichi                    ,
+ 413    0.2469 **Silicious biofacies                     ,
+ 368    0.0378 **Chiropteridium mespilanum               ,
+   3    0.5307   Deflandrea phosphoritica                ,
+  25    0.0162   Coarse agglutinated spp.                ,
+  24    0.0146   Turrilina alsatica                      ,
+   7    0.0478   Areoligera semicirculata                ,
+  97    0.0634   Cyclammina placenta                     ,
+  41    0.2303   Wetzelliella symmetrica                 ,
+ 182    0.3743   Spirosigmoilinella compressa            ,
+ 324    0.0266   Aschemonella grandis                    ,
+ 289    0.1447   Adercotryma agterbergi                  ,
+ 198    0.3401   Glomospirella biedae                    ,
+ 261    0.0691   Haplophragmoides walteri                ,
+ 321    0.1303   Dorothia seigliei                       ,
+  12    0.0601   Areosphaeridium diktyoplokus            ,
+  29    0.0156   Reticulophragmium amplectens            ,
+  32    0.1043   Ammosphaeroidina pseudopauciloculata    ,
+ 229    0.2329   Recurvoides ex.gr. walteri              ,
+  72    0.3334   Rottnestia borussica                    ,
+  68    0.0872   Spiroplectammina spectabilis LO         ,
+ 263    0.0144   Ammomarginulina aubertae                ,
+  92    0.2355   Diphyes ficusoides                      ,
+ 260    0.3692   Haplophragmoides kirki                  ,
+ 175    0.1351   Reticulophragmium intermedia            ,
+  99    0.1601   Eatonicysta ursulae                     ,
+ 279    0.0560   Recurvoidella lamella                   ,
+  54    0.4076   Spiroplectammina navarroana             ,
+  50    0.5013   Subbotina patagonica                    ,
+ 108    0.5804   Deflandrea oebisfeldensis               ,
+  22    0.4804   Coscinodiscus spp.                      ,
+  28    0.8335   Apectodinium augustum                   ,
+  76    0.0971   Reticulophragmium paupera               ,
+ 105    0.0626   Rzehakina minima                        ,
+ 283    0.1278   Reticulophragmium garcilassoi           ,
+  57    0.0989   Spiroplectammina spectabilis LCO        ,
+ 114    0.1156   Alisocysta margarita                    ,
+ 310    0.3620   Saccammina placenta                     ,
+ 129    0.1168   Trochammina ruthven murrayi             ,
+ 134    0.5221   Hormosina excelsa                       ,
+ 118   Palaeoperidinium pyrophorum             

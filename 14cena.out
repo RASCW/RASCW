@@ -1,0 +1,982 @@
+                14cena.out                                          2007/06/24
+
+
+
+
+
+               RRRR      A      SSS     CCC         PPPP     CCC
+               R   R    A A    S   S   C   C        P   P   C   C
+               R   R   A   A   S       C            P   P   C
+               RRRR    AAAAA    SSS    C      ===== PPPP    C
+               R R     A   A       S   C            P       C
+               R  R    A   A   S   S   C   C        P       C   C
+               R   R   A   A    SSS     CCC         P        CCC
+
+
+
+                       RASC Version 18 (2002)
+
+
+                                  by
+
+
+                       F.P. Agterberg and F.M. Gradstein
+
+
+                     RANKING AND SCALING OF FOSSIL EVENTS
+                     ____________________________________
+
+
+
+
+
+
+      RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+
+
+                                  REFERENCES
+       
+         F.P.AGTERBERG & L.D.NEL, 1982A. ALGORITHMS FOR THE RANKING
+         OF STRATIGRAPHIC EVENTS, COMPUTERS & GEOSCIENCES,
+         VOL. 8, NO. 1, P. 69-90.
+
+         F.P.AGTERBERG & L.D.NEL, 1982B. ALGORITHMS FOR THE SCALING
+         OF STRATIGRAPHIC EVENTS, COMPUTERS & GEOSCIENCES,
+         VOL. 8, NO. 2, P. 163-189.
+
+         F.M.GRADSTEIN & F.P.AGTERBERG, 1982. MODELS OF CENOZOIC
+         FORAMINIFERAL STRATIGRAPHY, NORTWESTERN ATLANTIC MARGIN.
+         IN: QUANTITATIVE STRATIGRAPHIC CORRELATION, EDITORS:
+         J.M.CUBITT & R.A.REYMENT, WILEY, CHICHESTER, P. 119-173.
+
+         F.M.GRADSTEIN, F.P.AGTERBERG, J.C.BROWER &
+         W.SCHWARZACHER, 1985. QUANTITATIVE STRATIGRAPHY,
+         D. REIDEL PUBL. CO. & UNESCO, 598 PP.
+
+         F.P.AGTERBERG, 1990. AUTOMATED STRATIGRAPHIC CORRELATION,
+         ELSEVIER, AMSTERDAM, 424 PP.
+
+         F.M.GRADSTEIN & F.P.AGTERBERG, IN PRESS. UNCERTAINTY IN
+         STRATIGRAPHIC CORRELATION. IN PROCEEDINGS, HIGH RESOLUTION
+         SEQUENCE STRATIGRAPHY CONFERENCE OF NORWEGIAN PETROLEUM
+         SOCIETY, STAVANGER, NOVEMBER 1995, ELSEVIER, AMSTERDAM.
+
+
+      RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+
+
+
+
+
+
+
+       EXPLANATION OF RASC17 PARAMETERS FILE (*.INP)
+       ---------------------------------------------
+ 
+ 
+       RECORD NO. 1     RUN PARAMETERS   
+       ------------     -------------- 
+ 
+       NS     -  (INTEGER)  NUMBER OR SEQUENCES OR WELLS (NS  <=100)
+       IOCR   -  (INTEGER)  ELEMENTS OCCURRING FEWER THAN "IOCR"
+                            TIMES IN THE DATA SET WILL BE IGNORED
+       INIQ   -  (INTEGER)  = 1, IF UNIQUE EVENTS OR MARKER
+                            HORIZONS ARE INCLUDED (RECORDS 2 AND 3)
+       IALPHA   = 0,        TERMINATION AFTER RANKING SOLUTION
+                = 1,        SCALING ANALYSIS WILL BE DONE
+       ICASC    = 0,        NO WELL DATA OUTPUT FILE
+                = 1,        OUTPUT FILE FOR USE AS INPUT TO CASC
+                            PROGRAM
+       ICRIT  -  (INTEGER)  TRANSPOSE ELEMENTS WITH SUM LESS THAN
+                            "ICRIT" IN THE ORDER MATRIX WILL BE ZEROED
+                            BEFORE THE SCALING ANALYSIS.
+      
+        RECORD NO. 2    UNIQUE (RARE) EVENTS
+        ------------    --------------------
+ 
+        IF INIQ = 1, UP TO 20 UNIQUE EVENTS WILL BE READ FROM THIS
+        RECORD IN 20I4 FORMAT.  IF NO UNIQUE EVENTS ARE REQUESTED,
+        THIS RECORD IS LEFT BLANK.
+       
+        RECORD NO. 3     MARKER HORIZONS
+        ------------     ---------------
+       
+        IF INIQ = 1, UP TO 20 MARKER HORIZONS WILL BE READ FROM
+        THIS RECORD IN 20I4 FORMAT.  IF NO MARKER HORIZONS ARE
+        REQUESTED, THIS RECORD IS LEFT BLANK.
+
+
+
+        EXPLANATION OF INPUT DATA FORMAT (FIXED FORMAT)
+        ----------------------------------------------
+       
+        OBSERVED SEQUENCES OF EVENTS:
+          THE OBSERVED DATA ARE GIVEN AS "NS" SEQUENCES.  A "SEQUENCE"
+          CONSISTS OF A TITLE RECORD (IN 5A4 FORMAT) FOLLOWED BY ONE
+          OR  MORE RECORDS OF SEQUENCE DATA (IN MULTIPLE I4 FORMAT).
+          EACH OF THESE DATA RECORDS IS PARTITIONED INTO 20 FIELDS,
+          EACH FIELD HAVING I4 FORMAT. THUS, THERE MAY BE UP TO 20
+          EVENTS IN ONE RECORD. RASC17 ALLOWS UP TO 100 SEQUENCES (WELLS)
+          AND UP TO 300 EVENTS PER SEQUENCE
+       
+        NOTE:
+          A SEQUENCE IS DEEMED TO HAVE ENDED WHEN A FIELD
+          CONTAINING   -999   IS ENCOUNTERED.
+       
+        DICTIONARY:
+          THE DICTIONARY IS MERELY A LIST OF EVENT LABELS:  ONE LABEL
+          PER RECORD, 10A4 FORMAT.  AN EXTRA RECORD WITH THE LABEL
+          `LAST` IN THE FIRST 4 COLUMNS MUST BE PLACED AT THE END.
+          THE LIMITATION IN RASC17 IS 998 RECORDS (NOT COUNTING `LAST`)
+          THE DICTIONARY IS ALWAYS READ FROM "TAPE99".
+       
+
+
+      RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+
+
+
+
+
+
+          RESULTS OBTAINED BY MEANS OF PROGRAM RASC17 (1998)
+          FOR RANKING AND SCALING OF FOSSIL EVENTS
+
+
+
+
+ RUN PARAMETERS:    NS IOCR INIQ IALPHA ICASC ICRIT
+                    14    6    1      1     1     3
+
+
+
+ SEQUENCE OF WELLS:
+
+
+    1   Saga (N) 6407/2-3                       
+    2   Statoil (N) 6407/4-1                    
+    3   Elf Aquitaine (N) 6406/8-1              
+    4   Hydro (N) 34/8-1                        
+    5   Esso (N) 16/1-1                         
+    6   Saga (N) 34/4-5                         
+    7   Hydro (N) 6407/7-1                      
+    8   6407/7A-1                               
+    9   BP (UK) 15/20-2                         
+   10   Saga (N) 2/2-4                          
+   11   Shell (UK) 22/6-1                       
+   12   Amoco (N) 2/8-1                         
+   13   Saga (N) 35/3-1                         
+   14   Saga 6406/2-1                           
+
+
+
+
+
+ RECORDS FOR THE FOLLOWING UNIQUE (RARE) EVENTS HAVE BEEN SELECTED:
+
+ NUMBER   FREQUENCY       NAME
+
+     6        4          Neogloboquadrina acostaensis            
+    58        1          Neogloboquadrina atlantica (dextral)    
+   348        2          Sphaeroidinella disjuncta               
+   368        5          Chiropteridium mespilanum               
+   413        3          Silicious biofacies                     
+
+
+
+
+TABULATION OF EVENT RECORD OCCURRENCES
+DICTIONARY CODE NUMBER VERSUS FREQUENCY OF OCCURRENCE
+
+
+
+  *      1   10  *     59    2  *    129    7  *    203    4  *    295    2  *    373    2  *  
+  *      2    1  *     60    3  *    130    4  *    204    4  *    298    1  *    374    2  *  
+  *      3    7  *     61    4  *    131    3  *    205    3  *    299    1  *    375    1  *  
+  *      4    8  *     63    2  *    133    1  *    206    3  *    300    2  *    376    2  *  
+  *      5    3  *     64    4  *    134    6  *    207    5  *    301    3  *    377    1  *  
+  *      6    4  *     67    2  *    135    2  *    209    1  *    306    4  *    378    3  *  
+  *      7    9  *     68   11  *    138    3  *    210    3  *    310    8  *    383    1  *  
+  *      8    2  *     69    2  *    140    4  *    211    2  *    316    7  *    384    1  *  
+  *      9    2  *     70    2  *    142    2  *    219    8  *    318    2  *    385    1  *  
+  *     10    1  *     71    4  *    145    1  *    225    1  *    319    1  *    386    2  *  
+  *     11    2  *     72    6  *    146    3  *    227    5  *    321    9  *    387    4  *  
+  *     12    8  *     74    2  *    147    1  *    228   12  *    323    1  *    388    3  *  
+  *     13    5  *     75    4  *    149    1  *    229    6  *    324    6  *    389    3  *  
+  *     14    2  *     76   11  *    150    1  *    231    1  *    325    2  *    391    3  *  
+  *     15   11  *     77    9  *    151    1  *    233    3  *    326    3  *    392    1  *  
+  *     16    1  *     78    4  *    153    1  *    236    7  *    327    2  *    394    3  *  
+  *     17    7  *     81    3  *    154    1  *    239    1  *    328    4  *    395    3  *  
+  *     18    1  *     82    1  *    155    1  *    240    5  *    329    4  *    396    2  *  
+  *     19    1  *     83    5  *    156    2  *    243    2  *    331    1  *    397    1  *  
+  *     20    3  *     86    2  *    157    5  *    245    1  *    332    3  *    398    1  *  
+  *     21    4  *     88    2  *    158    1  *    246    1  *    333    1  *    399    1  *  
+  *     22    9  *     90    1  *    159    4  *    250    1  *    334    4  *    400    3  *  
+  *     23   12  *     91    8  *    160    1  *    251    5  *    335    2  *    401    1  *  
+  *     24    8  *     92    6  *    161    2  *    253    3  *    338    4  *    402    1  *  
+  *     25   11  *     93    1  *    163    2  *    259    4  *    339    3  *    403    3  *  
+  *     28    9  *     94    3  *    164    1  *    260    9  *    340    1  *    405    1  *  
+  *     29   11  *     97   10  *    166    5  *    261   11  *    341    1  *    406    3  *  
+  *     30    4  *     98    5  *    167    1  *    263    7  *    342    2  *    407    4  *  
+  *     31    7  *     99    9  *    168    1  *    264    1  *    344    1  *    408    1  *  
+  *     32    8  *    100    4  *    169    5  *    266    4  *    346    1  *    409    2  *  
+  *     33    1  *    101    1  *    170    3  *    269   11  *    348    2  *    410    4  *  
+  *     36    2  *    104    1  *    171    6  *    270    9  *    349    2  *    411    1  *  
+  *     37    2  *    105    6  *    172    2  *    272    2  *    351    4  *    412    3  *  
+  *     39    3  *    106    1  *    175    6  *    274    1  *    352    2  *    413    3  *  
+  *     41    7  *    107    4  *    176    3  *    275    1  *    353    1  *    414    1  *  
+  *     43    2  *    108    9  *    178    2  *    278    1  *    359    1  *    415    3  *  
+  *     45    2  *    109    1  *    181    4  *    279    7  *    360    1  *    425    1  *  
+  *     46    5  *    111    1  *    182    9  *    280    1  *    361    5  *    442    1  *  
+  *     47    2  *    113    4  *    183    5  *    281    2  *    362    7  *    446    1  *  
+  *     48    2  *    114    6  *    184    4  *    282    5  *    363    6  *    453    1  *  
+  *     50   11  *    115    3  *    185    1  *    283    6  *    364    1  *    457    1  *  
+  *     51    3  *    116    1  *    192    3  *    284    1  *    365    1  *    459    1  *  
+  *     52    1  *    118    6  *    194    1  *    285    4  *    367    3  *    471    1  *  
+  *     54   11  *    122    3  *    196    2  *    287    2  *    368    5  *    510    1  *  
+  *     55    3  *    123    3  *    197    4  *    288    1  *    369    5  *  
+  *     56    2  *    125    5  *    198    6  *    289    8  *    370    4  *  
+  *     57   11  *    127    1  *    201    3  *    291    1  *    371    5  *  
+  *     58    1  *    128    1  *    202    2  *    292    1  *    372    4  *  
+
+
+
+
+TABULATION OF EVENT RECORD OCCURRENCES
+
+
+   NUMBER OF WELLS     1   2   3   4   5   6   7   8   9  10  11  12  13  14
+   CUMULATIVE NUMBER 284 195 146 106  73  55  42  32  24  14  12   2   0   0
+
+
+
+
+
+
+       RANKING ANALYSIS - PRINCIPAL RESULTS
+       ____________________________________
+
+
+
+
+       OPTIMUM SEQUENCE TABULATED WITH EVENT RANGES AND LABELS:
+
+       SEQUENCE  EVENT   RANGE   EVENT
+       POSITION  NUMBER          NAME
+
+
+        1       77       0-  2   Elphidium spp.                          
+        2      228       1-  3   Cassidulina teretis                     
+        3        1       2-  4   Neogloboquadrina pachyderma             
+        4       31       3-  5   Cibicidoides scaldisensis               
+        5      316       4-  6   Trifarina fluens                        
+        6      171       5-  7   Buccella frigida                        
+        7      270       6-  8   Cibicidoides grossa                     
+        8        4       7-  9   Globorotalia inflata                    
+        9       23       8- 10   Sigmoilopsis schlumbergeri              
+       10      269       9- 11   Neogloboquadrina atlantica              
+       11       91      10- 12   Diatoms/radiolarians LCO                
+       12       15      11- 13   Globigerina praebulloides               
+       13      363      12- 14   Hystrichosphaeropsis obscura            
+       14      362      13- 16   Cannosphaeropsis utinensis              
+       15      219      13- 16   Martinotiella cylindrica                
+       16      236      15- 17   G. ex.gr. praescitula zealandica        
+       17       17      16- 19   Asterigerina gurichi                    
+       18        3      16- 19   Deflandrea phosphoritica                
+       19        7      18- 20   Areoligera semicirculata                
+       20       41      19- 21   Wetzelliella symmetrica                 
+       21       25      20- 22   Coarse agglutinated spp.                
+       22       97      21- 23   Cyclammina placenta                     
+       23      182      22- 24   Spirosigmoilinella compressa            
+       24       24      23- 25   Turrilina alsatica                      
+       25      289      24- 27   Adercotryma agterbergi                  
+       26      198      24- 27   Glomospirella biedae                    
+       27      324      26- 28   Aschemonella grandis                    
+       28      261      27- 30   Haplophragmoides walteri                
+       29      321      27- 30   Dorothia seigliei                       
+       30       29      29- 31   Reticulophragmium amplectens            
+       31       32      30- 32   Ammosphaeroidina pseudopauciloculata    
+       32       12      31- 33   Areosphaeridium diktyoplokus            
+       33      229      32- 35   Recurvoides ex.gr. walteri              
+       34       72      32- 36   Rottnestia borussica                    
+       35      263      33- 36   Ammomarginulina aubertae                
+       36       68      35- 37   Spiroplectammina spectabilis LO         
+       37       92      36- 38   Diphyes ficusoides                      
+       38      260      37- 39   Haplophragmoides kirki                  
+       39      175      38- 40   Reticulophragmium intermedia            
+       40       99      39- 41   Eatonicysta ursulae                     
+       41       54      40- 42   Spiroplectammina navarroana             
+       42      279      41- 43   Recurvoidella lamella                   
+       43       50      42- 44   Subbotina patagonica                    
+       44      108      43- 45   Deflandrea oebisfeldensis               
+       45       22      44- 46   Coscinodiscus spp.                      
+       46       28      45- 47   Apectodinium augustum                   
+       47      105      46- 49   Rzehakina minima                        
+       48       76      46- 49   Reticulophragmium paupera               
+       49      283      48- 50   Reticulophragmium garcilassoi           
+       50       57      49- 51   Spiroplectammina spectabilis LCO        
+       51      114      50- 52   Alisocysta margarita                    
+       52      310      51- 53   Saccammina placenta                     
+       53      129      52- 54   Trochammina ruthven murrayi             
+       54      134      53- 55   Hormosina excelsa                       
+       55      118      54- 56   Palaeoperidinium pyrophorum             
+
+
+       NOTE: RANGES DEFINE OUTER LIMITS IN THE POSITION SEQUENCE.
+             EVENTS CAN OCCUR ANYWHERE WITHIN THESE LIMITS.
+             THIS RANGE IS NOT STRATIGRAPHIC.
+
+
+
+
+
+ POSITIONING OF UNIQUE EVENTS IN OPTIMUM SEQUENCE
+
+
+
+ EVENTS ARE SORTED ON THE BASIS OF CUMULATIVE DISTANCE
+ TO OBTAIN ONLY POSITIVE INTEREVENT DISTANCES
+
+ NEW        DISTANCE      EVENT     INTER
+ SEQUENCE   FROM 1ST      PAIRS     EVENT
+            POSITION                DISTANCE
+
+   77       0.0000        77-228    1.0000
+  228       1.0000       228-  1    1.0000
+    1       2.0000         1- 31    1.0000
+   31       3.0000        31-316    1.0000
+  316       4.0000       316-171    1.0000
+  171       5.0000       171-270    1.0000
+  270       6.0000       270-  4    1.0000
+    4       7.0000         4- 23    1.0000
+   23       8.0000        23-269    1.0000
+  269       9.0000       269- 91    1.0000
+   91      10.0000        91- 58    0.2500
+   58      10.2500        58-  6    0.3110
+    6      10.5610         6- 15    0.4390
+   15      11.0000        15-363    1.0000
+  363      12.0000       363-362    1.0000
+  362      13.0000       362-219    1.0000
+  219      14.0000       219-236    1.0000
+  236      15.0000       236-348    0.5250
+  348      15.5250       348-413    0.1000
+  413      15.6250       413- 17    0.3750
+   17      16.0000        17-  3    1.0000
+    3      17.0000         3-368    0.1725
+  368      17.1725       368-  7    0.8275
+    7      18.0000         7- 41    1.0000
+   41      19.0000        41- 25    1.0000
+   25      20.0000        25- 97    1.0000
+   97      21.0000        97-182    1.0000
+  182      22.0000       182- 24    1.0000
+   24      23.0000        24-289    1.0000
+  289      24.0000       289-198    1.0000
+  198      25.0000       198-324    1.0000
+  324      26.0000       324-261    1.0000
+  261      27.0000       261-321    1.0000
+  321      28.0000       321- 29    1.0000
+   29      29.0000        29- 32    1.0000
+   32      30.0000        32- 12    1.0000
+   12      31.0000        12-229    1.0000
+  229      32.0000       229- 72    1.0000
+   72      33.0000        72-263    1.0000
+  263      34.0000       263- 68    1.0000
+   68      35.0000        68- 92    1.0000
+   92      36.0000        92-260    1.0000
+  260      37.0000       260-175    1.0000
+  175      38.0000       175- 99    1.0000
+   99      39.0000        99- 54    1.0000
+   54      40.0000        54-279    1.0000
+  279      41.0000       279- 50    1.0000
+   50      42.0000        50-108    1.0000
+  108      43.0000       108- 22    1.0000
+   22      44.0000        22- 28    1.0000
+   28      45.0000        28-105    1.0000
+  105      46.0000       105- 76    1.0000
+   76      47.0000        76-283    1.0000
+  283      48.0000       283- 57    1.0000
+   57      49.0000        57-114    1.0000
+  114      50.0000       114-310    1.0000
+  310      51.0000       310-129    1.0000
+  129      52.0000       129-134    1.0000
+  134      53.0000       134-118    1.0000
+  118      54.0000
+
+
+
+
+ FINAL OPTIMUM SEQUENCE WITH UNIQUE EVENTS
+
+
+     RANK  EVENT #    FOSSIL EVENT NAME
+
+       1      77      Elphidium spp.                          
+       2     228      Cassidulina teretis                     
+       3       1      Neogloboquadrina pachyderma             
+       4      31      Cibicidoides scaldisensis               
+       5     316      Trifarina fluens                        
+       6     171      Buccella frigida                        
+       7     270      Cibicidoides grossa                     
+       8       4      Globorotalia inflata                    
+       9      23      Sigmoilopsis schlumbergeri              
+      10     269      Neogloboquadrina atlantica              
+      11      91      Diatoms/radiolarians LCO                
+      12      58    **Neogloboquadrina atlantica (dextral)    
+      13       6    **Neogloboquadrina acostaensis            
+      14      15      Globigerina praebulloides               
+      15     363      Hystrichosphaeropsis obscura            
+      16     362      Cannosphaeropsis utinensis              
+      17     219      Martinotiella cylindrica                
+      18     236      G. ex.gr. praescitula zealandica        
+      19     348    **Sphaeroidinella disjuncta               
+      20     413    **Silicious biofacies                     
+      21      17      Asterigerina gurichi                    
+      22       3      Deflandrea phosphoritica                
+      23     368    **Chiropteridium mespilanum               
+      24       7      Areoligera semicirculata                
+      25      41      Wetzelliella symmetrica                 
+      26      25      Coarse agglutinated spp.                
+      27      97      Cyclammina placenta                     
+      28     182      Spirosigmoilinella compressa            
+      29      24      Turrilina alsatica                      
+      30     289      Adercotryma agterbergi                  
+      31     198      Glomospirella biedae                    
+      32     324      Aschemonella grandis                    
+      33     261      Haplophragmoides walteri                
+      34     321      Dorothia seigliei                       
+      35      29      Reticulophragmium amplectens            
+      36      32      Ammosphaeroidina pseudopauciloculata    
+      37      12      Areosphaeridium diktyoplokus            
+      38     229      Recurvoides ex.gr. walteri              
+      39      72      Rottnestia borussica                    
+      40     263      Ammomarginulina aubertae                
+      41      68      Spiroplectammina spectabilis LO         
+      42      92      Diphyes ficusoides                      
+      43     260      Haplophragmoides kirki                  
+      44     175      Reticulophragmium intermedia            
+      45      99      Eatonicysta ursulae                     
+      46      54      Spiroplectammina navarroana             
+      47     279      Recurvoidella lamella                   
+      48      50      Subbotina patagonica                    
+      49     108      Deflandrea oebisfeldensis               
+      50      22      Coscinodiscus spp.                      
+      51      28      Apectodinium augustum                   
+      52     105      Rzehakina minima                        
+      53      76      Reticulophragmium paupera               
+      54     283      Reticulophragmium garcilassoi           
+      55      57      Spiroplectammina spectabilis LCO        
+      56     114      Alisocysta margarita                    
+      57     310      Saccammina placenta                     
+      58     129      Trochammina ruthven murrayi             
+      59     134      Hormosina excelsa                       
+      60     118      Palaeoperidinium pyrophorum             
+
+     ** INDICATES A UNIQUE (RARE) EVENT
+
+
+
+
+
+       SCALING ANALYSIS - PRINCIPAL RESULTS
+       ____________________________________
+
+
+ SCALING RESULTS OBTAINED AFTER FINAL REORDERING
+
+
+
+ DISTANCE ANALYSIS WITH WEIGHTED DIFFERENCES
+
+ RANK   EVENT    INTEREVENT  CUMULATIVE   SUM DIFF  SAMPLE  WGT     S.D.
+        PAIRS     DISTANCE    DISTANCE    Z VALUES   SIZE
+
+    1   77-228     0.0236      0.0236      0.3447      9   14.6    0.1119
+    2  228- 31     0.2456      0.2692      3.4926      9   14.2    0.1325
+    3   31-  1     0.0759      0.3451      1.0971      8   14.5    0.1194
+    4    1-171     0.6087      0.9538      8.4805      8   13.9    0.1348
+    5  171-316     0.0575      1.0113      0.6671      8   11.6    0.1890
+    6  316-270     0.0332      1.0445      0.4516      8   13.6    0.2045
+    7  270-  4     0.7041      1.7486      8.4113      8   11.9    0.0892
+    8    4- 23     0.1045      1.8531      1.3928      8   13.3    0.1579
+    9   23-269     0.6264      2.4796      9.5659     11   15.3    0.1276
+   10  269-363     1.0519      3.5315      8.0963      6    7.7    0.2817
+   11  363- 91     0.0332      3.5647      0.3653     11   11.0    0.1668
+   12   91-219     0.2025      3.7671      2.5789     12   12.7    0.1732
+   13  219- 15     0.0346      3.8018      0.5530     12   16.0    0.1911
+   14   15-362     0.2107      4.0124      2.4766     10   11.8    0.2018
+   15  362-236     0.3033      4.3158      2.7853      9    9.2    0.2284
+   16  236- 17     0.2480      4.5637      2.5015      7   10.1    0.1092
+   17   17-  3     0.2972      4.8609      2.0499      6    6.9    0.2891
+   18    3- 25     0.5307      5.3916      7.2043     15   13.6    0.1735
+   19   25- 24     0.0162      5.4077      0.3534     21   21.9    0.1683
+   20   24-  7     0.0146      5.4223      0.3034     16   20.9    0.1323
+   21    7- 97     0.0478      5.4701      1.4802     24   31.0    0.1335
+   22   97- 41     0.0634      5.5335      1.8433     24   29.1    0.1033
+   23   41-182     0.2303      5.7637      4.3487     11   18.9    0.2027
+   24  182-324     0.3743      6.1380      6.4705     14   17.3    0.1309
+   25  324-289     0.0266      6.1646      0.4447     14   16.7    0.1463
+   26  289-198     0.1447      6.3093      2.7441     15   19.0    0.1057
+   27  198-261     0.3401      6.6494      9.6949     22   28.5    0.1035
+   28  261-321     0.0691      6.7185      2.4484     23   35.5    0.0761
+   29  321- 12     0.1303      6.8488      3.2533     19   25.0    0.1495
+   30   12- 29     0.0601      6.9089      1.3043     16   21.7    0.1026
+   31   29- 32     0.0156      6.9245      0.3790     18   24.4    0.1253
+   32   32-229     0.1043      7.0288      1.8962     18   18.2    0.0950
+   33  229- 72     0.2329      7.2616      3.5751     18   15.4    0.1476
+   34   72- 68     0.3334      7.5950      6.6569     20   20.0    0.0973
+   35   68-263     0.0872      7.6822      2.1481     16   24.6    0.1574
+   36  263- 92     0.0144      7.6966      0.2849     16   19.7    0.1578
+   37   92-260     0.2355      7.9322      5.0205     15   21.3    0.1333
+   38  260-175     0.3692      8.3014      6.9868     14   18.9    0.1315
+   39  175- 99     0.1351      8.4365      1.5170      7   11.2    0.1213
+   40   99-279     0.1601      8.5966      2.2191      8   13.9    0.2447
+   41  279- 54     0.0560      8.6526      1.1137     14   19.9    0.1202
+   42   54- 50     0.4076      9.0602      8.6869     14   21.3    0.1589
+   43   50-108     0.5013      9.5615      5.6166     10   11.2    0.1782
+   44  108- 22     0.5804     10.1419      3.3712      4    5.8    0.2844
+   45   22- 28     0.4804     10.6223      3.3332      8    6.9    0.1522
+   46   28- 76     0.8335     11.4558     11.9915     12   14.4    0.1030
+   47   76-105     0.0971     11.5529      1.1384     12   11.7    0.0718
+   48  105-283     0.0626     11.6155      0.6334     12   10.1    0.0906
+   49  283- 57     0.1278     11.7433      1.7033     12   13.3    0.1234
+   50   57-114     0.0989     11.8422      1.2408      8   12.5    0.1354
+   51  114-310     0.1156     11.9578      1.1714      8   10.1    0.1320
+   52  310-129     0.3620     12.3198      4.2148      8   11.6    0.0738
+   53  129-134     0.1168     12.4366      1.0448      6    8.9    0.1296
+   54  134-118     0.5221     12.9586      3.6575      6    7.0    0.0928
+
+
+
+ EVENTS ARE SORTED ON THE BASIS OF CUMULATIVE DISTANCE
+ TO OBTAIN ONLY POSITIVE INTEREVENT DISTANCES
+
+ NOTE:  IN ORDER TO RECALCULATE STANDARD DEVIATIONS AFTER SORTING,
+ DISTANCE VALUES MUST BE RECALCULATED
+
+
+ NEW        DISTANCE      EVENT     INTER
+ SEQUENCE   FROM 1ST      PAIRS     EVENT
+            POSITION                DISTANCE
+
+   77       0.0000        77-228    0.0236
+  228       0.0236       228- 31    0.2456
+   31       0.2692        31-  1    0.0759
+    1       0.3451         1-171    0.6087
+  171       0.9538       171-316    0.0575
+  316       1.0113       316-270    0.0332
+  270       1.0445       270-  4    0.7041
+    4       1.7486         4- 23    0.1045
+   23       1.8531        23-269    0.6264
+  269       2.4796       269-363    1.0519
+  363       3.5315       363- 91    0.0332
+   91       3.5647        91-219    0.2025
+  219       3.7671       219- 15    0.0346
+   15       3.8018        15-362    0.2107
+  362       4.0124       362-236    0.3033
+  236       4.3158       236- 17    0.2480
+   17       4.5637        17-  3    0.2972
+    3       4.8609         3- 25    0.5307
+   25       5.3916        25- 24    0.0162
+   24       5.4077        24-  7    0.0146
+    7       5.4223         7- 97    0.0478
+   97       5.4701        97- 41    0.0634
+   41       5.5335        41-182    0.2303
+  182       5.7637       182-324    0.3743
+  324       6.1380       324-289    0.0266
+  289       6.1646       289-198    0.1447
+  198       6.3093       198-261    0.3401
+  261       6.6494       261-321    0.0691
+  321       6.7185       321- 12    0.1303
+   12       6.8488        12- 29    0.0601
+   29       6.9089        29- 32    0.0156
+   32       6.9245        32-229    0.1043
+  229       7.0288       229- 72    0.2329
+   72       7.2616        72- 68    0.3334
+   68       7.5950        68-263    0.0872
+  263       7.6822       263- 92    0.0144
+   92       7.6966        92-260    0.2355
+  260       7.9322       260-175    0.3692
+  175       8.3014       175- 99    0.1351
+   99       8.4365        99-279    0.1601
+  279       8.5966       279- 54    0.0560
+   54       8.6526        54- 50    0.4076
+   50       9.0602        50-108    0.5013
+  108       9.5615       108- 22    0.5804
+   22      10.1419        22- 28    0.4804
+   28      10.6223        28- 76    0.8335
+   76      11.4558        76-105    0.0971
+  105      11.5529       105-283    0.0626
+  283      11.6155       283- 57    0.1278
+   57      11.7433        57-114    0.0989
+  114      11.8422       114-310    0.1156
+  310      11.9578       310-129    0.3620
+  129      12.3198       129-134    0.1168
+  134      12.4366       134-118    0.5221
+  118      12.9586
+
+
+
+
+     DENDROGRAM OF WEIGHTED INTEREVENT DISTANCES
+
+
+
+        1.0000    0.8133    0.6265    0.4398    0.2530    0.0663
+   1.0934    0.9066    0.7199    0.5332    0.3464    0.1597   -0.0271
+    +----+----+----+----+----+----+----+----+----+----+----+----+
+                                                             ---- 77           Elphidium spp.                          
+                                                             I        0.0236
+                                                 ----------------228           Cassidulina teretis                     
+                                                 I                    0.2456
+                                                 I        ------- 31           Cibicidoides scaldisensis               
+                                                 I        I           0.0759
+                             ------------------------------------  1           Neogloboquadrina pachyderma             
+                             I                                        0.6087
+                             I                             ------171           Buccella frigida                        
+                             I                             I          0.0575
+                             I                             I-----316           Trifarina fluens                        
+                             I                             II         0.0332
+                        -----------------------------------------270           Cibicidoides grossa                     
+                        I                                             0.7041
+                        I                               ---------  4           Globorotalia inflata                    
+                        I                               I             0.1045
+                        I    ------------------------------------ 23           Sigmoilopsis schlumbergeri              
+                        I    I                                        0.6264
+      -----------------------------------------------------------269           Neogloboquadrina atlantica              
+      I                                                               1.0519
+      I                                                     -----363           Hystrichosphaeropsis obscura            
+      I                                                     I         0.0332
+      I                                            -------------- 91           Diatoms/radiolarians LCO                
+      I                                            I                  0.2025
+      I                                            I        -----219           Martinotiella cylindrica                
+      I                                            I        I         0.0346
+      I                                            -------------- 15           Globigerina praebulloides               
+      I                                            I                  0.2107
+      I                                       -------------------362           Cannosphaeropsis utinensis              
+      I                                       I                       0.3033
+      I                                       I  ----------------236           G. ex.gr. praescitula zealandica        
+      I                                       I  I                    0.2480
+      I                                       ------------------- 17           Asterigerina gurichi                    
+      I                                       I                       0.2972
+      I                           -------------------------------  3           Deflandrea phosphoritica                
+      I                           I                                   0.5307
+      I                           I                          ---- 25           Coarse agglutinated spp.                
+      I                           I                          I        0.0162
+      I                           I                          ---- 24           Turrilina alsatica                      
+      I                           I                          I        0.0146
+      I                           I                        ------  7           Areoligera semicirculata                
+      I                           I                        I          0.0478
+      I                           I                        ------ 97           Cyclammina placenta                     
+      I                           I                        I          0.0634
+      I                           I               --------------- 41           Wetzelliella symmetrica                 
+      I                           I               I                   0.2303
+      I                           I       -----------------------182           Spirosigmoilinella compressa            
+      I                           I       I                           0.3743
+      I                           I       I                  ----324           Aschemonella grandis                    
+      I                           I       I                  I        0.0266
+      I                           I       I           -----------289           Adercotryma agterbergi                  
+      I                           I       I           I               0.1447
+      I                           I       I ---------------------198           Glomospirella biedae                    
+      I                           I       I I                         0.3401
+      I                           I       I I             -------261           Haplophragmoides walteri                
+      I                           I       I I             I           0.0691
+      I                           I       I I          ----------321           Dorothia seigliei                       
+      I                           I       I I          I              0.1303
+      I                           I       I I          I   ------ 12           Areosphaeridium diktyoplokus            
+      I                           I       I I          I   I          0.0601
+      I                           I       I I          I   I ---- 29           Reticulophragmium amplectens            
+      I                           I       I I          I   I I        0.0156
+      I                           I       I I          I--------- 32           Ammosphaeroidina pseudopauciloculata    
+      I                           I       I I          II             0.1043
+      I                           I       I I     ---------------229           Recurvoides ex.gr. walteri              
+      I                           I       I I     I                   0.2329
+      I                           I       I --------------------- 72           Rottnestia borussica                    
+      I                           I       I I                         0.3334
+      I                           I       I I            -------- 68           Spiroplectammina spectabilis LO         
+      I                           I       I I            I            0.0872
+      I                           I       I I            I   ----263           Ammomarginulina aubertae                
+      I                           I       I I            I   I        0.0144
+      I                           I       I I    ---------------- 92           Diphyes ficusoides                      
+      I                           I       I I    I                    0.2355
+      I                           I       -----------------------260           Haplophragmoides kirki                  
+      I                           I       I                           0.3692
+      I                           I       I            ----------175           Reticulophragmium intermedia            
+      I                           I       I            I              0.1351
+      I                           I       I          ------------ 99           Eatonicysta ursulae                     
+      I                           I       I          I                0.1601
+      I                           I       I          I     ------279           Recurvoidella lamella                   
+      I                           I       I          I     I          0.0560
+      I                           I     ------------------------- 54           Spiroplectammina navarroana             
+      I                           I     I                             0.4076
+      I                           I------------------------------ 50           Subbotina patagonica                    
+      I                           II                                  0.5013
+      I                        ----------------------------------108           Deflandrea oebisfeldensis               
+      I                        I                                      0.5804
+      I                        I    ----------------------------- 22           Coscinodiscus spp.                      
+      I                        I    I                                 0.4804
+      I          ------------------------------------------------ 28           Apectodinium augustum                   
+      I          I                                                    0.8335
+      I          I                                       -------- 76           Reticulophragmium paupera               
+      I          I                                       I            0.0971
+      I          I                                       I ------105           Rzehakina minima                        
+      I          I                                       I I          0.0626
+      I          I                                     ----------283           Reticulophragmium garcilassoi           
+      I          I                                     I              0.1278
+      I          I                                     I -------- 57           Spiroplectammina spectabilis LCO        
+      I          I                                     I I            0.0989
+      I          I                                     I---------114           Alisocysta margarita                    
+      I          I                                     II             0.1156
+      I          I                         ----------------------310           Saccammina placenta                     
+      I          I                         I                          0.3620
+      I          I                         I            ---------129           Trochammina ruthven murrayi             
+      I          I                         I            I             0.1168
+      I          I                -------------------------------134           Hormosina excelsa                       
+      I          I                I                                   0.5221
+    -------------------------------------------------------------118           Palaeoperidinium pyrophorum             
+    +----+----+----+----+----+----+----+----+----+----+----+----+
+   1.0934    0.9066    0.7199    0.5332    0.3464    0.1597   -0.0271
+        1.0000    0.8133    0.6265    0.4398    0.2530    0.0663
+
+   DENDROGRAM -  VALUES ALONG X-AXIS ARE INTEREVENT DISTANCES; VALUES ALONG Y-AXIS ARE DISTANCES BETWEEN
+                 AN EVENT AND ITS SUCCESSOR
+
+
+ PRECEDING RESULTS WERE OBTAINED AFTER FINAL
+ REORDERING WITH SOLUTION AFTER   3 ITERATIONS
+
+
+
+
+
+ POSITIONING OF UNIQUE EVENTS IN FINAL SEQUENCE
+
+
+
+ EVENTS ARE SORTED ON THE BASIS OF CUMULATIVE DISTANCE
+ TO OBTAIN ONLY POSITIVE INTEREVENT DISTANCES
+
+ NEW        DISTANCE      EVENT     INTER
+ SEQUENCE   FROM 1ST      PAIRS     EVENT
+            POSITION                DISTANCE
+
+   77       0.0000        77-228    0.0236
+  228       0.0236       228- 31    0.2456
+   31       0.2692        31-  1    0.0759
+    1       0.3451         1-171    0.6087
+  171       0.9538       171-316    0.0575
+  316       1.0113       316-270    0.0332
+  270       1.0445       270-  4    0.7041
+    4       1.7486         4- 23    0.1045
+   23       1.8531        23-269    0.6264
+  269       2.4796       269- 58    0.4443
+   58       2.9239        58-  6    0.1563
+    6       3.0802         6-363    0.4512
+  363       3.5315       363- 91    0.0332
+   91       3.5647        91-219    0.2025
+  219       3.7671       219- 15    0.0346
+   15       3.8018        15-362    0.2107
+  362       4.0124       362-236    0.3033
+  236       4.3158       236-348    0.1467
+  348       4.4625       348- 17    0.1012
+   17       4.5637        17-413    0.0124
+  413       4.5762       413-368    0.2469
+  368       4.8230       368-  3    0.0378
+    3       4.8609         3- 25    0.5307
+   25       5.3916        25- 24    0.0162
+   24       5.4077        24-  7    0.0146
+    7       5.4223         7- 97    0.0478
+   97       5.4701        97- 41    0.0634
+   41       5.5335        41-182    0.2303
+  182       5.7637       182-324    0.3743
+  324       6.1380       324-289    0.0266
+  289       6.1646       289-198    0.1447
+  198       6.3093       198-261    0.3401
+  261       6.6494       261-321    0.0691
+  321       6.7185       321- 12    0.1303
+   12       6.8488        12- 29    0.0601
+   29       6.9089        29- 32    0.0156
+   32       6.9245        32-229    0.1043
+  229       7.0288       229- 72    0.2329
+   72       7.2616        72- 68    0.3334
+   68       7.5950        68-263    0.0872
+  263       7.6822       263- 92    0.0144
+   92       7.6966        92-260    0.2355
+  260       7.9322       260-175    0.3692
+  175       8.3014       175- 99    0.1351
+   99       8.4365        99-279    0.1601
+  279       8.5966       279- 54    0.0560
+   54       8.6526        54- 50    0.4076
+   50       9.0602        50-108    0.5013
+  108       9.5615       108- 22    0.5804
+   22      10.1419        22- 28    0.4804
+   28      10.6223        28- 76    0.8335
+   76      11.4558        76-105    0.0971
+  105      11.5529       105-283    0.0626
+  283      11.6155       283- 57    0.1278
+   57      11.7433        57-114    0.0989
+  114      11.8422       114-310    0.1156
+  310      11.9578       310-129    0.3620
+  129      12.3198       129-134    0.1168
+  134      12.4366       134-118    0.5221
+  118      12.9586
+
+
+
+
+     DENDROGRAM OF WEIGHTED INTEREVENT DISTANCES
+
+
+
+        1.0000    0.8133    0.6265    0.4398    0.2530    0.0663
+   1.0934    0.9066    0.7199    0.5332    0.3464    0.1597   -0.0271
+    +----+----+----+----+----+----+----+----+----+----+----+----+
+                                                             ---- 77           Elphidium spp.                          
+                                                             I        0.0236
+                                                 ----------------228           Cassidulina teretis                     
+                                                 I                    0.2456
+                                                 I        ------- 31           Cibicidoides scaldisensis               
+                                                 I        I           0.0759
+                             ------------------------------------  1           Neogloboquadrina pachyderma             
+                             I                                        0.6087
+                             I                             ------171           Buccella frigida                        
+                             I                             I          0.0575
+                             I                             I-----316           Trifarina fluens                        
+                             I                             II         0.0332
+                        -----------------------------------------270           Cibicidoides grossa                     
+                        I                                             0.7041
+                        I                               ---------  4           Globorotalia inflata                    
+                        I                               I             0.1045
+                        I    ------------------------------------ 23           Sigmoilopsis schlumbergeri              
+                        I    I                                        0.6264
+      -----------------------------------------------------------269           Neogloboquadrina atlantica              
+      I                                                               1.0519
+      I                                                           58         **Neogloboquadrina atlantica (dextral)    
+      I                                                              (0.1563)
+      I                                                            6         **Neogloboquadrina acostaensis            
+      I                                                              (0.4512)
+      I                                                     -----363           Hystrichosphaeropsis obscura            
+      I                                                     I         0.0332
+      I                                            -------------- 91           Diatoms/radiolarians LCO                
+      I                                            I                  0.2025
+      I                                            I        -----219           Martinotiella cylindrica                
+      I                                            I        I         0.0346
+      I                                            -------------- 15           Globigerina praebulloides               
+      I                                            I                  0.2107
+      I                                       -------------------362           Cannosphaeropsis utinensis              
+      I                                       I                       0.3033
+      I                                       I  ----------------236           G. ex.gr. praescitula zealandica        
+      I                                       I  I                    0.2480
+      I                                       I  I               348         **Sphaeroidinella disjuncta               
+      I                                       I  I                   (0.1012)
+      I                                       ------------------- 17           Asterigerina gurichi                    
+      I                                       I                       0.2972
+      I                                       I                  413         **Silicious biofacies                     
+      I                                       I                      (0.2469)
+      I                                       I                  368         **Chiropteridium mespilanum               
+      I                                       I                      (0.0378)
+      I                           -------------------------------  3           Deflandrea phosphoritica                
+      I                           I                                   0.5307
+      I                           I                          ---- 25           Coarse agglutinated spp.                
+      I                           I                          I        0.0162
+      I                           I                          ---- 24           Turrilina alsatica                      
+      I                           I                          I        0.0146
+      I                           I                        ------  7           Areoligera semicirculata                
+      I                           I                        I          0.0478
+      I                           I                        ------ 97           Cyclammina placenta                     
+      I                           I                        I          0.0634
+      I                           I               --------------- 41           Wetzelliella symmetrica                 
+      I                           I               I                   0.2303
+      I                           I       -----------------------182           Spirosigmoilinella compressa            
+      I                           I       I                           0.3743
+      I                           I       I                  ----324           Aschemonella grandis                    
+      I                           I       I                  I        0.0266
+      I                           I       I           -----------289           Adercotryma agterbergi                  
+      I                           I       I           I               0.1447
+      I                           I       I ---------------------198           Glomospirella biedae                    
+      I                           I       I I                         0.3401
+      I                           I       I I             -------261           Haplophragmoides walteri                
+      I                           I       I I             I           0.0691
+      I                           I       I I          ----------321           Dorothia seigliei                       
+      I                           I       I I          I              0.1303
+      I                           I       I I          I   ------ 12           Areosphaeridium diktyoplokus            
+      I                           I       I I          I   I          0.0601
+      I                           I       I I          I   I ---- 29           Reticulophragmium amplectens            
+      I                           I       I I          I   I I        0.0156
+      I                           I       I I          I--------- 32           Ammosphaeroidina pseudopauciloculata    
+      I                           I       I I          II             0.1043
+      I                           I       I I     ---------------229           Recurvoides ex.gr. walteri              
+      I                           I       I I     I                   0.2329
+      I                           I       I --------------------- 72           Rottnestia borussica                    
+      I                           I       I I                         0.3334
+      I                           I       I I            -------- 68           Spiroplectammina spectabilis LO         
+      I                           I       I I            I            0.0872
+      I                           I       I I            I   ----263           Ammomarginulina aubertae                
+      I                           I       I I            I   I        0.0144
+      I                           I       I I    ---------------- 92           Diphyes ficusoides                      
+      I                           I       I I    I                    0.2355
+      I                           I       -----------------------260           Haplophragmoides kirki                  
+      I                           I       I                           0.3692
+      I                           I       I            ----------175           Reticulophragmium intermedia            
+      I                           I       I            I              0.1351
+      I                           I       I          ------------ 99           Eatonicysta ursulae                     
+      I                           I       I          I                0.1601
+      I                           I       I          I     ------279           Recurvoidella lamella                   
+      I                           I       I          I     I          0.0560
+      I                           I     ------------------------- 54           Spiroplectammina navarroana             
+      I                           I     I                             0.4076
+      I                           I------------------------------ 50           Subbotina patagonica                    
+      I                           II                                  0.5013
+      I                        ----------------------------------108           Deflandrea oebisfeldensis               
+      I                        I                                      0.5804
+      I                        I    ----------------------------- 22           Coscinodiscus spp.                      
+      I                        I    I                                 0.4804
+      I          ------------------------------------------------ 28           Apectodinium augustum                   
+      I          I                                                    0.8335
+      I          I                                       -------- 76           Reticulophragmium paupera               
+      I          I                                       I            0.0971
+      I          I                                       I ------105           Rzehakina minima                        
+      I          I                                       I I          0.0626
+      I          I                                     ----------283           Reticulophragmium garcilassoi           
+      I          I                                     I              0.1278
+      I          I                                     I -------- 57           Spiroplectammina spectabilis LCO        
+      I          I                                     I I            0.0989
+      I          I                                     I---------114           Alisocysta margarita                    
+      I          I                                     II             0.1156
+      I          I                         ----------------------310           Saccammina placenta                     
+      I          I                         I                          0.3620
+      I          I                         I            ---------129           Trochammina ruthven murrayi             
+      I          I                         I            I             0.1168
+      I          I                -------------------------------134           Hormosina excelsa                       
+      I          I                I                                   0.5221
+    -------------------------------------------------------------118           Palaeoperidinium pyrophorum             
+    +----+----+----+----+----+----+----+----+----+----+----+----+
+   1.0934    0.9066    0.7199    0.5332    0.3464    0.1597   -0.0271
+        1.0000    0.8133    0.6265    0.4398    0.2530    0.0663
+
+   DENDROGRAM -  VALUES ALONG X-AXIS ARE INTEREVENT DISTANCES; VALUES ALONG Y-AXIS ARE DISTANCES BETWEEN
+                 AN EVENT AND ITS SUCCESSOR
+
+   ** INDICATES A UNIQUE (RARE) EVENT
+
+
+
+
+
+   SUMMARY OF DATA PROPERTIES AND RASC17 RESULTS:
+
+   NUMBER OF NAMES (TAXA) IN THE DICTIONARY             524
+   NUMBER OF WELLS                                       14
+   NUMBER OF DICTIONARY TAXA IN THE WELLS               284
+   NUMBER OF EVENT RECORDS IN THE WELLS                 985
+   NUMBER OF CYCLES PRIOR TO RANKING                     10
+   NUMBER OF EVENTS IN THE OPTIMUM SEQUENCE              55
+   NUMBER OF EVENTS IN OPTIMUM SEQUENCE WITH SD < ave SD 33
+   NUMBER OF EVENTS IN THE FINAL SCALED OPTIMUM
+      SEQUENCE (INCLUDING UNIQUE EVENTS SHOWN WITH **)   60
+   NUMBER OF STEPMODEL EVENTS WITH MORE THAN
+      SIX PENALTY POINTS AFTER SCALING                    4
+   NUMBER OF NORMALITY TEST EVENTS SHOWN WITH * OR **    25
+   NUMBER OF AAAA EVENTS IN SCALING SCATTERGRAMS         19
+       
+       
+       

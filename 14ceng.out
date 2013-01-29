@@ -1,0 +1,1258 @@
+                14ceng.out                                          2007/06/24
+
+
+
+
+     SUPPLEMENTARY SCALING ANALYSIS RESULTS
+     ______________________________________
+
+
+NOTE: INITIAL RESULTS ARE FOR SCALING WITHOUT FINAL
+REORDERING. HOWEVER, OCCURRENCE TABLE AND SUBSEQUENT RESULTS
+APPLY TO FINAL SCALING SOLUTION
+
+
+
+
+ SECOND MODIFICATION OF ORDER MATRIX:
+ BASED ON CRIT2 =   3.0, A TOTAL OF   63 PAIRS (OUT OF 1485) HAVE BEEN ZEROED.
+
+
+ DISTANCE ANALYSIS WITH WEIGHTED DIFFERENCES
+
+ RANK   EVENT    INTEREVENT  CUMULATIVE   SUM DIFF  SAMPLE  WGT     S.D.
+        PAIRS     DISTANCE    DISTANCE    Z VALUES   SIZE
+
+    1   77-228     0.0236      0.0236      0.3447      9   14.6    0.1119
+    2  228-  1     0.3265      0.3501      5.6604      9   17.3    0.0927
+    3    1- 31    -0.0759      0.2742     -1.0971      8   14.5    0.1194
+    4   31-316     0.7262      1.0004      7.9960      8   11.0    0.1942
+    5  316-171    -0.0575      0.9429     -0.6671      8   11.6    0.1890
+    6  171-270     0.0870      1.0299      1.1304      8   13.0    0.1403
+    7  270-  4     0.7041      1.7340      8.4113      8   11.9    0.0892
+    8    4- 23     0.1045      1.8385      1.3928      8   13.3    0.1579
+    9   23-269     0.6264      2.4650      9.5659     13   15.3    0.1165
+   10  269- 91     1.0874      3.5524      9.3946      6    8.6    0.1108
+   11   91- 15     0.1502      3.7026      2.3462     12   15.6    0.1910
+   12   15-363    -0.0788      3.6238     -0.8643     10   11.0    0.1731
+   13  363-362     0.4161      4.0399      3.8088     10    9.2    0.1805
+   14  362-219    -0.1040      3.9359     -1.0407      6   10.0    0.1745
+   15  219-236     0.4096      4.3455      5.2453     11   12.8    0.1131
+   16  236- 17     0.2480      4.5935      2.5015      9   10.1    0.0945
+   17   17-  3     0.2972      4.8907      2.0499      8    6.9    0.2444
+   18    3-  7     0.4895      5.3802      8.0750     11   16.5    0.0881
+   19    7- 41     0.1629      5.5431      3.3182     12   20.4    0.1333
+   20   41- 25    -0.1952      5.3479     -4.1959     18   21.5    0.1179
+   21   25- 97     0.0923      5.4402      2.7123     25   29.4    0.0910
+   22   97-182     0.2889      5.7291      8.7154     25   30.2    0.0717
+   23  182- 24    -0.3455      5.3836     -6.6472     16   19.2    0.1739
+   24   24-289     0.6853      6.0690     12.7015     16   18.5    0.1512
+   25  289-198     0.1447      6.2136      2.7441     15   19.0    0.1057
+   26  198-324    -0.1432      6.0705     -2.4703     15   17.3    0.1339
+   27  324-261     0.4533      6.5238     12.2678     22   27.1    0.1183
+   28  261-321     0.0691      6.5928      2.4484     22   35.5    0.0779
+   29  321- 29     0.1912      6.7840      5.6115     19   29.4    0.1203
+   30   29- 32     0.0156      6.7995      0.3789     16   24.4    0.1334
+   31   32- 12    -0.0765      6.7231     -1.5877     16   20.8    0.1695
+   32   12-229     0.1379      6.8610      2.4225     16   17.6    0.1848
+   33  229- 72     0.2329      7.0938      3.5751     16   15.4    0.1571
+   34   72-263     0.3394      7.4332      7.0199     22   20.7    0.1287
+   35  263- 68    -0.0872      7.3460     -2.1481     16   24.6    0.1574
+   36   68- 92     0.1227      7.4687      2.3474     14   19.1    0.1094
+   37   92-260     0.2355      7.7043      5.0205     15   21.3    0.1333
+   38  260-175     0.3692      8.0735      6.9868     14   18.9    0.1315
+   39  175- 99     0.1351      8.2086      1.5170      8   11.2    0.1123
+   40   99- 54     0.2191      8.4276      4.4900     14   20.5    0.1185
+   41   54-279    -0.0560      8.3716     -1.1137     14   19.9    0.1202
+   42  279- 50     0.6721      9.0437      8.6079      8   12.8    0.1980
+   43   50-108     0.5013      9.5450      5.6166     11   11.2    0.1690
+   44  108- 22     0.5804     10.1254      3.3712      5    5.8    0.2463
+   45   22- 28     0.4804     10.6058      3.3332      9    6.9    0.1424
+   46   28-105     0.7730     11.3788      9.5026     13   12.3    0.1238
+   47  105- 76    -0.1255     11.2533     -1.3476      7   10.7    0.0935
+   48   76-283     0.1966     11.4499      2.0660      7   10.5    0.1496
+   49  283- 57     0.1278     11.5778      1.7033     13   13.3    0.1181
+   50   57-114     0.0989     11.6766      1.2408      8   12.5    0.1354
+   51  114-310     0.1156     11.7922      1.1714      8   10.1    0.1320
+   52  310-129     0.3620     12.1542      4.2148      8   11.6    0.0738
+   53  129-134     0.1168     12.2710      1.0448      6    8.9    0.1296
+   54  134-118     0.5221     12.7931      3.6575      6    7.0    0.0928
+
+
+
+ EVENTS ARE SORTED ON THE BASIS OF CUMULATIVE DISTANCE
+ TO OBTAIN ONLY POSITIVE INTEREVENT DISTANCES
+
+ NOTE:  IN ORDER TO RECALCULATE STANDARD DEVIATIONS AFTER SORTING,
+ DISTANCE VALUES MUST BE RECALCULATED
+
+
+ NEW        DISTANCE      EVENT     INTER
+ SEQUENCE   FROM 1ST      PAIRS     EVENT
+            POSITION                DISTANCE
+
+   77       0.0000        77-228    0.0236
+  228       0.0236       228- 31    0.2506
+   31       0.2742        31-  1    0.0759
+    1       0.3501         1-171    0.5928
+  171       0.9429       171-316    0.0575
+  316       1.0004       316-270    0.0295
+  270       1.0299       270-  4    0.7041
+    4       1.7340         4- 23    0.1045
+   23       1.8385        23-269    0.6264
+  269       2.4650       269- 91    1.0874
+   91       3.5524        91-363    0.0714
+  363       3.6238       363- 15    0.0788
+   15       3.7026        15-219    0.2333
+  219       3.9359       219-362    0.1040
+  362       4.0399       362-236    0.3057
+  236       4.3455       236- 17    0.2480
+   17       4.5935        17-  3    0.2972
+    3       4.8907         3- 25    0.4572
+   25       5.3479        25-  7    0.0323
+    7       5.3802         7- 24    0.0035
+   24       5.3836        24- 97    0.0566
+   97       5.4402        97- 41    0.1029
+   41       5.5431        41-182    0.1860
+  182       5.7291       182-289    0.3399
+  289       6.0690       289-324    0.0015
+  324       6.0705       324-198    0.1432
+  198       6.2136       198-261    0.3101
+  261       6.5238       261-321    0.0691
+  321       6.5928       321- 12    0.1303
+   12       6.7231        12- 29    0.0609
+   29       6.7840        29- 32    0.0156
+   32       6.7995        32-229    0.0614
+  229       6.8610       229- 72    0.2329
+   72       7.0938        72- 68    0.2522
+   68       7.3460        68-263    0.0872
+  263       7.4332       263- 92    0.0355
+   92       7.4687        92-260    0.2355
+  260       7.7043       260-175    0.3692
+  175       8.0735       175- 99    0.1351
+   99       8.2086        99-279    0.1631
+  279       8.3716       279- 54    0.0560
+   54       8.4276        54- 50    0.6161
+   50       9.0437        50-108    0.5013
+  108       9.5450       108- 22    0.5804
+   22      10.1254        22- 28    0.4804
+   28      10.6058        28- 76    0.6475
+   76      11.2533        76-105    0.1255
+  105      11.3788       105-283    0.0711
+  283      11.4499       283- 57    0.1278
+   57      11.5778        57-114    0.0989
+  114      11.6766       114-310    0.1156
+  310      11.7922       310-129    0.3620
+  129      12.1542       129-134    0.1168
+  134      12.2710       134-118    0.5221
+  118      12.7931
+
+
+
+
+     DENDROGRAM OF WEIGHTED INTEREVENT DISTANCES
+
+
+
+        1.0331    0.8377    0.6422    0.4467    0.2513    0.0558
+   1.1309    0.9354    0.7399    0.5445    0.3490    0.1535   -0.0419
+    +----+----+----+----+----+----+----+----+----+----+----+----+
+                                                            ----- 77           Elphidium spp.                          
+                                                            I         0.0236
+                                                 ----------------228           Cassidulina teretis                     
+                                                 I                    0.2506
+                                                 I       -------- 31           Cibicidoides scaldisensis               
+                                                 I       I            0.0759
+                               ----------------------------------  1           Neogloboquadrina pachyderma             
+                               I                                      0.5928
+                               I                          -------171           Buccella frigida                        
+                               I                          I           0.0575
+                               I                          I -----316           Trifarina fluens                        
+                               I                          I I         0.0295
+                         ----------------------------------------270           Cibicidoides grossa                     
+                         I                                            0.7041
+                         I                              ---------  4           Globorotalia inflata                    
+                         I                              I             0.1045
+                         I   ------------------------------------ 23           Sigmoilopsis schlumbergeri              
+                         I   I                                        0.6264
+      -----------------------------------------------------------269           Neogloboquadrina atlantica              
+      I                                                               1.0874
+      I                                                   ------- 91           Diatoms/radiolarians LCO                
+      I                                                   I           0.0714
+      I                                                  --------363           Hystrichosphaeropsis obscura            
+      I                                                  I            0.0788
+      I                                          ---------------- 15           Globigerina praebulloides               
+      I                                          I                    0.2333
+      I                                          I      ---------219           Martinotiella cylindrica                
+      I                                          I      I             0.1040
+      I                                       -------------------362           Cannosphaeropsis utinensis              
+      I                                       I                       0.3057
+      I                                       I  ----------------236           G. ex.gr. praescitula zealandica        
+      I                                       I  I                    0.2480
+      I                                       ------------------- 17           Asterigerina gurichi                    
+      I                                       I                       0.2972
+      I                               ---------------------------  3           Deflandrea phosphoritica                
+      I                               I                               0.4572
+      I                               I                     ----- 25           Coarse agglutinated spp.                
+      I                               I                     I         0.0323
+      I                               I                     I----  7           Areoligera semicirculata                
+      I                               I                     II        0.0035
+      I                               I                   ------- 24           Turrilina alsatica                      
+      I                               I                   I           0.0566
+      I                               I                 --------- 97           Cyclammina placenta                     
+      I                               I                 I             0.1029
+      I                               I             ------------- 41           Wetzelliella symmetrica                 
+      I                               I             I                 0.1860
+      I                               I     ---------------------182           Spirosigmoilinella compressa            
+      I                               I     I                         0.3399
+      I                               I     I                ----289           Adercotryma agterbergi                  
+      I                               I     I                I        0.0015
+      I                               I     I         -----------324           Aschemonella grandis                    
+      I                               I     I         I               0.1432
+      I                               I     I--------------------198           Glomospirella biedae                    
+      I                               I     II                        0.3101
+      I                               I     II            -------261           Haplophragmoides walteri                
+      I                               I     II            I           0.0691
+      I                               I     II         ----------321           Dorothia seigliei                       
+      I                               I     II         I              0.1303
+      I                               I     II         I  ------- 12           Areosphaeridium diktyoplokus            
+      I                               I     II         I  I           0.0609
+      I                               I     II         I  I  ---- 29           Reticulophragmium amplectens            
+      I                               I     II         I  I  I        0.0156
+      I                               I     II         I  ------- 32           Ammosphaeroidina pseudopauciloculata    
+      I                               I     II         I  I           0.0614
+      I                               I     II   ----------------229           Recurvoides ex.gr. walteri              
+      I                               I     II   I                    0.2329
+      I                               I     II  ----------------- 72           Rottnestia borussica                    
+      I                               I     II  I                     0.2522
+      I                               I     II  I        -------- 68           Spiroplectammina spectabilis LO         
+      I                               I     II  I        I            0.0872
+      I                               I     II  I        I  -----263           Ammomarginulina aubertae                
+      I                               I     II  I        I  I         0.0355
+      I                               I     II  I---------------- 92           Diphyes ficusoides                      
+      I                               I     II  II                    0.2355
+      I                               I   -----------------------260           Haplophragmoides kirki                  
+      I                               I   I                           0.3692
+      I                               I   I           -----------175           Reticulophragmium intermedia            
+      I                               I   I           I               0.1351
+      I                               I   I          ------------ 99           Eatonicysta ursulae                     
+      I                               I   I          I                0.1631
+      I                               I   I          I    -------279           Recurvoidella lamella                   
+      I                               I   I          I    I           0.0560
+      I                       ----------------------------------- 54           Spiroplectammina navarroana             
+      I                       I                                       0.6161
+      I                       I     ----------------------------- 50           Subbotina patagonica                    
+      I                       I     I                                 0.5013
+      I                       I ---------------------------------108           Deflandrea oebisfeldensis               
+      I                       I I                                     0.5804
+      I                       I I    ---------------------------- 22           Coscinodiscus spp.                      
+      I                       I I    I                                0.4804
+      I                     ------------------------------------- 28           Apectodinium augustum                   
+      I                     I                                         0.6475
+      I                     I                          ---------- 76           Reticulophragmium paupera               
+      I                     I                          I              0.1255
+      I                     I                          I  -------105           Rzehakina minima                        
+      I                     I                          I  I           0.0711
+      I                     I                          ----------283           Reticulophragmium garcilassoi           
+      I                     I                          I              0.1278
+      I                     I                          I--------- 57           Spiroplectammina spectabilis LCO        
+      I                     I                          II             0.0989
+      I                     I                          ----------114           Alisocysta margarita                    
+      I                     I                          I              0.1156
+      I                     I              ----------------------310           Saccammina placenta                     
+      I                     I              I                          0.3620
+      I                     I              I           ----------129           Trochammina ruthven murrayi             
+      I                     I              I           I              0.1168
+      I                     I      ------------------------------134           Hormosina excelsa                       
+      I                     I      I                                  0.5221
+    -------------------------------------------------------------118           Palaeoperidinium pyrophorum             
+    +----+----+----+----+----+----+----+----+----+----+----+----+
+   1.1309    0.9354    0.7399    0.5445    0.3490    0.1535   -0.0419
+        1.0331    0.8377    0.6422    0.4467    0.2513    0.0558
+
+   DENDROGRAM -  VALUES ALONG X-AXIS ARE INTEREVENT DISTANCES; VALUES ALONG Y-AXIS ARE DISTANCES BETWEEN
+                 AN EVENT AND ITS SUCCESSOR
+
+
+
+
+
+
+THE FOLLOWING RESULTS CONTAIN OPTIMUM SEQUENCE AFTER' SCALING
+
+
+
+
+   OCCURRENCE TABLE
+  __________________
+
+
+           NAME                          NUMBER   WELL NUMBER
+ (SCALED OPTIMUM SEQUENCE)
+                                                                    1 1 1 1 1 
+                                                  1 2 3 4 5 6 7 8 9 0 1 2 3 4 
+ 
+
+ Elphidium spp.                              77         X X X   X X X X X   X
+ Cassidulina teretis                        228   X X X X X X   X X X X X X  
+ Cibicidoides scaldisensis                   31   X X   X   X   X   X     X  
+ Neogloboquadrina pachyderma                  1   X X X X X X   X   X X   X  
+ Buccella frigida                           171   X     X   X   X   X     X  
+ Trifarina fluens                           316   X   X X   X   X     X     X
+ Cibicidoides grossa                        270   X X X X X X   X     X   X  
+ Globorotalia inflata                         4   X X X X X X   X           X
+ Sigmoilopsis schlumbergeri                  23   X X X X X X   X X X X X   X
+ Neogloboquadrina atlantica                 269   X X X X X X   X X X   X   X
+ Hystrichosphaeropsis obscura               363     X X     X       X     X X
+ Diatoms/radiolarians LCO                    91   X X X   X X       X X   X  
+ Martinotiella cylindrica                   219   X X X   X       X X   X   X
+ Globigerina praebulloides                   15   X X X X X X     X X X X   X
+ Cannosphaeropsis utinensis                 362   X X X     X       X     X X
+ G. ex.gr. praescitula zealandica           236     X     X       X X X X   X
+ Asterigerina gurichi                        17         X X       X X X X X  
+ Deflandrea phosphoritica                     3   X X X X   X X           X  
+ Coarse agglutinated spp.                    25   X X X X X X X   X X   X X  
+ Turrilina alsatica                          24   X     X X X X       X   X X
+ Areoligera semicirculata                     7   X X X X   X X     X     X X
+ Cyclammina placenta                         97   X X X X X X X   X X X      
+ Wetzelliella symmetrica                     41   X X X X X   X     X        
+ Spirosigmoilinella compressa               182   X X X X X       X X X X    
+ Aschemonella grandis                       324   X X X       X     X X      
+ Adercotryma agterbergi                     289   X X X X X         X X     X
+ Glomospirella biedae                       198   X   X X   X       X X      
+ Haplophragmoides walteri                   261     X X X X X X   X X X X   X
+ Dorothia seigliei                          321   X X X X X         X X X   X
+ Areosphaeridium diktyoplokus                12   X X   X X X X     X       X
+ Reticulophragmium amplectens                29   X X X X X X X   X X   X   X
+ Ammosphaeroidina pseudopauciloculata        32   X X X X     X   X X X      
+ Recurvoides ex.gr. walteri                 229   X X X     X         X X    
+ Rottnestia borussica                        72   X X   X   X X     X        
+ Spiroplectammina spectabilis LO             68   X X X X X   X   X X X X   X
+ Ammomarginulina aubertae                   263     X X   X   X     X X X    
+ Diphyes ficusoides                          92   X X X X   X X              
+ Haplophragmoides kirki                     260   X X X X X X X   X X        
+ Reticulophragmium intermedia               175   X X   X     X     X       X
+ Eatonicysta ursulae                         99   X X X X X X X     X       X
+ Recurvoidella lamella                      279   X X   X X   X   X X        
+ Spiroplectammina navarroana                 54   X X X X X X X   X X X X    
+ Subbotina patagonica                        50   X X X X X X X   X X X     X
+ Deflandrea oebisfeldensis                  108   X X X X X X X           X X
+ Coscinodiscus spp.                          22   X X X X X       X   X   X X
+ Apectodinium augustum                       28   X X X X X X X     X       X
+ Reticulophragmium paupera                   76   X X X X X X     X X X   X X
+ Rzehakina minima                           105   X X   X     X   X     X    
+ Reticulophragmium garcilassoi              283     X   X X   X   X         X
+ Spiroplectammina spectabilis LCO            57   X X   X X X X   X X X   X X
+ Alisocysta margarita                       114   X   X X     X           X X
+ Saccammina placenta                        310   X X X X     X       X X   X
+ Trochammina ruthven murrayi                129   X X X X   X X           X  
+ Hormosina excelsa                          134   X     X   X       X X   X  
+ Palaeoperidinium pyrophorum                118     X X X   X X           X  
+
+
+
+
+ STEP MODEL
+ __________
+
+THE STEPMODEL GIVES A PENALTY POINT FOR EACH POSITION
+AN EVENT RECORD IN A WELL IS OUT OF PLACE, RELATIVE TO
+THE EVENT ORDER IN THE (SCALED) OPTIMUM SEQUENCE.
+
+
+           NAME                       NUMBER     WELL NUMBER
+ (SCALED OPTIMUM SEQUENCE)
+                                                   1    2    3    4    5    6    7    8    9   10   11   12   13   14
+
+
+ Elphidium spp.                           77                    1.5  1.0  1.5       4.0  0.0  1.0  0.0  0.5       0.0
+ Cassidulina teretis                     228     2.0  1.0  1.5  1.5  1.0  1.5       1.5  0.5  1.0  1.0  0.5  0.0     
+ Cibicidoides scaldisensis                31     2.0  1.0       1.5       1.5       1.5       1.5            2.0     
+ Neogloboquadrina pachyderma               1     2.0  1.0  1.5  1.5  2.0  1.5       1.0       1.5  2.0       1.5     
+ Buccella frigida                        171     1.5            0.0       3.0       2.5       4.0            1.5     
+ Trifarina fluens                        316     2.0       2.0  3.0       1.0       2.0            2.0            1.0
+ Cibicidoides grossa                     270     1.0  0.0  2.5  1.5  2.0  1.5       2.0            1.0       0.0     
+ Globorotalia inflata                      4     1.5  0.0  1.0  1.5  1.0  1.0       0.5                           1.0
+ Sigmoilopsis schlumbergeri               23     0.0  0.0  3.5  1.0  1.0  2.5       1.0  1.0  0.0  0.0  0.5       2.0
+ Neogloboquadrina atlantica              269     0.0  0.0  0.5  0.0  1.0  0.0       1.0  1.5  0.0       0.5       0.0
+ Hystrichosphaeropsis obscura            363          2.5  2.5            4.0                 0.0            0.0  0.0
+ Diatoms/radiolarians LCO                 91     1.0  1.0  1.5       1.0  4.0                 4.0  0.0       1.0     
+ Martinotiella cylindrica                219     2.0  1.5  2.0       2.0                 0.0  1.5       1.0       2.0
+ Globigerina praebulloides                15     2.0  2.0  2.0  1.0  0.5  2.0            1.0  4.5  1.5  1.0       1.5
+ Cannosphaeropsis utinensis              362     1.0  0.0  1.5            2.0                 2.5            1.0  1.0
+ G. ex.gr. praescitula zealandica        236          0.0            0.5                 1.0  3.0  1.5  1.0       2.5
+ Asterigerina gurichi                     17                    1.0  0.0                 1.0  2.5  2.0  0.0  3.0     
+ Deflandrea phosphoritica                  3     0.0  0.0  1.5  0.0       3.0  2.0                           2.0     
+ Coarse agglutinated spp.                 25     3.0  2.5  2.5  2.5  0.0  3.0  3.5       0.0  5.0       0.0  2.0     
+ Turrilina alsatica                       24     4.0            1.0  2.0  3.0  2.5                 6.0       3.0  0.5
+ Areoligera semicirculata                  7     2.5  1.0  2.0  6.0       3.0  2.5            7.0            2.0  0.5
+ Cyclammina placenta                      97     3.0  1.5  5.0  2.5  2.0  6.0  5.5       0.5  6.0  1.0               
+ Wetzelliella symmetrica                  41     3.5  2.0  2.5  4.5  2.0       2.0            6.0                    
+ Spirosigmoilinella compressa            182     2.0  2.0  3.0  3.5  1.0                 0.5  5.0  1.0  1.0          
+ Aschemonella grandis                    324     1.0  2.0  3.0                 1.5            4.0  4.0               
+ Adercotryma agterbergi                  289     1.0  2.0  3.5  3.5  1.0                      4.0  3.0            1.0
+ Glomospirella biedae                    198     1.0       2.0  5.0       2.0                 5.0  3.0               
+ Haplophragmoides walteri                261          5.0  0.0  5.0  1.0  2.0  9.0       4.0  5.0  3.0  1.0       1.0
+ Dorothia seigliei                       321     4.5  5.0  6.0  6.5  1.0                      2.0  3.0  0.0       2.0
+ Areosphaeridium diktyoplokus             12     1.0  5.0       3.0  1.0  2.0  3.5            3.0                 0.0
+ Reticulophragmium amplectens             29     1.0  4.0  1.0  2.5  3.0  3.0  3.0       1.0  2.0       3.0       0.0
+ Ammosphaeroidina pseudopauciloculata     32     3.0  4.0  2.0  2.5            3.0       3.0  2.0  5.0               
+ Recurvoides ex.gr. walteri              229     3.5  4.0  3.0            2.0                      5.0  1.0          
+ Rottnestia borussica                     72     3.5  2.0       1.0       3.0  3.5            1.0                    
+ Spiroplectammina spectabilis LO          68     3.5  3.0  3.0  3.0  3.0       2.5       3.0  3.0  1.0  1.0       0.0
+ Ammomarginulina aubertae                263          3.0  3.0       3.0       8.0            3.0  1.0  1.0          
+ Diphyes ficusoides                       92     4.5  3.0  1.0  2.0       1.0  2.0                                   
+ Haplophragmoides kirki                  260     3.5  1.5  0.0  3.0  4.0  2.0  4.0       3.0  1.0                    
+ Reticulophragmium intermedia            175     1.5  2.0       2.0            3.0            1.5                 1.0
+ Eatonicysta ursulae                      99     1.0  3.0  0.0  2.0  0.0  1.0  3.0            2.0                 1.0
+ Recurvoidella lamella                   279     1.5  4.0       3.0  0.5       2.0       1.5  2.5                    
+ Spiroplectammina navarroana              54     1.5  4.5  0.5  5.0  0.5  1.0  3.0       1.0  4.0  0.0  0.0          
+ Subbotina patagonica                     50     1.5  1.0  0.5  1.0  0.0  1.0  1.0       0.5  0.0  0.0            0.0
+ Deflandrea oebisfeldensis               108     0.0  0.5  0.5  1.0  0.5  0.5  1.0                           0.0  0.0
+ Coscinodiscus spp.                       22     0.0  0.5  0.5  1.0  1.0                 0.0       0.0       0.0  0.0
+ Apectodinium augustum                    28     0.0  0.0  0.0  1.0  1.5  0.5  0.0            1.0                 0.0
+ Reticulophragmium paupera                76     0.0  1.0  0.0  3.0  0.0  3.0            0.5  1.5  1.5       2.5  1.0
+ Rzehakina minima                        105     0.5  1.0       2.0            6.0       0.5            0.5          
+ Reticulophragmium garcilassoi           283          3.5       2.0  0.0       1.0       1.0                      1.0
+ Spiroplectammina spectabilis LCO         57     0.5  2.0       2.0  0.0  2.5  4.0       1.0  2.0  2.0       1.0  1.0
+ Alisocysta margarita                    114     3.0       0.0  2.0            2.0                           1.0  0.0
+ Saccammina placenta                     310     2.0  1.0  1.0  2.0            2.5                 2.0  0.5       0.0
+ Trochammina ruthven murrayi             129     2.0  1.5  1.0  1.0       2.0  2.5                           0.5     
+ Hormosina excelsa                       134     2.0            1.0       1.5                 0.5  1.5       1.0     
+ Palaeoperidinium pyrophorum             118          2.0  1.0  0.0       0.0  1.0                           1.0     
+
+
+    KENDALL`S TAU =                              0.92 0.92 0.91 0.90 0.93 0.89 0.79 0.62 0.90 0.86 0.87 0.92 0.88 0.95
+
+
+NOTE: KENDALL`S TAU IS A RANK CORRELATION COEFFICIENT.
+LIKE THE ORDINARY (PEARSON`S) PRODUCT-MOMENT CORRELATION
+COEFFICIENT, TAU VARIES BETWEEN 0 FOR COMPLETE LACK OF
+CORRELATION AND +1 OR -1 FOR MAXIMUM POSITIVE OR NEGATIVE
+CORRELATION. TAU IS CALCULATED FROM THE PENALTY SCORES FOR
+EACH WELL AND EXPRESSES DEGREE OF CORRELATION WITH THE
+OPTIMUM SEQUENCE.
+
+
+
+
+
+
+ PENALTY POINTS FOR EVENTS LOWER THAN EXPECTED
+
+
+           NAME                       NUMBER     WELL NUMBER
+ (SCALED OPTIMUM SEQUENCE)
+                                                   1    2    3    4    5    6    7    8    9   10   11   12   13   14
+
+
+ Elphidium spp.                           77                    0.0  0.0  0.0       3.0  0.0  1.0  0.0  0.0       0.0
+ Cassidulina teretis                     228     1.0  0.0  0.0  0.0  0.0  0.0       0.0  0.0  1.0  1.0  0.0  0.0     
+ Cibicidoides scaldisensis                31     1.0  0.0       0.0       0.0       0.0       1.0            2.0     
+ Neogloboquadrina pachyderma               1     0.0  0.0  0.0  0.0  1.0  0.0       0.0       1.0  2.0       0.0     
+ Buccella frigida                        171     1.0            0.0       3.0       2.0       0.0            0.0     
+ Trifarina fluens                        316     0.0       2.0  3.0       0.0       0.0            0.0            1.0
+ Cibicidoides grossa                     270     1.0  0.0  0.0  0.0  0.0  0.0       0.0            0.0       0.0     
+ Globorotalia inflata                      4     0.0  0.0  1.0  0.0  0.0  1.0       0.0                           1.0
+ Sigmoilopsis schlumbergeri               23     0.0  0.0  0.0  0.0  0.0  0.0       1.0  1.0  0.0  0.0  0.0       0.0
+ Neogloboquadrina atlantica              269     0.0  0.0  0.0  0.0  1.0  0.0       0.0  0.0  0.0       0.0       0.0
+ Hystrichosphaeropsis obscura            363          2.0  2.0            4.0                 0.0            0.0  0.0
+ Diatoms/radiolarians LCO                 91     1.0  0.0  0.0       1.0  3.0                 4.0  0.0       1.0     
+ Martinotiella cylindrica                219     2.0  1.0  2.0       0.0                 0.0  0.0       0.0       2.0
+ Globigerina praebulloides                15     0.0  0.0  0.0  1.0  0.0  0.0            0.0  4.0  1.0  0.0       0.0
+ Cannosphaeropsis utinensis              362     0.0  0.0  0.0            0.0                 0.0            0.0  1.0
+ G. ex.gr. praescitula zealandica        236          0.0            0.0                 0.0  2.0  1.0  0.0       0.0
+ Asterigerina gurichi                     17                    0.0  0.0                 0.0  2.0  0.0  0.0  3.0     
+ Deflandrea phosphoritica                  3     0.0  0.0  1.0  0.0       3.0  2.0                           1.0     
+ Coarse agglutinated spp.                 25     2.0  2.0  2.0  1.0  0.0  3.0  3.0       0.0  1.0       0.0  2.0     
+ Turrilina alsatica                       24     4.0            0.0  1.0  1.0  0.0                 6.0       0.0  0.0
+ Areoligera semicirculata                  7     0.0  0.0  0.0  6.0       1.0  0.0            7.0            0.0  0.0
+ Cyclammina placenta                      97     1.0  1.0  5.0  0.0  1.0  0.0  5.0       0.0  0.0  0.0               
+ Wetzelliella symmetrica                  41     0.0  0.0  0.0  3.0  0.0       0.0            6.0                    
+ Spirosigmoilinella compressa            182     0.0  2.0  1.0  0.0  0.0                 0.0  3.0  0.0  1.0          
+ Aschemonella grandis                    324     0.0  1.0  1.0                 0.0            0.0  4.0               
+ Adercotryma agterbergi                  289     0.0  0.0  0.0  2.0  0.0                      2.0  1.0            1.0
+ Glomospirella biedae                    198     0.0       0.0  5.0       1.0                 0.0  0.0               
+ Haplophragmoides walteri                261          3.0  0.0  1.0  0.0  1.0  8.0       4.0  0.0  3.0  0.0       1.0
+ Dorothia seigliei                       321     4.0  3.0  6.0  0.0  0.0                      0.0  2.0  0.0       0.0
+ Areosphaeridium diktyoplokus             12     0.0  3.0       2.0  1.0  0.0  1.0            3.0                 0.0
+ Reticulophragmium amplectens             29     0.0  0.0  0.0  0.0  3.0  3.0  0.0       0.0  1.0       3.0       0.0
+ Ammosphaeroidina pseudopauciloculata     32     3.0  0.0  0.0  0.0            2.0       2.0  0.0  1.0               
+ Recurvoides ex.gr. walteri              229     3.0  0.0  2.0            1.0                      0.0  0.0          
+ Rottnestia borussica                     72     0.0  2.0       1.0       0.0  0.0            1.0                    
+ Spiroplectammina spectabilis LO          68     1.0  0.0  0.0  3.0  2.0       0.0       1.0  3.0  1.0  0.0       0.0
+ Ammomarginulina aubertae                263          0.0  0.0       1.0       8.0            0.0  0.0  0.0          
+ Diphyes ficusoides                       92     0.0  3.0  0.0  1.0       0.0  0.0                                   
+ Haplophragmoides kirki                  260     2.0  0.0  0.0  0.0  0.0  1.0  2.0       0.0  0.0                    
+ Reticulophragmium intermedia            175     0.0  2.0       2.0            0.0            1.0                 1.0
+ Eatonicysta ursulae                      99     0.0  3.0  0.0  1.0  0.0  0.0  0.0            2.0                 0.0
+ Recurvoidella lamella                   279     0.0  1.0       0.0  0.0       1.0       1.0  1.0                    
+ Spiroplectammina navarroana              54     0.0  0.0  0.0  4.0  0.0  0.0  0.0       0.0  0.0  0.0  0.0          
+ Subbotina patagonica                     50     0.0  0.0  0.0  0.0  0.0  0.0  0.0       0.0  0.0  0.0            0.0
+ Deflandrea oebisfeldensis               108     0.0  0.0  0.0  0.0  0.0  0.0  0.0                           0.0  0.0
+ Coscinodiscus spp.                       22     0.0  0.0  0.0  0.0  1.0                 0.0       0.0       0.0  0.0
+ Apectodinium augustum                    28     0.0  0.0  0.0  0.0  0.0  0.0  0.0            1.0                 0.0
+ Reticulophragmium paupera                76     0.0  0.0  0.0  2.0  0.0  3.0            0.0  1.0  1.0       2.0  0.0
+ Rzehakina minima                        105     0.0  0.0       0.0            6.0       0.0            0.0          
+ Reticulophragmium garcilassoi           283          3.0       0.0  0.0       0.0       1.0                      0.0
+ Spiroplectammina spectabilis LCO         57     0.0  0.0       2.0  0.0  1.0  3.0       0.0  0.0  2.0       0.0  0.0
+ Alisocysta margarita                    114     3.0       0.0  0.0            0.0                           0.0  0.0
+ Saccammina placenta                     310     0.0  0.0  0.0  0.0            0.0                 0.0  0.0       0.0
+ Trochammina ruthven murrayi             129     0.0  1.0  0.0  1.0       0.0  0.0                           0.0     
+ Hormosina excelsa                       134     0.0            0.0       0.0                 0.0  0.0       1.0     
+ Palaeoperidinium pyrophorum             118          0.0  0.0  0.0       0.0  0.0                           0.0     
+
+
+
+
+ PENALTY POINTS FOR EVENTS HIGHER THAN EXPECTED
+
+
+           NAME                       NUMBER     WELL NUMBER
+ (SCALED OPTIMUM SEQUENCE)
+                                                   1    2    3    4    5    6    7    8    9   10   11   12   13   14
+
+
+ Elphidium spp.                           77                    0.0  0.0  0.0       0.0  0.0  0.0  0.0  0.0       0.0
+ Cassidulina teretis                     228     0.0  0.0  0.0  0.0  0.0  0.0       1.0  0.0  0.0  0.0  0.0  0.0     
+ Cibicidoides scaldisensis                31     0.0  0.0       0.0       0.0       1.0       0.0            0.0     
+ Neogloboquadrina pachyderma               1     2.0  0.0  0.0  0.0  0.0  0.0       1.0       0.0  0.0       1.0     
+ Buccella frigida                        171     0.0            0.0       0.0       0.0       4.0            1.0     
+ Trifarina fluens                        316     1.0       0.0  0.0       1.0       1.0            2.0            0.0
+ Cibicidoides grossa                     270     0.0  0.0  1.0  1.0  1.0  1.0       1.0            1.0       0.0     
+ Globorotalia inflata                      4     1.0  0.0  0.0  1.0  0.0  0.0       0.0                           0.0
+ Sigmoilopsis schlumbergeri               23     0.0  0.0  2.0  1.0  0.0  2.0       0.0  0.0  0.0  0.0  0.0       2.0
+ Neogloboquadrina atlantica              269     0.0  0.0  0.0  0.0  0.0  0.0       1.0  1.0  0.0       0.0       0.0
+ Hystrichosphaeropsis obscura            363          0.0  0.0            0.0                 0.0            0.0  0.0
+ Diatoms/radiolarians LCO                 91     0.0  1.0  1.0       0.0  1.0                 0.0  0.0       0.0     
+ Martinotiella cylindrica                219     0.0  0.0  0.0       2.0                 0.0  1.0       0.0       0.0
+ Globigerina praebulloides                15     2.0  2.0  2.0  0.0  0.0  2.0            0.0  0.0  0.0  0.0       1.0
+ Cannosphaeropsis utinensis              362     1.0  0.0  1.0            2.0                 2.0            1.0  0.0
+ G. ex.gr. praescitula zealandica        236          0.0            0.0                 0.0  1.0  0.0  0.0       2.0
+ Asterigerina gurichi                     17                    1.0  0.0                 0.0  0.0  2.0  0.0  0.0     
+ Deflandrea phosphoritica                  3     0.0  0.0  0.0  0.0       0.0  0.0                           1.0     
+ Coarse agglutinated spp.                 25     0.0  0.0  0.0  0.0  0.0  0.0  0.0       0.0  4.0       0.0  0.0     
+ Turrilina alsatica                       24     0.0            1.0  0.0  2.0  2.0                 0.0       3.0  0.0
+ Areoligera semicirculata                  7     2.0  1.0  2.0  0.0       2.0  2.0            0.0            2.0  0.0
+ Cyclammina placenta                      97     1.0  0.0  0.0  1.0  0.0  6.0  0.0       0.0  6.0  1.0               
+ Wetzelliella symmetrica                  41     3.0  2.0  2.0  1.0  2.0       2.0            0.0                    
+ Spirosigmoilinella compressa            182     1.0  0.0  1.0  2.0  0.0                 0.0  2.0  1.0  0.0          
+ Aschemonella grandis                    324     0.0  1.0  1.0                 1.0            3.0  0.0               
+ Adercotryma agterbergi                  289     0.0  2.0  3.0  1.0  0.0                      2.0  2.0            0.0
+ Glomospirella biedae                    198     0.0       1.0  0.0       0.0                 4.0  3.0               
+ Haplophragmoides walteri                261          0.0  0.0  4.0  0.0  0.0  0.0       0.0  4.0  0.0  1.0       0.0
+ Dorothia seigliei                       321     0.0  0.0  0.0  5.0  0.0                      2.0  1.0  0.0       2.0
+ Areosphaeridium diktyoplokus             12     1.0  0.0       1.0  0.0  2.0  2.0            0.0                 0.0
+ Reticulophragmium amplectens             29     1.0  3.0  1.0  2.0  0.0  0.0  3.0       1.0  1.0       0.0       0.0
+ Ammosphaeroidina pseudopauciloculata     32     0.0  3.0  1.0  2.0            1.0       1.0  2.0  4.0               
+ Recurvoides ex.gr. walteri              229     0.0  3.0  1.0            1.0                      5.0  1.0          
+ Rottnestia borussica                     72     3.0  0.0       0.0       2.0  3.0            0.0                    
+ Spiroplectammina spectabilis LO          68     2.0  1.0  2.0  0.0  1.0       2.0       2.0  0.0  0.0  1.0       0.0
+ Ammomarginulina aubertae                263          1.0  2.0       2.0       0.0            3.0  1.0  1.0          
+ Diphyes ficusoides                       92     4.0  0.0  1.0  1.0       1.0  2.0                                   
+ Haplophragmoides kirki                  260     0.0  1.0  0.0  3.0  4.0  0.0  1.0       3.0  1.0                    
+ Reticulophragmium intermedia            175     1.0  0.0       0.0            3.0            0.0                 0.0
+ Eatonicysta ursulae                      99     1.0  0.0  0.0  1.0  0.0  1.0  3.0            0.0                 1.0
+ Recurvoidella lamella                   279     0.0  3.0       3.0  0.0       1.0       0.0  1.0                    
+ Spiroplectammina navarroana              54     0.0  4.0  0.0  0.0  0.0  0.0  2.0       1.0  4.0  0.0  0.0          
+ Subbotina patagonica                     50     0.0  1.0  0.0  1.0  0.0  0.0  1.0       0.0  0.0  0.0            0.0
+ Deflandrea oebisfeldensis               108     0.0  0.0  0.0  1.0  0.0  0.0  1.0                           0.0  0.0
+ Coscinodiscus spp.                       22     0.0  0.0  0.0  1.0  0.0                 0.0       0.0       0.0  0.0
+ Apectodinium augustum                    28     0.0  0.0  0.0  1.0  1.0  0.0  0.0            0.0                 0.0
+ Reticulophragmium paupera                76     0.0  0.0  0.0  0.0  0.0  0.0            0.0  0.0  0.0       0.0  0.0
+ Rzehakina minima                        105     0.0  0.0       1.0            0.0       0.0            0.0          
+ Reticulophragmium garcilassoi           283          0.0       1.0  0.0       1.0       0.0                      0.0
+ Spiroplectammina spectabilis LCO         57     0.0  1.0       0.0  0.0  1.0  1.0       1.0  2.0  0.0       1.0  0.0
+ Alisocysta margarita                    114     0.0       0.0  1.0            2.0                           1.0  0.0
+ Saccammina placenta                     310     1.0  1.0  0.0  1.0            2.0                 2.0  0.0       0.0
+ Trochammina ruthven murrayi             129     1.0  0.0  0.0  0.0       2.0  2.0                           0.0     
+ Hormosina excelsa                       134     1.0            1.0       1.0                 0.0  1.0       0.0     
+ Palaeoperidinium pyrophorum             118          2.0  0.0  0.0       0.0  1.0                           1.0     
+
+
+
+
+
+NORMALITY TEST RESULTS
+______________________
+
+NOTE: THE NORMALITY TEST IS APPLIED TO SCALING RESULTS' ONLY
+
+
+
+
+SECOND ORDER DIFFERENCE STATISTICS
+
+
+ N =  428   AVE = -.03035  SD = 1.28639   RATIO = 0.74   RHO = 0.371
+
+ EQUIVALENT NUMBER OF VALUES =  197
+
+
+
+NOTE: PURPOSE OF SECOND ORDER DIFFERENCE STATISTICS
+IS TO FIT A GAUSSIAN FREQUENCY DISTRIBUTION CURVE TO THE
+CENTRAL PART OF THE HISTOGRAM OF ALL SECOND ORDER DIFFERENCES
+IN ALL WELLS. SUCCESSIVE VALUES ARE AUTOCORRELATED (RHO)
+IMPLYING THAT THE EQUIVALENT NUMBER OF VALUES IS LESS THAN THE
+ACTUAL NUMBER OF SECOND ORDER DIFFERENCES (N)
+
+
+
+
+
+     NORMALITY TEST
+
+
+     Saga (N) 6407/2-3   
+                                                  CUM. DIST.  2ND ORDER DIFF.
+
+ Neogloboquadrina pachyderma                1         0.3451
+ Cibicidoides scaldisensis                 31         0.2692    0.2267   
+ Cassidulina teretis                     -228         0.0236    1.2334   
+ Trifarina fluens                        -316         1.0113   -1.4417   
+ Buccella frigida                         171         0.9538    1.2487   
+ Globorotalia inflata                      -4         1.7486   -1.8953   
+ Cibicidoides grossa                      270         1.0445    1.5128   
+ Sigmoilopsis schlumbergeri                23         1.8531   -0.1822   
+ Neogloboquadrina atlantica               269         2.4796    0.6958   
+ Globigerina praebulloides                 15         3.8018   -1.5593   
+ Diatoms/radiolarians LCO                  91         3.5647    0.6849   
+ Cannosphaeropsis utinensis               362         4.0124   -0.6931   
+ Martinotiella cylindrica                 219         3.7671    1.3390   
+ Deflandrea phosphoritica                   3         4.8609   -0.5323   
+ Areoligera semicirculata                   7         5.4223   -0.0538   
+ Wetzelliella symmetrica                  -41         5.5335   -0.6495   
+ Coarse agglutinated spp.                  25         5.3916    0.6169   
+ Cyclammina placenta                      -97         5.4701    0.2151   
+ Spirosigmoilinella compressa            -182         5.7637   -1.0461   
+ Turrilina alsatica                        24         5.4077    1.1129   
+ Adercotryma agterbergi                   289         6.1646   -0.3871   
+ Aschemonella grandis                    -324         6.1380    0.1979   
+ Glomospirella biedae                    -198         6.3093   -0.0282   
+ Areosphaeridium diktyoplokus              12         6.8488   -0.4794   
+ Reticulophragmium amplectens              29         6.9089    0.2926   
+ Rottnestia borussica                      72         7.2616    0.4787   
+ Diphyes ficusoides                       -92         7.6966   -1.8096   
+ Dorothia seigliei                        321         6.7185    2.2511   
+ Spiroplectammina spectabilis LO          -68         7.5950   -1.9435   
+ Ammosphaeroidina pseudopauciloculata      32         6.9245    0.7748   
+ Recurvoides ex.gr. walteri               229         7.0288    1.5648   
+ Reticulophragmium intermedia            -175         8.3014   -1.5339   
+ Eatonicysta ursulae                       99         8.4365   -0.6394   
+ Haplophragmoides kirki                   260         7.9322    1.5652   
+ Recurvoidella lamella                   -279         8.5966   -0.2008   
+ Subbotina patagonica                     -50         9.0602   -0.8712   
+ Spiroplectammina navarroana              -54         8.6526    0.9201   
+ Deflandrea oebisfeldensis                108         9.5615   -0.3285   
+ Coscinodiscus spp.                        22        10.1419   -0.1000   
+ Apectodinium augustum                     28        10.6223    0.3531   
+ Reticulophragmium paupera                 76        11.4558   -0.5460   
+ Spiroplectammina spectabilis LCO          57        11.7433   -0.0815   
+ Rzehakina minima                        -105        11.5529    0.5609   
+ Trochammina ruthven murrayi              129        12.3198   -0.2537   
+ Hormosina excelsa                       -134        12.4366   -0.5956   
+ Saccammina placenta                     -310        11.9578   -0.0332   
+ Alisocysta margarita                     114        11.8422
+
+          *  -GREATER THAN 95% PROBABILITY THAT EVENT IS OUT OF POSITION
+          ** -GREATER THAN 99% PROBABILITY THAT EVENT IS OUT OF POSITION
+
+
+
+     NORMALITY TEST
+
+
+     Statoil (N) 6407/4-1
+                                                  CUM. DIST.  2ND ORDER DIFF.
+
+ Cibicidoides scaldisensis                 31         0.2692
+ Neogloboquadrina pachyderma               -1         0.3451   -0.3974   
+ Cassidulina teretis                     -228         0.0236    0.9764   
+ Cibicidoides grossa                      270         1.0445   -0.3168   
+ Globorotalia inflata                       4         1.7486   -0.5996   
+ Sigmoilopsis schlumbergeri                23         1.8531    0.5219   
+ Neogloboquadrina atlantica               269         2.4796    0.4587   
+ Diatoms/radiolarians LCO                  91         3.5647   -0.8480   
+ Globigerina praebulloides                 15         3.8018   -0.2717   
+ Martinotiella cylindrica                 219         3.7671    0.1650   
+ Hystrichosphaeropsis obscura            -363         3.5315    0.3507   
+ Cannosphaeropsis utinensis               362         4.0124   -0.1777   
+ G. ex.gr. praescitula zealandica         236         4.3158    0.2418   
+ Deflandrea phosphoritica                   3         4.8609    0.0163   
+ Areoligera semicirculata                   7         5.4223   -0.4502   
+ Wetzelliella symmetrica                   41         5.5335   -0.2531   
+ Coarse agglutinated spp.                  25         5.3916    0.5864   
+ Cyclammina placenta                      -97         5.4701    0.2500   
+ Adercotryma agterbergi                   289         6.1646   -0.7212   
+ Aschemonella grandis                     324         6.1380   -0.3477   
+ Spirosigmoilinella compressa             182         5.7637    1.5195   
+ Reticulophragmium amplectens              29         6.9089   -0.6594   
+ Recurvoides ex.gr. walteri              -229         7.0288   -0.2241   
+ Ammosphaeroidina pseudopauciloculata     -32         6.9245   -0.4677   
+ Dorothia seigliei                        321         6.7185    1.5357   
+ Ammomarginulina aubertae                -263         7.6822   -1.0509   
+ Spiroplectammina spectabilis LO          -68         7.5950   -0.8584   
+ Haplophragmoides walteri                -261         6.6494    1.1450   
+ Areosphaeridium diktyoplokus             -12         6.8488   -0.1526   
+ Rottnestia borussica                      72         7.2616    0.2577   
+ Haplophragmoides kirki                   260         7.9322    0.4159   
+ Spiroplectammina navarroana              -54         8.6526   -1.1424   
+ Recurvoidella lamella                    279         8.5966   -0.8440   
+ Diphyes ficusoides                        92         7.6966    1.5048   
+ Reticulophragmium intermedia             175         8.3014    0.1541   
+ Subbotina patagonica                      50         9.0602   -1.3826   
+ Eatonicysta ursulae                       99         8.4365    2.3292   
+ Coscinodiscus spp.                        22        10.1419   -1.9199   
+ Deflandrea oebisfeldensis               -108         9.5615    1.2752   
+ Apectodinium augustum                     28        10.6223   -0.2273   
+ Reticulophragmium paupera                 76        11.4558   -0.3704   
+ Rzehakina minima                        -105        11.5529    0.0934   
+ Spiroplectammina spectabilis LCO         -57        11.7433   -0.3420   
+ Saccammina placenta                      310        11.9578    0.7865   
+ Palaeoperidinium pyrophorum              118        12.9586   -1.6397   
+ Trochammina ruthven murrayi              129        12.3198    0.3005   
+ Reticulophragmium garcilassoi           -283        11.6155
+
+          *  -GREATER THAN 95% PROBABILITY THAT EVENT IS OUT OF POSITION
+          ** -GREATER THAN 99% PROBABILITY THAT EVENT IS OUT OF POSITION
+
+
+
+     NORMALITY TEST
+
+
+     Elf Aquitaine (N) 64
+                                                  CUM. DIST.  2ND ORDER DIFF.
+
+ Neogloboquadrina pachyderma                1         0.3451
+ Cassidulina teretis                     -228         0.0236    1.3424   
+ Cibicidoides grossa                     -270         1.0445   -0.2123   
+ Sigmoilopsis schlumbergeri               -23         1.8531   -2.1550   
+ Trifarina fluens                         316         1.0113    1.5791   
+ Globorotalia inflata                       4         1.7486   -0.0063   
+ Neogloboquadrina atlantica               269         2.4796    0.8587   
+ Diatoms/radiolarians LCO                 -91         3.5647   -1.3525   
+ Globigerina praebulloides                 15         3.8018   -0.0264   
+ Cannosphaeropsis utinensis               362         4.0124   -0.1871   
+ Hystrichosphaeropsis obscura            -363         3.5315    0.2121   
+ Martinotiella cylindrica                 219         3.7671    1.4195   
+ Areoligera semicirculata                   7         5.4223   -1.5440   
+ Wetzelliella symmetrica                   41         5.5335   -0.2792   
+ Deflandrea phosphoritica                  -3         4.8609    0.6987   
+ Coarse agglutinated spp.                  25         5.3916    0.7469   
+ Adercotryma agterbergi                  -289         6.1646   -1.6785   
+ Spirosigmoilinella compressa             182         5.7637    1.2797   
+ Aschemonella grandis                    -324         6.1380   -0.2030   
+ Glomospirella biedae                    -198         6.3093   -1.5150   
+ Cyclammina placenta                       97         5.4701    2.0185   
+ Haplophragmoides walteri                 261         6.6494   -0.9198   
+ Reticulophragmium amplectens              29         6.9089   -0.2440   
+ Ammosphaeroidina pseudopauciloculata      32         6.9245    1.1595   
+ Spiroplectammina spectabilis LO          -68         7.5950   -0.5833   
+ Ammomarginulina aubertae                -263         7.6822   -1.2451   
+ Recurvoides ex.gr. walteri               229         7.0288    1.3213   
+ Diphyes ficusoides                        92         7.6966   -1.6460   
+ Dorothia seigliei                        321         6.7185    2.1918   
+ Haplophragmoides kirki                   260         7.9322   -0.7094   
+ Eatonicysta ursulae                       99         8.4365    0.1194   
+ Subbotina patagonica                      50         9.0602   -0.5268   
+ Spiroplectammina navarroana              -54         8.6526    1.3924   
+ Coscinodiscus spp.                        22        10.1419   -1.5652   
+ Deflandrea oebisfeldensis               -108         9.5615    1.1367   
+ Apectodinium augustum                     28        10.6223   -0.2273   
+ Reticulophragmium paupera                 76        11.4558   -0.4471   
+ Alisocysta margarita                     114        11.8422    0.0912   
+ Trochammina ruthven murrayi              129        12.3198   -0.3351   
+ Saccammina placenta                     -310        11.9578    1.3629   
+ Palaeoperidinium pyrophorum             -118        12.9586
+
+          *  -GREATER THAN 95% PROBABILITY THAT EVENT IS OUT OF POSITION
+          ** -GREATER THAN 99% PROBABILITY THAT EVENT IS OUT OF POSITION
+
+
+
+     NORMALITY TEST
+
+
+     Hydro (N) 34/8-1    
+                                                  CUM. DIST.  2ND ORDER DIFF.
+
+ Cibicidoides scaldisensis                 31         0.2692
+ Elphidium spp.                           -77         0.0000    0.6143   
+ Neogloboquadrina pachyderma               -1         0.3451   -0.6666   
+ Cassidulina teretis                     -228         0.0236    0.8672   
+ Buccella frigida                         171         0.9538   -0.1355   
+ Globorotalia inflata                       4         1.7486   -1.1144   
+ Cibicidoides grossa                     -270         1.0445    1.1282   
+ Sigmoilopsis schlumbergeri                23         1.8531   -1.6505   
+ Trifarina fluens                         316         1.0113    2.3101   
+ Neogloboquadrina atlantica               269         2.4796    0.6159   
+ Asterigerina gurichi                      17         4.5637   -2.8461 * 
+ Globigerina praebulloides                 15         3.8018    1.8210   
+ Deflandrea phosphoritica                   3         4.8609   -0.5122   
+ Turrilina alsatica                        24         5.4077   -0.5630   
+ Coarse agglutinated spp.                  25         5.3916    0.7729   
+ Spirosigmoilinella compressa            -182         5.7637   -0.6658   
+ Cyclammina placenta                      -97         5.4701    1.5420   
+ Dorothia seigliei                       -321         6.7185   -1.7020   
+ Haplophragmoides walteri                 261         6.6494   -1.0469   
+ Wetzelliella symmetrica                   41         5.5335    2.1317   
+ Adercotryma agterbergi                  -289         6.1646   -1.7580   
+ Areoligera semicirculata                   7         5.4223    2.2290   
+ Reticulophragmium amplectens              29         6.9089   -1.0866   
+ Ammosphaeroidina pseudopauciloculata     -32         6.9245   -0.4757   
+ Areosphaeridium diktyoplokus              12         6.8488   -0.4639   
+ Glomospirella biedae                     198         6.3093    2.1624   
+ Haplophragmoides kirki                   260         7.9322   -2.2934   
+ Rottnestia borussica                      72         7.2616    1.1055   
+ Diphyes ficusoides                        92         7.6966    0.4650   
+ Recurvoidella lamella                    279         8.5966   -1.9016   
+ Spiroplectammina spectabilis LO           68         7.5950    1.8431   
+ Eatonicysta ursulae                       99         8.4365   -0.9766   
+ Reticulophragmium intermedia             175         8.3014    0.8940   
+ Subbotina patagonica                      50         9.0602   -0.2576   
+ Deflandrea oebisfeldensis                108         9.5615    0.0791   
+ Coscinodiscus spp.                        22        10.1419   -0.1000   
+ Apectodinium augustum                     28        10.6223   -2.4501   
+ Spiroplectammina navarroana               54         8.6526    5.3171 **
+ Reticulophragmium garcilassoi           -283        11.6155   -3.0255 * 
+ Rzehakina minima                        -105        11.5529   -0.4190   
+ Reticulophragmium paupera                 76        11.4558    0.9835   
+ Saccammina placenta                     -310        11.9578   -0.6175   
+ Alisocysta margarita                    -114        11.8422   -0.3678   
+ Spiroplectammina spectabilis LCO          57        11.7433    0.7921   
+ Hormosina excelsa                        134        12.4366   -0.8100   
+ Trochammina ruthven murrayi              129        12.3198    0.7556   
+ Palaeoperidinium pyrophorum              118        12.9586
+
+          *  -GREATER THAN 95% PROBABILITY THAT EVENT IS OUT OF POSITION
+          ** -GREATER THAN 99% PROBABILITY THAT EVENT IS OUT OF POSITION
+
+
+
+     NORMALITY TEST
+
+
+     Esso (N) 16/1-1     
+                                                  CUM. DIST.  2ND ORDER DIFF.
+
+ Elphidium spp.                            77         0.0000
+ Cassidulina teretis                     -228         0.0236    0.9973   
+ Cibicidoides grossa                     -270         1.0445   -0.7228   
+ Sigmoilopsis schlumbergeri                23         1.8531   -1.8061   
+ Neogloboquadrina pachyderma               -1         0.3451    2.9116 * 
+ Globorotalia inflata                      -4         1.7486    0.1045   
+ Martinotiella cylindrica                 219         3.7671   -3.3061 * 
+ Neogloboquadrina atlantica               269         2.4796    2.3727   
+ Diatoms/radiolarians LCO                  91         3.5647   -0.3340   
+ G. ex.gr. praescitula zealandica         236         4.3158   -0.7545   
+ Globigerina praebulloides                -15         3.8018    0.7653   
+ Asterigerina gurichi                      17         4.5637    0.0659   
+ Coarse agglutinated spp.                  25         5.3916   -0.6860   
+ Wetzelliella symmetrica                   41         5.5335   -0.2676   
+ Turrilina alsatica                        24         5.4077    0.9923   
+ Spirosigmoilinella compressa            -182         5.7637   -0.6496   
+ Cyclammina placenta                      -97         5.4701    1.0314   
+ Dorothia seigliei                        321         6.7185   -0.8069   
+ Haplophragmoides walteri                -261         6.6494   -0.4157   
+ Adercotryma agterbergi                  -289         6.1646    1.7417   
+ Haplophragmoides kirki                   260         7.9322   -2.8509 * 
+ Areosphaeridium diktyoplokus              12         6.8488    1.9167   
+ Ammomarginulina aubertae                 263         7.6822   -0.9206   
+ Spiroplectammina spectabilis LO           68         7.5950   -0.5989   
+ Reticulophragmium amplectens              29         6.9089    2.2136   
+ Eatonicysta ursulae                       99         8.4365   -1.3674   
+ Recurvoidella lamella                    279         8.5966    0.4064   
+ Spiroplectammina navarroana              -54         8.6526   -0.1589   
+ Subbotina patagonica                      50         9.0602    0.0937   
+ Deflandrea oebisfeldensis                108         9.5615    1.0701   
+ Apectodinium augustum                    -28        10.6223   -2.0518   
+ Coscinodiscus spp.                        22        10.1419    1.7943   
+ Reticulophragmium paupera                 76        11.4558   -1.1542   
+ Reticulophragmium garcilassoi            283        11.6155   -0.0318   
+ Spiroplectammina spectabilis LCO          57        11.7433
+
+          *  -GREATER THAN 95% PROBABILITY THAT EVENT IS OUT OF POSITION
+          ** -GREATER THAN 99% PROBABILITY THAT EVENT IS OUT OF POSITION
+
+
+
+     NORMALITY TEST
+
+
+     Saga (N) 34/4-5     
+                                                  CUM. DIST.  2ND ORDER DIFF.
+
+ Elphidium spp.                            77         0.0000
+ Cassidulina teretis                     -228         0.0236    0.2979   
+ Neogloboquadrina pachyderma               -1         0.3451   -0.3974   
+ Cibicidoides scaldisensis                -31         0.2692    0.3196   
+ Trifarina fluens                         316         1.0113    0.0997   
+ Sigmoilopsis schlumbergeri                23         1.8531   -1.1521   
+ Cibicidoides grossa                     -270         1.0445    0.2196   
+ Buccella frigida                         171         0.9538    0.8854   
+ Globorotalia inflata                       4         1.7486   -0.0638   
+ Neogloboquadrina atlantica               269         2.4796    0.5912   
+ Globigerina praebulloides                 15         3.8018   -1.1115   
+ Cannosphaeropsis utinensis               362         4.0124    1.2470   
+ Cyclammina placenta                       97         5.4701   -3.3631 **
+ Diatoms/radiolarians LCO                  91         3.5647    1.8722   
+ Hystrichosphaeropsis obscura             363         3.5315    1.9095   
+ Turrilina alsatica                        24         5.4077   -1.8617   
+ Areoligera semicirculata                   7         5.4223   -0.5760   
+ Deflandrea phosphoritica                   3         4.8609    1.0921   
+ Coarse agglutinated spp.                  25         5.3916    0.9266   
+ Areosphaeridium diktyoplokus              12         6.8488   -1.6567   
+ Haplophragmoides walteri                 261         6.6494    1.3100   
+ Rottnestia borussica                     -72         7.2616   -1.5645   
+ Glomospirella biedae                    -198         6.3093    1.1734   
+ Recurvoides ex.gr. walteri               229         7.0288   -0.0516   
+ Diphyes ficusoides                        92         7.6966   -1.4555   
+ Reticulophragmium amplectens              29         6.9089    2.3152   
+ Eatonicysta ursulae                       99         8.4365   -1.3114   
+ Spiroplectammina navarroana               54         8.6526    0.6899   
+ Subbotina patagonica                     -50         9.0602   -1.5357   
+ Haplophragmoides kirki                  -260         7.9322    3.3198 **
+ Apectodinium augustum                     28        10.6223   -3.2526 * 
+ Deflandrea oebisfeldensis               -108         9.5615    3.3207 **
+ Trochammina ruthven murrayi              129        12.3198   -3.3347 **
+ Spiroplectammina spectabilis LCO          57        11.7433    1.7681   
+ Hormosina excelsa                       -134        12.4366   -2.1724   
+ Reticulophragmium paupera                 76        11.4558    2.4835   
+ Palaeoperidinium pyrophorum              118        12.9586
+
+          *  -GREATER THAN 95% PROBABILITY THAT EVENT IS OUT OF POSITION
+          ** -GREATER THAN 99% PROBABILITY THAT EVENT IS OUT OF POSITION
+
+
+
+     NORMALITY TEST
+
+
+     Hydro (N) 6407/7-1  
+                                                  CUM. DIST.  2ND ORDER DIFF.
+
+ Turrilina alsatica                        24         5.4077
+ Areoligera semicirculata                  -7         5.4223   -0.8553   
+ Deflandrea phosphoritica                   3         4.8609    1.2340   
+ Wetzelliella symmetrica                   41         5.5335   -0.8145   
+ Coarse agglutinated spp.                  25         5.3916    1.1677   
+ Aschemonella grandis                    -324         6.1380   -0.2548   
+ Reticulophragmium amplectens              29         6.9089   -0.8310   
+ Areosphaeridium diktyoplokus              12         6.8488    0.7522   
+ Rottnestia borussica                     -72         7.2616   -0.3588   
+ Spiroplectammina spectabilis LO           68         7.5950   -2.1790   
+ Cyclammina placenta                      -97         5.4701    3.3000 * 
+ Ammosphaeroidina pseudopauciloculata      32         6.9245   -0.6823   
+ Diphyes ficusoides                        92         7.6966   -0.1674   
+ Reticulophragmium intermedia             175         8.3014   -0.4696   
+ Eatonicysta ursulae                       99         8.4365    0.0810   
+ Spiroplectammina navarroana               54         8.6526   -0.6572   
+ Haplophragmoides kirki                  -260         7.9322   -0.5623   
+ Haplophragmoides walteri                -261         6.6494    2.9506 * 
+ Recurvoidella lamella                    279         8.5966   -1.4836   
+ Subbotina patagonica                      50         9.0602    0.0377   
+ Deflandrea oebisfeldensis                108         9.5615   -2.3806   
+ Ammomarginulina aubertae                 263         7.6822    4.8195 **
+ Apectodinium augustum                     28        10.6223   -1.9470   
+ Reticulophragmium garcilassoi            283        11.6155   -0.7665   
+ Alisocysta margarita                     114        11.8422    0.2509   
+ Trochammina ruthven murrayi              129        12.3198   -0.5603   
+ Saccammina placenta                     -310        11.9578   -0.1317   
+ Spiroplectammina spectabilis LCO          57        11.7433    1.4297   
+ Palaeoperidinium pyrophorum              118        12.9586   -2.6211 * 
+ Rzehakina minima                         105        11.5529
+
+          *  -GREATER THAN 95% PROBABILITY THAT EVENT IS OUT OF POSITION
+          ** -GREATER THAN 99% PROBABILITY THAT EVENT IS OUT OF POSITION
+
+
+
+     NORMALITY TEST
+
+
+     6407/7A-1           
+                                                  CUM. DIST.  2ND ORDER DIFF.
+
+ Cibicidoides scaldisensis                 31         0.2692
+ Cassidulina teretis                     -228         0.0236    0.2504   
+ Neogloboquadrina pachyderma                1         0.3451    0.3779   
+ Cibicidoides grossa                      270         1.0445   -0.4158   
+ Trifarina fluens                        -316         1.0113   -0.9782   
+ Elphidium spp.                           -77         0.0000    2.4431   
+ Globorotalia inflata                       4         1.7486   -2.2266   
+ Buccella frigida                        -171         0.9538    2.0037   
+ Neogloboquadrina atlantica               269         2.4796   -2.1522   
+ Sigmoilopsis schlumbergeri                23         1.8531
+
+          *  -GREATER THAN 95% PROBABILITY THAT EVENT IS OUT OF POSITION
+          ** -GREATER THAN 99% PROBABILITY THAT EVENT IS OUT OF POSITION
+
+
+
+     NORMALITY TEST
+
+
+     BP (UK) 15/20-2     
+                                                  CUM. DIST.  2ND ORDER DIFF.
+
+ Elphidium spp.                            77         0.0000
+ Cassidulina teretis                      228         0.0236    3.1157 * 
+ Neogloboquadrina atlantica              -269         2.4796   -3.7657 **
+ Sigmoilopsis schlumbergeri                23         1.8531    2.5404 * 
+ Martinotiella cylindrica                 219         3.7671   -1.1174   
+ Asterigerina gurichi                      17         4.5637   -0.3613   
+ G. ex.gr. praescitula zealandica        -236         4.3158   -0.2660   
+ Globigerina praebulloides                -15         3.8018    1.4205   
+ Coarse agglutinated spp.                  25         5.3916   -1.2176   
+ Spirosigmoilinella compressa             182         5.7637    0.0175   
+ Cyclammina placenta                      -97         5.4701    1.0492   
+ Reticulophragmium amplectens              29         6.9089   -0.4156   
+ Haplophragmoides kirki                   260         7.9322   -1.3604   
+ Spiroplectammina spectabilis LO           68         7.5950   -0.3333   
+ Ammosphaeroidina pseudopauciloculata      32         6.9245    0.3954   
+ Haplophragmoides walteri                 261         6.6494    2.2783   
+ Spiroplectammina navarroana               54         8.6526   -1.5956   
+ Subbotina patagonica                      50         9.0602   -0.1880   
+ Recurvoidella lamella                   -279         8.5966    1.3257   
+ Coscinodiscus spp.                        22        10.1419   -0.1344   
+ Rzehakina minima                         105        11.5529   -0.8247   
+ Reticulophragmium paupera                -76        11.4558   -0.2987   
+ Spiroplectammina spectabilis LCO          57        11.7433   -0.4153   
+ Reticulophragmium garcilassoi            283        11.6155
+
+          *  -GREATER THAN 95% PROBABILITY THAT EVENT IS OUT OF POSITION
+          ** -GREATER THAN 99% PROBABILITY THAT EVENT IS OUT OF POSITION
+
+
+
+     NORMALITY TEST
+
+
+     Saga (N) 2/2-4      
+                                                  CUM. DIST.  2ND ORDER DIFF.
+
+ Buccella frigida                         171         0.9538
+ Elphidium spp.                            77         0.0000    0.9774   
+ Cassidulina teretis                      228         0.0236    0.2220   
+ Cibicidoides scaldisensis                 31         0.2692    0.1584   
+ Neogloboquadrina pachyderma               -1         0.3451    1.1040   
+ Sigmoilopsis schlumbergeri                23         1.8531   -0.8816   
+ Neogloboquadrina atlantica               269         2.4796    0.4255   
+ Hystrichosphaeropsis obscura             363         3.5315   -0.8162   
+ Martinotiella cylindrica                 219         3.7671    0.3378   
+ Cannosphaeropsis utinensis              -362         4.0124    0.8842   
+ Cyclammina placenta                       97         5.4701   -1.5362   
+ Coarse agglutinated spp.                  25         5.3916   -1.7484   
+ Diatoms/radiolarians LCO                  91         3.5647    2.5780 * 
+ G. ex.gr. praescitula zealandica         236         4.3158   -0.5031   
+ Asterigerina gurichi                      17         4.5637   -0.6817   
+ Globigerina praebulloides                -15         3.8018    2.9413 * 
+ Glomospirella biedae                     198         6.3093   -2.3506   
+ Aschemonella grandis                    -324         6.1380    0.6827   
+ Haplophragmoides walteri                -261         6.6494   -1.7253   
+ Spirosigmoilinella compressa             182         5.7637    1.2866   
+ Adercotryma agterbergi                   289         6.1646    0.1529   
+ Dorothia seigliei                        321         6.7185   -1.8500   
+ Areoligera semicirculata                   7         5.4223    1.4074   
+ Wetzelliella symmetrica                   41         5.5335    1.2799   
+ Ammosphaeroidina pseudopauciloculata      32         6.9245   -1.4066   
+ Reticulophragmium amplectens              29         6.9089    0.7888   
+ Ammomarginulina aubertae                 263         7.6822   -1.6066   
+ Areosphaeridium diktyoplokus              12         6.8488    1.2462   
+ Rottnestia borussica                      72         7.2616    0.2577   
+ Haplophragmoides kirki                   260         7.9322    0.0499   
+ Spiroplectammina navarroana               54         8.6526   -1.7781   
+ Spiroplectammina spectabilis LO           68         7.5950    2.0592   
+ Recurvoidella lamella                    279         8.5966   -0.9687   
+ Reticulophragmium intermedia            -175         8.3014    0.1022   
+ Eatonicysta ursulae                       99         8.4365    0.4886   
+ Subbotina patagonica                      50         9.0602    2.0593   
+ Spiroplectammina spectabilis LCO          57        11.7433   -3.8041 **
+ Apectodinium augustum                     28        10.6223    2.9352 * 
+ Hormosina excelsa                        134        12.4366   -2.4668   
+ Reticulophragmium paupera                -76        11.4558
+
+          *  -GREATER THAN 95% PROBABILITY THAT EVENT IS OUT OF POSITION
+          ** -GREATER THAN 99% PROBABILITY THAT EVENT IS OUT OF POSITION
+
+
+
+     NORMALITY TEST
+
+
+     Shell (UK) 22/6-1   
+                                                  CUM. DIST.  2ND ORDER DIFF.
+
+ Elphidium spp.                            77         0.0000
+ Trifarina fluens                         316         1.0113   -1.9991   
+ Cassidulina teretis                      228         0.0236    2.0086   
+ Cibicidoides grossa                      270         1.0445   -1.7203   
+ Neogloboquadrina pachyderma                1         0.3451    2.2074   
+ Sigmoilopsis schlumbergeri                23         1.8531    0.2035   
+ Diatoms/radiolarians LCO                  91         3.5647   -0.7125   
+ Asterigerina gurichi                      17         4.5637   -1.7610   
+ Globigerina praebulloides                 15         3.8018    1.7276   
+ G. ex.gr. praescitula zealandica        -236         4.3158    0.1887   
+ Cyclammina placenta                       97         5.4701   -0.8607   
+ Spirosigmoilinella compressa             182         5.7637    0.2519   
+ Glomospirella biedae                     198         6.3093   -0.6902   
+ Adercotryma agterbergi                   289         6.1646    1.0088   
+ Recurvoides ex.gr. walteri               229         7.0288   -0.9684   
+ Ammosphaeroidina pseudopauciloculata      32         6.9245   -1.4125   
+ Turrilina alsatica                        24         5.4077    2.2470   
+ Aschemonella grandis                     324         6.1380   -0.1498   
+ Dorothia seigliei                        321         6.7185   -0.6495   
+ Haplophragmoides walteri                 261         6.6494    1.1018   
+ Ammomarginulina aubertae                 263         7.6822   -1.1200   
+ Spiroplectammina spectabilis LO           68         7.5950    1.1448   
+ Spiroplectammina navarroana               54         8.6526   -0.6500   
+ Subbotina patagonica                      50         9.0602    0.6741   
+ Coscinodiscus spp.                        22        10.1419    0.7341   
+ Saccammina placenta                      310        11.9578   -2.3177   
+ Reticulophragmium paupera                 76        11.4558    1.9343   
+ Hormosina excelsa                       -134        12.4366   -2.1257   
+ Spiroplectammina spectabilis LCO          57        11.7433
+
+          *  -GREATER THAN 95% PROBABILITY THAT EVENT IS OUT OF POSITION
+          ** -GREATER THAN 99% PROBABILITY THAT EVENT IS OUT OF POSITION
+
+
+
+     NORMALITY TEST
+
+
+     Amoco (N) 2/8-1     
+                                                  CUM. DIST.  2ND ORDER DIFF.
+
+ Cassidulina teretis                      228         0.0236
+ Elphidium spp.                           -77         0.0000    0.9587   
+ Sigmoilopsis schlumbergeri                23         1.8531   -0.3087   
+ Neogloboquadrina atlantica              -269         2.4796   -0.2569   
+ Martinotiella cylindrica                 219         3.7671    0.1790   
+ G. ex.gr. praescitula zealandica        -236         4.3158   -1.0626   
+ Globigerina praebulloides                -15         3.8018    0.3579   
+ Asterigerina gurichi                      17         4.5637    0.0659   
+ Coarse agglutinated spp.                  25         5.3916    0.4300   
+ Haplophragmoides walteri                 261         6.6494   -2.1435   
+ Spirosigmoilinella compressa             182         5.7637    1.8404   
+ Dorothia seigliei                        321         6.7185   -0.6444   
+ Recurvoides ex.gr. walteri               229         7.0288    0.2559   
+ Spiroplectammina spectabilis LO           68         7.5950   -0.4790   
+ Ammomarginulina aubertae                 263         7.6822   -0.8604   
+ Reticulophragmium amplectens              29         6.9089    2.5169   
+ Spiroplectammina navarroana               54         8.6526    1.1566   
+ Rzehakina minima                         105        11.5529   -1.5774   
+ Saccammina placenta                     -310        11.9578
+
+          *  -GREATER THAN 95% PROBABILITY THAT EVENT IS OUT OF POSITION
+          ** -GREATER THAN 99% PROBABILITY THAT EVENT IS OUT OF POSITION
+
+
+
+     NORMALITY TEST
+
+
+     Saga (N) 35/3-1     
+                                                  CUM. DIST.  2ND ORDER DIFF.
+
+ Cassidulina teretis                      228         0.0236
+ Buccella frigida                         171         0.9538   -0.8494   
+ Neogloboquadrina pachyderma               -1         0.3451   -0.1568   
+ Cibicidoides scaldisensis                 31         0.2692    0.8512   
+ Cibicidoides grossa                      270         1.0445    1.7117   
+ Hystrichosphaeropsis obscura             363         3.5315   -2.0060   
+ Cannosphaeropsis utinensis               362         4.0124   -0.9288   
+ Diatoms/radiolarians LCO                  91         3.5647    2.2908   
+ Turrilina alsatica                        24         5.4077   -2.3899   
+ Deflandrea phosphoritica                   3         4.8609    1.1083   
+ Areoligera semicirculata                   7         5.4223   -1.4200   
+ Asterigerina gurichi                      17         4.5637    1.6864   
+ Coarse agglutinated spp.                  25         5.3916    3.3421 **
+ Deflandrea oebisfeldensis                108         9.5615   -3.5895 **
+ Coscinodiscus spp.                        22        10.1419    1.0210   
+ Spiroplectammina spectabilis LCO          57        11.7433   -1.5025   
+ Alisocysta margarita                     114        11.8422    0.3787   
+ Trochammina ruthven murrayi              129        12.3198   -0.6520   
+ Reticulophragmium paupera                -76        11.4558    1.6772   
+ Palaeoperidinium pyrophorum              118        12.9586   -2.0249   
+ Hormosina excelsa                        134        12.4366
+
+          *  -GREATER THAN 95% PROBABILITY THAT EVENT IS OUT OF POSITION
+          ** -GREATER THAN 99% PROBABILITY THAT EVENT IS OUT OF POSITION
+
+
+
+     NORMALITY TEST
+
+
+     Saga 6406/2-1       
+                                                  CUM. DIST.  2ND ORDER DIFF.
+
+ Elphidium spp.                            77         0.0000
+ Sigmoilopsis schlumbergeri                23         1.8531   -2.6950 * 
+ Trifarina fluens                         316         1.0113    1.5791   
+ Globorotalia inflata                       4         1.7486   -0.0063   
+ Neogloboquadrina atlantica               269         2.4796    0.3209   
+ Hystrichosphaeropsis obscura             363         3.5315   -0.7816   
+ Globigerina praebulloides                 15         3.8018    0.7419   
+ G. ex.gr. praescitula zealandica        -236         4.3158   -1.5608   
+ Martinotiella cylindrica                 219         3.7671    0.7939   
+ Cannosphaeropsis utinensis               362         4.0124    1.1646   
+ Areoligera semicirculata                   7         5.4223   -0.9262   
+ Turrilina alsatica                       -24         5.4077    0.8270   
+ Dorothia seigliei                        321         6.7185   -1.8646   
+ Adercotryma agterbergi                   289         6.1646    1.0386   
+ Haplophragmoides walteri                 261         6.6494   -0.2854   
+ Areosphaeridium diktyoplokus              12         6.8488   -0.1393   
+ Reticulophragmium amplectens              29         6.9089    0.6259   
+ Spiroplectammina spectabilis LO           68         7.5950    0.1554   
+ Eatonicysta ursulae                       99         8.4365   -0.9766   
+ Reticulophragmium intermedia             175         8.3014    0.8940   
+ Subbotina patagonica                      50         9.0602   -0.2576   
+ Deflandrea oebisfeldensis                108         9.5615    0.0791   
+ Coscinodiscus spp.                        22        10.1419   -0.1000   
+ Apectodinium augustum                     28        10.6223    0.5128   
+ Reticulophragmium garcilassoi            283        11.6155   -0.3671   
+ Spiroplectammina spectabilis LCO         -57        11.7433   -0.4153   
+ Reticulophragmium paupera                -76        11.4558    0.1756   
+ Alisocysta margarita                     114        11.8422   -0.2708   
+ Saccammina placenta                      310        11.9578
+
+          *  -GREATER THAN 95% PROBABILITY THAT EVENT IS OUT OF POSITION
+          ** -GREATER THAN 99% PROBABILITY THAT EVENT IS OUT OF POSITION
+
+
+
+
+
+
+     NORMALITY TEST
+
+
+ COMPARISON OF OBSERVED AND EXPECTED OCCURRENCES OF SECOND ORDER DIFFERENCE VALUES
+
+
+  CLASS NO. OBSERVED  EXPECTED DIFFERENCE   DELTA
+
+
+      1        50      42.800     7.200     0.557   
+      2        36      42.800    -6.800     0.497   
+      3        40      42.800    -2.800     0.084   
+      4        53      42.800    10.200     1.119   
+      5        48      42.800     5.200     0.291   
+      6        44      42.800     1.200     0.015   
+      7        25      42.800   -17.800     3.407   
+      8        39      42.800    -3.800     0.155   
+      9        44      42.800     1.200     0.015   
+     10        49      42.800     6.200     0.413   
+
+
+                           CHI-SQUARED =      6.556   
+
+          *  -GREATER THAN 95% PROBABILITY THAT DIFFERENCE IS NOT ZERO
+          ** -GREATER THAN 99% PROBABILITY THAT DIFFERENCE IS NOT ZERO
+
+
+
