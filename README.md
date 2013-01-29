@@ -1,6 +1,14 @@
-RASCW -- The RASC and CASC programs for ranking, scaling and correlation of stratigraphic events
+The RASC and CASC programs for ranking, scaling and correlation of stratigraphic events
 
-Current Version: RASCWV20 for Windows
+Title of corresponding paper to be published on Computers & Geosciences: The RASC and CASC programs for ranking, scaling and correlation of stratigraphic events
+Keywords: Quantitative stratigraphy, RASC, CASC, ranking and scaling, biostratigraphic events, longdistance
+correlation
+Corresponding Author: Dr. Frits Agterberg, PhD
+Corresponding Author's Institution: Geological Survey of Canada
+First Author: Frits Agterberg
+Order of Authors: Frits Agterberg; Felix M Gradstein, PhD; Qiuming Cheng, PhD; Liu Gang, PhD
+
+Current Version: RASCW V20 for Windows
 
 * The RASC program is for automated ranking and scaling of biostratigraphic events.
 * Resulting bio-zonations are used for CASC correlation between stratigraphic sections.
@@ -10,9 +18,11 @@ Current Version: RASCWV20 for Windows
 
 Notes for RASCW V20 Software Development Environment and Source Code
 
-1. Development platform is: (1) Windows XP; (2) Visual Basic 6.0 Enterprise Edition SP6 The source code has also been tested in Windows 7 operating system and can be compiled and running well. If you want to compile the code in higher version than Visual Basic 6.0, the corresponding migration and modification works are needed.
+1. Development platform is: (1) Windows XP; (2) Visual Basic 6.0 Enterprise Edition SP6 The source code has also been tested in Windows 7 operating system and can be compiled and running well. If you want to compile the code in higher version than Visual Basic 6.0, the corresponding migration and modification works are needed; (3) Kernel models "rascw" and "cascw" are programmed in FORTRAN 90.
 
-2. The Visual Basic Project file for RASCW V20 Source Code Package is "RascwV20.vbp", which includes 64 forms and 2 modules: Form=frmCascinput.frm
+2. The Visual Basic Project file for RASCW V20 Source Code Package is "RascwV20.vbp", which includes 64 forms and 2 modules: 
+
+    Form=frmCascinput.frm
 
     Form=frmRascW.frm
 
@@ -151,16 +161,18 @@ Notes for RASCW V20 Software Development Environment and Source Code
     HelpFile="RASCW.hlp"
     where Startup form is "MDIFrmCascRasc" and system help file is "RASCW.hlp".
 
-    A compiled excutable file "rascwV20.exe" is included in this package.
+    Corresponding compiled excutable files "rascwV20.exe" and others are included in the zipped package "RASCWV20-Code with executable file for test.zip".
 
-3. An ActiveX Control named "Olectra Chart 6.0" developed by APEX Software Company is applied to display charts and diagrams for RASC/CASC results. So the developer should buy the licence from APEX Software Company before his programming.
+3. Kernel models "rascw.for" and "cascw.for" should be compiled and linked as "rascw.exe" and "cascw.exe" to be called by main program "rascwV20.exe".
 
-4. Free download and open access software "QSCreator.jar" and "editpadlite.exe" are included in the package for data exchange and editing.
+4. An ActiveX Control named "Olectra Chart 6.0" developed by APEX Software Company is applied to display charts and diagrams for RASC/CASC results. So the developer should buy the licence from APEX Software Company before his programming.
 
-5. Dataset "14cen.dat" and "27cen.dat" are included in the package for debugging and testing.
+5. Free download and open access software "QSCreator.jar" and "editpadlite.exe" are included in the package for data exchange and editing.
 
-6. Current default project file directory is "D:\RASCWV20". If you have install the package in different directory, please change the project directory in Visual Basic project parameters.
+6. Dataset "14cen.dat" and "27cen.dat" are included in the package for debugging and testing.
 
-The whole code package is zipped into a file named "RASCWV20.zip".
+7. Current default project file directory is "D:\RASCWV20". If you have install the package in different directory, please change the project directory in Visual Basic project parameters.
+
+The whole code package is also zipped into a file named "RASCWV20-Code with executable file for test.zip".
 
 Thank you and good luck.
