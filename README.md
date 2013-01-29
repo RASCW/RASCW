@@ -1,11 +1,16 @@
 The RASC and CASC programs for ranking, scaling and correlation of stratigraphic events
 
-Title of corresponding paper to be published on Computers & Geosciences: The RASC and CASC programs for ranking, scaling and correlation of stratigraphic events
+Title of corresponding paper published on Computers & Geosciences: The RASC and CASC programs for ranking, scaling and correlation of stratigraphic events
+
 Keywords: Quantitative stratigraphy, RASC, CASC, ranking and scaling, biostratigraphic events, longdistance
 correlation
+
 Corresponding Author: Dr. Frits Agterberg, PhD
+
 Corresponding Author's Institution: Geological Survey of Canada
+
 First Author: Frits Agterberg
+
 Order of Authors: Frits Agterberg; Felix M Gradstein, PhD; Qiuming Cheng, PhD; Liu Gang, PhD
 
 Current Version: RASCW V20 for Windows
